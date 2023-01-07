@@ -1,5 +1,5 @@
+import time
 from collections import defaultdict
-from time import sleep
 
 import srcomapi
 import srcomapi.datatypes as dt
@@ -31,13 +31,13 @@ class PaginationMixin:
 
 class SpeedrunService(PaginationMixin):
     def __init__(self):
-        self.api = srcomapi.SpeedrunCom()
+        self.api = srcomapi.SpeedrunCom(user_agent="speedrun-project")
         self._region_mapping = {}
-    
+
     def _get_data(self, data_type, params=None):
-        sleep(0.5)
+        time.sleep(1)
         return self.api.search(data_type, params or {})
-    
+
     def get_region_data_id_or_name(self, identifier):
         if identifier is None:
             return None
@@ -65,18 +65,7 @@ class SpeedrunService(PaginationMixin):
             player = run.players[0]
             runs_by_user[player.name].append(run)
 
+        # Get the fastest run for each user, others are obsolete
         for _, runs in runs_by_user.items():
             runs.sort(key=lambda run: run.times["primary_t"])
             yield runs[0]
-
-    def get_statistics(self):
-        return [{
-            "id": game.id,
-            "name": game.names["international"],
-            "runs": [{
-                "id": run.id,
-                "player": (player := run.players[0]).name,
-                "player_location": player.location["country"]["code"] if hasattr(player, "location") and player.location else None,
-                "region": self.get_region_data_id_or_name(run.system["region"]),
-            } for run in self.get_game_runs(game.id)],
-        } for game in self.get_games()]
