@@ -1,7 +1,7 @@
 import time
 from collections import defaultdict
 
-from clients import SpeedrunComClient
+from clients.speedrun_client import SpeedrunComClient
 
 
 class PaginationMixin:

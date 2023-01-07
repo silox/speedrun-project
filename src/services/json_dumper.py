@@ -2,7 +2,7 @@ import abc
 import json
 from pathlib import Path
 
-from services import SpeedrunService
+from services.speedrun_service import SpeedrunService
 
 
 class JSONDumper(abc.ABC):

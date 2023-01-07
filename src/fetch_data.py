@@ -3,7 +3,8 @@ from os import path
 
 from tqdm import tqdm
 
-from services import SpeedrunService, GameJSONDumper, RunJSONDumper
+from services.speedrun_service import SpeedrunService
+from services.json_dumper import GameJSONDumper, RunJSONDumper
 
 
 def fetch_games():
