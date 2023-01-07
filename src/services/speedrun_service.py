@@ -35,7 +35,7 @@ class SpeedrunService(PaginationMixin):
         self._region_mapping = {}
 
     def _get_data(self, data_type, params=None):
-        time.sleep(1)
+        time.sleep(2)
         return self.api.search(data_type, params or {})
 
     def get_region_data_id_or_name(self, identifier):
