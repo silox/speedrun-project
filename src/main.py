@@ -12,7 +12,7 @@ def fetch_games():
         return
 
     speedrun_service = SpeedrunService()
-    games = speedrun_service.get_games()
+    games = speedrun_service.get_games_with_jp_region()
     GameJSONDumper("games.json").dump_data(games)
 
 
@@ -29,7 +29,7 @@ def fetch_runs():
                 continue
 
             runs = speedrun_service.get_game_runs(game["id"])
-            RunJSONDumper(f"{game['id']}.json").dump_data(runs)
+            RunJSONDumper(f"{game['id']}.json", speedrun_service).dump_data(runs)
             pbar.update(1)
 
 

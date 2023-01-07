@@ -1,3 +1,4 @@
+.DS_STORE
 game_data.json
 .venv/
 __pycache__/

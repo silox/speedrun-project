@@ -26,21 +26,32 @@ class JSONDumper(abc.ABC):
 class GameJSONDumper(JSONDumper):
     def process_obj(self, game):
         return {
-            "id": game.id,
-            "name": game.names["international"],
+            "id": game["id"],
+            "name": game["names"]["international"],
         }
 
 class RunJSONDumper(JSONDumper):
     data_dir = "runs/"
 
-    def __init__(self, json_file):
-        self.speedrun_service = SpeedrunService()
+    def __init__(self, json_file, speedrun_service):
+        self.speedrun_service = speedrun_service
         super().__init__(json_file)
 
     def process_obj(self, run):
+        players = run["players"]["data"]
+        player = players[0] if players else None
+        try:
+            player_name = player["names"]["international"] if player["rel"] == "user" else player["name"]
+        except Exception:
+            player_name = None
+        try:
+            player_location = player["location"]["country"]["code"]
+        except Exception:
+            player_location = None
+
         return {
-            "id": run.id,
-            "player": (player := run.players[0]).name,
-            "player_location": player.location["country"]["code"] if hasattr(player, "location") and player.location else None,
-            "region": self.speedrun_service.get_region_data_id_or_name(run.system["region"]),
+            "id": run["id"],
+            "player": player_name,
+            "player_location": player_location,
+            "region": self.speedrun_service.get_region_data_id_or_name(run["system"]["region"]),
         }
