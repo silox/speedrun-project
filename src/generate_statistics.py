@@ -1,5 +1,8 @@
-from services.json_loader import GameJSONLoader, RunJSONLoader
 import os
+
+from services.json_loader import GameJSONLoader, RunJSONLoader
+
+import matplotlib.pyplot as plt
 
 
 def load_data():
@@ -131,7 +134,50 @@ def calculate_number_of_games_with_most_runs_by_player_region(games):
     return jp_game_counter, other_game_counter
 
 
+def create_runs_per_game_plot(games):
+    runs_per_game = [len(game["runs"]) for game in games.values()]
+    plt.title("Number of runs per game with specified Japanese system region")
+    plt.xlabel("Game number")
+    plt.ylabel("Number of runs")
+    plt.plot(sorted(runs_per_game, reverse=True))
+    plt.savefig("figures/runs_per_game.png")
+    plt.close()
+
+
+def create_pie(title, data, filename):
+    labels = list(data.keys())
+    sizes = list(data.values())
+    explode = [0.1] + [0] * (len(data) - 1)
+
+    _, ax1 = plt.subplots()
+    ax1.pie(
+        sizes, explode=explode, labels=labels, autopct='%1.1f%%', shadow=True
+    )
+    ax1.axis('equal')
+    plt.title(title)
+    plt.savefig(filename)
+    plt.close()
+
+
+def calculate_number_of_games_with_most_runs_by_region_pie(jp_games_count, other_games_count, tie_games):
+    create_pie(
+        "Games with most runs by region",
+        {"JPN / NTSC": jp_games_count, "Other": other_games_count, "Tied": tie_games},
+        "figures/games_with_most_runs_by_region.png"
+    )
+
+
+def calculate_number_of_games_with_most_runs_by_player_region_pie(jp_games_count, other_games_count, tie_games):
+    create_pie(
+        "Games with most runs by region played by player from other region",
+        {"JPN / NTSC": jp_games_count, "Other": other_games_count, "Tied": tie_games},
+        "figures/games_with_most_runs_by_player_region.png"
+    )
+
+
 def generate_statistics():
+    os.makedirs("figures", exist_ok=True)
+
     # Load games from JSON files and preprocess data
     all_games = load_data()
     games = remove_nulled_games(all_games)
@@ -173,17 +219,25 @@ def generate_statistics():
 
     # Number of games with most runs in JP region and other regions.
     jp_games_count, other_games_count = calculate_number_of_games_with_most_runs_by_region(games)
+    tie_games_count = abs(len(games) - jp_games_count - other_games_count)
     print(f"Number of games with most runs in JP region: {len(games) - other_games_count}")
     print(f"Number of games with most runs in other regions: {len(games) - jp_games_count}")
-    print(f"Number of tied games: {abs(len(games) - jp_games_count - other_games_count)}")
+    print(f"Number of tied games: {tie_games_count}")
+    calculate_number_of_games_with_most_runs_by_region_pie(
+        len(games) - other_games_count, len(games) - jp_games_count, tie_games_count
+    )
 
     # Number of games with most runs in JP region by players from other regions and vice versa
     jp_games_count, other_games_count = calculate_number_of_games_with_most_runs_by_player_region(games)
+    tie_games_count = len(games) - jp_games_count - other_games_count
     print(f"Number of games with most runs in JP region by players from other regions: {jp_games_count}")
     print(f"Number of games with most runs in other regions by players from JP region: {other_games_count}")
-    print(f"Number of tied games: {len(games) - jp_games_count - other_games_count}")
+    print(f"Number of tied games: {tie_games_count}")
+    calculate_number_of_games_with_most_runs_by_player_region_pie(
+        jp_games_count, other_games_count, tie_games_count
+    )
 
-    # TODO number of runs per game distribution graph
+    create_runs_per_game_plot(all_games)
 
 
 if __name__ == "__main__":
