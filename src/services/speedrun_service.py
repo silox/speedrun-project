@@ -36,6 +36,9 @@ class SpeedrunService(PaginationMixin):
     def __init__(self):
         self.client = SpeedrunComClient(user_agent="speedrun-project")
         self._region_mapping = {}
+        self._platform_mapping = {}
+        self._game_mapping = {}
+        self._category_mapping = {}
 
     def _get_data(self, content_method, params=None):
         time.sleep(0.6)
@@ -53,6 +56,41 @@ class SpeedrunService(PaginationMixin):
                 self._region_mapping[region["id"]] = region["name"]
                 self._region_mapping[region["name"]] = region["id"]
         return self._region_mapping[identifier]
+
+    def get_platform_name(self, id):
+        if id is None:
+            return None
+        if not self._platform_mapping:
+            for platform in self._get_data("get_platforms"):
+                self._platform_mapping[platform["id"]] = platform["name"]
+                self._platform_mapping[platform["name"]] = platform["id"]
+        if not id in self._platform_mapping.keys():
+            platform = self.client.get_data("platform/"+id)
+            self._platform_mapping[platform["id"]] = platform["name"]
+            self._platform_mapping[platform["name"]] = platform["id"]
+        return self._platform_mapping[id]
+
+    def get_game_name(self, id):
+        if id is None:
+            return None
+        if not self._game_mapping:
+            for game in self._get_data("get_games"):
+                self._game_mapping[game["id"]] = game["names"]["international"]
+                self._game_mapping[game["names"]["international"]] = game["id"]
+        if not id in self._game_mapping.keys():
+            game = self.client.get_data("games/"+id)
+            self._game_mapping[game["id"]] = game["names"]["international"]
+            self._game_mapping[game["names"]["international"]] = game["id"]
+        return self._game_mapping[id]
+
+    def get_category_name(self, id):
+        if id is None:
+            return None
+        if not id in self._category_mapping.keys():
+            category = self.client.get_data("categories/"+id)
+            self._category_mapping[category["id"]] = category["name"]
+            self._category_mapping[category["name"]] = category["id"]
+        return self._category_mapping[id]
 
     def get_games_with_jp_region(self):
         """

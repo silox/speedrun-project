@@ -50,7 +50,12 @@ class RunJSONDumper(JSONDumper):
 
         return {
             "id": run["id"],
+            "game": self.speedrun_service.get_game_name(run["game"]),
             "player": player_name,
             "player_location": player_location,
+            "time": run["times"]["primary_t"],
+            "category": self.speedrun_service.get_category_name(run["category"]),
             "region": self.speedrun_service.get_region_data_id_or_name(run["system"]["region"]),
+            "platform": self.speedrun_service.get_platform_name(run["system"]["platform"]),
+            "emulated": run["system"]["emulated"],
         }

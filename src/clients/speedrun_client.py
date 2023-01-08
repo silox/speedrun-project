@@ -16,6 +16,12 @@ class SpeedrunComClient:
     def get_regions(self, **params):
         return self._get("regions", **params)
 
+    def get_platforms(self, **params):
+        return self._get("platforms?max=300", **params)
+
+    def get_data(self, endpoint, **params):
+        return self._get(endpoint, **params)
+
     def _get(self, endpoint, **params):
         uri = f"{self.API_URL}{endpoint}"
         response = requests.get(uri, headers=self.headers, params=params)
