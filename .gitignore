@@ -1,7 +1,8 @@
 .DS_STORE
 .vscode/
 
-.venv/
+.idea/
+.ipynb_checkpoints/
 __pycache__/
 
 data/
