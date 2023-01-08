@@ -66,6 +66,8 @@ class SpeedrunService(PaginationMixin):
                 self._platform_mapping[platform["name"]] = platform["id"]
         if not id in self._platform_mapping.keys():
             platform = self.client.get_data("platform/"+id)
+            if platform is None:
+                return ""
             self._platform_mapping[platform["id"]] = platform["name"]
             self._platform_mapping[platform["name"]] = platform["id"]
         return self._platform_mapping[id]
@@ -79,6 +81,8 @@ class SpeedrunService(PaginationMixin):
                 self._game_mapping[game["names"]["international"]] = game["id"]
         if not id in self._game_mapping.keys():
             game = self.client.get_data("games/"+id)
+            if game is None:
+                return ""
             self._game_mapping[game["id"]] = game["names"]["international"]
             self._game_mapping[game["names"]["international"]] = game["id"]
         return self._game_mapping[id]
@@ -88,6 +92,8 @@ class SpeedrunService(PaginationMixin):
             return None
         if not id in self._category_mapping.keys():
             category = self.client.get_data("categories/"+id)
+            if category is None:
+                return ""
             self._category_mapping[category["id"]] = category["name"]
             self._category_mapping[category["name"]] = category["id"]
         return self._category_mapping[id]

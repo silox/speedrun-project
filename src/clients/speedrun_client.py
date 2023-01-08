@@ -20,7 +20,10 @@ class SpeedrunComClient:
         return self._get("platforms?max=300", **params)
 
     def get_data(self, endpoint, **params):
-        return self._get(endpoint, **params)
+        try:
+            return self._get(endpoint, **params)
+        except Exception:
+            return None
 
     def _get(self, endpoint, **params):
         uri = f"{self.API_URL}{endpoint}"
