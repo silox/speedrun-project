@@ -1,6 +1,7 @@
 import json
 import os
 
+
 class JSONLoader():
     data_dir = ""
 
@@ -15,7 +16,7 @@ class JSONLoader():
 
         with open(file_name) as f:
             return self.process_data(json.load(f))
-    
+
     def process_data(self, data):
         return data
 
@@ -23,7 +24,7 @@ class JSONLoader():
 class GameJSONLoader(JSONLoader):
     def process_data(self, games_data):
         return {game["id"]: {"name": game["name"], "runs": []} for game in games_data}
-        
+
 
 class RunJSONLoader(JSONLoader):
     data_dir = "runs/"

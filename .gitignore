@@ -1,5 +1,8 @@
 .DS_STORE
-game_data.json
+.vscode/
+
 .venv/
 __pycache__/
+
 data/
+game_data.json

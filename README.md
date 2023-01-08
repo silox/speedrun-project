@@ -13,6 +13,7 @@ Speedrun.com currently (7 jan 2023) stores data about 32 284 games in total.
 
 Statistics are made of runs from `/runs` endpoint consisting of all runs including obsolete ones which were
 needed to be filtered out. Each user has up to one best run for each game.  
+Runs without system region specified and games without runs were also excluded.
 
 ### Generated results
 

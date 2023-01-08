@@ -2,8 +2,6 @@ import abc
 import json
 from pathlib import Path
 
-from services.speedrun_service import SpeedrunService
-
 
 class JSONDumper(abc.ABC):
     data_dir = ""
@@ -17,7 +15,7 @@ class JSONDumper(abc.ABC):
         with open(f"data/{self.data_dir}{self.json_file}", "w") as f:
             data = [self.process_obj(obj) for obj in obj_data]
             json.dump(data, f, indent=indent)
-    
+
     @abc.abstractmethod
     def process_obj(self, obj_data):
         return NotImplemented
@@ -29,6 +27,7 @@ class GameJSONDumper(JSONDumper):
             "id": game["id"],
             "name": game["names"]["international"],
         }
+
 
 class RunJSONDumper(JSONDumper):
     data_dir = "runs/"

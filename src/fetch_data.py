@@ -20,7 +20,7 @@ def fetch_games():
 def fetch_runs():
     with open("data/games.json") as f:
         games = json.load(f)
-    
+
     speedrun_service = SpeedrunService()
     with tqdm(total=len(games), desc="Fetching game runs") as pbar:
         for game in games:

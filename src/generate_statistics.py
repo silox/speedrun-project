@@ -13,87 +13,73 @@ def load_data():
     return games
 
 
-def generate_statistics():
-    # Load games from JSON files
-    games = load_data()
+def remove_nulled_games(games):
+    new_games = {}
+    for game_id, game in list(games.items()):
+        new_runs = []
+        for run in game["runs"]:
+            if run["region"] is not None:
+                new_runs.append(run)
+        if new_runs:
+            new_games[game_id] = game
 
-    # Calculate total number of runs
-    total_runs = sum(len(game["runs"]) for game in games.values())
-    print(f"Total number of runs: {total_runs}")
+    return new_games
 
-    # Calculate number of runs by region
+
+def calculate_total_runs(games):
+    return sum(len(game["runs"]) for game in games.values())
+
+
+def calculate_runs_by_region(games):
     runs_by_region = {}
     for game in games.values():
         for run in game["runs"]:
             region = run["region"]
             runs_by_region[region] = runs_by_region.get(region, 0) + 1
-    
-    print("Number of runs by region:")
-    for region, count in sorted(runs_by_region.items(), key=lambda x: x[1], reverse=True):
-        print(f"  {region}: {count}")
-    
-    # Top 10 players by number of runs
-    player_games = {}
-    for game in games.values():
-        for run in game["runs"]:
-            player = run["player"]
-            player_games[player] = player_games.get(player, 0) + 1
-    
-    print("Top 10 players by number of runs:")
-    for player, count in sorted(player_games.items(), key=lambda x: x[1], reverse=True)[:10]:
-        print(f"  {player}: {count}")
+    return runs_by_region
 
-    # Top 10 players by number of runs in JP region
+
+def calculate_top_players(games, region=None, player_location=None):
     player_games = {}
     for game in games.values():
         for run in game["runs"]:
-            if run["region"] != "JPN / NTSC":
+            if region and run["region"] != region:
+                continue
+            if player_location and run["player_location"] == player_location:
                 continue
 
             player = run["player"]
             player_games[player] = player_games.get(player, 0) + 1
-    
-    print("Top 10 players by number of runs in JP region:")
-    for player, count in sorted(player_games.items(), key=lambda x: x[1], reverse=True)[:10]:
+
+    return player_games
+
+
+def calculate_top_players_in_jp_region(games):
+    return calculate_top_players(games, region="JPN / NTSC")
+
+
+def calculate_top_non_jp_players_in_jp_region(games):
+    return calculate_top_players(games, region="JPN / NTSC", player_location="jp")
+
+
+def print_top_n(title, data, n=None):
+    print(title)
+    for player, count in sorted(data.items(), key=lambda x: x[1], reverse=True)[:len(data) if n is None else n]:
         print(f"  {player}: {count}")
 
-    # Top 10 non JP players by number of runs in JP region
-    player_games = {}
-    for game in games.values():
-        for run in game["runs"]:
-            if run["region"] != "JPN / NTSC" or run["player_location"] == "jp":
-                continue
 
-            player = run["player"]
-            player_games[player] = player_games.get(player, 0) + 1
-    
-    print("Top 10 players by number of runs in JP region:")
-    for player, count in sorted(player_games.items(), key=lambda x: x[1], reverse=True)[:10]:
-        print(f"  {player}: {count}")
-
-    # Number of runs in JP region by players from other regions
+def calculate_number_of_runs(games, predicate):
     run_counter = 0
     for game in games.values():
         for run in game["runs"]:
-            if run["region"] != "JPN / NTSC" or run["player_location"] == "jp":
+            if predicate(run):
                 continue
-
             run_counter += 1
-    
-    print(f"Number of runs in JP region by players from other regions: {total_runs}")
 
-    # Number of runs in other regions by players from JP region
-    run_counter = 0
-    for game in games.values():
-        for run in game["runs"]:
-            if run["region"] == "JPN / NTSC" or run["player_location"] != "jp":
-                continue
+    return run_counter
 
-            run_counter += 1
-    
-    print(f"Number of runs in other regions by players from JP region: {total_runs}")
 
-    # Number of games with most runs in JP region and other regions.
+def calculate_number_of_games_with_most_runs_by_region(games):
     jp_game_counter = 0
     other_game_counter = 0
     for game in games.values():
@@ -113,19 +99,18 @@ def generate_statistics():
             if stat[0] == "JPN / NTSC":
                 jp_game_counter += 1
                 break
-        
+
         for stat in sorted_stats:
             if stat[1] < current_max:
                 break
             if stat[0] != "JPN / NTSC":
                 other_game_counter += 1
                 break
-    
-    print(f"Number of games with most runs in JP region: {len(games) - other_game_counter}")
-    print(f"Number of games with most runs in other regions: {len(games) - jp_game_counter}")
-    print(f"Number of tied games: {abs(len(games) - jp_game_counter - other_game_counter)}")
 
-    # Number of games with most runs in JP region by players from other regions and vice versa
+    return jp_game_counter, other_game_counter
+
+
+def calculate_number_of_games_with_most_runs_by_player_region(games):
     jp_game_counter = 0
     other_game_counter = 0
     for game in games.values():
@@ -143,11 +128,63 @@ def generate_statistics():
         elif run_counter_oth_jp > run_counter_jp_oth:
             other_game_counter += 1
 
-    print(f"Number of games with most runs in JP region by players from other regions: {jp_game_counter}")
-    print(f"Number of games with most runs in other regions by players from JP region: {other_game_counter}")
-    print(f"Number of tied games: {len(games) - jp_game_counter - other_game_counter}")
+    return jp_game_counter, other_game_counter
+
+
+def generate_statistics():
+    # Load games from JSON files and preprocess data
+    all_games = load_data()
+    games = remove_nulled_games(all_games)
+    print(f"Number of games with at least one run with specified system region: {len(games)}")
+
+    # Calculate total number of runs
+    total_runs = calculate_total_runs(games)
+    print(f"Total number of runs with specified system region: {total_runs}")
+
+    # Calculate number of runs by region
+    runs_by_region = calculate_runs_by_region(games)
+    print_top_n("Number of runs by region:", runs_by_region)
+
+    # Top 10 players by number of runs
+    player_games = calculate_top_players(all_games)
+    print_top_n("Top 10 players by number of runs:", player_games, n=10)
+
+    # Top 10 players by number of runs in JP region
+    player_games_jp = calculate_top_players_in_jp_region(games)
+    print_top_n("Top 10 players by number of runs in JP region:", player_games_jp, n=10)
+
+    # Top 10 non JP players by number of runs in JP region
+    non_jp_player_games_jp = calculate_top_non_jp_players_in_jp_region(games)
+    print_top_n("Top 10 non JP players by number of runs in JP region:", non_jp_player_games_jp, n=10)
+
+    # Number of runs in JP region by players from other regions
+    non_jp_player_jp_runs_count = calculate_number_of_runs(
+        games,
+        lambda run: run["region"] != "JPN / NTSC" or run["player_location"] == "jp"
+    )
+    print(f"Number of runs in JP region by players from other regions: {non_jp_player_jp_runs_count}")
+
+    # Number of runs in other regions by players from JP region
+    jp_player_non_jp_runs_count = calculate_number_of_runs(
+        games,
+        lambda run: run["region"] == "JPN / NTSC" or run["player_location"] != "jp"
+    )
+    print(f"Number of runs in other regions by players from JP region: {jp_player_non_jp_runs_count}")
+
+    # Number of games with most runs in JP region and other regions.
+    jp_games_count, other_games_count = calculate_number_of_games_with_most_runs_by_region(games)
+    print(f"Number of games with most runs in JP region: {len(games) - other_games_count}")
+    print(f"Number of games with most runs in other regions: {len(games) - jp_games_count}")
+    print(f"Number of tied games: {abs(len(games) - jp_games_count - other_games_count)}")
+
+    # Number of games with most runs in JP region by players from other regions and vice versa
+    jp_games_count, other_games_count = calculate_number_of_games_with_most_runs_by_player_region(games)
+    print(f"Number of games with most runs in JP region by players from other regions: {jp_games_count}")
+    print(f"Number of games with most runs in other regions by players from JP region: {other_games_count}")
+    print(f"Number of tied games: {len(games) - jp_games_count - other_games_count}")
 
     # TODO number of runs per game distribution graph
+
 
 if __name__ == "__main__":
     generate_statistics()

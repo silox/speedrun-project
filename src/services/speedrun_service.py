@@ -22,7 +22,7 @@ class PaginationMixin:
             data = self._get_data(content_method, {**pagination_params, **params})
             for item in data:
                 yield item
-            
+
             current_results = len(data)
             print(f"Got {pagination_params['offset'] + current_results} results so far...")
             pagination_params["offset"] += self.max_results
