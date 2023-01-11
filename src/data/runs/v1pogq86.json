@@ -1,0 +1,101 @@
+[
+  {
+    "id": "mk98w83z",
+    "game": "Simcity 2000",
+    "player": "Lizstar",
+    "player_location": "us",
+    "time": 235,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "ywpdok9z",
+    "game": "Simcity 2000",
+    "player": "Dogveloper",
+    "player_location": "br",
+    "time": 243,
+    "category": "DOS",
+    "region": "USA / NTSC",
+    "platform": "MS-DOS",
+    "emulated": false
+  },
+  {
+    "id": "m7pvgk9m",
+    "game": "Simcity 2000",
+    "player": "Krayzar",
+    "player_location": "us",
+    "time": 41,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y6pn39qm",
+    "game": "Simcity 2000",
+    "player": "wepen",
+    "player_location": "us",
+    "time": 198,
+    "category": "DOS",
+    "region": "USA / NTSC",
+    "platform": "MS-DOS",
+    "emulated": false
+  },
+  {
+    "id": "z03d8doz",
+    "game": "Simcity 2000",
+    "player": "hollygorock",
+    "player_location": "us",
+    "time": 153,
+    "category": "DOS",
+    "region": "USA / NTSC",
+    "platform": "MS-DOS",
+    "emulated": false
+  },
+  {
+    "id": "me82lw8m",
+    "game": "Simcity 2000",
+    "player": "Arran",
+    "player_location": null,
+    "time": 42,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z01r51ey",
+    "game": "Simcity 2000",
+    "player": "Fenwick",
+    "player_location": "us",
+    "time": 166,
+    "category": "DOS",
+    "region": "USA / NTSC",
+    "platform": "MS-DOS",
+    "emulated": false
+  },
+  {
+    "id": "zqr99o8y",
+    "game": "Simcity 2000",
+    "player": "beerfullofbelly",
+    "player_location": "us",
+    "time": 100.9,
+    "category": "DOS",
+    "region": "USA / NTSC",
+    "platform": "MS-DOS",
+    "emulated": false
+  },
+  {
+    "id": "y9990g2y",
+    "game": "Simcity 2000",
+    "player": "Tabarly",
+    "player_location": "fr",
+    "time": 55.72,
+    "category": "DOS",
+    "region": null,
+    "platform": "MS-DOS",
+    "emulated": true
+  }
+]

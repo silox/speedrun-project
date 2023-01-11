@@ -1,0 +1,112 @@
+[
+  {
+    "id": "y92o07nz",
+    "game": "Fast Beat Loop Racer GT",
+    "player": "j0eyboiii",
+    "player_location": "ph",
+    "time": 98.238,
+    "category": "Time Attack Osaka",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m3o9574m",
+    "game": "Fast Beat Loop Racer GT",
+    "player": "99710",
+    "player_location": "gb/eng",
+    "time": 107.353,
+    "category": "Time Attack Osaka",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y893de5m",
+    "game": "Fast Beat Loop Racer GT",
+    "player": "RollsRoyce89",
+    "player_location": "my",
+    "time": 81.254,
+    "category": "",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "ywpekw3z",
+    "game": "Fast Beat Loop Racer GT",
+    "player": "Stulittle",
+    "player_location": "au",
+    "time": 97.467,
+    "category": "Time Attack Osaka",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y2156v7z",
+    "game": "Fast Beat Loop Racer GT",
+    "player": "PonyLaz",
+    "player_location": "fr",
+    "time": 123.982,
+    "category": "",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z1jxq29z",
+    "game": "Fast Beat Loop Racer GT",
+    "player": "Gastence",
+    "player_location": "gr",
+    "time": 102.972,
+    "category": "Time Attack Osaka",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y6rowrjy",
+    "game": "Fast Beat Loop Racer GT",
+    "player": "NemuKate",
+    "player_location": "us",
+    "time": 113.695,
+    "category": "Time Attack Shanghai",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m3r2q06m",
+    "game": "Fast Beat Loop Racer GT",
+    "player": "load_of_loaf",
+    "player_location": "gb/eng",
+    "time": 100.412,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "ywkrv72y",
+    "game": "Fast Beat Loop Racer GT",
+    "player": "Ezze",
+    "player_location": "ar",
+    "time": 102.251,
+    "category": "Time Attack Osaka",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mkew8n1m",
+    "game": "Fast Beat Loop Racer GT",
+    "player": "Proper",
+    "player_location": "us",
+    "time": 101.878,
+    "category": "Time Attack Osaka",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  }
+]

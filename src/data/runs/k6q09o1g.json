@@ -1,0 +1,134 @@
+[
+  {
+    "id": "2ywj3n2z",
+    "game": "WWF SmackDown! Just Bring It",
+    "player": "Duel",
+    "player_location": "us",
+    "time": 383,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "mk49j03y",
+    "game": "WWF SmackDown! Just Bring It",
+    "player": "SnailsMelon",
+    "player_location": "us",
+    "time": 118,
+    "category": "European Championship",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "dy4oe32z",
+    "game": "WWF SmackDown! Just Bring It",
+    "player": "Alex",
+    "player_location": "us",
+    "time": 529,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "yvg39lxy",
+    "game": "WWF SmackDown! Just Bring It",
+    "player": "ef14",
+    "player_location": "it",
+    "time": 84,
+    "category": "European Championship",
+    "region": null,
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "yjkw117m",
+    "game": "WWF SmackDown! Just Bring It",
+    "player": "chucksnake",
+    "player_location": "fr",
+    "time": 205,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "z5j400em",
+    "game": "WWF SmackDown! Just Bring It",
+    "player": "SunnySydeRamsay",
+    "player_location": "us",
+    "time": 100,
+    "category": "European Championship",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "ylko3knz",
+    "game": "WWF SmackDown! Just Bring It",
+    "player": "TomEWylde",
+    "player_location": "gb",
+    "time": 74,
+    "category": "European Championship",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "yjg3gp3y",
+    "game": "WWF SmackDown! Just Bring It",
+    "player": "Jaggybabs",
+    "player_location": "gb/eng",
+    "time": 71,
+    "category": "European Championship",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "ylq7e93z",
+    "game": "WWF SmackDown! Just Bring It",
+    "player": "bustaboy",
+    "player_location": "us",
+    "time": 70,
+    "category": "European Championship",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "z5rlrgey",
+    "game": "WWF SmackDown! Just Bring It",
+    "player": "scottelot22",
+    "player_location": "gb/sct",
+    "time": 111,
+    "category": "WWF Championship",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "y277ew5z",
+    "game": "WWF SmackDown! Just Bring It",
+    "player": "Bullfrog",
+    "player_location": "au",
+    "time": 601,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "yjxd073z",
+    "game": "WWF SmackDown! Just Bring It",
+    "player": "Billy_bongsalot",
+    "player_location": "ca",
+    "time": 339,
+    "category": "WWF Championship",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  }
+]

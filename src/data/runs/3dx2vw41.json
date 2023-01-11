@@ -1,0 +1,57 @@
+[
+  {
+    "id": "y6lwg41y",
+    "game": "Persona 2: Eternal Punishment",
+    "player": "Chuckorita",
+    "player_location": "ca",
+    "time": 21311,
+    "category": "Any% NG (PSX)",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "me60j12z",
+    "game": "Persona 2: Eternal Punishment",
+    "player": "kosamestl",
+    "player_location": "jp",
+    "time": 20302,
+    "category": "Any% NG (PSX)",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "yd95dewz",
+    "game": "Persona 2: Eternal Punishment",
+    "player": "mizusima40",
+    "player_location": "jp",
+    "time": 19784,
+    "category": "Any% NG (PSX)",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "z0pn0eoy",
+    "game": "Persona 2: Eternal Punishment",
+    "player": "ToxicTT",
+    "player_location": "ru",
+    "time": 10361,
+    "category": "Any% NG (PSP)",
+    "region": null,
+    "platform": "Playstation TV",
+    "emulated": false
+  },
+  {
+    "id": "me105q0y",
+    "game": "Persona 2: Eternal Punishment",
+    "player": "Symm",
+    "player_location": "gb",
+    "time": 13127,
+    "category": "Any% NG (PSP)",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "mr8o678y",
+    "game": "Harvest Moon: More Friends of Mineral Town",
+    "player": "14",
+    "player_location": null,
+    "time": 13128,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "z11nxgrz",
+    "game": "Harvest Moon: More Friends of Mineral Town",
+    "player": "Demo",
+    "player_location": "us",
+    "time": 10881,
+    "category": "Marriage",
+    "region": "USA / NTSC",
+    "platform": "Wii U Virtual Console",
+    "emulated": false
+  },
+  {
+    "id": "y92d0orz",
+    "game": "Harvest Moon: More Friends of Mineral Town",
+    "player": "MisterStealYourGil",
+    "player_location": "us",
+    "time": 9915,
+    "category": "Marriage",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  }
+]

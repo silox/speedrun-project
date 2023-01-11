@@ -1,0 +1,68 @@
+[
+  {
+    "id": "zgrd5lnm",
+    "game": "Luigi Bros",
+    "player": "Nintensive",
+    "player_location": "ae",
+    "time": 250,
+    "category": "8 Phases",
+    "region": "EUR / PAL",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "y690oljy",
+    "game": "Luigi Bros",
+    "player": "LiamLime",
+    "player_location": "us",
+    "time": 293,
+    "category": "8 Phases",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "me43ej9y",
+    "game": "Luigi Bros",
+    "player": "BrynboyYT",
+    "player_location": "gb/eng",
+    "time": 244,
+    "category": "8 Phases",
+    "region": "EUR / PAL",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "m7762n4m",
+    "game": "Luigi Bros",
+    "player": "josuray",
+    "player_location": "us",
+    "time": 351,
+    "category": "8 Phases",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "mk5o0plm",
+    "game": "Luigi Bros",
+    "player": "Chungenour",
+    "player_location": "us",
+    "time": 224,
+    "category": "8 Phases",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "yw3gvj0m",
+    "game": "Luigi Bros",
+    "player": "TheBaconator108",
+    "player_location": "us",
+    "time": 236,
+    "category": "8 Phases",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  }
+]

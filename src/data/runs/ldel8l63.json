@@ -1,0 +1,24 @@
+[
+  {
+    "id": "y6dqn6pm",
+    "game": "",
+    "player": "jeggerd",
+    "player_location": "us",
+    "time": 14153,
+    "category": "Lacryma's Story",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "y6dl490m",
+    "game": "",
+    "player": "Chimpanreeve",
+    "player_location": "gb/eng",
+    "time": 12382,
+    "category": "Lacryma's Story",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "z0eo33om",
+    "game": "",
+    "player": "speedman",
+    "player_location": "us",
+    "time": 392,
+    "category": "2-player",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Player",
+    "emulated": false
+  },
+  {
+    "id": "mk3qpj5z",
+    "game": "",
+    "player": "CharlieColeslaw",
+    "player_location": "us",
+    "time": 255,
+    "category": "2-player",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "ywj37p3z",
+    "game": "",
+    "player": "Tac0",
+    "player_location": "aq",
+    "time": 231,
+    "category": "2-player",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  }
+]

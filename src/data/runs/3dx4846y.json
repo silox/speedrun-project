@@ -1,0 +1,112 @@
+[
+  {
+    "id": "8yvddk4y",
+    "game": "The Flintstones (Genesis)",
+    "player": "NerdyNester",
+    "player_location": "us",
+    "time": 716,
+    "category": "Beat the Game",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "pzg5dxny",
+    "game": "The Flintstones (Genesis)",
+    "player": "Parkraft123",
+    "player_location": "ca",
+    "time": 786,
+    "category": "Beat the Game",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "zpqk5pvy",
+    "game": "The Flintstones (Genesis)",
+    "player": "Twintail_Nami",
+    "player_location": "uy",
+    "time": 719,
+    "category": "Beat the Game",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "y2q97k5y",
+    "game": "The Flintstones (Genesis)",
+    "player": "eyuzheng",
+    "player_location": "cn",
+    "time": 1474,
+    "category": "Beat the Game",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "yo28rdjz",
+    "game": "The Flintstones (Genesis)",
+    "player": "DodonKrevedko",
+    "player_location": "ru",
+    "time": 816,
+    "category": "Beat the Game",
+    "region": "EUR / PAL",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "y4346r2z",
+    "game": "The Flintstones (Genesis)",
+    "player": "flower",
+    "player_location": "ru",
+    "time": 654,
+    "category": "Beat the Game",
+    "region": "JPN / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "y92rn6kz",
+    "game": "The Flintstones (Genesis)",
+    "player": "Rise",
+    "player_location": "ru",
+    "time": 1226,
+    "category": "Beat the Game",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "y82rp65y",
+    "game": "The Flintstones (Genesis)",
+    "player": "P1ZZAC4T",
+    "player_location": "us",
+    "time": 1325,
+    "category": "Beat the Game",
+    "region": "JPN / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "ywdg6lpz",
+    "game": "The Flintstones (Genesis)",
+    "player": "MrDoublePlays",
+    "player_location": "au",
+    "time": 1133,
+    "category": "Beat the Game",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "ydwodrvm",
+    "game": "The Flintstones (Genesis)",
+    "player": "Rudjohns",
+    "player_location": "br",
+    "time": 1216,
+    "category": "Beat the Game",
+    "region": null,
+    "platform": "Sega Genesis",
+    "emulated": true
+  }
+]

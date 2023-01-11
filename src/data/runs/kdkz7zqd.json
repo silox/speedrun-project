@@ -1,0 +1,24 @@
+[
+  {
+    "id": "yv2e3r4m",
+    "game": "Spirits & Spells (GBA)",
+    "player": "BuskinCothurn",
+    "player_location": "es/cn",
+    "time": 105,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "mkgqqvxy",
+    "game": "Spirits & Spells (GBA)",
+    "player": "Otterstone_Gamer",
+    "player_location": "us",
+    "time": 26,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  }
+]

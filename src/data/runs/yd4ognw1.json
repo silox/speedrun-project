@@ -1,0 +1,24 @@
+[
+  {
+    "id": "y917812m",
+    "game": "Pitman / Catrap",
+    "player": "KateLibC",
+    "player_location": "ca",
+    "time": 1230,
+    "category": "Any% Skip",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": false
+  },
+  {
+    "id": "yd01rgxz",
+    "game": "Pitman / Catrap",
+    "player": "Seydie",
+    "player_location": "nl",
+    "time": 6259,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  }
+]

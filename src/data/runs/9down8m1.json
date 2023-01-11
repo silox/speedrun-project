@@ -1,0 +1,68 @@
+[
+  {
+    "id": "z117dogz",
+    "game": "Battle Arena Toshinden 3",
+    "player": "Maiguels",
+    "player_location": "es",
+    "time": 870,
+    "category": "Arcade - Easy",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "yl426kxm",
+    "game": "Battle Arena Toshinden 3",
+    "player": "Djula2911",
+    "player_location": "de",
+    "time": 665,
+    "category": "Arcade - Easy",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "z1jepprz",
+    "game": "Battle Arena Toshinden 3",
+    "player": "deserteagle417",
+    "player_location": "us",
+    "time": 447,
+    "category": "Arcade - Easy",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "m3xv02gm",
+    "game": "Battle Arena Toshinden 3",
+    "player": "ShoShinjo",
+    "player_location": "pt",
+    "time": 314,
+    "category": "Arcade - Impossible",
+    "region": "EUR / PAL",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "y4rpev3z",
+    "game": "Battle Arena Toshinden 3",
+    "player": "1800POOPNOW",
+    "player_location": "im",
+    "time": 358,
+    "category": "Arcade - Stress Relief",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "mrrvg3gm",
+    "game": "Battle Arena Toshinden 3",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 513,
+    "category": "Arcade - Impossible",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  }
+]

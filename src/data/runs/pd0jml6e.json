@@ -1,0 +1,101 @@
+[
+  {
+    "id": "zg78e2jz",
+    "game": "Blinx 2: Masters of Time and Space",
+    "player": "Shady_",
+    "player_location": "us",
+    "time": 5502,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Xbox",
+    "emulated": false
+  },
+  {
+    "id": "y2d8k96z",
+    "game": "Blinx 2: Masters of Time and Space",
+    "player": "Aun_El",
+    "player_location": "au",
+    "time": 5491,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Xbox",
+    "emulated": false
+  },
+  {
+    "id": "y27plpjz",
+    "game": "Blinx 2: Masters of Time and Space",
+    "player": "ChrisS97",
+    "player_location": "us",
+    "time": 137.5,
+    "category": "",
+    "region": null,
+    "platform": "Xbox",
+    "emulated": false
+  },
+  {
+    "id": "yod9817m",
+    "game": "Blinx 2: Masters of Time and Space",
+    "player": "Miku_DS",
+    "player_location": "au",
+    "time": 4467,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Xbox",
+    "emulated": true
+  },
+  {
+    "id": "y2vx6l9z",
+    "game": "Blinx 2: Masters of Time and Space",
+    "player": "Olii",
+    "player_location": "gb/eng",
+    "time": 64.51,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Xbox",
+    "emulated": false
+  },
+  {
+    "id": "z5r233ny",
+    "game": "Blinx 2: Masters of Time and Space",
+    "player": "WetSweatyLegs",
+    "player_location": "au",
+    "time": 60.6,
+    "category": "Singleplayer",
+    "region": "USA / NTSC",
+    "platform": "Xbox",
+    "emulated": false
+  },
+  {
+    "id": "y2xpd36m",
+    "game": "Blinx 2: Masters of Time and Space",
+    "player": "Stimich93",
+    "player_location": "no",
+    "time": 60.2,
+    "category": "Singleplayer",
+    "region": "USA / NTSC",
+    "platform": "Xbox",
+    "emulated": false
+  },
+  {
+    "id": "m370pn6z",
+    "game": "Blinx 2: Masters of Time and Space",
+    "player": "notna888",
+    "player_location": "au",
+    "time": 18121,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Xbox",
+    "emulated": false
+  },
+  {
+    "id": "y9llqoey",
+    "game": "Blinx 2: Masters of Time and Space",
+    "player": "happyfaic72",
+    "player_location": "us",
+    "time": 280.383,
+    "category": "",
+    "region": null,
+    "platform": "Xbox",
+    "emulated": false
+  }
+]

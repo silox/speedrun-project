@@ -1,0 +1,68 @@
+[
+  {
+    "id": "pydkol0m",
+    "game": "Klonoa Beach Volleyball",
+    "player": "Harutomo",
+    "player_location": "jp",
+    "time": 392,
+    "category": "Championship Mode (easy)",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "z13ggkjm",
+    "game": "Klonoa Beach Volleyball",
+    "player": "elsiz",
+    "player_location": "es",
+    "time": 374,
+    "category": "Championship Mode (easy)",
+    "region": "EUR / PAL",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "y6r43e6y",
+    "game": "Klonoa Beach Volleyball",
+    "player": "JJToro",
+    "player_location": "fi",
+    "time": 420,
+    "category": "Championship Mode (easy)",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "yj529qdm",
+    "game": "Klonoa Beach Volleyball",
+    "player": "powerstone05",
+    "player_location": "us",
+    "time": 605,
+    "category": "Championship Mode (easy)",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "zn7rpk9m",
+    "game": "Klonoa Beach Volleyball",
+    "player": "Ettie",
+    "player_location": "us",
+    "time": 434,
+    "category": "Championship Mode (easy)",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "z1g5kowz",
+    "game": "Klonoa Beach Volleyball",
+    "player": "RayUziCrow",
+    "player_location": "my",
+    "time": 783,
+    "category": "Championship Mode (hard)",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  }
+]

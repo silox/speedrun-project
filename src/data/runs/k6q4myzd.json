@@ -1,0 +1,134 @@
+[
+  {
+    "id": "yo4p965m",
+    "game": "The King of Fighters '96",
+    "player": "Wayne_Meares",
+    "player_location": "us",
+    "time": 2686,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y2qpd66y",
+    "game": "The King of Fighters '96",
+    "player": "Five-seveN-25",
+    "player_location": "ca",
+    "time": 1244,
+    "category": "Team play",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "m3o4ooqm",
+    "game": "The King of Fighters '96",
+    "player": "INUQQ",
+    "player_location": "tw",
+    "time": 809,
+    "category": "Team play",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y43d1dqz",
+    "game": "The King of Fighters '96",
+    "player": "Ladell",
+    "player_location": "tw",
+    "time": 1019,
+    "category": "Team play",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zp4114gz",
+    "game": "The King of Fighters '96",
+    "player": "mrsancini",
+    "player_location": "br",
+    "time": 519,
+    "category": "Team play",
+    "region": "EUR / PAL",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "yw48xp2z",
+    "game": "The King of Fighters '96",
+    "player": "DBcade",
+    "player_location": "jp",
+    "time": 519,
+    "category": "Team play",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "y815rkdz",
+    "game": "The King of Fighters '96",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 518,
+    "category": "Team play",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "yw8wp9ny",
+    "game": "The King of Fighters '96",
+    "player": "ZALOMASTER",
+    "player_location": "cl",
+    "time": 765,
+    "category": "Team play",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z53jo5gy",
+    "game": "The King of Fighters '96",
+    "player": "Jesus82050615",
+    "player_location": "ca/qc",
+    "time": 1056,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "y69x5k1y",
+    "game": "The King of Fighters '96",
+    "player": "aaru_hokutomaru",
+    "player_location": "jp",
+    "time": 727,
+    "category": "Team play",
+    "region": null,
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "zgrjv3em",
+    "game": "The King of Fighters '96",
+    "player": "ivanpaduano",
+    "player_location": "it",
+    "time": 49804,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zn73jr9m",
+    "game": "The King of Fighters '96",
+    "player": "ParallaxMKChile",
+    "player_location": "cl",
+    "time": 469,
+    "category": "Single play",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

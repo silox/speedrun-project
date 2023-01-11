@@ -1,0 +1,134 @@
+[
+  {
+    "id": "y43rdknz",
+    "game": "Warioware D.I.Y.",
+    "player": "dtb345",
+    "player_location": null,
+    "time": 90.733,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "y811rkxz",
+    "game": "Warioware D.I.Y.",
+    "player": "TylertheTyrrific",
+    "player_location": "us",
+    "time": 566,
+    "category": "Diamond Software%",
+    "region": null,
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "yw41n1nz",
+    "game": "Warioware D.I.Y.",
+    "player": "Ricicles",
+    "player_location": "gb/eng",
+    "time": 574,
+    "category": "Diamond Software%",
+    "region": "EUR / PAL",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "z051wpom",
+    "game": "Warioware D.I.Y.",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 89,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "m75qnd5z",
+    "game": "Warioware D.I.Y.",
+    "player": "Mgms2018",
+    "player_location": "br",
+    "time": 91.167,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "me9owk2z",
+    "game": "Warioware D.I.Y.",
+    "player": "Lucstar07",
+    "player_location": "au",
+    "time": 114,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "zq79llxm",
+    "game": "Warioware D.I.Y.",
+    "player": "Pyro143",
+    "player_location": null,
+    "time": 20,
+    "category": "Make a Comic",
+    "region": "USA / NTSC",
+    "platform": "New Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "y9vxkkkm",
+    "game": "Warioware D.I.Y.",
+    "player": "Amuntendo",
+    "player_location": "pl",
+    "time": 21,
+    "category": "Make a Comic",
+    "region": "EUR / PAL",
+    "platform": "New Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "yw39d39m",
+    "game": "Warioware D.I.Y.",
+    "player": "i_want_food",
+    "player_location": null,
+    "time": 20,
+    "category": "Make a Comic",
+    "region": "USA / NTSC",
+    "platform": "New Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "y88jj7xy",
+    "game": "Warioware D.I.Y.",
+    "player": "kinniebeats",
+    "player_location": "us",
+    "time": 35,
+    "category": "Make a Song",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "z0pnpx9y",
+    "game": "Warioware D.I.Y.",
+    "player": "CubbyCat",
+    "player_location": "us",
+    "time": 30,
+    "category": "Make a Song",
+    "region": null,
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "zx7prxey",
+    "game": "Warioware D.I.Y.",
+    "player": "millacks",
+    "player_location": "ie",
+    "time": 20,
+    "category": "Make a Comic",
+    "region": "EUR / PAL",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "y6rpe1py",
+    "game": "Panzer Dragoon II Zwei",
+    "player": "Fedorov",
+    "player_location": "ca/qc",
+    "time": 1954,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "1zxe32gm",
+    "game": "Panzer Dragoon II Zwei",
+    "player": "Tommygunzs",
+    "player_location": "us",
+    "time": 2232,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "yw1336nz",
+    "game": "Panzer Dragoon II Zwei",
+    "player": "iammodus",
+    "player_location": "es",
+    "time": 1947,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": true
+  },
+  {
+    "id": "ydrv40wz",
+    "game": "Panzer Dragoon II Zwei",
+    "player": "harum3",
+    "player_location": "jp",
+    "time": 1946,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  }
+]

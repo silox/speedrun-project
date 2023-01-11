@@ -1,0 +1,145 @@
+[
+  {
+    "id": "me4j473y",
+    "game": "Car Mechanic Simulator 2021",
+    "player": "ruk0r",
+    "player_location": "us",
+    "time": 74.319,
+    "category": "Race Track",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mee8380m",
+    "game": "Car Mechanic Simulator 2021",
+    "player": "Quattrozander",
+    "player_location": "gb/eng",
+    "time": 7.782,
+    "category": "Drag Strip",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yo6ol37y",
+    "game": "Car Mechanic Simulator 2021",
+    "player": "torexx153",
+    "player_location": "cz",
+    "time": 74.192,
+    "category": "Race Track",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y8e6qwny",
+    "game": "Car Mechanic Simulator 2021",
+    "player": "FudoD",
+    "player_location": "de",
+    "time": 76.872,
+    "category": "Race Track",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zx76o68y",
+    "game": "Car Mechanic Simulator 2021",
+    "player": "2012MostWanted",
+    "player_location": "kr",
+    "time": 75.264,
+    "category": "Race Track",
+    "region": "KOR / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y60dl1qy",
+    "game": "Car Mechanic Simulator 2021",
+    "player": "TheBlitzkrieger",
+    "player_location": "us",
+    "time": 89.881,
+    "category": "Race Track",
+    "region": "USA / NTSC",
+    "platform": "Xbox",
+    "emulated": false
+  },
+  {
+    "id": "znppvlvm",
+    "game": "Car Mechanic Simulator 2021",
+    "player": "TheBeardedHorsemen",
+    "player_location": "us",
+    "time": 658.71,
+    "category": "Full Disassembly and Assembly",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zq9kxn1y",
+    "game": "Car Mechanic Simulator 2021",
+    "player": "Thefuzzyone",
+    "player_location": null,
+    "time": 73.659,
+    "category": "Race Track",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z5x1eqny",
+    "game": "Car Mechanic Simulator 2021",
+    "player": "jaboialext",
+    "player_location": "vn",
+    "time": 563.048,
+    "category": "Full Disassembly and Assembly",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yjd5rgoy",
+    "game": "Car Mechanic Simulator 2021",
+    "player": "Teteh",
+    "player_location": "hu",
+    "time": 67.497,
+    "category": "Race Track (No cuts)",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yod3147m",
+    "game": "Car Mechanic Simulator 2021",
+    "player": "cadenthecorvid",
+    "player_location": "us",
+    "time": 76.033,
+    "category": "Race Track",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "me1p0o9y",
+    "game": "Car Mechanic Simulator 2021",
+    "player": "zanyat0",
+    "player_location": null,
+    "time": 71.642,
+    "category": "Race Track (No cuts)",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y809q9nm",
+    "game": "Car Mechanic Simulator 2021",
+    "player": "BigBruce",
+    "player_location": null,
+    "time": 7.304,
+    "category": "Drag Strip",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

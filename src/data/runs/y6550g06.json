@@ -1,0 +1,101 @@
+[
+  {
+    "id": "z1x073rm",
+    "game": "Bear\u2019s Adventure 2",
+    "player": "SpeedIn",
+    "player_location": "il",
+    "time": 105,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "zp8pkwgy",
+    "game": "Bear\u2019s Adventure 2",
+    "player": "Marcus\u2019 Scripts",
+    "player_location": null,
+    "time": 430,
+    "category": "Bear\u2019s Adventure",
+    "region": null,
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "z07xgj4y",
+    "game": "Bear\u2019s Adventure 2",
+    "player": "Avuri Stam",
+    "player_location": null,
+    "time": 220,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "yo6og80y",
+    "game": "Bear\u2019s Adventure 2",
+    "player": "Mastery",
+    "player_location": null,
+    "time": 236,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "zgrl8ljm",
+    "game": "Bear\u2019s Adventure 2",
+    "player": "Fluffy101",
+    "player_location": null,
+    "time": 225,
+    "category": "Bear\u2019s Adventure 2",
+    "region": null,
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "y69q1v1y",
+    "game": "Bear\u2019s Adventure 2",
+    "player": "Tabitha the tab",
+    "player_location": null,
+    "time": 204,
+    "category": "Bear\u2019s Adventure",
+    "region": null,
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "y8ewkwdy",
+    "game": "Bear\u2019s Adventure 2",
+    "player": "pooiswhatipuke",
+    "player_location": null,
+    "time": 139,
+    "category": "Bear\u2019s Adventure",
+    "region": null,
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "mk5pq1lm",
+    "game": "Bear\u2019s Adventure 2",
+    "player": "Livvieee",
+    "player_location": null,
+    "time": 225,
+    "category": "Bear\u2019s Adventure 2",
+    "region": null,
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "mr7r1e2z",
+    "game": "Bear\u2019s Adventure 2",
+    "player": "TRLittleToaster",
+    "player_location": "us",
+    "time": 348,
+    "category": "Bear\u2019s Adventure",
+    "region": "USA / NTSC",
+    "platform": "iOS",
+    "emulated": false
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "7z098goz",
+    "game": "Stranglehold",
+    "player": "Mattie",
+    "player_location": "us",
+    "time": 173,
+    "category": "Casual",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "6yj6023z",
+    "game": "Stranglehold",
+    "player": "Bonesaw577",
+    "player_location": "ca",
+    "time": 4056,
+    "category": "Any%",
+    "region": null,
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "8y8r72xm",
+    "game": "Stranglehold",
+    "player": "Tojimaru",
+    "player_location": "us",
+    "time": 3450,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y95k18nz",
+    "game": "Stranglehold",
+    "player": "HopeTrash",
+    "player_location": "fr",
+    "time": 6540,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "me47oq8y",
+    "game": "Stranglehold",
+    "player": "Zzzonked",
+    "player_location": "ru",
+    "time": 3366,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  }
+]

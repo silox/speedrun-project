@@ -1,0 +1,35 @@
+[
+  {
+    "id": "emk9q1xz",
+    "game": "Amazing Island",
+    "player": "Yashichi",
+    "player_location": null,
+    "time": 4883,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "1zqdnp1m",
+    "game": "Amazing Island",
+    "player": "beekle",
+    "player_location": "us",
+    "time": 4825,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "mex6o83z",
+    "game": "Amazing Island",
+    "player": "BlazinZzetti",
+    "player_location": "us",
+    "time": 4761,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "yd9qjxjz",
+    "game": "Nintendo World Cup",
+    "player": "DJBunyan",
+    "player_location": "us",
+    "time": 6622,
+    "category": "Tournament (1P)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "yo3wkw5y",
+    "game": "Nintendo World Cup",
+    "player": "theGlitch86",
+    "player_location": "us",
+    "time": 6781,
+    "category": "Tournament (1P)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "ydw6odxm",
+    "game": "Nintendo World Cup",
+    "player": "funknasty171",
+    "player_location": "us",
+    "time": 10229,
+    "category": "Tournament (1P)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "yodwxd0m",
+    "game": "Nintendo World Cup",
+    "player": "ArkanoidAddict",
+    "player_location": "fi",
+    "time": 11020,
+    "category": "Tournament (1P)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  }
+]

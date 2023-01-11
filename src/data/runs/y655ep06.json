@@ -1,0 +1,35 @@
+[
+  {
+    "id": "y2e1pq7y",
+    "game": "F-1 Dream",
+    "player": "manticor5",
+    "player_location": "cl",
+    "time": 49.78,
+    "category": "Time Trial (1 Lap)",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y2pl3l7z",
+    "game": "F-1 Dream",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 50.13,
+    "category": "Time Trial (1 Lap)",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zq7x24xm",
+    "game": "F-1 Dream",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 49.3,
+    "category": "Time Trial (1 Lap)",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

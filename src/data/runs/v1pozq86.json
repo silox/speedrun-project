@@ -1,0 +1,46 @@
+[
+  {
+    "id": "ywpr6knz",
+    "game": "Kung Fu Master (Arcade)",
+    "player": "HurricaneMixer",
+    "player_location": "us",
+    "time": 256,
+    "category": "1-Loop",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": false
+  },
+  {
+    "id": "yo2nd65z",
+    "game": "Kung Fu Master (Arcade)",
+    "player": "INNUENDO_DF",
+    "player_location": null,
+    "time": 272,
+    "category": "1-Loop",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": false
+  },
+  {
+    "id": "y81rqdxz",
+    "game": "Kung Fu Master (Arcade)",
+    "player": "Janet",
+    "player_location": null,
+    "time": 254,
+    "category": "1-Loop",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "m7783wwm",
+    "game": "Kung Fu Master (Arcade)",
+    "player": "Rog_pf",
+    "player_location": "br",
+    "time": 252,
+    "category": "1-Loop",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

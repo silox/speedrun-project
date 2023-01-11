@@ -1,0 +1,178 @@
+[
+  {
+    "id": "7z0pg18y",
+    "game": "Breath of Fire",
+    "player": "nihil922",
+    "player_location": "se",
+    "time": 18836,
+    "category": "SNES",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "mk9n0wvz",
+    "game": "Breath of Fire",
+    "player": "Jiseed",
+    "player_location": "ca",
+    "time": 13357,
+    "category": "GBA",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": false
+  },
+  {
+    "id": "dy4eveqm",
+    "game": "Breath of Fire",
+    "player": "\u306a\u3080\u3045",
+    "player_location": null,
+    "time": 23505,
+    "category": "SFC",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "jy9x712y",
+    "game": "Breath of Fire",
+    "player": "chibizer0",
+    "player_location": "au",
+    "time": 14859,
+    "category": "GBA",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": false
+  },
+  {
+    "id": "wzpo0rrm",
+    "game": "Breath of Fire",
+    "player": "RyuQuezacotl",
+    "player_location": "ca",
+    "time": 18707,
+    "category": "SNES",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y604dqjy",
+    "game": "Breath of Fire",
+    "player": "GinTatsu2",
+    "player_location": "ca",
+    "time": 18445,
+    "category": "SNES",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "zn8qlp8z",
+    "game": "Breath of Fire",
+    "player": "Tavetendo",
+    "player_location": "us",
+    "time": 19816,
+    "category": "SNES",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "me84463m",
+    "game": "Breath of Fire",
+    "player": "Garoukami",
+    "player_location": "de",
+    "time": 14265,
+    "category": "GBA",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "y89l8w5m",
+    "game": "Breath of Fire",
+    "player": "AndyPerfect",
+    "player_location": "us",
+    "time": 19140,
+    "category": "SNES",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "meo4550z",
+    "game": "Breath of Fire",
+    "player": "noraystra",
+    "player_location": "us",
+    "time": 3476,
+    "category": "DeeJ% / \u30d0\u30f3\u30d6\u30fc%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "z5jd48gm",
+    "game": "Breath of Fire",
+    "player": "Wildfireskunk",
+    "player_location": "gb/eng",
+    "time": 3216,
+    "category": "DeeJ% / \u30d0\u30f3\u30d6\u30fc%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "zpr90o8m",
+    "game": "Breath of Fire",
+    "player": "RudolfFahrenheit",
+    "player_location": "us",
+    "time": 13555,
+    "category": "GBA",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "y4w7pgkm",
+    "game": "Breath of Fire",
+    "player": "Dullahan",
+    "player_location": null,
+    "time": 3539,
+    "category": "DeeJ% / \u30d0\u30f3\u30d6\u30fc%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "yde0n10m",
+    "game": "Breath of Fire",
+    "player": "Highspirits",
+    "player_location": "us",
+    "time": 19212,
+    "category": "SNES",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "zg2vdk0y",
+    "game": "Breath of Fire",
+    "player": "FURA",
+    "player_location": "jp",
+    "time": 3265,
+    "category": "DeeJ% / \u30d0\u30f3\u30d6\u30fc%",
+    "region": "JPN / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "z0lew94z",
+    "game": "Breath of Fire",
+    "player": "rujasu",
+    "player_location": "us",
+    "time": 3756,
+    "category": "DeeJ% / \u30d0\u30f3\u30d6\u30fc%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  }
+]

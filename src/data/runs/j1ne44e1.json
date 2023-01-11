@@ -1,0 +1,90 @@
+[
+  {
+    "id": "m3dw43dz",
+    "game": "",
+    "player": "RyuukaShinrai",
+    "player_location": "de",
+    "time": 1392.8,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "zn89l2vz",
+    "game": "",
+    "player": "Blank",
+    "player_location": "se",
+    "time": 1254.3,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "z51wg05m",
+    "game": "",
+    "player": "lostontheinternet",
+    "player_location": "it",
+    "time": 1317.6,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "zgwr200y",
+    "game": "Disney's Aladdin (GBA)",
+    "player": "kalarse",
+    "player_location": "uy",
+    "time": 1237,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Player",
+    "emulated": false
+  },
+  {
+    "id": "z5r569gy",
+    "game": "Disney's Aladdin (GBA)",
+    "player": "zero_557",
+    "player_location": "co",
+    "time": 1186,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "zgkwqwny",
+    "game": "Disney's Aladdin (GBA)",
+    "player": "Contos",
+    "player_location": "fr",
+    "time": 1471.6,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "ylor9ony",
+    "game": "Disney's Aladdin (GBA)",
+    "player": "baTz",
+    "player_location": "br",
+    "time": 1188,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "m36k2rqm",
+    "game": "Disney's Aladdin (GBA)",
+    "player": "tonyy",
+    "player_location": "br",
+    "time": 1447,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  }
+]

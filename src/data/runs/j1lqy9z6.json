@@ -1,0 +1,24 @@
+[
+  {
+    "id": "z0og7pjz",
+    "game": "Valis III",
+    "player": "Inubito",
+    "player_location": "us",
+    "time": 1647,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16 CD-ROM",
+    "emulated": false
+  },
+  {
+    "id": "zq794gxm",
+    "game": "Valis III",
+    "player": "IrateMexican",
+    "player_location": "mx",
+    "time": 1960,
+    "category": "Any%",
+    "region": null,
+    "platform": "TurboGrafx-16 CD-ROM",
+    "emulated": false
+  }
+]

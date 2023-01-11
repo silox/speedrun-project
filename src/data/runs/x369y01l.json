@@ -1,0 +1,35 @@
+[
+  {
+    "id": "1zqrdw8y",
+    "game": "",
+    "player": "JustinDT",
+    "player_location": "ca/qc",
+    "time": 3861,
+    "category": "Sequential",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": false
+  },
+  {
+    "id": "pzgp30z2",
+    "game": "",
+    "player": "TPositive",
+    "player_location": "us",
+    "time": 4330,
+    "category": "Sequential",
+    "region": "USA / NTSC",
+    "platform": "Wii Virtual Console",
+    "emulated": false
+  },
+  {
+    "id": "1zxk3xem",
+    "game": "",
+    "player": "Karl_Jobst",
+    "player_location": null,
+    "time": 3057,
+    "category": "Continuous",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": false
+  }
+]

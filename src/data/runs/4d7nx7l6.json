@@ -1,0 +1,24 @@
+[
+  {
+    "id": "y47w423y",
+    "game": "Dungeon Explorer II",
+    "player": "dnkcafe",
+    "player_location": "us",
+    "time": 1674,
+    "category": "Console Any%",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16 CD-ROM",
+    "emulated": false
+  },
+  {
+    "id": "y935r7vy",
+    "game": "Dungeon Explorer II",
+    "player": "ratfunk",
+    "player_location": "us",
+    "time": 5128,
+    "category": "Emulator Any%",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16 CD-ROM",
+    "emulated": true
+  }
+]

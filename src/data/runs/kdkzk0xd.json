@@ -1,0 +1,90 @@
+[
+  {
+    "id": "yo28ppjz",
+    "game": "Samurai Shodown II",
+    "player": "Fox-omegasurfer",
+    "player_location": "mx",
+    "time": 886,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": false
+  },
+  {
+    "id": "y6l8o9qy",
+    "game": "Samurai Shodown II",
+    "player": "Regyszord_BR",
+    "player_location": "br",
+    "time": 900.05,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z5jlxgem",
+    "game": "Samurai Shodown II",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 1289,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y8r4301m",
+    "game": "Samurai Shodown II",
+    "player": "Crono37",
+    "player_location": "us",
+    "time": 1159.02,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Xbox",
+    "emulated": false
+  },
+  {
+    "id": "y2v31g5z",
+    "game": "Samurai Shodown II",
+    "player": "GrampyBack",
+    "player_location": "us",
+    "time": 1074,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zn7g168m",
+    "game": "Samurai Shodown II",
+    "player": "raffa_gs",
+    "player_location": "br",
+    "time": 947,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "ydd3vwxy",
+    "game": "Samurai Shodown II",
+    "player": "Doctor_zyd",
+    "player_location": "cl",
+    "time": 815.11,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z0neqjom",
+    "game": "Samurai Shodown II",
+    "player": "CesarD",
+    "player_location": "cl",
+    "time": 811.99,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

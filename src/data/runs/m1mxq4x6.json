@@ -1,0 +1,46 @@
+[
+  {
+    "id": "y6rgn56y",
+    "game": "Need for Speed: Carbon Own the City (GBA)",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 82.4,
+    "category": "Best time",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "yo77dq0m",
+    "game": "Need for Speed: Carbon Own the City (GBA)",
+    "player": "goldenONX",
+    "player_location": "ro",
+    "time": 36.8,
+    "category": "Best time",
+    "region": null,
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "y69x6lpy",
+    "game": "Need for Speed: Carbon Own the City (GBA)",
+    "player": "Luisupdt",
+    "player_location": "mx",
+    "time": 81.81,
+    "category": "Best time",
+    "region": null,
+    "platform": "Game Boy Advance",
+    "emulated": false
+  },
+  {
+    "id": "y6ollopy",
+    "game": "Need for Speed: Carbon Own the City (GBA)",
+    "player": "PlayFast",
+    "player_location": "ru",
+    "time": 7956,
+    "category": "Any%",
+    "region": null,
+    "platform": "Game Boy Advance",
+    "emulated": true
+  }
+]

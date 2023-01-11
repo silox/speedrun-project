@@ -1,0 +1,35 @@
+[
+  {
+    "id": "yd3wn9wz",
+    "game": "",
+    "player": "TheConsoleKiller",
+    "player_location": null,
+    "time": 516,
+    "category": "Story Mode",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "z5r39qgy",
+    "game": "",
+    "player": "DBcade",
+    "player_location": "jp",
+    "time": 301,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z0p61koy",
+    "game": "Psychic Force",
+    "player": "AmenAnthem",
+    "player_location": "at",
+    "time": 254,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  }
+]

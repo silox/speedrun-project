@@ -1,0 +1,24 @@
+[
+  {
+    "id": "mr7w8wdz",
+    "game": "Kunio-kun no Nekketsu Soccer League",
+    "player": "FranDanBe",
+    "player_location": "mx",
+    "time": 7.778,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "zp9e21vm",
+    "game": "Kunio-kun no Nekketsu Soccer League",
+    "player": "daff",
+    "player_location": "ru",
+    "time": 15,
+    "category": "1 Goal",
+    "region": null,
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  }
+]

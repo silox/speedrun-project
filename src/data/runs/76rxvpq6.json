@@ -1,0 +1,46 @@
+[
+  {
+    "id": "mkd63qvy",
+    "game": "Lode Runner",
+    "player": "NESCardinality",
+    "player_location": "ca",
+    "time": 3141,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y66ng6jy",
+    "game": "Lode Runner",
+    "player": "Darthclops",
+    "player_location": "id",
+    "time": 3522,
+    "category": "50 Levels",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "m3rxpjwm",
+    "game": "Lode Runner",
+    "player": "Neural89",
+    "player_location": "ua",
+    "time": 3242,
+    "category": "50 Levels",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zggjvd0z",
+    "game": "Lode Runner",
+    "player": "JosephHTobinJr",
+    "player_location": "ru",
+    "time": 3203,
+    "category": "50 Levels",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  }
+]

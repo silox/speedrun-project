@@ -1,0 +1,57 @@
+[
+  {
+    "id": "mrq471dy",
+    "game": "SOCOM Combined Assault",
+    "player": "Plierr",
+    "player_location": "us",
+    "time": 157,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "znqrjvlz",
+    "game": "SOCOM Combined Assault",
+    "player": "BRAGme",
+    "player_location": "us",
+    "time": 99,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "y43j7rqz",
+    "game": "SOCOM Combined Assault",
+    "player": "RaxWrax",
+    "player_location": null,
+    "time": 139,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y6x43njy",
+    "game": "SOCOM Combined Assault",
+    "player": "LakeDemon",
+    "player_location": "im",
+    "time": 94,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "yddg0qwy",
+    "game": "SOCOM Combined Assault",
+    "player": "Molotov",
+    "player_location": "us",
+    "time": 104,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  }
+]

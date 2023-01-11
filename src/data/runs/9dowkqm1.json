@@ -1,0 +1,35 @@
+[
+  {
+    "id": "y23lp06m",
+    "game": "The Super Shinobi",
+    "player": "WhiteHat94",
+    "player_location": "us",
+    "time": 789,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y9746vnm",
+    "game": "The Super Shinobi",
+    "player": "Rayquaza911",
+    "player_location": "ca",
+    "time": 710,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "z5rx735y",
+    "game": "The Super Shinobi",
+    "player": "Arcotoko",
+    "player_location": "ca/qc",
+    "time": 1268,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  }
+]

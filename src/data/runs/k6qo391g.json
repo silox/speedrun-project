@@ -1,0 +1,112 @@
+[
+  {
+    "id": "7z08jgem",
+    "game": "Die Hard (Arcade)",
+    "player": "Shikitin",
+    "player_location": "es",
+    "time": 1329,
+    "category": "Beat the game (Arcade)",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": false
+  },
+  {
+    "id": "yvj3n2xy",
+    "game": "Die Hard (Arcade)",
+    "player": "mitjitsu",
+    "player_location": "gb/sct",
+    "time": 666,
+    "category": "Beat the game (Saturn)",
+    "region": "USA / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "y437w4nz",
+    "game": "Die Hard (Arcade)",
+    "player": "The_Retro_Challenger",
+    "player_location": "ca/qc",
+    "time": 812,
+    "category": "Beat the game (Saturn)",
+    "region": "USA / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "y95861kz",
+    "game": "Die Hard (Arcade)",
+    "player": "RitaH",
+    "player_location": "br",
+    "time": 1501,
+    "category": "Beat the game (Arcade)",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zprponrm",
+    "game": "Die Hard (Arcade)",
+    "player": "kymok",
+    "player_location": null,
+    "time": 657,
+    "category": "Beat the game (PS2)",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y654751z",
+    "game": "Die Hard (Arcade)",
+    "player": "Rashok",
+    "player_location": "pl",
+    "time": 1156,
+    "category": "Beat the game (Arcade)",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yj16xdgy",
+    "game": "Die Hard (Arcade)",
+    "player": "Whoisitgoodfor",
+    "player_location": "us",
+    "time": 913,
+    "category": "Beat the game (Saturn)",
+    "region": "USA / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "y4r27pqz",
+    "game": "Die Hard (Arcade)",
+    "player": "sanlamuerte69",
+    "player_location": "ar",
+    "time": 1070,
+    "category": "Beat the game (Arcade)",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": false
+  },
+  {
+    "id": "y203x89m",
+    "game": "Die Hard (Arcade)",
+    "player": "silverwings21",
+    "player_location": "us",
+    "time": 806,
+    "category": "Beat the game (Saturn)",
+    "region": "USA / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "m3379j6m",
+    "game": "Die Hard (Arcade)",
+    "player": "Planetaryashes",
+    "player_location": "au",
+    "time": 993,
+    "category": "Beat the game (Arcade)",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": false
+  }
+]

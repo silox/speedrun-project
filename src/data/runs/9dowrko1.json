@@ -1,0 +1,79 @@
+[
+  {
+    "id": "zgx2d3vm",
+    "game": "V-Rally '97 Championship Edition",
+    "player": "ViperUK",
+    "player_location": "gb/eng",
+    "time": 3135.49,
+    "category": "Arcade",
+    "region": "EUR / PAL",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "y21e7q9z",
+    "game": "V-Rally '97 Championship Edition",
+    "player": "RQL_ADR",
+    "player_location": "br",
+    "time": 3184.89,
+    "category": "Arcade",
+    "region": "EUR / PAL",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "mke2ve3m",
+    "game": "V-Rally '97 Championship Edition",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 72.73,
+    "category": "SS1",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "y8j0r7nz",
+    "game": "V-Rally '97 Championship Edition",
+    "player": "ThrasherDBS",
+    "player_location": "us",
+    "time": 60.23,
+    "category": "SS2",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "m7w4919z",
+    "game": "V-Rally '97 Championship Edition",
+    "player": "SEGARALLY",
+    "player_location": null,
+    "time": 57.3,
+    "category": "SS2",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "zxndxx8m",
+    "game": "V-Rally '97 Championship Edition",
+    "player": "Andry66power",
+    "player_location": "it",
+    "time": 3560,
+    "category": "Arcade",
+    "region": "EUR / PAL",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "y96nl4ry",
+    "game": "V-Rally '97 Championship Edition",
+    "player": "Canadian_Gamer",
+    "player_location": "ca",
+    "time": 68.13,
+    "category": "SS1",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  }
+]

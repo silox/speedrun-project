@@ -1,0 +1,46 @@
+[
+  {
+    "id": "m3786p4z",
+    "game": "Chase H.Q. (Arcade)",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 665,
+    "category": "Beat The Game",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yle2xxxz",
+    "game": "Chase H.Q. (Arcade)",
+    "player": "Gradient41",
+    "player_location": "us",
+    "time": 581,
+    "category": "Beat The Game",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z0pkwl4y",
+    "game": "Chase H.Q. (Arcade)",
+    "player": "Arran",
+    "player_location": null,
+    "time": 576,
+    "category": "Beat The Game",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y88vx65y",
+    "game": "Chase H.Q. (Arcade)",
+    "player": "Dumple",
+    "player_location": "us",
+    "time": 615,
+    "category": "Beat The Game",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

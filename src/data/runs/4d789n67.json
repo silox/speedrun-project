@@ -1,0 +1,79 @@
+[
+  {
+    "id": "pzg8w6dy",
+    "game": "PAYDAY 2 - Tournament",
+    "player": "Richard",
+    "player_location": null,
+    "time": 655,
+    "category": "Tournament Version",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "wzpprogz",
+    "game": "PAYDAY 2 - Tournament",
+    "player": "B2Y_Chris",
+    "player_location": null,
+    "time": 626,
+    "category": "Tournament Version",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "8m73gley",
+    "game": "PAYDAY 2 - Tournament",
+    "player": "J_Aleksey",
+    "player_location": null,
+    "time": 608,
+    "category": "Tournament Version",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "kz5kjwnz",
+    "game": "PAYDAY 2 - Tournament",
+    "player": "EG_Jakob",
+    "player_location": null,
+    "time": 599,
+    "category": "Tournament Version",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "0znx2n8y",
+    "game": "PAYDAY 2 - Tournament",
+    "player": "zhester",
+    "player_location": "ru",
+    "time": 625,
+    "category": "Tournament Version",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yvgog2xy",
+    "game": "PAYDAY 2 - Tournament",
+    "player": "AJValentine",
+    "player_location": "gb/eng",
+    "time": 874,
+    "category": "Tournament Version",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yo221p1z",
+    "game": "PAYDAY 2 - Tournament",
+    "player": "BHSarchangelPHS",
+    "player_location": "kr",
+    "time": 877,
+    "category": "Tournament Version",
+    "region": "KOR / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

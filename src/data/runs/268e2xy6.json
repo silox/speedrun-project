@@ -1,0 +1,90 @@
+[
+  {
+    "id": "mk9rno3z",
+    "game": "The Last Blade",
+    "player": "marco_battousai",
+    "player_location": "br",
+    "time": 534,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y6dr626m",
+    "game": "The Last Blade",
+    "player": "MortimerNova",
+    "player_location": "us",
+    "time": 500,
+    "category": "PC",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m3r6k16m",
+    "game": "The Last Blade",
+    "player": "Vandagill",
+    "player_location": "jp",
+    "time": 417,
+    "category": "PC",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yjg1g07y",
+    "game": "The Last Blade",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 463,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "mkg5ok5y",
+    "game": "The Last Blade",
+    "player": "DBcade",
+    "player_location": "jp",
+    "time": 456,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "mrnn62gy",
+    "game": "The Last Blade",
+    "player": "Kureina",
+    "player_location": "fr",
+    "time": 378,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yo7pkkdm",
+    "game": "The Last Blade",
+    "player": "LeandroAmadeu",
+    "player_location": "br",
+    "time": 824,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yo78r35m",
+    "game": "The Last Blade",
+    "player": "Kaz0uya",
+    "player_location": "fr",
+    "time": 580,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

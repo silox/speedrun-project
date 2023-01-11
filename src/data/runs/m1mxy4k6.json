@@ -1,0 +1,24 @@
+[
+  {
+    "id": "y8vxjkxz",
+    "game": "Mega Man X Challenge 1 HP",
+    "player": "Maatooh",
+    "player_location": "cl",
+    "time": 3945,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "ywqjg23y",
+    "game": "Mega Man X Challenge 1 HP",
+    "player": "Tavotron",
+    "player_location": "cl",
+    "time": 2470,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  }
+]

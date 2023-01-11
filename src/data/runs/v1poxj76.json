@@ -1,0 +1,24 @@
+[
+  {
+    "id": "yl4l9e3m",
+    "game": "Cyber Troopers Virtual-On Marz",
+    "player": "KeynNaka",
+    "player_location": "jp",
+    "time": 7764,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "y6676qpy",
+    "game": "Cyber Troopers Virtual-On Marz",
+    "player": "zirco",
+    "player_location": "jp",
+    "time": 8080,
+    "category": "New Game +",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  }
+]

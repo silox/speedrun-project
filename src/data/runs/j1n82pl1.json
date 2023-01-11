@@ -1,0 +1,79 @@
+[
+  {
+    "id": "zgp728nz",
+    "game": "Seraph's Last Stand",
+    "player": "Liflex",
+    "player_location": "br",
+    "time": 83,
+    "category": "",
+    "region": "BRA / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y2p3rnjz",
+    "game": "Seraph's Last Stand",
+    "player": "du_madness26",
+    "player_location": "br",
+    "time": 99,
+    "category": "5 Waves",
+    "region": "BRA / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yjp15k7y",
+    "game": "Seraph's Last Stand",
+    "player": "SpookyBlush",
+    "player_location": null,
+    "time": 56.933,
+    "category": "5 Waves",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y2p7ov5z",
+    "game": "Seraph's Last Stand",
+    "player": "ninja200830",
+    "player_location": "br",
+    "time": 59.57,
+    "category": "5 Waves",
+    "region": "BRA / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y9vvj3nm",
+    "game": "Seraph's Last Stand",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 322,
+    "category": "",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "znj46q7m",
+    "game": "Seraph's Last Stand",
+    "player": "gdfre",
+    "player_location": "br",
+    "time": 37.03,
+    "category": "",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mro8342m",
+    "game": "Seraph's Last Stand",
+    "player": "SanSg",
+    "player_location": "br",
+    "time": 35.12,
+    "category": "5 Waves NOHIT",
+    "region": "BRA / PAL",
+    "platform": "PC",
+    "emulated": false
+  }
+]

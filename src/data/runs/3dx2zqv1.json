@@ -1,0 +1,35 @@
+[
+  {
+    "id": "m3dpnvdz",
+    "game": "Psychic World (GG)",
+    "player": "JkLoser",
+    "player_location": "se",
+    "time": 653,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Game Gear",
+    "emulated": true
+  },
+  {
+    "id": "z0eg609m",
+    "game": "Psychic World (GG)",
+    "player": "takojaki",
+    "player_location": "eu",
+    "time": 867,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Game Gear",
+    "emulated": true
+  },
+  {
+    "id": "zn06398y",
+    "game": "Psychic World (GG)",
+    "player": "Yuyukichi",
+    "player_location": "jp",
+    "time": 683,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Sega Game Gear",
+    "emulated": true
+  }
+]

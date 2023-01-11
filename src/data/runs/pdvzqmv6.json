@@ -1,0 +1,57 @@
+[
+  {
+    "id": "zqw29grz",
+    "game": "Hook (Arcade)",
+    "player": "Peanutfan22",
+    "player_location": "us",
+    "time": 1696,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "mk3odglz",
+    "game": "Hook (Arcade)",
+    "player": "RitaH",
+    "player_location": "br",
+    "time": 1390,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y2dng4wz",
+    "game": "Hook (Arcade)",
+    "player": "chucksnake",
+    "player_location": "fr",
+    "time": 1563,
+    "category": "Default",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "ydwqnjqm",
+    "game": "Hook (Arcade)",
+    "player": "Hoover",
+    "player_location": "kr",
+    "time": 929,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "mejpog9y",
+    "game": "Hook (Arcade)",
+    "player": "CartridgeKing",
+    "player_location": "ca",
+    "time": 1564,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

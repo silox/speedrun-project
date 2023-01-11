@@ -1,0 +1,46 @@
+[
+  {
+    "id": "y994n02y",
+    "game": "",
+    "player": "CreativeEly",
+    "player_location": "us",
+    "time": 11555,
+    "category": "Any%",
+    "region": null,
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "yj5gg4nm",
+    "game": "",
+    "player": "o4ma",
+    "player_location": "jp",
+    "time": 8175,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "ywjl343z",
+    "game": "Dragon Quest III (Switch)",
+    "player": "V1046R_MCN",
+    "player_location": "jp",
+    "time": 8927,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "yv076xez",
+    "game": "Dragon Quest III (Switch)",
+    "player": "Yujisan",
+    "player_location": "jp",
+    "time": 7576,
+    "category": "Any% JP",
+    "region": "JPN / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  }
+]

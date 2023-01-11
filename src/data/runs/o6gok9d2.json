@@ -1,0 +1,46 @@
+[
+  {
+    "id": "8y80xexm",
+    "game": "MotoGP",
+    "player": "DJAtomika",
+    "player_location": "ch",
+    "time": 54.41,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "dy4gx72y",
+    "game": "MotoGP",
+    "player": "GangsterFreak",
+    "player_location": "gb/eng",
+    "time": 56.13,
+    "category": "Best Lap (Time attack)",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "m3109o6z",
+    "game": "MotoGP",
+    "player": "Fe2rr",
+    "player_location": "uy",
+    "time": 81.01,
+    "category": "Best Lap (Time attack)",
+    "region": null,
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "mr6v7j2m",
+    "game": "MotoGP",
+    "player": "sportskid0809",
+    "player_location": "us",
+    "time": 120.09,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  }
+]

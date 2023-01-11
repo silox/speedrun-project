@@ -1,0 +1,167 @@
+[
+  {
+    "id": "z01l0ney",
+    "game": "Fable",
+    "player": "TwoWorlds",
+    "player_location": "eg",
+    "time": 5834,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Xbox",
+    "emulated": false
+  },
+  {
+    "id": "yojpv45m",
+    "game": "Fable",
+    "player": "YayodelaRiva",
+    "player_location": "mx",
+    "time": 5054,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Xbox",
+    "emulated": false
+  },
+  {
+    "id": "znr7e4ly",
+    "game": "Fable",
+    "player": "Etem",
+    "player_location": "gb",
+    "time": 5157,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Xbox",
+    "emulated": false
+  },
+  {
+    "id": "m76wn19y",
+    "game": "Fable",
+    "player": "SeraVenza",
+    "player_location": "us",
+    "time": 4427,
+    "category": "Any%",
+    "region": null,
+    "platform": "Xbox",
+    "emulated": false
+  },
+  {
+    "id": "yl03rdny",
+    "game": "Fable",
+    "player": "Mytus",
+    "player_location": "au",
+    "time": 5224,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "ywp0352z",
+    "game": "Fable",
+    "player": "Benafar",
+    "player_location": "us",
+    "time": 5756,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "y432nkdz",
+    "game": "Fable",
+    "player": "GreenBomber",
+    "player_location": "us",
+    "time": 8092,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Xbox",
+    "emulated": false
+  },
+  {
+    "id": "z013xp8y",
+    "game": "Fable",
+    "player": "Alexo",
+    "player_location": "us",
+    "time": 6860,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "mr44xpgz",
+    "game": "Fable",
+    "player": "Budget_Builds",
+    "player_location": "gb",
+    "time": 4791,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Xbox",
+    "emulated": false
+  },
+  {
+    "id": "ylo6n1ny",
+    "game": "Fable",
+    "player": "RedOctorok",
+    "player_location": null,
+    "time": 5685,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Xbox",
+    "emulated": false
+  },
+  {
+    "id": "m35wpx4y",
+    "game": "Fable",
+    "player": "RustInDirt",
+    "player_location": "us",
+    "time": 7244,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Xbox",
+    "emulated": false
+  },
+  {
+    "id": "y489kvnm",
+    "game": "Fable",
+    "player": "smartalec24",
+    "player_location": "us",
+    "time": 6394,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "y60dnvpy",
+    "game": "Fable",
+    "player": "Ligitacy",
+    "player_location": "us",
+    "time": 4932,
+    "category": "Any%",
+    "region": null,
+    "platform": "Xbox",
+    "emulated": false
+  },
+  {
+    "id": "m7xprdey",
+    "game": "Fable",
+    "player": "MegaJonesy",
+    "player_location": "us",
+    "time": 5634,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Xbox",
+    "emulated": false
+  },
+  {
+    "id": "y2ev815y",
+    "game": "Fable",
+    "player": "Wyntilda",
+    "player_location": "us",
+    "time": 8646,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Xbox",
+    "emulated": false
+  }
+]

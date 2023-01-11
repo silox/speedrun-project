@@ -1,0 +1,46 @@
+[
+  {
+    "id": "yj6xglgz",
+    "game": "",
+    "player": "LegendZaps",
+    "player_location": "br",
+    "time": 1019.193,
+    "category": "Homecoming (Chapter 1 - 12)",
+    "region": null,
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "y2dpr97z",
+    "game": "",
+    "player": "KokichiOma",
+    "player_location": null,
+    "time": 130.021,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y4ek7w3m",
+    "game": "Sakura Blade",
+    "player": "Soymole",
+    "player_location": "us",
+    "time": 384,
+    "category": "Homecoming (Chapter 1 - 12)",
+    "region": "USA / NTSC",
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "y2v06pwz",
+    "game": "Sakura Blade",
+    "player": "Stablizer",
+    "player_location": "us",
+    "time": 350.53,
+    "category": "Homecoming (Chapter 1 - 12)",
+    "region": "USA / NTSC",
+    "platform": "Android",
+    "emulated": false
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "id": "yo2l0wjz",
+    "game": "Bloody Roar",
+    "player": "DagMonsta",
+    "player_location": "nz",
+    "time": 143.25,
+    "category": "Arcade (1 Round, Free for All)",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "y6pj171m",
+    "game": "Bloody Roar",
+    "player": "Maiguels",
+    "player_location": "es",
+    "time": 639.46,
+    "category": "Arcade (2 Rounds, Free for All)",
+    "region": "EUR / PAL",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "me7ok2qy",
+    "game": "Bloody Roar",
+    "player": "SCXCR",
+    "player_location": "us",
+    "time": 8.7,
+    "category": "Arcade (1 Round, Free for All)",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "y6ljj20y",
+    "game": "Bloody Roar",
+    "player": "Despera",
+    "player_location": "be",
+    "time": 59.68,
+    "category": "Arcade (2 Rounds, Free for All)",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y41d72ky",
+    "game": "Bloody Roar",
+    "player": "Hoody",
+    "player_location": "gb",
+    "time": 566.15,
+    "category": "Arcade (2 Rounds, Default%)",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "mk3x8e5z",
+    "game": "Bloody Roar",
+    "player": "MortimerNova",
+    "player_location": "us",
+    "time": 21.78,
+    "category": "Arcade (1 Round, Free for All)",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "mrk3elgy",
+    "game": "Bloody Roar",
+    "player": "Vriaeliss",
+    "player_location": "us",
+    "time": 9.76,
+    "category": "Arcade (1 Round, Free for All)",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "m78j6nwz",
+    "game": "Bloody Roar",
+    "player": "TheMechaKong",
+    "player_location": "ca",
+    "time": 617.98,
+    "category": "Arcade (2 Rounds, Default%)",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "y6dkl91m",
+    "game": "Bloody Roar",
+    "player": "The_Flame_N",
+    "player_location": "gb/nir",
+    "time": 8.31,
+    "category": "Arcade (1 Round, Free for All)",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "z12w1pgy",
+    "game": "Bloody Roar",
+    "player": "poblin",
+    "player_location": "kr",
+    "time": 280.73,
+    "category": "Max Difficulty",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "m3xvkgwm",
+    "game": "Bloody Roar",
+    "player": "MaykHibiki",
+    "player_location": "br",
+    "time": 229.35,
+    "category": "Arcade (1 Round, Default%)",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "z5x4p3ny",
+    "game": "Bloody Roar",
+    "player": "nubi",
+    "player_location": "gb/eng",
+    "time": 298.2,
+    "category": "Time Attack",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  }
+]

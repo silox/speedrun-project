@@ -1,0 +1,101 @@
+[
+  {
+    "id": "z50gg6dy",
+    "game": "Aqua Box",
+    "player": "FrostySR",
+    "player_location": null,
+    "time": 30.667,
+    "category": "Time Taken",
+    "region": "EUR / PAL",
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "y66gnn0y",
+    "game": "Aqua Box",
+    "player": "sle4pr",
+    "player_location": "tr",
+    "time": 54.85,
+    "category": "Time Taken",
+    "region": "EUR / PAL",
+    "platform": null,
+    "emulated": false
+  },
+  {
+    "id": "z50l24gy",
+    "game": "Aqua Box",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 95.767,
+    "category": "Time Taken",
+    "region": null,
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "m3nwwr4y",
+    "game": "Aqua Box",
+    "player": "ElbowGod",
+    "player_location": "us",
+    "time": 52.117,
+    "category": "All Plants",
+    "region": null,
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "y8vnpddz",
+    "game": "Aqua Box",
+    "player": "Catlico",
+    "player_location": "dk",
+    "time": 3.1,
+    "category": "Time Taken",
+    "region": null,
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "zn1rg79m",
+    "game": "Aqua Box",
+    "player": "LeJuanix",
+    "player_location": "ar",
+    "time": 50.56,
+    "category": "All Plants",
+    "region": null,
+    "platform": null,
+    "emulated": false
+  },
+  {
+    "id": "m7dgrlwm",
+    "game": "Aqua Box",
+    "player": "Woofybooo",
+    "player_location": "us",
+    "time": 133.9,
+    "category": "100%",
+    "region": null,
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "z0o7geez",
+    "game": "Aqua Box",
+    "player": "thebrokenvcr",
+    "player_location": "us",
+    "time": 26.2,
+    "category": "All Plants",
+    "region": null,
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "yor50k7y",
+    "game": "Aqua Box",
+    "player": "JeelSpeed",
+    "player_location": "zw",
+    "time": 30.5,
+    "category": "Time Taken",
+    "region": null,
+    "platform": "Web",
+    "emulated": false
+  }
+]

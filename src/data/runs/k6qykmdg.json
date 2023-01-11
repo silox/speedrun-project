@@ -1,0 +1,123 @@
+[
+  {
+    "id": "pzgx8jjm",
+    "game": "Mario Kart Arcade GP",
+    "player": "gavme",
+    "player_location": "gb/eng",
+    "time": 113.602,
+    "category": "Time Trial",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "9yo7pwjm",
+    "game": "Mario Kart Arcade GP",
+    "player": "MHFsilver",
+    "player_location": "us",
+    "time": 116.468,
+    "category": "Time Trial",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "1zq12n1m",
+    "game": "Mario Kart Arcade GP",
+    "player": "DragangProductions",
+    "player_location": "gb/eng",
+    "time": 107.109,
+    "category": "Time Trial",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "ydq17qqm",
+    "game": "Mario Kart Arcade GP",
+    "player": "AtomicHex",
+    "player_location": null,
+    "time": 5226,
+    "category": "All Cups",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z0r49woz",
+    "game": "Mario Kart Arcade GP",
+    "player": "BostonBrew",
+    "player_location": "us",
+    "time": 617,
+    "category": "DK Cup",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "zprpknrm",
+    "game": "Mario Kart Arcade GP",
+    "player": "KootiePieKoopa",
+    "player_location": "au",
+    "time": 108.689,
+    "category": "Time Trial",
+    "region": "EUR / PAL",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "yd52l1vm",
+    "game": "Mario Kart Arcade GP",
+    "player": "Goomba",
+    "player_location": "nl",
+    "time": 108.746,
+    "category": "Time Trial",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "mk3wej1z",
+    "game": "Mario Kart Arcade GP",
+    "player": "Mister_Castle27",
+    "player_location": "us",
+    "time": 668,
+    "category": "Mario Cup",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "y99wgery",
+    "game": "Mario Kart Arcade GP",
+    "player": "TheOneAndOnlyJam",
+    "player_location": null,
+    "time": 137.141,
+    "category": "Time Trial",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "me7d6d3y",
+    "game": "Mario Kart Arcade GP",
+    "player": "conmangamer22",
+    "player_location": "us",
+    "time": 4376,
+    "category": "All Cups",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "zgq29pny",
+    "game": "Mario Kart Arcade GP",
+    "player": "Zumi",
+    "player_location": "de",
+    "time": 860,
+    "category": "DK Cup",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "zg7jlpjz",
+    "game": "Big Mountain 2000",
+    "player": "42",
+    "player_location": "us",
+    "time": 45.969,
+    "category": "Stage 1",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": true
+  },
+  {
+    "id": "y6pjjqqm",
+    "game": "Big Mountain 2000",
+    "player": "P1ZZAC4T",
+    "player_location": "us",
+    "time": 6210,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": true
+  },
+  {
+    "id": "yw00wl3m",
+    "game": "Big Mountain 2000",
+    "player": "JamminJami",
+    "player_location": "ca",
+    "time": 48.774,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": false
+  },
+  {
+    "id": "zgrgggvm",
+    "game": "Big Mountain 2000",
+    "player": "PrinceShin",
+    "player_location": "pe",
+    "time": 42.867,
+    "category": "Stage 1",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": true
+  }
+]

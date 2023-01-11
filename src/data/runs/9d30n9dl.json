@@ -1,0 +1,68 @@
+[
+  {
+    "id": "zq6r44xy",
+    "game": "",
+    "player": "Veigard",
+    "player_location": "ca",
+    "time": 2817,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "ylr74vny",
+    "game": "",
+    "player": "Nuhai",
+    "player_location": "nl",
+    "time": 2256,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "yvqgpd6m",
+    "game": "",
+    "player": "miggnuggets",
+    "player_location": "us",
+    "time": 10858,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "y9v3nonm",
+    "game": "Yu Yu Hakusho: Dark Tournament",
+    "player": "IzumiChenmeiru",
+    "player_location": "us",
+    "time": 2868,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "zx7qx0ey",
+    "game": "Yu Yu Hakusho: Dark Tournament",
+    "player": "Kaz0uya",
+    "player_location": "fr",
+    "time": 3078,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "yv03r76z",
+    "game": "Yu Yu Hakusho: Dark Tournament",
+    "player": "Krolm",
+    "player_location": "br",
+    "time": 1716,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "id": "dy46wqnz",
+    "game": "Earth Defense Force 4.1 The Shadow of New Despair",
+    "player": "BnH247",
+    "player_location": null,
+    "time": 355.09,
+    "category": "Co-Op",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "ydqddqjm",
+    "game": "Earth Defense Force 4.1 The Shadow of New Despair",
+    "player": "gcooke",
+    "player_location": "us",
+    "time": 22435,
+    "category": "Mission's 1-89 (Solo)",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y8rv83wm",
+    "game": "Earth Defense Force 4.1 The Shadow of New Despair",
+    "player": "TransparentBlue",
+    "player_location": "vh",
+    "time": 11,
+    "category": "Solo",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m7p2jk9m",
+    "game": "Earth Defense Force 4.1 The Shadow of New Despair",
+    "player": "KPM",
+    "player_location": "gb/eng",
+    "time": 248.21,
+    "category": "Solo",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "y89gwexm",
+    "game": "Earth Defense Force 4.1 The Shadow of New Despair",
+    "player": "Neonitiyo",
+    "player_location": "au",
+    "time": 125.94,
+    "category": "Solo",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y9245erz",
+    "game": "Earth Defense Force 4.1 The Shadow of New Despair",
+    "player": "KuripuGao",
+    "player_location": "us",
+    "time": 186.74,
+    "category": "Solo",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "znr30xvy",
+    "game": "Earth Defense Force 4.1 The Shadow of New Despair",
+    "player": "halo00to14",
+    "player_location": "us",
+    "time": 21617,
+    "category": "Mission's 1-89 (Solo)",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zx2pk9gm",
+    "game": "Earth Defense Force 4.1 The Shadow of New Despair",
+    "player": "meleeman",
+    "player_location": "us",
+    "time": 116.023,
+    "category": "Solo",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zx2pr7em",
+    "game": "Earth Defense Force 4.1 The Shadow of New Despair",
+    "player": "Ultra_Pandora",
+    "player_location": null,
+    "time": 119.022,
+    "category": "Solo",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y2v3p89z",
+    "game": "Earth Defense Force 4.1 The Shadow of New Despair",
+    "player": "CHAMBERSSENPAI",
+    "player_location": "gb/eng",
+    "time": 22742.1,
+    "category": "Mission's 1-89 (Solo)",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yj5k0xdm",
+    "game": "Earth Defense Force 4.1 The Shadow of New Despair",
+    "player": "PuphyBerry",
+    "player_location": "us",
+    "time": 167.667,
+    "category": "Solo",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 5",
+    "emulated": false
+  }
+]

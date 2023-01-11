@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1zqqojrz",
+    "game": "Secret of the Stars",
+    "player": "CVagts",
+    "player_location": "us",
+    "time": 13479,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "oy2w4g5y",
+    "game": "Secret of the Stars",
+    "player": "bargainbin",
+    "player_location": null,
+    "time": 18978,
+    "category": "Any% (English)",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y8q6qj5y",
+    "game": "Secret of the Stars",
+    "player": "Pa-Sama",
+    "player_location": "ca",
+    "time": 12925,
+    "category": "Any% (English)",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "zpqk8w8y",
+    "game": "Secret of the Stars",
+    "player": "GinTatsu2",
+    "player_location": "ca",
+    "time": 14329,
+    "category": "Any% (English)",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "yo29q7jz",
+    "game": "Secret of the Stars",
+    "player": "zewing",
+    "player_location": "us",
+    "time": 12221,
+    "category": "Any% (English)",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  }
+]

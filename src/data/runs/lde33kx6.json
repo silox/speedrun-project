@@ -1,0 +1,46 @@
+[
+  {
+    "id": "y67o1n1m",
+    "game": "",
+    "player": "Retrogamer1246",
+    "player_location": "us",
+    "time": 1485,
+    "category": "Beat the Game",
+    "region": "USA / NTSC",
+    "platform": "Xbox",
+    "emulated": false
+  },
+  {
+    "id": "y67jor0m",
+    "game": "",
+    "player": "Maniatikiller",
+    "player_location": "cl",
+    "time": 1434,
+    "category": "Beat the Game",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y6dnj46m",
+    "game": "",
+    "player": "manticor5",
+    "player_location": "cl",
+    "time": 1356,
+    "category": "Any% Co-Op 2 Players",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "mexn9w9z",
+    "game": "",
+    "player": "RitaH",
+    "player_location": "br",
+    "time": 1477,
+    "category": "Any% Co-Op 2 Players",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

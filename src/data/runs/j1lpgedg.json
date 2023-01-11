@@ -1,0 +1,112 @@
+[
+  {
+    "id": "6yjg7qdy",
+    "game": "Light Crusader",
+    "player": "Acefrog",
+    "player_location": "gb/eng",
+    "time": 4183,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "mej99n2y",
+    "game": "Light Crusader",
+    "player": "Dea1h",
+    "player_location": "ru",
+    "time": 2611,
+    "category": "Any%",
+    "region": "KOR / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "yo43125m",
+    "game": "Light Crusader",
+    "player": "666Deadhunter",
+    "player_location": "fr",
+    "time": 4685,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "zgn27w0y",
+    "game": "Light Crusader",
+    "player": "Whizzy_the_Elephant",
+    "player_location": "gb/eng",
+    "time": 3670,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "z5o83kgy",
+    "game": "Light Crusader",
+    "player": "Lexifer",
+    "player_location": "ru",
+    "time": 3540,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "y82842wy",
+    "game": "Light Crusader",
+    "player": "chronoon",
+    "player_location": "us",
+    "time": 3017,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "mr7526gz",
+    "game": "Light Crusader",
+    "player": "Cr4zykonG",
+    "player_location": "de",
+    "time": 2835,
+    "category": "Any%",
+    "region": "KOR / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "ywk9dvpy",
+    "game": "Light Crusader",
+    "player": "Turanin",
+    "player_location": "de",
+    "time": 2695,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Mega Sg",
+    "emulated": false
+  },
+  {
+    "id": "z5v54rnm",
+    "game": "Light Crusader",
+    "player": "Pikachu",
+    "player_location": "ua",
+    "time": 2639,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "z0o1k7oz",
+    "game": "Light Crusader",
+    "player": "realPATendo",
+    "player_location": "de",
+    "time": 3590,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Mega Sg",
+    "emulated": false
+  }
+]

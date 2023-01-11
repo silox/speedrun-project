@@ -1,0 +1,145 @@
+[
+  {
+    "id": "nz134gjm",
+    "game": "Mario Tennis (GBC)",
+    "player": "bbqsauz",
+    "player_location": "us",
+    "time": 7862,
+    "category": "any% Singles",
+    "region": null,
+    "platform": "Game Boy Player",
+    "emulated": false
+  },
+  {
+    "id": "zq612v5y",
+    "game": "Mario Tennis (GBC)",
+    "player": "werster",
+    "player_location": "au",
+    "time": 5357,
+    "category": "any% Doubles",
+    "region": null,
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "8y897qdm",
+    "game": "Mario Tennis (GBC)",
+    "player": "Vyseoflegends9002",
+    "player_location": "us",
+    "time": 8786,
+    "category": "any% Singles",
+    "region": null,
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "1zq35w1y",
+    "game": "Mario Tennis (GBC)",
+    "player": "00greenbean00",
+    "player_location": "ca",
+    "time": 8972,
+    "category": "any% Singles",
+    "region": null,
+    "platform": "Game Boy Player",
+    "emulated": false
+  },
+  {
+    "id": "8m7q935z",
+    "game": "Mario Tennis (GBC)",
+    "player": "reslived",
+    "player_location": "us",
+    "time": 6382,
+    "category": "any% Doubles",
+    "region": null,
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "0zngxp9m",
+    "game": "Mario Tennis (GBC)",
+    "player": "sharif",
+    "player_location": "us",
+    "time": 7348,
+    "category": "any% Singles",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Player",
+    "emulated": false
+  },
+  {
+    "id": "jy9nrkvz",
+    "game": "Mario Tennis (GBC)",
+    "player": "Metallama",
+    "player_location": "us",
+    "time": 7124,
+    "category": "any% Singles",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "zq67x5ry",
+    "game": "Mario Tennis (GBC)",
+    "player": "Ppotdot1",
+    "player_location": "us",
+    "time": 6556,
+    "category": "any% Singles",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "yl90elny",
+    "game": "Mario Tennis (GBC)",
+    "player": "TheRetroPrime",
+    "player_location": "gb/eng",
+    "time": 5803,
+    "category": "any% Doubles",
+    "region": null,
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "yl9vdrky",
+    "game": "Mario Tennis (GBC)",
+    "player": "Snusbusen",
+    "player_location": "se",
+    "time": 8426,
+    "category": "any% Singles",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "yl092x3y",
+    "game": "Mario Tennis (GBC)",
+    "player": "ThatOneSpyGuy",
+    "player_location": "us",
+    "time": 5802,
+    "category": "any% Doubles",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Player",
+    "emulated": false
+  },
+  {
+    "id": "ywk6939y",
+    "game": "Mario Tennis (GBC)",
+    "player": "Zappay",
+    "player_location": "jp",
+    "time": 6291,
+    "category": "any% Singles",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Player",
+    "emulated": false
+  },
+  {
+    "id": "y8d44d1z",
+    "game": "Mario Tennis (GBC)",
+    "player": "pondoor",
+    "player_location": "us",
+    "time": 8249,
+    "category": "any% Doubles",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  }
+]

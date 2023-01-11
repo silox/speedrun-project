@@ -1,0 +1,123 @@
+[
+  {
+    "id": "oy2vdv5z",
+    "game": "Mario Party Advance",
+    "player": "RoseFielden",
+    "player_location": "us",
+    "time": 10836,
+    "category": "Beat Shroom City",
+    "region": null,
+    "platform": "Wii U Virtual Console",
+    "emulated": false
+  },
+  {
+    "id": "pyddp60y",
+    "game": "Mario Party Advance",
+    "player": "Cosmoing",
+    "player_location": "ca",
+    "time": 9788,
+    "category": "Beat Shroom City",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": false
+  },
+  {
+    "id": "nz18vjry",
+    "game": "Mario Party Advance",
+    "player": "TheWayfaringFox",
+    "player_location": "us",
+    "time": 9607,
+    "category": "Beat Shroom City",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": false
+  },
+  {
+    "id": "m3d384gz",
+    "game": "Mario Party Advance",
+    "player": "Zeimos",
+    "player_location": "us",
+    "time": 11041,
+    "category": "Beat Shroom City",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "yj4jpj7y",
+    "game": "Mario Party Advance",
+    "player": "ThatOneSpyGuy",
+    "player_location": "us",
+    "time": 9531,
+    "category": "Beat Shroom City",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "zp0246rm",
+    "game": "Mario Party Advance",
+    "player": "Airshock22",
+    "player_location": "ca",
+    "time": 8901,
+    "category": "Beat Shroom City",
+    "region": "USA / NTSC",
+    "platform": "Wii U Virtual Console",
+    "emulated": false
+  },
+  {
+    "id": "yl4o372m",
+    "game": "Mario Party Advance",
+    "player": "VogonPoet42",
+    "player_location": "us",
+    "time": 11285,
+    "category": "Beat Shroom City",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "zp0123gm",
+    "game": "Mario Party Advance",
+    "player": "minimini352",
+    "player_location": "gb/eng",
+    "time": 9177,
+    "category": "Beat Shroom City",
+    "region": "EUR / PAL",
+    "platform": "Wii U Virtual Console",
+    "emulated": false
+  },
+  {
+    "id": "ywklll2y",
+    "game": "Mario Party Advance",
+    "player": "mkc",
+    "player_location": "tr",
+    "time": 233,
+    "category": "Duel Dash",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "y8v4kwwz",
+    "game": "Mario Party Advance",
+    "player": "mynameisAndy",
+    "player_location": "us",
+    "time": 250,
+    "category": "Duel Dash",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": false
+  },
+  {
+    "id": "m7wqg0ez",
+    "game": "Mario Party Advance",
+    "player": "KingKnight",
+    "player_location": "us",
+    "time": 139,
+    "category": "Duel Dash",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  }
+]

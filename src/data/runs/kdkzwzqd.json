@@ -1,0 +1,46 @@
+[
+  {
+    "id": "ywd9j20z",
+    "game": "Devil's Third",
+    "player": "Superior_Sass",
+    "player_location": "us",
+    "time": 421,
+    "category": "Any% (Casual)",
+    "region": "USA / NTSC",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "zx7l28ey",
+    "game": "Devil's Third",
+    "player": "Farnham_The_Drunk",
+    "player_location": "de",
+    "time": 351,
+    "category": "Any% (Casual)",
+    "region": "EUR / PAL",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "y9vlw6nm",
+    "game": "Devil's Third",
+    "player": "MrTempoSpeedy",
+    "player_location": "gb/eng",
+    "time": 379,
+    "category": "Any% (Casual)",
+    "region": "EUR / PAL",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "z0lo709z",
+    "game": "Devil's Third",
+    "player": "LBlueEagle",
+    "player_location": "us",
+    "time": 7129,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Wii U",
+    "emulated": false
+  }
+]

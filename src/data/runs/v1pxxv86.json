@@ -1,0 +1,57 @@
+[
+  {
+    "id": "mkg0n6xy",
+    "game": "",
+    "player": "NightEarl",
+    "player_location": "gb/eng",
+    "time": 1866,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "me4o570y",
+    "game": "",
+    "player": "Yuuki66",
+    "player_location": "mx",
+    "time": 1907,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mrnn4ndy",
+    "game": "",
+    "player": "Azure_Mirage",
+    "player_location": "cn",
+    "time": 1836,
+    "category": "Easy",
+    "region": "CHN / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m36vllgm",
+    "game": "Touhou Seikaen: Blue devil in the Belvedere",
+    "player": "Satori(CN)",
+    "player_location": null,
+    "time": 1793,
+    "category": "Easy",
+    "region": "CHN / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zq73vqxm",
+    "game": "Touhou Seikaen: Blue devil in the Belvedere",
+    "player": "Seisen_Star",
+    "player_location": "cn",
+    "time": 2019,
+    "category": "",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  }
+]

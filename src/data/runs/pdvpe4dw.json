@@ -1,0 +1,211 @@
+[
+  {
+    "id": "emkg1wly",
+    "game": "Dissidia: Final Fantasy",
+    "player": "SKmuffinEXE",
+    "player_location": "us",
+    "time": 1188,
+    "category": "Cloud",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "1zqvr09m",
+    "game": "Dissidia: Final Fantasy",
+    "player": "Crrool",
+    "player_location": "nl",
+    "time": 442,
+    "category": "Prologue",
+    "region": "EUR / PAL",
+    "platform": "PlayStation Portable",
+    "emulated": false
+  },
+  {
+    "id": "pydrlvxz",
+    "game": "Dissidia: Final Fantasy",
+    "player": "ShinCero",
+    "player_location": null,
+    "time": 989,
+    "category": "Cloud",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "nz1rnvwm",
+    "game": "Dissidia: Final Fantasy",
+    "player": "Gravekid1701",
+    "player_location": null,
+    "time": 1158,
+    "category": "Cloud",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "8m7dol9m",
+    "game": "Dissidia: Final Fantasy",
+    "player": "Mottely",
+    "player_location": "us",
+    "time": 2021,
+    "category": "Cloud",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "y23prv6m",
+    "game": "Dissidia: Final Fantasy",
+    "player": "Smartkin",
+    "player_location": null,
+    "time": 332,
+    "category": "Prologue",
+    "region": "EUR / PAL",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "mek9p03m",
+    "game": "Dissidia: Final Fantasy",
+    "player": "Indi",
+    "player_location": "de",
+    "time": 345,
+    "category": "Prologue",
+    "region": "EUR / PAL",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "pyd4vo0y",
+    "game": "Dissidia: Final Fantasy",
+    "player": "DurWildchild",
+    "player_location": "de",
+    "time": 428,
+    "category": "Prologue",
+    "region": "EUR / PAL",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "8m7rog9y",
+    "game": "Dissidia: Final Fantasy",
+    "player": "FrankyLC",
+    "player_location": "fr",
+    "time": 355,
+    "category": "Prologue",
+    "region": "EUR / PAL",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "yvg0jv4y",
+    "game": "Dissidia: Final Fantasy",
+    "player": "0megaPhenix",
+    "player_location": "fr",
+    "time": 1109,
+    "category": "Cecil",
+    "region": "EUR / PAL",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "y67d776m",
+    "game": "Dissidia: Final Fantasy",
+    "player": "Aneksuz",
+    "player_location": "se",
+    "time": 337,
+    "category": "Prologue",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "m79395wy",
+    "game": "Dissidia: Final Fantasy",
+    "player": "Leonis07",
+    "player_location": "fr",
+    "time": 307,
+    "category": "Shade Impulse IV",
+    "region": "EUR / PAL",
+    "platform": "PlayStation Portable",
+    "emulated": false
+  },
+  {
+    "id": "m3drgl6z",
+    "game": "Dissidia: Final Fantasy",
+    "player": "Metako",
+    "player_location": "gb/nir",
+    "time": 1350,
+    "category": "Cecil",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "yjk53r3m",
+    "game": "Dissidia: Final Fantasy",
+    "player": "Ausabe",
+    "player_location": "fr",
+    "time": 337,
+    "category": "Prologue",
+    "region": "EUR / PAL",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "z0ex69om",
+    "game": "Dissidia: Final Fantasy",
+    "player": "Mizzow",
+    "player_location": "gb/sct",
+    "time": 226,
+    "category": "Shade Impulse IV",
+    "region": "EUR / PAL",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "y8qxrdwy",
+    "game": "Dissidia: Final Fantasy",
+    "player": "CariocaMEX",
+    "player_location": "br",
+    "time": 334,
+    "category": "Prologue",
+    "region": "EUR / PAL",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "y89ppkxm",
+    "game": "Dissidia: Final Fantasy",
+    "player": "CountGooby",
+    "player_location": "us",
+    "time": 602,
+    "category": "Prologue",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": false
+  },
+  {
+    "id": "zxlq0d8z",
+    "game": "Dissidia: Final Fantasy",
+    "player": "DrakeyC",
+    "player_location": "ca",
+    "time": 173,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "mr7xok2z",
+    "game": "Dissidia: Final Fantasy",
+    "player": "Glass",
+    "player_location": "us",
+    "time": 337,
+    "category": "Prologue",
+    "region": "EUR / PAL",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  }
+]

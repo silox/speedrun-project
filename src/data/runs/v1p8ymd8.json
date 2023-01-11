@@ -1,0 +1,156 @@
+[
+  {
+    "id": "2yww1dpy",
+    "game": "Avenging Spirit",
+    "player": "authorblues",
+    "player_location": "us",
+    "time": 469,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": false
+  },
+  {
+    "id": "7z003koz",
+    "game": "Avenging Spirit",
+    "player": "Smartball",
+    "player_location": "us",
+    "time": 459,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": false
+  },
+  {
+    "id": "6yjro73z",
+    "game": "Avenging Spirit",
+    "player": "johncarls",
+    "player_location": "us",
+    "time": 442,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": false
+  },
+  {
+    "id": "dy4v49ny",
+    "game": "Avenging Spirit",
+    "player": "Moelle",
+    "player_location": "be",
+    "time": 455,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": false
+  },
+  {
+    "id": "jy9grqnm",
+    "game": "Avenging Spirit",
+    "player": "jeffsledge",
+    "player_location": "us",
+    "time": 413,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": false
+  },
+  {
+    "id": "9yo1010m",
+    "game": "Avenging Spirit",
+    "player": "NME",
+    "player_location": "us",
+    "time": 453,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": false
+  },
+  {
+    "id": "ydq8q8wm",
+    "game": "Avenging Spirit",
+    "player": "Zurggriff",
+    "player_location": null,
+    "time": 532,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "ydqnxgvm",
+    "game": "Avenging Spirit",
+    "player": "Tob\u00fcr",
+    "player_location": "pt",
+    "time": 530,
+    "category": "Any%",
+    "region": null,
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "z0e0ve8m",
+    "game": "Avenging Spirit",
+    "player": "baldnate",
+    "player_location": null,
+    "time": 612,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "y67wgoqm",
+    "game": "Avenging Spirit",
+    "player": "infinitemystery",
+    "player_location": null,
+    "time": 1072,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": false
+  },
+  {
+    "id": "yj4v313y",
+    "game": "Avenging Spirit",
+    "player": "smartalec24",
+    "player_location": "us",
+    "time": 691,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": false
+  },
+  {
+    "id": "z50kpp5y",
+    "game": "Avenging Spirit",
+    "player": "RikkaFresh",
+    "player_location": "us",
+    "time": 420,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "m7qk4n5z",
+    "game": "Avenging Spirit",
+    "player": "kamil2050",
+    "player_location": "pl",
+    "time": 485,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "ywkg5g0y",
+    "game": "Avenging Spirit",
+    "player": "JuegAriel",
+    "player_location": "es",
+    "time": 604,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "id": "1zxq05mx",
+    "game": "Ultima IV: Quest of the Avatar",
+    "player": "feasel",
+    "player_location": "us",
+    "time": 7122,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "ywpj5n0z",
+    "game": "Ultima IV: Quest of the Avatar",
+    "player": "Yogidamonk",
+    "player_location": "us",
+    "time": 4655,
+    "category": "Any% (NES/FC)",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "1zxjo78y",
+    "game": "Ultima IV: Quest of the Avatar",
+    "player": "LGD",
+    "player_location": "br",
+    "time": 8860,
+    "category": "",
+    "region": null,
+    "platform": "Sega Master System",
+    "emulated": true
+  },
+  {
+    "id": "zpq9jg8y",
+    "game": "Ultima IV: Quest of the Avatar",
+    "player": "SmellyMctroll",
+    "player_location": "jp",
+    "time": 5845,
+    "category": "Any% (NES/FC)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zn8520vz",
+    "game": "Ultima IV: Quest of the Avatar",
+    "player": "squibbons",
+    "player_location": "se",
+    "time": 6830,
+    "category": "Any% (NES/FC)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "yvjovpoy",
+    "game": "Ultima IV: Quest of the Avatar",
+    "player": "Toad22484",
+    "player_location": "us",
+    "time": 5284,
+    "category": "Any% (NES/FC)",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "m7g6xw4m",
+    "game": "Ultima IV: Quest of the Avatar",
+    "player": "thedagit",
+    "player_location": "us",
+    "time": 6632,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Master System",
+    "emulated": false
+  },
+  {
+    "id": "zp3e368m",
+    "game": "Ultima IV: Quest of the Avatar",
+    "player": "Fenyx4",
+    "player_location": "us",
+    "time": 3418,
+    "category": "Any% (DOS)",
+    "region": "USA / NTSC",
+    "platform": "MS-DOS",
+    "emulated": true
+  },
+  {
+    "id": "m37lkpgz",
+    "game": "Ultima IV: Quest of the Avatar",
+    "player": "organMike",
+    "player_location": "ca",
+    "time": 3445,
+    "category": "",
+    "region": null,
+    "platform": "MS-DOS",
+    "emulated": true
+  }
+]

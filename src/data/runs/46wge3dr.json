@@ -1,0 +1,156 @@
+[
+  {
+    "id": "y97nwvvm",
+    "game": "Violent Storm",
+    "player": "apophis_morgraan",
+    "player_location": "fr",
+    "time": 1114,
+    "category": "",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "m3326k6m",
+    "game": "Violent Storm",
+    "player": "Sm_Izumi",
+    "player_location": "fr",
+    "time": 1115,
+    "category": "1P",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z1119jjz",
+    "game": "Violent Storm",
+    "player": "DREX",
+    "player_location": "us",
+    "time": 1839,
+    "category": "",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y6ppv16m",
+    "game": "Violent Storm",
+    "player": "theboyks",
+    "player_location": "us",
+    "time": 1541,
+    "category": "1P",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "mk9o4evz",
+    "game": "Violent Storm",
+    "player": "ButtersBB",
+    "player_location": "us",
+    "time": 1177,
+    "category": "1P",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": false
+  },
+  {
+    "id": "y8161ewz",
+    "game": "Violent Storm",
+    "player": "RitaH",
+    "player_location": "br",
+    "time": 1942,
+    "category": "",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "m3560jdy",
+    "game": "Violent Storm",
+    "player": "Peanutfan22",
+    "player_location": "us",
+    "time": 1843,
+    "category": "1P",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z065gljz",
+    "game": "Violent Storm",
+    "player": "Maniatikiller",
+    "player_location": "cl",
+    "time": 1128,
+    "category": "1P",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zxg088ky",
+    "game": "Violent Storm",
+    "player": "Sonikkustar",
+    "player_location": "us",
+    "time": 1322,
+    "category": "1P",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y8jg9ewz",
+    "game": "Violent Storm",
+    "player": "Metaller",
+    "player_location": "br",
+    "time": 1903,
+    "category": "3P",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "mejw3nqy",
+    "game": "Violent Storm",
+    "player": "CartridgeKing",
+    "player_location": "ca",
+    "time": 2202,
+    "category": "",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zq7kx15m",
+    "game": "Violent Storm",
+    "player": "manticor5",
+    "player_location": "cl",
+    "time": 1780,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yw3q7v2m",
+    "game": "Violent Storm",
+    "player": "zuq",
+    "player_location": "pl",
+    "time": 947,
+    "category": "1P",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y4xwxknz",
+    "game": "Violent Storm",
+    "player": "Ellimist",
+    "player_location": "us",
+    "time": 1715,
+    "category": "3P",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

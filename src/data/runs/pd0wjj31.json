@@ -1,0 +1,35 @@
+[
+  {
+    "id": "zqw76d8z",
+    "game": "Solomon's Club",
+    "player": "adrianus",
+    "player_location": "ch",
+    "time": 3542,
+    "category": "Beat the Game",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Player",
+    "emulated": false
+  },
+  {
+    "id": "mk5o5p3m",
+    "game": "Solomon's Club",
+    "player": "Chystall",
+    "player_location": "se",
+    "time": 2657,
+    "category": "Beat the Game",
+    "region": "EUR / PAL",
+    "platform": "Super Game Boy 2",
+    "emulated": false
+  },
+  {
+    "id": "yw6npd3m",
+    "game": "Solomon's Club",
+    "player": "fairy213",
+    "player_location": "jp",
+    "time": 1489,
+    "category": "Beat the Game",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  }
+]

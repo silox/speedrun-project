@@ -1,0 +1,200 @@
+[
+  {
+    "id": "y4554vnm",
+    "game": "Rage Racer",
+    "player": "SolidSpiderZnake",
+    "player_location": "sa",
+    "time": 250.392,
+    "category": "Class 1",
+    "region": null,
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "mrqdk17y",
+    "game": "Rage Racer",
+    "player": "YT_Veritas0923",
+    "player_location": "ca",
+    "time": 167.498,
+    "category": "Class 5",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "y8q5po5y",
+    "game": "Rage Racer",
+    "player": "Link_UK",
+    "player_location": "gb/eng",
+    "time": 150.57,
+    "category": "Class 5",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "ywp26dnz",
+    "game": "Rage Racer",
+    "player": "Arran",
+    "player_location": null,
+    "time": 4749,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "znrrjkly",
+    "game": "Rage Racer",
+    "player": "XGN_Lam",
+    "player_location": "gb/eng",
+    "time": 237,
+    "category": "Class 1",
+    "region": null,
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "znr36kvy",
+    "game": "Rage Racer",
+    "player": "ALZERI28",
+    "player_location": "fi",
+    "time": 147.97,
+    "category": "Class 5",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "mre5lqgy",
+    "game": "Rage Racer",
+    "player": "Werzhil",
+    "player_location": "ru",
+    "time": 179.024,
+    "category": "Class 5",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "m3gwd16z",
+    "game": "Rage Racer",
+    "player": "Fatalita",
+    "player_location": "jp",
+    "time": 4133.02,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zqw8o2rz",
+    "game": "Rage Racer",
+    "player": "FantasticFox",
+    "player_location": "us",
+    "time": 147.026,
+    "category": "Class 5",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "yw829l2y",
+    "game": "Rage Racer",
+    "player": "ARMS08Yuki",
+    "player_location": "jp",
+    "time": 121.834,
+    "category": "Special",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "y25wl3jy",
+    "game": "Rage Racer",
+    "player": "kyuketsuneko",
+    "player_location": "jp",
+    "time": 4171.77,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "y2vl8o6z",
+    "game": "Rage Racer",
+    "player": "AnnoyedLilyWhite",
+    "player_location": "us",
+    "time": 147.114,
+    "category": "Class 5",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "z50lnwjy",
+    "game": "Rage Racer",
+    "player": "ciriislegend",
+    "player_location": "es/cn",
+    "time": 222.827,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "y4857d3m",
+    "game": "Rage Racer",
+    "player": "Torjuz",
+    "player_location": "no",
+    "time": 145.207,
+    "category": "Class 5",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "zxor0nez",
+    "game": "Rage Racer",
+    "player": "cookieforu",
+    "player_location": "de",
+    "time": 200.809,
+    "category": "Class 2",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "yw68922m",
+    "game": "Rage Racer",
+    "player": "Luvs2BGlued",
+    "player_location": "ca",
+    "time": 4881,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y4x2lddz",
+    "game": "Rage Racer",
+    "player": "ThrasherDBS",
+    "player_location": "us",
+    "time": 243.905,
+    "category": "Class 1",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "m72p614z",
+    "game": "Rage Racer",
+    "player": "Zapherium",
+    "player_location": null,
+    "time": 221.13,
+    "category": "Class 5",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  }
+]

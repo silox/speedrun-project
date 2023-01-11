@@ -1,0 +1,68 @@
+[
+  {
+    "id": "yo9jn5dy",
+    "game": "Megaman X (Mobile)",
+    "player": "Rose_Xorn",
+    "player_location": "us",
+    "time": 3393,
+    "category": "100%",
+    "region": "USA / NTSC",
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "z507g0jy",
+    "game": "Megaman X (Mobile)",
+    "player": "ConfirmDeny",
+    "player_location": "us",
+    "time": 48.51,
+    "category": "With Items and weapons",
+    "region": "USA / NTSC",
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "y2vwkj7z",
+    "game": "Megaman X (Mobile)",
+    "player": "diude7",
+    "player_location": "de",
+    "time": 2467,
+    "category": "Any%",
+    "region": null,
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "yj54r1dm",
+    "game": "Megaman X (Mobile)",
+    "player": "mgmcorruptions",
+    "player_location": "us",
+    "time": 88.47,
+    "category": "Buster only",
+    "region": "USA / NTSC",
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "zp28wvxy",
+    "game": "Megaman X (Mobile)",
+    "player": "1nhuman_",
+    "player_location": "us",
+    "time": 73.57,
+    "category": "With Items and weapons",
+    "region": "JPN / NTSC",
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "mke5k1xm",
+    "game": "Megaman X (Mobile)",
+    "player": "Geno2006",
+    "player_location": "us",
+    "time": 90.1,
+    "category": "With Items and weapons",
+    "region": "USA / NTSC",
+    "platform": "iOS",
+    "emulated": false
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "pzge5ley",
+    "game": "Zombie Vikings",
+    "player": "CheeseSays",
+    "player_location": "se",
+    "time": 7743,
+    "category": "",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "6yjw3nom",
+    "game": "Zombie Vikings",
+    "player": "misslyckad",
+    "player_location": "se",
+    "time": 9335,
+    "category": "Any% (Any Loadout)",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m7prx20m",
+    "game": "Zombie Vikings",
+    "player": "Thatchbro",
+    "player_location": "no",
+    "time": 8235,
+    "category": "Any% (Any Loadout)",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  }
+]

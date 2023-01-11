@@ -1,0 +1,68 @@
+[
+  {
+    "id": "m378kqgz",
+    "game": "RC de Go!",
+    "player": "ThrasherDBS",
+    "player_location": "us",
+    "time": 46.982,
+    "category": "Time Attack",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zp1e2wrz",
+    "game": "RC de Go!",
+    "player": "unidorsal",
+    "player_location": "se",
+    "time": 165.69,
+    "category": "Practice Mode",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "z07wkxoy",
+    "game": "RC de Go!",
+    "player": "Dereklander",
+    "player_location": null,
+    "time": 194.928,
+    "category": "Quick Race/On-Road",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "zp8wv3ny",
+    "game": "RC de Go!",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 47.166,
+    "category": "Time Attack",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "ydw62kjm",
+    "game": "RC de Go!",
+    "player": "xZeKo",
+    "player_location": "gb/eng",
+    "time": 34.899,
+    "category": "Time Attack",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zgdkrqvz",
+    "game": "RC de Go!",
+    "player": "Jackfive",
+    "player_location": "br",
+    "time": 34.982,
+    "category": "Time Attack",
+    "region": "EUR / PAL",
+    "platform": "PlayStation",
+    "emulated": true
+  }
+]

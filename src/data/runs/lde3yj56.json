@@ -1,0 +1,57 @@
+[
+  {
+    "id": "z1199erz",
+    "game": "Touhou Puppet Dance Performance: Shard of Dreams",
+    "player": "Dabomstew",
+    "player_location": "nz",
+    "time": 6989,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "ywv1x80z",
+    "game": "Touhou Puppet Dance Performance: Shard of Dreams",
+    "player": "Levea",
+    "player_location": "us",
+    "time": 7501,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y417p93y",
+    "game": "Touhou Puppet Dance Performance: Shard of Dreams",
+    "player": "yamakawa",
+    "player_location": "jp",
+    "time": 9156,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mk89lr3m",
+    "game": "Touhou Puppet Dance Performance: Shard of Dreams",
+    "player": "Shinxuu",
+    "player_location": "gb",
+    "time": 7741,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zpd063xz",
+    "game": "Touhou Puppet Dance Performance: Shard of Dreams",
+    "player": "KenNeko",
+    "player_location": "jp",
+    "time": 9863,
+    "category": "True End",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

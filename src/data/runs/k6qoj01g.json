@@ -1,0 +1,112 @@
+[
+  {
+    "id": "8y8nevny",
+    "game": "The Sims Bustin' Out (GBA)",
+    "player": "Ashja",
+    "player_location": "gb/eng",
+    "time": 273,
+    "category": "",
+    "region": null,
+    "platform": "Game Boy Advance",
+    "emulated": false
+  },
+  {
+    "id": "2yw5w62y",
+    "game": "The Sims Bustin' Out (GBA)",
+    "player": "nitebe",
+    "player_location": "fi",
+    "time": 10721,
+    "category": "Beat the Game",
+    "region": null,
+    "platform": "Game Boy Advance",
+    "emulated": false
+  },
+  {
+    "id": "m3ddv9dz",
+    "game": "The Sims Bustin' Out (GBA)",
+    "player": "mrpokegamer",
+    "player_location": "us",
+    "time": 332,
+    "category": "",
+    "region": null,
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "z5oe9jey",
+    "game": "The Sims Bustin' Out (GBA)",
+    "player": "RedSalmon",
+    "player_location": "pk",
+    "time": 323,
+    "category": "",
+    "region": null,
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "z57dn0dm",
+    "game": "The Sims Bustin' Out (GBA)",
+    "player": "Octoling",
+    "player_location": "cr",
+    "time": 290,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "y6nrj2jz",
+    "game": "The Sims Bustin' Out (GBA)",
+    "player": "ikanajin",
+    "player_location": "cl",
+    "time": 4911,
+    "category": "Beat the Game",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "zx7dw2ky",
+    "game": "The Sims Bustin' Out (GBA)",
+    "player": "Curtissimo",
+    "player_location": "us",
+    "time": 4787,
+    "category": "Beat the Game",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": false
+  },
+  {
+    "id": "z50j8ddy",
+    "game": "The Sims Bustin' Out (GBA)",
+    "player": "Rekoware",
+    "player_location": "fr",
+    "time": 226,
+    "category": "Any%",
+    "region": null,
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "z1pjdg7z",
+    "game": "The Sims Bustin' Out (GBA)",
+    "player": "Plushy_",
+    "player_location": "gb/eng",
+    "time": 276,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "yop7p15m",
+    "game": "The Sims Bustin' Out (GBA)",
+    "player": "MadRayne",
+    "player_location": "us",
+    "time": 5032,
+    "category": "Beat the Game",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  }
+]

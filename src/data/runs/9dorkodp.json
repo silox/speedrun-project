@@ -1,0 +1,35 @@
+[
+  {
+    "id": "yod2p10m",
+    "game": "Wild 9",
+    "player": "boowho61",
+    "player_location": "us",
+    "time": 3477,
+    "category": "Any% Easy",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "y9vlkjkm",
+    "game": "Wild 9",
+    "player": "SlySwooper",
+    "player_location": null,
+    "time": 5002,
+    "category": "Any% Easy",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "ywv15nnz",
+    "game": "Wild 9",
+    "player": "doctor_eggy",
+    "player_location": "us",
+    "time": 3358,
+    "category": "Any% Easy",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  }
+]

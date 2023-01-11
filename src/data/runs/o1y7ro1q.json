@@ -1,0 +1,68 @@
+[
+  {
+    "id": "y92p4erz",
+    "game": "Dissidia Duodecim Prologus Final Fantasy",
+    "player": "gamebrain1",
+    "player_location": "gr",
+    "time": 252,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "9mr21e8y",
+    "game": "Dissidia Duodecim Prologus Final Fantasy",
+    "player": "ExplodingOrange",
+    "player_location": "us",
+    "time": 489,
+    "category": "Story Mode",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "ydrlqpjz",
+    "game": "Dissidia Duodecim Prologus Final Fantasy",
+    "player": "9nine",
+    "player_location": "br",
+    "time": 321,
+    "category": "Story Mode",
+    "region": null,
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "z53ne8ey",
+    "game": "Dissidia Duodecim Prologus Final Fantasy",
+    "player": "DiegoDouglas",
+    "player_location": "br",
+    "time": 604,
+    "category": "",
+    "region": null,
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "z0r0e49z",
+    "game": "Dissidia Duodecim Prologus Final Fantasy",
+    "player": "RudsonStrife",
+    "player_location": "br",
+    "time": 286,
+    "category": "Story Mode",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "mejj5o2y",
+    "game": "Dissidia Duodecim Prologus Final Fantasy",
+    "player": "TLBG",
+    "player_location": "de",
+    "time": 4702,
+    "category": "",
+    "region": null,
+    "platform": "PlayStation Portable",
+    "emulated": true
+  }
+]

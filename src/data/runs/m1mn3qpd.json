@@ -1,0 +1,112 @@
+[
+  {
+    "id": "m37je8dz",
+    "game": "Mayhem Brawler",
+    "player": "MSG",
+    "player_location": "ar",
+    "time": 2111,
+    "category": "",
+    "region": null,
+    "platform": null,
+    "emulated": false
+  },
+  {
+    "id": "ywkxlo3y",
+    "game": "Mayhem Brawler",
+    "player": "STAR, TROUBLE",
+    "player_location": null,
+    "time": 2077,
+    "category": "",
+    "region": null,
+    "platform": null,
+    "emulated": false
+  },
+  {
+    "id": "m77e1k4m",
+    "game": "Mayhem Brawler",
+    "player": "GoeX",
+    "player_location": "ar",
+    "time": 2077,
+    "category": "",
+    "region": null,
+    "platform": null,
+    "emulated": false
+  },
+  {
+    "id": "y88452ny",
+    "game": "Mayhem Brawler",
+    "player": "oddball_bg",
+    "player_location": "bg",
+    "time": 1595,
+    "category": "1P Arcade",
+    "region": null,
+    "platform": "Xbox One",
+    "emulated": false
+  },
+  {
+    "id": "y4g9j83y",
+    "game": "Mayhem Brawler",
+    "player": "felpsfgc",
+    "player_location": "br",
+    "time": 1068,
+    "category": "",
+    "region": "BRA / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yorvx4dy",
+    "game": "Mayhem Brawler",
+    "player": "Arubatorion",
+    "player_location": "tr",
+    "time": 2749,
+    "category": "1P Arcade",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "ywj842nz",
+    "game": "Mayhem Brawler",
+    "player": "Mr.Din",
+    "player_location": "us",
+    "time": 1553,
+    "category": "1P Arcade",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z1pov9rz",
+    "game": "Mayhem Brawler",
+    "player": "Enoby",
+    "player_location": "us",
+    "time": 2556,
+    "category": "1P Arcade",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "yw35ex0m",
+    "game": "Mayhem Brawler",
+    "player": "Sm_Izumi",
+    "player_location": "fr",
+    "time": 1765,
+    "category": "1P Arcade",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yjdn07oy",
+    "game": "Mayhem Brawler",
+    "player": "Lionheart86",
+    "player_location": "br",
+    "time": 1024,
+    "category": "",
+    "region": "BRA / PAL",
+    "platform": "PC",
+    "emulated": false
+  }
+]

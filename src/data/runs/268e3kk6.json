@@ -1,0 +1,46 @@
+[
+  {
+    "id": "zxv777ky",
+    "game": "Snail Maze",
+    "player": "BigOrNoob",
+    "player_location": "fr",
+    "time": 354,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Master System",
+    "emulated": true
+  },
+  {
+    "id": "mr8vl8dy",
+    "game": "Snail Maze",
+    "player": "Maman",
+    "player_location": "fr",
+    "time": 361,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Master System",
+    "emulated": true
+  },
+  {
+    "id": "znrvgv7y",
+    "game": "Snail Maze",
+    "player": "R-J-Clapham",
+    "player_location": "au",
+    "time": 438,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Sega Master System",
+    "emulated": false
+  },
+  {
+    "id": "zxolj6gz",
+    "game": "Snail Maze",
+    "player": "AntBlueR",
+    "player_location": "br",
+    "time": 404,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Master System",
+    "emulated": false
+  }
+]

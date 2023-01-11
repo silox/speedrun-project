@@ -1,0 +1,57 @@
+[
+  {
+    "id": "mex92xqz",
+    "game": "Hot Shots Tennis",
+    "player": "phabio357",
+    "player_location": "us",
+    "time": 8813,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "z1rwwk7m",
+    "game": "Hot Shots Tennis",
+    "player": "TheRetroPrime",
+    "player_location": "gb/eng",
+    "time": 7307,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 5",
+    "emulated": false
+  },
+  {
+    "id": "zq1jow9m",
+    "game": "Hot Shots Tennis",
+    "player": "ND606",
+    "player_location": "jp",
+    "time": 7560,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 5",
+    "emulated": false
+  },
+  {
+    "id": "zgrr6jvm",
+    "game": "Hot Shots Tennis",
+    "player": "OccultOfReason",
+    "player_location": "au",
+    "time": 8430,
+    "category": "Any%",
+    "region": null,
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "y6np4jqz",
+    "game": "Hot Shots Tennis",
+    "player": "Kami_Rojin",
+    "player_location": "us",
+    "time": 7493,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  }
+]

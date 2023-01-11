@@ -1,0 +1,24 @@
+[
+  {
+    "id": "m76g66wy",
+    "game": "Astria Ascending",
+    "player": "Aeshmah",
+    "player_location": "de",
+    "time": 12738,
+    "category": "Any% Normal",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 5",
+    "emulated": false
+  },
+  {
+    "id": "yvq1lwom",
+    "game": "Astria Ascending",
+    "player": "key_ret",
+    "player_location": "jp",
+    "time": 15560,
+    "category": "Any% Normal",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  }
+]

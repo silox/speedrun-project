@@ -1,0 +1,68 @@
+[
+  {
+    "id": "m31rj6wz",
+    "game": "Cadence of Hyrule (Category Extensions)",
+    "player": "Wolfka",
+    "player_location": "fr",
+    "time": 2819,
+    "category": "Story: Any% (Seeded)",
+    "region": "EUR / PAL",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "zgk6k0jy",
+    "game": "Cadence of Hyrule (Category Extensions)",
+    "player": "Seeenkun",
+    "player_location": "us",
+    "time": 526,
+    "category": "Dungeon Mode (Seeded)",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "zgw7l6dy",
+    "game": "Cadence of Hyrule (Category Extensions)",
+    "player": "Disatron",
+    "player_location": "us",
+    "time": 1068.084,
+    "category": "Story: Any% (Seeded)",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "yv66nl4z",
+    "game": "Cadence of Hyrule (Category Extensions)",
+    "player": "Maskamenn",
+    "player_location": "fr",
+    "time": 2770.043,
+    "category": "Story: Any% (Seeded)",
+    "region": "EUR / PAL",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "z07q9ojy",
+    "game": "Cadence of Hyrule (Category Extensions)",
+    "player": "FettigerBurger",
+    "player_location": "de",
+    "time": 1872.078,
+    "category": "Octavo (Seeded)",
+    "region": "EUR / PAL",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "zx8re9km",
+    "game": "Cadence of Hyrule (Category Extensions)",
+    "player": "TargetDuck",
+    "player_location": "gb",
+    "time": 888.9,
+    "category": "Story: Any% (Seeded)",
+    "region": "EUR / PAL",
+    "platform": "Switch",
+    "emulated": false
+  }
+]

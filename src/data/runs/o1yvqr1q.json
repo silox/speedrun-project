@@ -1,0 +1,112 @@
+[
+  {
+    "id": "y8q3r0dy",
+    "game": "Dragon Warrior I (GBC)",
+    "player": "EvilAsh25",
+    "player_location": "us",
+    "time": 5850,
+    "category": "English - Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Interface",
+    "emulated": false
+  },
+  {
+    "id": "zn4jw67m",
+    "game": "Dragon Warrior I (GBC)",
+    "player": "gyre",
+    "player_location": null,
+    "time": 5148,
+    "category": "English - Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": false
+  },
+  {
+    "id": "z5o75xdy",
+    "game": "Dragon Warrior I (GBC)",
+    "player": "drush211",
+    "player_location": "us",
+    "time": 5795,
+    "category": "English - Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "zgn4jvjy",
+    "game": "Dragon Warrior I (GBC)",
+    "player": "Turbodog702",
+    "player_location": "us",
+    "time": 6505,
+    "category": "English - Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "z03rqjez",
+    "game": "Dragon Warrior I (GBC)",
+    "player": "pianistman",
+    "player_location": "us",
+    "time": 7796,
+    "category": "English - Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "zgke82jy",
+    "game": "Dragon Warrior I (GBC)",
+    "player": "Amune138",
+    "player_location": "us",
+    "time": 7547,
+    "category": "English - Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Game Boy",
+    "emulated": false
+  },
+  {
+    "id": "y88e9wxy",
+    "game": "Dragon Warrior I (GBC)",
+    "player": "NeoKad",
+    "player_location": "ca/qc",
+    "time": 6329,
+    "category": "English - Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "z50q1kny",
+    "game": "Dragon Warrior I (GBC)",
+    "player": "Neshama801",
+    "player_location": "jp",
+    "time": 5654,
+    "category": "Japanese - Any%",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Player",
+    "emulated": false
+  },
+  {
+    "id": "zqg6dg1m",
+    "game": "Dragon Warrior I (GBC)",
+    "player": "skateman222",
+    "player_location": "ca/qc",
+    "time": 7020,
+    "category": "English - Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": false
+  },
+  {
+    "id": "y696141y",
+    "game": "Dragon Warrior I (GBC)",
+    "player": "Mr_Vodka",
+    "player_location": "fr",
+    "time": 6248,
+    "category": "English - Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  }
+]

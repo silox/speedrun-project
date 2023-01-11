@@ -1,0 +1,68 @@
+[
+  {
+    "id": "y977jekm",
+    "game": "Corpse Party (3DS)",
+    "player": "Scarlet",
+    "player_location": "gb/eng",
+    "time": 269,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "z51319gm",
+    "game": "Corpse Party (3DS)",
+    "player": "Tenari",
+    "player_location": "us",
+    "time": 1666,
+    "category": "Chapter 3",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "m350l8qy",
+    "game": "Corpse Party (3DS)",
+    "player": "ZootySuzy",
+    "player_location": "us",
+    "time": 679,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": true
+  },
+  {
+    "id": "yj38n47z",
+    "game": "Corpse Party (3DS)",
+    "player": "AnimeGameKid7797",
+    "player_location": "us",
+    "time": 740,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "zx2jwwgm",
+    "game": "Corpse Party (3DS)",
+    "player": "Tegron",
+    "player_location": "pl",
+    "time": 227,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": true
+  },
+  {
+    "id": "z5jn5k5m",
+    "game": "Corpse Party (3DS)",
+    "player": "Luddanstar",
+    "player_location": "se",
+    "time": 876,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": true
+  }
+]

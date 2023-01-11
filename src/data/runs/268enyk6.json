@@ -1,0 +1,35 @@
+[
+  {
+    "id": "m7qwnr5z",
+    "game": "Jumanji",
+    "player": "GustavoPredador",
+    "player_location": "br",
+    "time": 909,
+    "category": "Any%",
+    "region": "BRA / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zxg4v8ey",
+    "game": "Jumanji",
+    "player": "Jezu",
+    "player_location": "us",
+    "time": 743,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "yjdon2ny",
+    "game": "Jumanji",
+    "player": "Garlips",
+    "player_location": "gb/eng",
+    "time": 892,
+    "category": "Any%",
+    "region": null,
+    "platform": "PlayStation 2",
+    "emulated": true
+  }
+]

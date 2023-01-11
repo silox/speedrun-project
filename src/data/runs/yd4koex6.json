@@ -1,0 +1,35 @@
+[
+  {
+    "id": "y8dew1wz",
+    "game": "Killing Zone",
+    "player": "NintenLew",
+    "player_location": "gb/eng",
+    "time": 209,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "yv1v8exy",
+    "game": "Killing Zone",
+    "player": "PSYCHOTATER",
+    "player_location": "us",
+    "time": 182,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "z0pjxgoy",
+    "game": "Killing Zone",
+    "player": "SlvtSammich",
+    "player_location": "au",
+    "time": 158,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  }
+]

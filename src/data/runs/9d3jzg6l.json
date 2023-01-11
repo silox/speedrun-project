@@ -1,0 +1,57 @@
+[
+  {
+    "id": "2ywwgopy",
+    "game": "",
+    "player": "ConnorCordell",
+    "player_location": "us",
+    "time": 23755,
+    "category": "English",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "9yoq087z",
+    "game": "",
+    "player": "\u604b\u6210",
+    "player_location": null,
+    "time": 16221,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "pydvnpwy",
+    "game": "Xenosaga Episode II: Jenseits von Gut und B\u00f6se",
+    "player": "BlueMetal",
+    "player_location": "us",
+    "time": 18642,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "yvg4eley",
+    "game": "Xenosaga Episode II: Jenseits von Gut und B\u00f6se",
+    "player": "xenier",
+    "player_location": "us",
+    "time": 21345,
+    "category": "English",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "z09w989z",
+    "game": "Xenosaga Episode II: Jenseits von Gut und B\u00f6se",
+    "player": "K_E_I",
+    "player_location": "gb",
+    "time": 15334,
+    "category": "English",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  }
+]

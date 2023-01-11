@@ -1,0 +1,79 @@
+[
+  {
+    "id": "8m7pgvwm",
+    "game": "Abadox",
+    "player": "WERY",
+    "player_location": "se",
+    "time": 945,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "7z0j5rjy",
+    "game": "Abadox",
+    "player": "ANTIBOTS",
+    "player_location": "cl",
+    "time": 955,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "pzg64vdm",
+    "game": "Abadox",
+    "player": "NME",
+    "player_location": "us",
+    "time": 929,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "m79p3x0y",
+    "game": "Abadox",
+    "player": "GreenBomber",
+    "player_location": "us",
+    "time": 3104,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "yvgpqjoy",
+    "game": "Abadox",
+    "player": "Dugongue",
+    "player_location": "us",
+    "time": 2169,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "yl0214xy",
+    "game": "Abadox",
+    "player": "xenkaroshi",
+    "player_location": "se",
+    "time": 923,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "yv6k5vxz",
+    "game": "Abadox",
+    "player": "DanielSB120",
+    "player_location": "pa",
+    "time": 917,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "mk3drnlz",
+    "game": "",
+    "player": "Ecdycis",
+    "player_location": "us",
+    "time": 4270,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "m315gqgz",
+    "game": "",
+    "player": "Pa-Sama",
+    "player_location": "ca",
+    "time": 4448,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "zno4jj8y",
+    "game": "The Ring: Terror's Realm",
+    "player": "SailorMidgard",
+    "player_location": "us",
+    "time": 4389,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "zgq3v1ey",
+    "game": "The Ring: Terror's Realm",
+    "player": "opipieSunpaul",
+    "player_location": "jp",
+    "time": 4214,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "me1ol3qy",
+    "game": "The Ring: Terror's Realm",
+    "player": "Borizzle",
+    "player_location": "dk",
+    "time": 4011,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  }
+]

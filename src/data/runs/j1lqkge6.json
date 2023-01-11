@@ -1,0 +1,24 @@
+[
+  {
+    "id": "y9x0k2ey",
+    "game": "",
+    "player": "Sonikkustar",
+    "player_location": "us",
+    "time": 565,
+    "category": "1 Player (1P)",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y6xx3k1y",
+    "game": "",
+    "player": "Ellimist",
+    "player_location": "us",
+    "time": 702,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

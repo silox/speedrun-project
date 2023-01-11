@@ -1,0 +1,79 @@
+[
+  {
+    "id": "0y6gq76m",
+    "game": "Metroid Prime: Federation Force",
+    "player": "HowDenKing",
+    "player_location": "eu",
+    "time": 216,
+    "category": "1P",
+    "region": "EUR / PAL",
+    "platform": "New Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "z0eej58m",
+    "game": "Metroid Prime: Federation Force",
+    "player": "StarFalco64",
+    "player_location": "us",
+    "time": 210,
+    "category": "1P",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "zxvk328y",
+    "game": "Metroid Prime: Federation Force",
+    "player": "kirbyellowkine",
+    "player_location": "jp",
+    "time": 198,
+    "category": "1P",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "ylr0ov3y",
+    "game": "Metroid Prime: Federation Force",
+    "player": "AmwolfMusic",
+    "player_location": "us",
+    "time": 62,
+    "category": "4P",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "yd5qrjjm",
+    "game": "Metroid Prime: Federation Force",
+    "player": "Dyceron",
+    "player_location": "us",
+    "time": 15256,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "New Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "z5xjp8ey",
+    "game": "Metroid Prime: Federation Force",
+    "player": "Fastroid",
+    "player_location": "us",
+    "time": 115,
+    "category": "1P",
+    "region": "USA / NTSC",
+    "platform": "New Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "y9x6n8ry",
+    "game": "Metroid Prime: Federation Force",
+    "player": "sibb2",
+    "player_location": "jp",
+    "time": 7099,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "New Nintendo 3DS",
+    "emulated": false
+  }
+]

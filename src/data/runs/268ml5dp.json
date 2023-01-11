@@ -1,0 +1,101 @@
+[
+  {
+    "id": "0y6o3o1y",
+    "game": "Gyruss",
+    "player": "Shieldzies",
+    "player_location": "us",
+    "time": 2056,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "8y8wg55y",
+    "game": "Gyruss",
+    "player": "KK",
+    "player_location": "us",
+    "time": 1841,
+    "category": "Any %",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "pm3v77qz",
+    "game": "Gyruss",
+    "player": "rockdet",
+    "player_location": "ca/qc",
+    "time": 1677,
+    "category": "Any %",
+    "region": null,
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zgnk4lny",
+    "game": "Gyruss",
+    "player": "CzaR",
+    "player_location": "us",
+    "time": 1981,
+    "category": "Any %",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "yw675l2m",
+    "game": "Gyruss",
+    "player": "JacoboTheChocobo",
+    "player_location": "us",
+    "time": 1744,
+    "category": "Any %",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "yvqd87em",
+    "game": "Gyruss",
+    "player": "VioletValhalla",
+    "player_location": "us",
+    "time": 1678,
+    "category": "Any %",
+    "region": null,
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "y91xrpkm",
+    "game": "Gyruss",
+    "player": "aaron2u2",
+    "player_location": "us",
+    "time": 569,
+    "category": "Any %",
+    "region": "USA / NTSC",
+    "platform": "ColecoVision",
+    "emulated": true
+  },
+  {
+    "id": "mk8vegxm",
+    "game": "Gyruss",
+    "player": "DCG_Grinder",
+    "player_location": "us",
+    "time": 564,
+    "category": "Any %",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "me46050y",
+    "game": "Gyruss",
+    "player": "ClaireDiviner",
+    "player_location": "us",
+    "time": 1833,
+    "category": "Any %",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  }
+]

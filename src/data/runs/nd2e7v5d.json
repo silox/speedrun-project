@@ -1,0 +1,24 @@
+[
+  {
+    "id": "zx4268ey",
+    "game": "Thousand Arms",
+    "player": "\u3081\u3057\u592a\u90ce",
+    "player_location": null,
+    "time": 37036,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "zn454d9m",
+    "game": "Thousand Arms",
+    "player": "Palmer",
+    "player_location": "us",
+    "time": 41400,
+    "category": "Any% English",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "zgwv7vey",
+    "game": "Paranoiac (Remake)",
+    "player": "EddventureTime58",
+    "player_location": "gb/sct",
+    "time": 1927,
+    "category": "Bad End",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zprdjogm",
+    "game": "Paranoiac (Remake)",
+    "player": "Tegron",
+    "player_location": "pl",
+    "time": 2376,
+    "category": "Good End",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "zp0wdqgm",
+    "game": "Stinger",
+    "player": "HurricaneMixer",
+    "player_location": "us",
+    "time": 1217,
+    "category": "1 Player",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y92kvrvz",
+    "game": "Stinger",
+    "player": "EightbitSteve",
+    "player_location": "us",
+    "time": 1214,
+    "category": "1 Player",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y811n1xz",
+    "game": "Stinger",
+    "player": "skister1980",
+    "player_location": "us",
+    "time": 1219,
+    "category": "1 Player",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y8jr925z",
+    "game": "Stinger",
+    "player": "NeGAtiv4k",
+    "player_location": "ru",
+    "time": 1220,
+    "category": "3 Players",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "z0o5gqjz",
+    "game": "Stinger",
+    "player": "Pikachu",
+    "player_location": "ua",
+    "time": 1220,
+    "category": "2 Players",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "zp271x8y",
+    "game": "Stinger",
+    "player": "Johndretrogamer",
+    "player_location": "ph",
+    "time": 1226,
+    "category": "1 Player",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  }
+]

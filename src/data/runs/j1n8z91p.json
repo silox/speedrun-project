@@ -1,0 +1,46 @@
+[
+  {
+    "id": "z13770rm",
+    "game": "Space Quest 6: Roger Wilco in The Spinal Frontier",
+    "player": "BuzzThunder",
+    "player_location": "us",
+    "time": 3632,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": true
+  },
+  {
+    "id": "y6nke4jz",
+    "game": "Space Quest 6: Roger Wilco in The Spinal Frontier",
+    "player": "BoothManning",
+    "player_location": "us",
+    "time": 3527,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mkgq9x1y",
+    "game": "Space Quest 6: Roger Wilco in The Spinal Frontier",
+    "player": "AdmiralJay",
+    "player_location": "us",
+    "time": 2893,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": true
+  },
+  {
+    "id": "yv18ldxy",
+    "game": "Space Quest 6: Roger Wilco in The Spinal Frontier",
+    "player": "RetroTKS",
+    "player_location": "us",
+    "time": 2932,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": true
+  }
+]

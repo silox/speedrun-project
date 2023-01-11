@@ -1,0 +1,35 @@
+[
+  {
+    "id": "yjpqr9dy",
+    "game": "",
+    "player": "burst_error",
+    "player_location": "us",
+    "time": 518,
+    "category": "Story Mode (Easy)",
+    "region": "USA / NTSC",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "y4qkxrdm",
+    "game": "",
+    "player": "CheeseVikingGames",
+    "player_location": "us",
+    "time": 708,
+    "category": "Story Mode (Easy)",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": true
+  },
+  {
+    "id": "zgq73nny",
+    "game": "",
+    "player": "wintery_mix",
+    "player_location": null,
+    "time": 444,
+    "category": "Story Mode (Easy)",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  }
+]

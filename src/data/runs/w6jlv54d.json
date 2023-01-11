@@ -1,0 +1,46 @@
+[
+  {
+    "id": "mk94n3xz",
+    "game": "Sword Art Online: Hollow Realization",
+    "player": "Dabomstew",
+    "player_location": "nz",
+    "time": 18662,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z51nngdm",
+    "game": "Sword Art Online: Hollow Realization",
+    "player": "st_all",
+    "player_location": null,
+    "time": 13470,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "zq4rwn9m",
+    "game": "Sword Art Online: Hollow Realization",
+    "player": "LilSharkie",
+    "player_location": "us",
+    "time": 18134,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "y4xgnonz",
+    "game": "Sword Art Online: Hollow Realization",
+    "player": "Art_Izon",
+    "player_location": "us",
+    "time": 3174,
+    "category": "Ch1%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

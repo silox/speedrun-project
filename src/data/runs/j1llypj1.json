@@ -1,0 +1,68 @@
+[
+  {
+    "id": "y4wnwxnm",
+    "game": "",
+    "player": "gheb",
+    "player_location": null,
+    "time": 1645,
+    "category": "Hard",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "znrlx37y",
+    "game": "",
+    "player": "RitaH",
+    "player_location": "br",
+    "time": 2314,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yok6l37z",
+    "game": "Ast\u00e9rix Arcade",
+    "player": "Jesus82050615",
+    "player_location": "ca/qc",
+    "time": 2138,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z156599y",
+    "game": "Ast\u00e9rix Arcade",
+    "player": "BigKokonat",
+    "player_location": "pl",
+    "time": 1506,
+    "category": "Normal",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yd100lvy",
+    "game": "Ast\u00e9rix Arcade",
+    "player": "Ellimist",
+    "player_location": "us",
+    "time": 2157,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "znqvpq3z",
+    "game": "Ast\u00e9rix Arcade",
+    "player": "Hoover",
+    "player_location": "kr",
+    "time": 1388,
+    "category": "Normal",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

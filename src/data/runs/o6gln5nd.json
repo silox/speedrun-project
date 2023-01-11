@@ -1,0 +1,57 @@
+[
+  {
+    "id": "ydqo3lvm",
+    "game": "Spindizzy Worlds",
+    "player": "aperturegrillz",
+    "player_location": "us",
+    "time": 13,
+    "category": "Easy",
+    "region": null,
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "z137qqrm",
+    "game": "Spindizzy Worlds",
+    "player": "Prism019",
+    "player_location": "us",
+    "time": 12,
+    "category": "Easy",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "y97w2nvm",
+    "game": "Spindizzy Worlds",
+    "player": "hvK8NXsjNO",
+    "player_location": null,
+    "time": 13,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "mekpl62m",
+    "game": "Spindizzy Worlds",
+    "player": "tbcr",
+    "player_location": "us",
+    "time": 12,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "ydd80ljy",
+    "game": "Spindizzy Worlds",
+    "player": "Aaamdacuaga",
+    "player_location": "us",
+    "time": 607,
+    "category": "Easydizzy Cluster",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  }
+]

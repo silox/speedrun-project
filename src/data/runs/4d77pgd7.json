@@ -1,0 +1,90 @@
+[
+  {
+    "id": "zxvg8o5y",
+    "game": "",
+    "player": "Zeeslag",
+    "player_location": "nl",
+    "time": 141,
+    "category": "Tutorial",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m79odley",
+    "game": "",
+    "player": "stunsp0re",
+    "player_location": "gb",
+    "time": 139,
+    "category": "Tutorial",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y2367l7m",
+    "game": "",
+    "player": "bearMinimum",
+    "player_location": "us",
+    "time": 138,
+    "category": "Tutorial",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zp06vvnm",
+    "game": "Black Squad",
+    "player": "Zapp3r",
+    "player_location": "dk",
+    "time": 154,
+    "category": "Tutorial",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y215ng6z",
+    "game": "Black Squad",
+    "player": "Otterito",
+    "player_location": "de",
+    "time": 136,
+    "category": "Tutorial",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z0579oom",
+    "game": "Black Squad",
+    "player": "Gaba",
+    "player_location": "br",
+    "time": 144,
+    "category": "Tutorial",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m7ge18wm",
+    "game": "Black Squad",
+    "player": "RoddraN",
+    "player_location": "ru",
+    "time": 135,
+    "category": "Tutorial",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zp9xgenm",
+    "game": "Black Squad",
+    "player": "SanchoGOD",
+    "player_location": "hu",
+    "time": 137,
+    "category": "Tutorial",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "id": "yoj0o5jm",
+    "game": "Beyblade: Metal Masters",
+    "player": "BlaGe",
+    "player_location": "de",
+    "time": 448.6,
+    "category": "Any% Arcade",
+    "region": "EUR / PAL",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "znr2egly",
+    "game": "Beyblade: Metal Masters",
+    "player": "IggyPoppo",
+    "player_location": "gb/eng",
+    "time": 421.02,
+    "category": "Any% Arcade",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "yl0dl53y",
+    "game": "Beyblade: Metal Masters",
+    "player": "Scarlet",
+    "player_location": "gb/eng",
+    "time": 427.029,
+    "category": "Any% Arcade",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "yl0dd9ky",
+    "game": "Beyblade: Metal Masters",
+    "player": "EvilOrso",
+    "player_location": "ca",
+    "time": 451,
+    "category": "Any% Arcade",
+    "region": null,
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "zgxvwpem",
+    "game": "Beyblade: Metal Masters",
+    "player": "LowPolyFire",
+    "player_location": "br",
+    "time": 371.06,
+    "category": "Any% NG+ Arcade",
+    "region": "EUR / PAL",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "yjgw8l3y",
+    "game": "Beyblade: Metal Masters",
+    "player": "_dav",
+    "player_location": "br",
+    "time": 413.04,
+    "category": "Any% Arcade",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "y48rdnkm",
+    "game": "Beyblade: Metal Masters",
+    "player": "mynameisntjackson",
+    "player_location": null,
+    "time": 418.97,
+    "category": "Any% Arcade",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "id": "kz53njdy",
+    "game": "Cubivore: Survival of the Fittest",
+    "player": "Mittenz",
+    "player_location": "us",
+    "time": 1530,
+    "category": "Rainbow Heaven 1",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "wzp85vvy",
+    "game": "Cubivore: Survival of the Fittest",
+    "player": "flagalstan",
+    "player_location": "us",
+    "time": 11758,
+    "category": "True Ending",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "yo4jj4dm",
+    "game": "Cubivore: Survival of the Fittest",
+    "player": "Harutomo",
+    "player_location": "jp",
+    "time": 9921,
+    "category": "True Ending",
+    "region": "JPN / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "ydqk7o0m",
+    "game": "Cubivore: Survival of the Fittest",
+    "player": "JussaPeak",
+    "player_location": "us",
+    "time": 1482,
+    "category": "Rainbow Heaven 1",
+    "region": "JPN / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "yw406xnz",
+    "game": "Cubivore: Survival of the Fittest",
+    "player": "\u306e\u3072\u3068",
+    "player_location": null,
+    "time": 5070,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "z57rjgdm",
+    "game": "Cubivore: Survival of the Fittest",
+    "player": "stoic_rose",
+    "player_location": "us",
+    "time": 1460,
+    "category": "Rainbow Heaven 1",
+    "region": "JPN / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "mrkr7v8y",
+    "game": "Cubivore: Survival of the Fittest",
+    "player": "MamaDespik",
+    "player_location": "us",
+    "time": 1326,
+    "category": "Rainbow Heaven 1",
+    "region": "JPN / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "me948v3z",
+    "game": "Cubivore: Survival of the Fittest",
+    "player": "melonsherbet",
+    "player_location": "jp",
+    "time": 1304,
+    "category": "Rainbow Heaven 1",
+    "region": "JPN / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "yv26or6m",
+    "game": "Cubivore: Survival of the Fittest",
+    "player": "turarara",
+    "player_location": null,
+    "time": 4827,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "yderp6vm",
+    "game": "Cubivore: Survival of the Fittest",
+    "player": "alkali_denti",
+    "player_location": "jp",
+    "time": 8027,
+    "category": "True Ending",
+    "region": "JPN / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "zq112e8m",
+    "game": "Cubivore: Survival of the Fittest",
+    "player": "chain1292",
+    "player_location": "us",
+    "time": 18480,
+    "category": "100%",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "y483drdm",
+    "game": "Cubivore: Survival of the Fittest",
+    "player": "dunewacky",
+    "player_location": "us",
+    "time": 9742,
+    "category": "True Ending",
+    "region": "JPN / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  }
+]

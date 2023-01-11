@@ -1,0 +1,79 @@
+[
+  {
+    "id": "zp4lornz",
+    "game": "Gunbird 2",
+    "player": "cheekychunk",
+    "player_location": null,
+    "time": 731,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "mreo384y",
+    "game": "Gunbird 2",
+    "player": "RitaH",
+    "player_location": "br",
+    "time": 731,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yl08663y",
+    "game": "Gunbird 2",
+    "player": "NeetSuhiro",
+    "player_location": "jp",
+    "time": 698,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "m37geewz",
+    "game": "Gunbird 2",
+    "player": "Kureina",
+    "player_location": "fr",
+    "time": 743,
+    "category": "Any%",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yle9jw3z",
+    "game": "Gunbird 2",
+    "player": "saulonpb",
+    "player_location": "br",
+    "time": 743,
+    "category": "Any%",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zx840eqm",
+    "game": "Gunbird 2",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 722,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y9xv0e2y",
+    "game": "Gunbird 2",
+    "player": "stormcrow56k",
+    "player_location": "us",
+    "time": 688,
+    "category": "Any% Co-op",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  }
+]

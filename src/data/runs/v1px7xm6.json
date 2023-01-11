@@ -1,0 +1,134 @@
+[
+  {
+    "id": "y88xq75y",
+    "game": "Love Yourself",
+    "player": "Socaberg",
+    "player_location": "de",
+    "time": 1163.92,
+    "category": "Welcome Home%",
+    "region": "EUR / PAL",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "yjp1r87y",
+    "game": "Love Yourself",
+    "player": "HerrNic",
+    "player_location": "de",
+    "time": 2699.63,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y2pvoe7z",
+    "game": "Love Yourself",
+    "player": "jeady",
+    "player_location": "de",
+    "time": 1329.86,
+    "category": "Welcome Home%",
+    "region": null,
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y600l06y",
+    "game": "Love Yourself",
+    "player": "B2De81",
+    "player_location": "us",
+    "time": 1173.25,
+    "category": "Welcome Home%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "znp1d5lm",
+    "game": "Love Yourself",
+    "player": "marksands",
+    "player_location": "us",
+    "time": 21.488,
+    "category": "Beat the Level",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "y4qq7k3m",
+    "game": "Love Yourself",
+    "player": "Sakaya",
+    "player_location": "at",
+    "time": 1244.56,
+    "category": "Welcome Home%",
+    "region": null,
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "y88xl41y",
+    "game": "Love Yourself",
+    "player": "TCKLZ",
+    "player_location": "us",
+    "time": 1171.77,
+    "category": "Welcome Home%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "ydd1kxwy",
+    "game": "Love Yourself",
+    "player": "muzzL",
+    "player_location": "ca",
+    "time": 1321.57,
+    "category": "Welcome Home%",
+    "region": null,
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "yw3v110m",
+    "game": "Love Yourself",
+    "player": "thedigitalandrew",
+    "player_location": "us",
+    "time": 1246.61,
+    "category": "Welcome Home%",
+    "region": null,
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "z0p0v0ey",
+    "game": "Love Yourself",
+    "player": "Tommy89",
+    "player_location": "de",
+    "time": 1221.88,
+    "category": "Welcome Home%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "yl1jw3xm",
+    "game": "Love Yourself",
+    "player": "BVTM",
+    "player_location": "ca",
+    "time": 2117,
+    "category": "",
+    "region": null,
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "me1ro38y",
+    "game": "Love Yourself",
+    "player": "mangort",
+    "player_location": "ca",
+    "time": 1117.53,
+    "category": "Welcome Home%",
+    "region": null,
+    "platform": "Super Nintendo",
+    "emulated": true
+  }
+]

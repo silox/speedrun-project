@@ -1,0 +1,79 @@
+[
+  {
+    "id": "y2q9qd9y",
+    "game": "",
+    "player": "\u4e0e\u5175\u885b",
+    "player_location": null,
+    "time": 24384,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "z57rgodm",
+    "game": "",
+    "player": "\u30d5\u30ed\u30fc\u30ba\u30f3S",
+    "player_location": null,
+    "time": 41457,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "y21xw3jz",
+    "game": "",
+    "player": "\u304a\u3055\u3093\u307d",
+    "player_location": null,
+    "time": 29091,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "yv282o8m",
+    "game": "Rune Factory: Tides of Destiny",
+    "player": "THEtikinnn",
+    "player_location": "jp",
+    "time": 19988,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "z1oj3wrm",
+    "game": "Rune Factory: Tides of Destiny",
+    "player": "K_E_I",
+    "player_location": "gb",
+    "time": 21440,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "yd03dnjz",
+    "game": "Rune Factory: Tides of Destiny",
+    "player": "nue",
+    "player_location": "jp",
+    "time": 22445,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "zx7ow05y",
+    "game": "Rune Factory: Tides of Destiny",
+    "player": "qazplm",
+    "player_location": "us",
+    "time": 20014,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  }
+]

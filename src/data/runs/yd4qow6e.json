@@ -1,0 +1,101 @@
+[
+  {
+    "id": "kz5kjgnz",
+    "game": "Way of the Samurai 3",
+    "player": "loooordvx",
+    "player_location": "us",
+    "time": 1110,
+    "category": "New Game",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zgwoveny",
+    "game": "Way of the Samurai 3",
+    "player": "therealbmanbeast",
+    "player_location": "us",
+    "time": 367,
+    "category": "New Game+",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "7ylgx0xm",
+    "game": "Way of the Samurai 3",
+    "player": "Kromer",
+    "player_location": "br",
+    "time": 548,
+    "category": "New Game",
+    "region": "USA / NTSC",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "0zndjj8m",
+    "game": "Way of the Samurai 3",
+    "player": "d0me__tv",
+    "player_location": "de",
+    "time": 569,
+    "category": "New Game",
+    "region": null,
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "y2qq617y",
+    "game": "Way of the Samurai 3",
+    "player": "Skuttie",
+    "player_location": "us",
+    "time": 447,
+    "category": "New Game",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yd69vjwz",
+    "game": "Way of the Samurai 3",
+    "player": "Nimu",
+    "player_location": "fr",
+    "time": 586,
+    "category": "Pacifist%",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zgxd2xvm",
+    "game": "Way of the Samurai 3",
+    "player": "Trades_IOA",
+    "player_location": "us",
+    "time": 523,
+    "category": "New Game+",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y8d3pexz",
+    "game": "Way of the Samurai 3",
+    "player": "emerald_void",
+    "player_location": "us",
+    "time": 432,
+    "category": "New Game+",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "ydwv4pxm",
+    "game": "Way of the Samurai 3",
+    "player": "notdonknotts",
+    "player_location": "us",
+    "time": 325,
+    "category": "New Game+",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

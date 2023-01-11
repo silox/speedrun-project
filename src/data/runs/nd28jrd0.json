@@ -1,0 +1,68 @@
+[
+  {
+    "id": "6yjkx63m",
+    "game": "",
+    "player": "scaryice",
+    "player_location": null,
+    "time": 1185,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zgndxxjy",
+    "game": "",
+    "player": "xi_kisaragi",
+    "player_location": "jp",
+    "time": 1178,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zp0p3drm",
+    "game": "Amagon",
+    "player": "The_Retro_Challenger",
+    "player_location": "ca/qc",
+    "time": 1364,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zg7jvv0z",
+    "game": "Amagon",
+    "player": "Toad22484",
+    "player_location": "us",
+    "time": 1170,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "m3r11dqm",
+    "game": "Amagon",
+    "player": "stone_clive",
+    "player_location": "jp",
+    "time": 1129,
+    "category": "Any%",
+    "region": null,
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y938rgky",
+    "game": "Amagon",
+    "player": "amazu_tw",
+    "player_location": "jp",
+    "time": 1634,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  }
+]

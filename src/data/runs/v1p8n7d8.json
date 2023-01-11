@@ -1,0 +1,24 @@
+[
+  {
+    "id": "zqw440rz",
+    "game": "Spirits & Spells",
+    "player": "SpaceCowboi",
+    "player_location": "us",
+    "time": 4466,
+    "category": "Beat the Game",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "m35rrw6y",
+    "game": "Spirits & Spells",
+    "player": "Sjorec",
+    "player_location": "us",
+    "time": 4407,
+    "category": "Beat the Game",
+    "region": "JPN / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  }
+]

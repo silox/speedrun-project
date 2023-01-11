@@ -1,0 +1,57 @@
+[
+  {
+    "id": "zqegvv8z",
+    "game": "Last Command",
+    "player": "GhostKumo",
+    "player_location": "us",
+    "time": 56,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zpde8v8z",
+    "game": "Last Command",
+    "player": "SkullDood",
+    "player_location": "ca",
+    "time": 5415,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zpgnn3rz",
+    "game": "Last Command",
+    "player": "ngi_ery",
+    "player_location": "jp",
+    "time": 2832,
+    "category": "All Bosses (Extra Mode)",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "ywv0d5nz",
+    "game": "Last Command",
+    "player": "MrBuckey",
+    "player_location": "us",
+    "time": 56,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y2jd3d6z",
+    "game": "Last Command",
+    "player": "Suk1ru",
+    "player_location": "jp",
+    "time": 4102,
+    "category": "All Bosses (Extra Mode)",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

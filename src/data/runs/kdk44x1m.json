@@ -1,0 +1,123 @@
+[
+  {
+    "id": "7z04444y",
+    "game": "Mega Man Battle Chip Challenge",
+    "player": "ratfunk",
+    "player_location": "us",
+    "time": 14138,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "0y68rv6z",
+    "game": "Mega Man Battle Chip Challenge",
+    "player": "MHFsilver",
+    "player_location": "us",
+    "time": 13467,
+    "category": "NG+ (S Tournament)",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "y67dlj1m",
+    "game": "Mega Man Battle Chip Challenge",
+    "player": "Tterraj42",
+    "player_location": "us",
+    "time": 9338,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "ydqv77qm",
+    "game": "Mega Man Battle Chip Challenge",
+    "player": "StrawberryWhiteblock",
+    "player_location": null,
+    "time": 17188,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "yd3k55wz",
+    "game": "Mega Man Battle Chip Challenge",
+    "player": "Dalus_exe",
+    "player_location": "es",
+    "time": 6321,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "mk3jjw3z",
+    "game": "Mega Man Battle Chip Challenge",
+    "player": "GhostScit",
+    "player_location": null,
+    "time": 6059,
+    "category": "NG+ (S Tournament)",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "mr8ow97y",
+    "game": "Mega Man Battle Chip Challenge",
+    "player": "shadowmanV4",
+    "player_location": "ca",
+    "time": 9068,
+    "category": "NG+ (S Tournament)",
+    "region": "USA / NTSC",
+    "platform": "Wii U Virtual Console",
+    "emulated": false
+  },
+  {
+    "id": "yvj5q0ey",
+    "game": "Mega Man Battle Chip Challenge",
+    "player": "soyboyganggang",
+    "player_location": null,
+    "time": 11298,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "y41w1g2y",
+    "game": "Mega Man Battle Chip Challenge",
+    "player": "AppleCider",
+    "player_location": null,
+    "time": 13799,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "y8jglx1z",
+    "game": "Mega Man Battle Chip Challenge",
+    "player": "ChaoticDX",
+    "player_location": "us",
+    "time": 11733,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Player",
+    "emulated": false
+  },
+  {
+    "id": "yodlq91m",
+    "game": "Mega Man Battle Chip Challenge",
+    "player": "SaburouNakai",
+    "player_location": "jp",
+    "time": 11763,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Player",
+    "emulated": false
+  }
+]

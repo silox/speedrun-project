@@ -1,0 +1,123 @@
+[
+  {
+    "id": "z11oo7rz",
+    "game": "Fighter's History",
+    "player": "NerdyNester",
+    "player_location": "us",
+    "time": 548,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "z039re4z",
+    "game": "Fighter's History",
+    "player": "Peanutfan22",
+    "player_location": "us",
+    "time": 614,
+    "category": "SNES",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "zq31561y",
+    "game": "Fighter's History",
+    "player": "HurricaneMixer",
+    "player_location": "us",
+    "time": 531,
+    "category": "SNES",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "yojlqjjm",
+    "game": "Fighter's History",
+    "player": "Tenka",
+    "player_location": "au",
+    "time": 872,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z01jl88y",
+    "game": "Fighter's History",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 1202,
+    "category": "SNES",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "mk26pe3m",
+    "game": "Fighter's History",
+    "player": "SgtPowerglove",
+    "player_location": "us",
+    "time": 668,
+    "category": "SNES",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "zgw3wwvy",
+    "game": "Fighter's History",
+    "player": "Regyszord_BR",
+    "player_location": "br",
+    "time": 725,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z15x2lwy",
+    "game": "Fighter's History",
+    "player": "rai606",
+    "player_location": "us",
+    "time": 651,
+    "category": "SNES",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "z12wnvjy",
+    "game": "Fighter's History",
+    "player": "Kadroh",
+    "player_location": "it",
+    "time": 716,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yjdvxeny",
+    "game": "Fighter's History",
+    "player": "Skuttie",
+    "player_location": "us",
+    "time": 625,
+    "category": "SNES",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "y4xdexkz",
+    "game": "Fighter's History",
+    "player": "NintenLew",
+    "player_location": "gb/eng",
+    "time": 641,
+    "category": "",
+    "region": null,
+    "platform": "Switch",
+    "emulated": false
+  }
+]

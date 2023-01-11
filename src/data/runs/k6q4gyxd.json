@@ -1,0 +1,90 @@
+[
+  {
+    "id": "ylo1x5xy",
+    "game": "Goonya Fighter",
+    "player": "kutachu",
+    "player_location": "jp",
+    "time": 3501,
+    "category": "Story Mode - Solo",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 5",
+    "emulated": false
+  },
+  {
+    "id": "z183e27y",
+    "game": "Goonya Fighter",
+    "player": "shiragi",
+    "player_location": "jp",
+    "time": 3728,
+    "category": "Story Mode - Solo",
+    "region": "JPN / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "yv9xpkez",
+    "game": "Goonya Fighter",
+    "player": "TheRedPikachu",
+    "player_location": "us",
+    "time": 6662,
+    "category": "Story Mode - Pair",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "mr9xw7dm",
+    "game": "Goonya Fighter",
+    "player": "sFals",
+    "player_location": "jp",
+    "time": 3738,
+    "category": "Story Mode - Solo",
+    "region": "JPN / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "zqg54w1m",
+    "game": "Goonya Fighter",
+    "player": "Stick1043",
+    "player_location": "us",
+    "time": 3523,
+    "category": "Story Mode - Solo",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 5",
+    "emulated": false
+  },
+  {
+    "id": "z18xnojy",
+    "game": "Goonya Fighter",
+    "player": "Josniff",
+    "player_location": "us",
+    "time": 5511,
+    "category": "Story Mode - Pair",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 5",
+    "emulated": false
+  },
+  {
+    "id": "zgxl6wnm",
+    "game": "Goonya Fighter",
+    "player": "Dumpy",
+    "player_location": "au",
+    "time": 4508,
+    "category": "Story Mode - Pair",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "zqvnvp5m",
+    "game": "Goonya Fighter",
+    "player": "ilRickyy",
+    "player_location": "it",
+    "time": 5343,
+    "category": "Story Mode - Solo",
+    "region": null,
+    "platform": "Switch",
+    "emulated": false
+  }
+]

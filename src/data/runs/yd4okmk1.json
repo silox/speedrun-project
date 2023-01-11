@@ -1,0 +1,57 @@
+[
+  {
+    "id": "yw005e3m",
+    "game": "Metal Gear Ac!d",
+    "player": "casinocoin",
+    "player_location": "ca",
+    "time": 23968,
+    "category": "New Game",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": false
+  },
+  {
+    "id": "y952vdez",
+    "game": "Metal Gear Ac!d",
+    "player": "Coppertank",
+    "player_location": "us",
+    "time": 10649,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "y9no2q2z",
+    "game": "Metal Gear Ac!d",
+    "player": "calcifer050",
+    "player_location": "gb/eng",
+    "time": 14318,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "mr7274dz",
+    "game": "Metal Gear Ac!d",
+    "player": "rayn_RTA",
+    "player_location": "jp",
+    "time": 9858,
+    "category": "New Game +",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "y2e9049y",
+    "game": "Metal Gear Ac!d",
+    "player": "badhumans",
+    "player_location": "us",
+    "time": 20083,
+    "category": "New Game +",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": false
+  }
+]

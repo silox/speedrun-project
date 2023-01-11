@@ -1,0 +1,101 @@
+[
+  {
+    "id": "7ylw89rz",
+    "game": "HyperZone",
+    "player": "PJDiCesare",
+    "player_location": null,
+    "time": 1431,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "oy24o07z",
+    "game": "HyperZone",
+    "player": "AggroSky",
+    "player_location": "us",
+    "time": 1407,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "yvgjvl6y",
+    "game": "HyperZone",
+    "player": "Sidarino",
+    "player_location": "us",
+    "time": 1333,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "z5o70kjy",
+    "game": "HyperZone",
+    "player": "mrcab55",
+    "player_location": "us",
+    "time": 1713,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y6ponl6m",
+    "game": "HyperZone",
+    "player": "repuSoiraM",
+    "player_location": "us",
+    "time": 1561,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "yo2ok5dz",
+    "game": "HyperZone",
+    "player": "EODTex",
+    "player_location": "us",
+    "time": 1480,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "zp0kepvm",
+    "game": "HyperZone",
+    "player": "Discharge15",
+    "player_location": "us",
+    "time": 1477,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "me47kd8y",
+    "game": "HyperZone",
+    "player": "Cozmiccow99",
+    "player_location": "us",
+    "time": 1590,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "yle8j7nz",
+    "game": "HyperZone",
+    "player": "Moqoru",
+    "player_location": "kr",
+    "time": 1543,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  }
+]

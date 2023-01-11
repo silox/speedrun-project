@@ -1,0 +1,57 @@
+[
+  {
+    "id": "yj48ol3y",
+    "game": "",
+    "player": "Marty64",
+    "player_location": "fr",
+    "time": 9817,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yw444rnz",
+    "game": "",
+    "player": "Nekin",
+    "player_location": "fr",
+    "time": 5389,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mexxrr3z",
+    "game": "",
+    "player": "Failentin",
+    "player_location": "de",
+    "time": 4644,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zxkv5r5m",
+    "game": "Ast\u00e9rix & Ob\u00e9lix XXL 2",
+    "player": "M3rtButur4k",
+    "player_location": "tr",
+    "time": 6449,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "z52276dz",
+    "game": "Ast\u00e9rix & Ob\u00e9lix XXL 2",
+    "player": "SleepingFisher",
+    "player_location": "fr",
+    "time": 11536,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Switch",
+    "emulated": false
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "yl4jg6nm",
+    "game": "Primal",
+    "player": "epicdudeguy",
+    "player_location": "nl",
+    "time": 3174,
+    "category": "Solum",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "ydr3q1vz",
+    "game": "Primal",
+    "player": "SefiroCrescent",
+    "player_location": "gb/eng",
+    "time": 2915,
+    "category": "Solum",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "yjg15wdy",
+    "game": "Primal",
+    "player": "Vynnada",
+    "player_location": "ie",
+    "time": 359,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "yv11644y",
+    "game": "Primal",
+    "player": "tova98",
+    "player_location": "hr",
+    "time": 318,
+    "category": "Final Battle",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "y6d6dq6m",
+    "game": "Primal",
+    "player": "Flamewheel",
+    "player_location": "gb/eng",
+    "time": 3554,
+    "category": "Solum",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  }
+]

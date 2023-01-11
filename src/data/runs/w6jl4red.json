@@ -1,0 +1,90 @@
+[
+  {
+    "id": "yw4qn49z",
+    "game": "Dimahoo",
+    "player": "manticor5",
+    "player_location": "cl",
+    "time": 1080,
+    "category": "Any% 1 Loop",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "mk203q5m",
+    "game": "Dimahoo",
+    "player": "RitaH",
+    "player_location": "br",
+    "time": 1234,
+    "category": "Any% Co-Op 2 Players 1 Loop",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "ylrqr93y",
+    "game": "Dimahoo",
+    "player": "saulonpb",
+    "player_location": "br",
+    "time": 1077,
+    "category": "Any% Co-Op 2 Players 1 Loop",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zgw2jwny",
+    "game": "Dimahoo",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 1138,
+    "category": "Any% 1 Loop",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "m3g986gz",
+    "game": "Dimahoo",
+    "player": "FUKUCHAN",
+    "player_location": "jp",
+    "time": 990,
+    "category": "Any% 1 Loop",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": false
+  },
+  {
+    "id": "ywd5xvnz",
+    "game": "Dimahoo",
+    "player": "Commodore64Brannigan",
+    "player_location": "gb/sct",
+    "time": 1141,
+    "category": "Any% Co-Op 2 Players 1 Loop",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zp8ep2vy",
+    "game": "Dimahoo",
+    "player": "ZPS",
+    "player_location": null,
+    "time": 1060,
+    "category": "1 CC 1 Loop",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yd1kx0wy",
+    "game": "Dimahoo",
+    "player": "Dumple",
+    "player_location": "us",
+    "time": 1078,
+    "category": "Any% 1 Loop",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

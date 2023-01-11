@@ -1,0 +1,35 @@
+[
+  {
+    "id": "mrrn3p7m",
+    "game": "Riding Seas",
+    "player": "Le6lindre",
+    "player_location": "fr",
+    "time": 8304.27,
+    "category": "All Cups",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yjdpxvoy",
+    "game": "Riding Seas",
+    "player": "FreeRunnerGuys",
+    "player_location": "ca/qc",
+    "time": 1625.68,
+    "category": "All Rookie's Cups",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z5xxj6dy",
+    "game": "Riding Seas",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 42.202,
+    "category": "Time Attack (Rookie)",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  }
+]

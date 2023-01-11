@@ -1,0 +1,24 @@
+[
+  {
+    "id": "znqon17z",
+    "game": "",
+    "player": "Ellimist",
+    "player_location": "us",
+    "time": 1568,
+    "category": "2P",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y2ev877y",
+    "game": "",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 1683,
+    "category": "2P",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

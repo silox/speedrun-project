@@ -1,0 +1,101 @@
+[
+  {
+    "id": "yj4r9kgy",
+    "game": "PGA Tour Golf II",
+    "player": "glennobrien",
+    "player_location": "au",
+    "time": 834,
+    "category": "Professional Tees (Genesis)",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "m3o8jgdm",
+    "game": "PGA Tour Golf II",
+    "player": "EPA",
+    "player_location": null,
+    "time": 2431,
+    "category": "Professional Tees (Genesis)",
+    "region": null,
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "yj4r9goy",
+    "game": "PGA Tour Golf II",
+    "player": "Steve Germershausen",
+    "player_location": null,
+    "time": 991,
+    "category": "Professional Tees (Genesis)",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "me8dg72m",
+    "game": "PGA Tour Golf II",
+    "player": "Steve Klebrowski",
+    "player_location": null,
+    "time": 1186,
+    "category": "Professional Tees (Genesis)",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "z11w5p9z",
+    "game": "PGA Tour Golf II",
+    "player": "segasocks",
+    "player_location": null,
+    "time": 1839,
+    "category": "Professional Tees (Genesis)",
+    "region": null,
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "yw4d4g2z",
+    "game": "PGA Tour Golf II",
+    "player": "NihilistComedyHour",
+    "player_location": "eo",
+    "time": 802,
+    "category": "Professional Tees (Genesis)",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "zgwgq8ey",
+    "game": "PGA Tour Golf II",
+    "player": "Peanutfan22",
+    "player_location": "us",
+    "time": 968,
+    "category": "Amateur Tees (Genesis)",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "zplvw8vm",
+    "game": "PGA Tour Golf II",
+    "player": "webz80",
+    "player_location": "au",
+    "time": 696,
+    "category": "Amateur Tees (Genesis)",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "yo7pj65m",
+    "game": "PGA Tour Golf II",
+    "player": "dab88",
+    "player_location": "gb/sct",
+    "time": 638,
+    "category": "Amateur Tees (Genesis)",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  }
+]

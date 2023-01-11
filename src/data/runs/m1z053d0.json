@@ -1,0 +1,24 @@
+[
+  {
+    "id": "2ywx6wpm",
+    "game": "Bomberman Gameboy 2",
+    "player": "GreenBomber",
+    "player_location": "us",
+    "time": 4887,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": false
+  },
+  {
+    "id": "mex7430z",
+    "game": "Bomberman Gameboy 2",
+    "player": "Frank",
+    "player_location": "jp",
+    "time": 3431,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  }
+]

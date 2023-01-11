@@ -1,0 +1,178 @@
+[
+  {
+    "id": "1zxodkez",
+    "game": "Batman Returns (SNES)",
+    "player": "EastiEvilDead",
+    "player_location": "gb/eng",
+    "time": 1957,
+    "category": "Easy%",
+    "region": "EUR / PAL",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "6yjxkkoz",
+    "game": "Batman Returns (SNES)",
+    "player": "Ray_282",
+    "player_location": "ca",
+    "time": 1893,
+    "category": "Easy%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "m3or46qm",
+    "game": "Batman Returns (SNES)",
+    "player": "LRock617",
+    "player_location": "us",
+    "time": 1340,
+    "category": "Easy%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "z131kjjm",
+    "game": "Batman Returns (SNES)",
+    "player": "Sm_Izumi",
+    "player_location": "fr",
+    "time": 1940,
+    "category": "Easy%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "yl00782y",
+    "game": "Batman Returns (SNES)",
+    "player": "WestpointSteve",
+    "player_location": "us",
+    "time": 1353,
+    "category": "Easy%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y895v61m",
+    "game": "Batman Returns (SNES)",
+    "player": "darkalexandr",
+    "player_location": "us",
+    "time": 1568,
+    "category": "Easy%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y8977kxm",
+    "game": "Batman Returns (SNES)",
+    "player": "turbogilman",
+    "player_location": "us",
+    "time": 1867,
+    "category": "Easy%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "zq42521m",
+    "game": "Batman Returns (SNES)",
+    "player": "Wizardman",
+    "player_location": "us",
+    "time": 1837,
+    "category": "Easy%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "m7888o9z",
+    "game": "Batman Returns (SNES)",
+    "player": "Norishige710",
+    "player_location": "jp",
+    "time": 1757,
+    "category": "Easy%",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "z0r6rlez",
+    "game": "Batman Returns (SNES)",
+    "player": "Magestikal",
+    "player_location": "ca",
+    "time": 2990,
+    "category": "Mania%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "m7dk2j0m",
+    "game": "Batman Returns (SNES)",
+    "player": "daskeyzerlein",
+    "player_location": "de",
+    "time": 3179,
+    "category": "Easy%",
+    "region": "EUR / PAL",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "zq1ld71m",
+    "game": "Batman Returns (SNES)",
+    "player": "JADRIOSIS",
+    "player_location": "ec",
+    "time": 2380,
+    "category": "Mania%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "y275g89z",
+    "game": "Batman Returns (SNES)",
+    "player": "Toi_",
+    "player_location": "us",
+    "time": 1857,
+    "category": "Easy%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "ywkqnk9y",
+    "game": "Batman Returns (SNES)",
+    "player": "castanet_ojisan",
+    "player_location": "jp",
+    "time": 2074,
+    "category": "Easy%",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "m338rgdm",
+    "game": "Batman Returns (SNES)",
+    "player": "CaptainTendo",
+    "player_location": "us",
+    "time": 2416,
+    "category": "Easy%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "ywv1g80z",
+    "game": "Batman Returns (SNES)",
+    "player": "maseratimc91",
+    "player_location": "it",
+    "time": 2809,
+    "category": "Easy%",
+    "region": "EUR / PAL",
+    "platform": "Super Nintendo",
+    "emulated": true
+  }
+]

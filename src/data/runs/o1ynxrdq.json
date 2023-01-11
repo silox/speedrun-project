@@ -1,0 +1,101 @@
+[
+  {
+    "id": "pzgg6qdz",
+    "game": "BloodRayne",
+    "player": "Owin0",
+    "player_location": "pl",
+    "time": 2724,
+    "category": "Segmented",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "0zn1g5vm",
+    "game": "BloodRayne",
+    "player": "Nerox Aliasss",
+    "player_location": null,
+    "time": 3292,
+    "category": "Segmented",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "oy2jw75z",
+    "game": "BloodRayne",
+    "player": "Tezur0",
+    "player_location": "ru",
+    "time": 3188,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yvj6gk4y",
+    "game": "BloodRayne",
+    "player": "Elishad",
+    "player_location": "fr",
+    "time": 1456,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yop0ed7m",
+    "game": "BloodRayne",
+    "player": "ToxicTT",
+    "player_location": "ru",
+    "time": 1112,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z0rxv6jz",
+    "game": "BloodRayne",
+    "player": "Mikemax",
+    "player_location": "it",
+    "time": 1883,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yor2kq0y",
+    "game": "BloodRayne",
+    "player": "Ravensh1ne",
+    "player_location": "ru",
+    "time": 1285.33,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y480002m",
+    "game": "BloodRayne",
+    "player": "DKNorad",
+    "player_location": "bg",
+    "time": 1299,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zgp4g5dz",
+    "game": "BloodRayne",
+    "player": "Vynnada",
+    "player_location": "ie",
+    "time": 1330,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  }
+]

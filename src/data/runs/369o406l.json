@@ -1,0 +1,123 @@
+[
+  {
+    "id": "z0e3p4om",
+    "game": "Werewolf: The Last Warrior",
+    "player": "whitman_price_",
+    "player_location": "us",
+    "time": 638,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "8y8n181y",
+    "game": "Werewolf: The Last Warrior",
+    "player": "AndrewG",
+    "player_location": "us",
+    "time": 682,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "yl94jpry",
+    "game": "Werewolf: The Last Warrior",
+    "player": "Vidtendo",
+    "player_location": "ca/qc",
+    "time": 1071,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y9710rvm",
+    "game": "Werewolf: The Last Warrior",
+    "player": "Mornghold",
+    "player_location": "ru",
+    "time": 858,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "y899x1nm",
+    "game": "Werewolf: The Last Warrior",
+    "player": "SuperPitFro",
+    "player_location": "us",
+    "time": 625,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zq3rn85y",
+    "game": "Werewolf: The Last Warrior",
+    "player": "WoopVonWoop",
+    "player_location": "us",
+    "time": 681,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zq41689m",
+    "game": "Werewolf: The Last Warrior",
+    "player": "Mad_Max",
+    "player_location": "fr",
+    "time": 597,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "ylo60kxy",
+    "game": "Werewolf: The Last Warrior",
+    "player": "gheb",
+    "player_location": null,
+    "time": 1305,
+    "category": "Any% No Super WW Glitch",
+    "region": null,
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "z07d898y",
+    "game": "Werewolf: The Last Warrior",
+    "player": "burst_error",
+    "player_location": "us",
+    "time": 696,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "yoplw35m",
+    "game": "Werewolf: The Last Warrior",
+    "player": "MatChariot",
+    "player_location": "jp",
+    "time": 797,
+    "category": "Any% No Super WW Glitch (J)",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y802w2dm",
+    "game": "Werewolf: The Last Warrior",
+    "player": "demiurgi",
+    "player_location": "fi",
+    "time": 624,
+    "category": "Any%",
+    "region": null,
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  }
+]

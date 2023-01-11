@@ -1,0 +1,68 @@
+[
+  {
+    "id": "m3n240dy",
+    "game": "Star Wars: Galaxy of Heroes",
+    "player": "Pedro501st",
+    "player_location": "br",
+    "time": 653,
+    "category": "Campaign (NG+)",
+    "region": null,
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "y8vn4pdz",
+    "game": "Star Wars: Galaxy of Heroes",
+    "player": "N/A",
+    "player_location": null,
+    "time": 1,
+    "category": "Campaign (NG+)",
+    "region": null,
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "m3r7o3gm",
+    "game": "Star Wars: Galaxy of Heroes",
+    "player": "Stevethatdudeeee",
+    "player_location": "au",
+    "time": 323,
+    "category": "Campaign (NG+)",
+    "region": null,
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "zn1qq69m",
+    "game": "Star Wars: Galaxy of Heroes",
+    "player": "YoungJam",
+    "player_location": "us",
+    "time": 553,
+    "category": "Campaign (NG+)",
+    "region": "USA / NTSC",
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "zq7ooexm",
+    "game": "Star Wars: Galaxy of Heroes",
+    "player": "Myrandomappletre",
+    "player_location": null,
+    "time": 649,
+    "category": "Campaign (NG)",
+    "region": "USA / NTSC",
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "z5xln1dy",
+    "game": "Star Wars: Galaxy of Heroes",
+    "player": "GO_G_GAME",
+    "player_location": "us",
+    "time": 533,
+    "category": "Campaign (NG+)",
+    "region": null,
+    "platform": "iOS",
+    "emulated": false
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "mr62292m",
+    "game": "Side Arms: Hyper Dyne",
+    "player": "manticor5",
+    "player_location": "cl",
+    "time": 1710,
+    "category": "Any% Co-Op 2 Players (Arcade)",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zxk32vem",
+    "game": "Side Arms: Hyper Dyne",
+    "player": "RitaH",
+    "player_location": "br",
+    "time": 1786,
+    "category": "Any% Co-Op 2 Players (Arcade)",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zqv1xv1m",
+    "game": "Side Arms: Hyper Dyne",
+    "player": "Vanin",
+    "player_location": "cl",
+    "time": 1614,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "mejlv1qy",
+    "game": "Side Arms: Hyper Dyne",
+    "player": "saulonpb",
+    "player_location": "br",
+    "time": 1828,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y6n2erjz",
+    "game": "Side Arms: Hyper Dyne",
+    "player": "Amune138",
+    "player_location": "us",
+    "time": 1737,
+    "category": "Any% 1 Player (TG-16)",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": false
+  },
+  {
+    "id": "yl1qo6rm",
+    "game": "Side Arms: Hyper Dyne",
+    "player": "Ellimist",
+    "player_location": "us",
+    "time": 1701,
+    "category": "Any% Co-Op 2 Players (Arcade)",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "zgvewgjz",
+    "game": "Ridge Racer 6",
+    "player": "PeteDorr",
+    "player_location": "us",
+    "time": 6595,
+    "category": "World Xplorer Any%",
+    "region": "USA / NTSC",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "z06xppoz",
+    "game": "Ridge Racer 6",
+    "player": "ViperUK",
+    "player_location": "gb/eng",
+    "time": 5440,
+    "category": "World Xplorer Any%",
+    "region": "EUR / PAL",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "m75e1w0z",
+    "game": "Ridge Racer 6",
+    "player": "ImInFrontOfU",
+    "player_location": "us",
+    "time": 6972,
+    "category": "World Xplorer Any%",
+    "region": null,
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "mr4l74dz",
+    "game": "Ridge Racer 6",
+    "player": "Movellandrone",
+    "player_location": "gb/eng",
+    "time": 6168,
+    "category": "World Xplorer Any%",
+    "region": "EUR / PAL",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "m78r1wez",
+    "game": "Ridge Racer 6",
+    "player": "ARMS08Yuki",
+    "player_location": "jp",
+    "time": 5240,
+    "category": "World Xplorer Any%",
+    "region": "JPN / NTSC",
+    "platform": "Xbox 360",
+    "emulated": false
+  }
+]

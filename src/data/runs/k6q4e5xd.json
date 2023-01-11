@@ -1,0 +1,57 @@
+[
+  {
+    "id": "zp31pqnm",
+    "game": "Super Mario Kart DS",
+    "player": "Yoshiabel",
+    "player_location": "es/ct",
+    "time": 1574,
+    "category": "All Tracks (Time Trial, Skips)",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "yod1v80m",
+    "game": "Super Mario Kart DS",
+    "player": "CardboardGamer",
+    "player_location": "us",
+    "time": 17.84,
+    "category": "Skips",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "z12l819y",
+    "game": "Super Mario Kart DS",
+    "player": "TomCube",
+    "player_location": "us",
+    "time": 36,
+    "category": "Skips",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "y80qv2xm",
+    "game": "Super Mario Kart DS",
+    "player": "littlelum",
+    "player_location": "us",
+    "time": 266.33,
+    "category": "Mushroom Cup",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "y6xnwoqy",
+    "game": "Super Mario Kart DS",
+    "player": "mkbox",
+    "player_location": "us",
+    "time": 24.083,
+    "category": "Skips",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  }
+]

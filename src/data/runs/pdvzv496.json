@@ -1,0 +1,35 @@
+[
+  {
+    "id": "yd65glvz",
+    "game": "",
+    "player": "Adamo",
+    "player_location": "us",
+    "time": 108.967,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mrkkk4dy",
+    "game": "",
+    "player": "Varox_sr",
+    "player_location": "fr",
+    "time": 126.616,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zplw3gnm",
+    "game": "",
+    "player": "LiveWire",
+    "player_location": "us",
+    "time": 100.85,
+    "category": "Trialless",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

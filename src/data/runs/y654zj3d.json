@@ -1,0 +1,35 @@
+[
+  {
+    "id": "m3de8pwz",
+    "game": "Bug!",
+    "player": "ruunix2",
+    "player_location": "us",
+    "time": 5535,
+    "category": "Beat the Game",
+    "region": "USA / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "ylo9lwry",
+    "game": "Bug!",
+    "player": "Jimslim",
+    "player_location": "us",
+    "time": 88,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "yvq9vn4m",
+    "game": "Bug!",
+    "player": "snowwood",
+    "player_location": "mx",
+    "time": 92,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  }
+]

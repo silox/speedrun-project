@@ -1,0 +1,123 @@
+[
+  {
+    "id": "yj834p3m",
+    "game": "Fantasy Life",
+    "player": "taitaylor",
+    "player_location": "gb/sct",
+    "time": 206.44,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "m3l1o7wm",
+    "game": "Fantasy Life",
+    "player": "SiNa",
+    "player_location": "jp",
+    "time": 208.39,
+    "category": "Completion",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "yv23goom",
+    "game": "Fantasy Life",
+    "player": "Speed_lbc_run",
+    "player_location": "fr",
+    "time": 984120,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "y42w04dm",
+    "game": "Fantasy Life",
+    "player": "edgaricot",
+    "player_location": "fr",
+    "time": 522000,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "y669q10y",
+    "game": "Fantasy Life",
+    "player": "OverlordEclipse",
+    "player_location": "us",
+    "time": 437280,
+    "category": "All-Creator",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "mejg7q9y",
+    "game": "Fantasy Life",
+    "player": "MicroTeaspoon",
+    "player_location": "us",
+    "time": 1639,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "yv831x6m",
+    "game": "Fantasy Life",
+    "player": "mapleceej",
+    "player_location": "us",
+    "time": 363.636,
+    "category": "Completion",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "y936pwey",
+    "game": "Fantasy Life",
+    "player": "SapphireOfChaos",
+    "player_location": "us",
+    "time": 143280,
+    "category": "All-Creator",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "me4wr09y",
+    "game": "Fantasy Life",
+    "player": "Valkyrienaut",
+    "player_location": null,
+    "time": 354420,
+    "category": "All-Creator",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "znqjovvz",
+    "game": "Fantasy Life",
+    "player": "KamiBlank",
+    "player_location": null,
+    "time": 295740,
+    "category": "All-Creator",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "yd1lewvy",
+    "game": "Fantasy Life",
+    "player": "Lady_Lyndis",
+    "player_location": "ca",
+    "time": 229.43,
+    "category": "Completion",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  }
+]

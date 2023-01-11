@@ -1,0 +1,134 @@
+[
+  {
+    "id": "oy21wg9z",
+    "game": "Metal Arms: Glitch in the System",
+    "player": "lako3000",
+    "player_location": "au",
+    "time": 12707,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "jy9powrm",
+    "game": "Metal Arms: Glitch in the System",
+    "player": "Heroic_Robb",
+    "player_location": "us",
+    "time": 21,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "z512xv5m",
+    "game": "Metal Arms: Glitch in the System",
+    "player": "dj0wns",
+    "player_location": "us",
+    "time": 23,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "zg7pr1nz",
+    "game": "Metal Arms: Glitch in the System",
+    "player": "Dr_Frienderman",
+    "player_location": null,
+    "time": 17,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Xbox 360 Arcade",
+    "emulated": false
+  },
+  {
+    "id": "6yj05k7z",
+    "game": "Metal Arms: Glitch in the System",
+    "player": "jsand28",
+    "player_location": "us",
+    "time": 29,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "zn8dp67z",
+    "game": "Metal Arms: Glitch in the System",
+    "player": "SkittleCrows",
+    "player_location": "us",
+    "time": 18,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "ywplje2z",
+    "game": "Metal Arms: Glitch in the System",
+    "player": "No Chips",
+    "player_location": null,
+    "time": 1,
+    "category": "All Chips",
+    "region": null,
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "m37gn34z",
+    "game": "Metal Arms: Glitch in the System",
+    "player": "VPGx",
+    "player_location": "us",
+    "time": 49,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "zx2xdkkm",
+    "game": "Metal Arms: Glitch in the System",
+    "player": "Sourbit",
+    "player_location": "us",
+    "time": 27,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Xbox 360 Arcade",
+    "emulated": false
+  },
+  {
+    "id": "z068n99z",
+    "game": "Metal Arms: Glitch in the System",
+    "player": "Riveted",
+    "player_location": "us",
+    "time": 26,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "m7dwxgwm",
+    "game": "Metal Arms: Glitch in the System",
+    "player": "Deathawakener",
+    "player_location": "ca",
+    "time": 38,
+    "category": "Any%",
+    "region": null,
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "yleeg62z",
+    "game": "Metal Arms: Glitch in the System",
+    "player": "TheHaloWiki",
+    "player_location": null,
+    "time": 48,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Xbox",
+    "emulated": false
+  }
+]

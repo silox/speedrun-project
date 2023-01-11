@@ -1,0 +1,68 @@
+[
+  {
+    "id": "ydwnj2vm",
+    "game": "Kaizo Mario Galaxy",
+    "player": "Shadow64",
+    "player_location": "gb",
+    "time": 14024,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "zgx89wnm",
+    "game": "Kaizo Mario Galaxy",
+    "player": "loudermonkeyboy",
+    "player_location": "us",
+    "time": 23861,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "yj1qdxoy",
+    "game": "Kaizo Mario Galaxy",
+    "player": "Artemis",
+    "player_location": "us",
+    "time": 23964,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "z12lj6ry",
+    "game": "Kaizo Mario Galaxy",
+    "player": "HardcoreGaming",
+    "player_location": "de",
+    "time": 16286,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "yv0l21oz",
+    "game": "Kaizo Mario Galaxy",
+    "player": "Jhay",
+    "player_location": "gb/wls",
+    "time": 43155,
+    "category": "120 Stars",
+    "region": "EUR / PAL",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "zx8qlnem",
+    "game": "Kaizo Mario Galaxy",
+    "player": "Sailo",
+    "player_location": "de",
+    "time": 49795,
+    "category": "120 Stars",
+    "region": "EUR / PAL",
+    "platform": "Wii U",
+    "emulated": false
+  }
+]

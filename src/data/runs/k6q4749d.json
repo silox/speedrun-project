@@ -1,0 +1,134 @@
+[
+  {
+    "id": "y4ewowqm",
+    "game": "Link's Crossbow Training: Category Extensions",
+    "player": "Spinju",
+    "player_location": "de",
+    "time": 3.333,
+    "category": "All Scarecrows",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "y4e5lpdm",
+    "game": "Link's Crossbow Training: Category Extensions",
+    "player": "minimini352",
+    "player_location": "gb/eng",
+    "time": 189,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "yd0q4xwz",
+    "game": "Link's Crossbow Training: Category Extensions",
+    "player": "Magicmason1000",
+    "player_location": "us",
+    "time": 6,
+    "category": "All Scarecrows",
+    "region": "USA / NTSC",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "z09e8w9z",
+    "game": "Link's Crossbow Training: Category Extensions",
+    "player": "EmberMTZ",
+    "player_location": "gb/eng",
+    "time": 258,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "zn389w7y",
+    "game": "Link's Crossbow Training: Category Extensions",
+    "player": "MegxnP",
+    "player_location": "gb/eng",
+    "time": 260,
+    "category": "All Rangers",
+    "region": "EUR / PAL",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "z0998w9z",
+    "game": "Link's Crossbow Training: Category Extensions",
+    "player": "PounceTheTiger",
+    "player_location": "gb",
+    "time": 253,
+    "category": "All Rangers",
+    "region": "EUR / PAL",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "m759l40z",
+    "game": "Link's Crossbow Training: Category Extensions",
+    "player": "N/A",
+    "player_location": null,
+    "time": 0.001,
+    "category": "All Scarecrows",
+    "region": null,
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "yj64jo7z",
+    "game": "Link's Crossbow Training: Category Extensions",
+    "player": "DruxyCrow",
+    "player_location": "us",
+    "time": 4017.55,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "ylvoj9xm",
+    "game": "Link's Crossbow Training: Category Extensions",
+    "player": "AlexanderTheBlake",
+    "player_location": "us",
+    "time": 238,
+    "category": "All Rangers",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "zxg2nq5y",
+    "game": "Link's Crossbow Training: Category Extensions",
+    "player": "Jasnix08",
+    "player_location": "us",
+    "time": 703.567,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "me4k593y",
+    "game": "Link's Crossbow Training: Category Extensions",
+    "player": "MikethePike1304",
+    "player_location": "us",
+    "time": 459,
+    "category": "Boss Frenzy",
+    "region": "USA / NTSC",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "ylexd22z",
+    "game": "Link's Crossbow Training: Category Extensions",
+    "player": "Nucknom",
+    "player_location": "us",
+    "time": 115,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Wii U",
+    "emulated": false
+  }
+]

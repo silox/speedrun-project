@@ -1,0 +1,24 @@
+[
+  {
+    "id": "ywvprknz",
+    "game": "Viper Phase 1",
+    "player": "Ellimist",
+    "player_location": "us",
+    "time": 1560,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "mro8l52m",
+    "game": "Viper Phase 1",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 1639,
+    "category": "2P",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

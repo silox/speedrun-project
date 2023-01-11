@@ -1,0 +1,156 @@
+[
+  {
+    "id": "y97gkoem",
+    "game": "Pac-Land",
+    "player": "LarviStar",
+    "player_location": "us",
+    "time": 646,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yl4999km",
+    "game": "Pac-Land",
+    "player": "JoshKeys",
+    "player_location": null,
+    "time": 247,
+    "category": "4 Trips (16 Rounds)",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "ydr99vxz",
+    "game": "Pac-Land",
+    "player": "LattMackey",
+    "player_location": "us",
+    "time": 655,
+    "category": "4 Trips (16 Rounds)",
+    "region": "JPN / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": false
+  },
+  {
+    "id": "y8154pwz",
+    "game": "Pac-Land",
+    "player": "EvanGrill",
+    "player_location": "us",
+    "time": 795.051,
+    "category": "4 Trips (16 Rounds)",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": false
+  },
+  {
+    "id": "zgq9vgjy",
+    "game": "Pac-Land",
+    "player": "FlannelKat",
+    "player_location": "us",
+    "time": 156.767,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": false
+  },
+  {
+    "id": "z1rrq4wm",
+    "game": "Pac-Land",
+    "player": "Dogveloper",
+    "player_location": "br",
+    "time": 678,
+    "category": "4 Trips (16 Rounds)",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": true
+  },
+  {
+    "id": "ywd7eonz",
+    "game": "Pac-Land",
+    "player": "diamine",
+    "player_location": "jp",
+    "time": 657.23,
+    "category": "4 Trips (16 Rounds)",
+    "region": "JPN / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": false
+  },
+  {
+    "id": "yo9611dy",
+    "game": "Pac-Land",
+    "player": "crafthepac",
+    "player_location": "us",
+    "time": 689.61,
+    "category": "4 Trips (16 Rounds)",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": false
+  },
+  {
+    "id": "y2er7l6y",
+    "game": "Pac-Land",
+    "player": "PeaceEgg",
+    "player_location": "us",
+    "time": 155.433,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": true
+  },
+  {
+    "id": "y48e6lnm",
+    "game": "Pac-Land",
+    "player": "Arran",
+    "player_location": null,
+    "time": 674,
+    "category": "4 Trips (16 Rounds)",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": true
+  },
+  {
+    "id": "z1p6ow9z",
+    "game": "Pac-Land",
+    "player": "davidtki",
+    "player_location": "us",
+    "time": 704,
+    "category": "4 Trips (16 Rounds)",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": true
+  },
+  {
+    "id": "m7xv0v5y",
+    "game": "Pac-Land",
+    "player": "rujasu",
+    "player_location": "us",
+    "time": 156.7,
+    "category": "1 Trip (4 Rounds)",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": true
+  },
+  {
+    "id": "z0l00xez",
+    "game": "Pac-Land",
+    "player": "Lando_Blando",
+    "player_location": "mx",
+    "time": 177.067,
+    "category": "1 Trip (4 Rounds)",
+    "region": null,
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": true
+  },
+  {
+    "id": "yw6l643m",
+    "game": "Pac-Land",
+    "player": "JoePulito",
+    "player_location": "us",
+    "time": 173,
+    "category": "1 Trip (4 Rounds)",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  }
+]

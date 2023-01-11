@@ -1,0 +1,90 @@
+[
+  {
+    "id": "z01n1ojy",
+    "game": "Rampart (NES)",
+    "player": "ShesChardcore",
+    "player_location": "us",
+    "time": 1721,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "y21j1jwz",
+    "game": "Rampart (NES)",
+    "player": "Overswarm",
+    "player_location": "us",
+    "time": 1702,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "z01ndx9y",
+    "game": "Rampart (NES)",
+    "player": "NESCardinality",
+    "player_location": "ca",
+    "time": 1437,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zqrjkk1y",
+    "game": "Rampart (NES)",
+    "player": "KHANanaphone",
+    "player_location": "ca",
+    "time": 1437,
+    "category": "",
+    "region": null,
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y41gkg3y",
+    "game": "Rampart (NES)",
+    "player": "Krayzar",
+    "player_location": "us",
+    "time": 1780,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "yl0nx0ky",
+    "game": "Rampart (NES)",
+    "player": "one1fineday",
+    "player_location": "us",
+    "time": 1596,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zprpdqgm",
+    "game": "Rampart (NES)",
+    "player": "selflessscoundrel",
+    "player_location": "us",
+    "time": 1925,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zp3881gm",
+    "game": "Rampart (NES)",
+    "player": "Bokonon_Lives",
+    "player_location": "us",
+    "time": 1667,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "id": "ydq65kwm",
+    "game": "Alone In The Dark",
+    "player": "The_Retro_Challenger",
+    "player_location": "ca/qc",
+    "time": 2302,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "3DO Interactive Multiplayer",
+    "emulated": false
+  },
+  {
+    "id": "y6587v6z",
+    "game": "Alone In The Dark",
+    "player": "PlasticRainbow",
+    "player_location": "kr",
+    "time": 415,
+    "category": "Any% With glitches",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zp0vx0xm",
+    "game": "Alone In The Dark",
+    "player": "turnipp",
+    "player_location": "au",
+    "time": 528,
+    "category": "Any% With glitches",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y92r91nz",
+    "game": "Alone In The Dark",
+    "player": "Neguuy",
+    "player_location": "fr",
+    "time": 1244,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": true
+  },
+  {
+    "id": "mreje82y",
+    "game": "Alone In The Dark",
+    "player": "djeez",
+    "player_location": "ca",
+    "time": 533,
+    "category": "Any% With glitches",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mr9n374m",
+    "game": "Alone In The Dark",
+    "player": "Ecdycis",
+    "player_location": "us",
+    "time": 1151,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yj1n407y",
+    "game": "Alone In The Dark",
+    "player": "PlayJak",
+    "player_location": "us",
+    "time": 2062,
+    "category": "Any% Glitchless/No clip",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mkkl76xm",
+    "game": "Alone In The Dark",
+    "player": "Varrz",
+    "player_location": "ca",
+    "time": 1436,
+    "category": "Any% Glitchless/No clip",
+    "region": "USA / NTSC",
+    "platform": "3DO Interactive Multiplayer",
+    "emulated": false
+  },
+  {
+    "id": "zxn2qx8m",
+    "game": "Alone In The Dark",
+    "player": "nickanvar",
+    "player_location": null,
+    "time": 790,
+    "category": "Any% Glitchless/No clip",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "id": "zgke5edy",
+    "game": "Graffiti Kingdom",
+    "player": "Shift360",
+    "player_location": "es",
+    "time": 3609,
+    "category": "All Bosses",
+    "region": null,
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "y25g1d7y",
+    "game": "Graffiti Kingdom",
+    "player": "Maiguels",
+    "player_location": "es",
+    "time": 3506,
+    "category": "All Bosses",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "yw8rjp0y",
+    "game": "Graffiti Kingdom",
+    "player": "Manyo_Speedruns",
+    "player_location": null,
+    "time": 3660,
+    "category": "All Bosses",
+    "region": null,
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "yokn597z",
+    "game": "Graffiti Kingdom",
+    "player": "IzzyBells__",
+    "player_location": "us",
+    "time": 3396,
+    "category": "All Bosses",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zp30l2gm",
+    "game": "Graffiti Kingdom",
+    "player": "Megastar6200",
+    "player_location": "us",
+    "time": 2395,
+    "category": "All Bosses",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "yjlex4dz",
+    "game": "Graffiti Kingdom",
+    "player": "BlueCrystal004",
+    "player_location": "us",
+    "time": 2491,
+    "category": "All Bosses",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "y25ol96y",
+    "game": "Graffiti Kingdom",
+    "player": "\u30e0\u30cb\u30b9",
+    "player_location": null,
+    "time": 3251,
+    "category": "All Bosses",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  }
+]

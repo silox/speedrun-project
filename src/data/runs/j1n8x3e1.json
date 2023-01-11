@@ -1,0 +1,35 @@
+[
+  {
+    "id": "m729glez",
+    "game": "",
+    "player": "Mingura666",
+    "player_location": "mx",
+    "time": 771,
+    "category": "Easy Tourney",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y4g3l6qy",
+    "game": "",
+    "player": "VixyNyan",
+    "player_location": "se",
+    "time": 840,
+    "category": "Easy Tourney",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "zpg0xknz",
+    "game": "",
+    "player": "NoSoloBits",
+    "player_location": null,
+    "time": 843,
+    "category": "Easy Tourney",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  }
+]

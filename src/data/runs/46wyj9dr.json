@@ -1,0 +1,35 @@
+[
+  {
+    "id": "9mr19kgz",
+    "game": "Legend of Grimrock 2",
+    "player": "BlazeInflames",
+    "player_location": "us",
+    "time": 3468,
+    "category": "Normal Ending",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "oy2v5v5z",
+    "game": "Legend of Grimrock 2",
+    "player": "CritLuck",
+    "player_location": "us",
+    "time": 3490,
+    "category": "Normal Ending",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mr9nqegm",
+    "game": "Legend of Grimrock 2",
+    "player": "ButterButt",
+    "player_location": "ca/qc",
+    "time": 3371,
+    "category": "Normal Ending",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  }
+]

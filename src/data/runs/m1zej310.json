@@ -1,0 +1,189 @@
+[
+  {
+    "id": "oy2r5k5m",
+    "game": "Pink Panther: Pinkadelic Pursuit",
+    "player": "wesen",
+    "player_location": "de",
+    "time": 13.36,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y60g911y",
+    "game": "Pink Panther: Pinkadelic Pursuit",
+    "player": "ryobi_100",
+    "player_location": "pl",
+    "time": 20.98,
+    "category": "Any%",
+    "region": null,
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "mexo0g3z",
+    "game": "Pink Panther: Pinkadelic Pursuit",
+    "player": "asapaska",
+    "player_location": "lt",
+    "time": 30.32,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "zn4gqvlm",
+    "game": "Pink Panther: Pinkadelic Pursuit",
+    "player": "Kesku",
+    "player_location": "pl",
+    "time": 75.99,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "z516o85m",
+    "game": "Pink Panther: Pinkadelic Pursuit",
+    "player": "DeanFrench",
+    "player_location": null,
+    "time": 61.77,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "ylk3j8rz",
+    "game": "Pink Panther: Pinkadelic Pursuit",
+    "player": "EuphoricFox",
+    "player_location": "gb/eng",
+    "time": 6648,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "y91793vm",
+    "game": "Pink Panther: Pinkadelic Pursuit",
+    "player": "CaneofPacci",
+    "player_location": "us",
+    "time": 1409,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "me6gx82z",
+    "game": "Pink Panther: Pinkadelic Pursuit",
+    "player": "Navid_d",
+    "player_location": null,
+    "time": 1627,
+    "category": "Any% Glitchless",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y66ol41y",
+    "game": "Pink Panther: Pinkadelic Pursuit",
+    "player": "Lifeguard",
+    "player_location": "ca",
+    "time": 1566,
+    "category": "Any% Glitchless",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mk7vqj3y",
+    "game": "Pink Panther: Pinkadelic Pursuit",
+    "player": "maxiotenn",
+    "player_location": "uy",
+    "time": 1726.66,
+    "category": "Any% Glitchless",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yv2pdn6m",
+    "game": "Pink Panther: Pinkadelic Pursuit",
+    "player": "Cap.Adam",
+    "player_location": "jo",
+    "time": 1469,
+    "category": "Any% Glitchless",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y8d2n6nz",
+    "game": "Pink Panther: Pinkadelic Pursuit",
+    "player": "Mcnolo",
+    "player_location": "mx",
+    "time": 1397.029,
+    "category": "Any% Glitchless",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zq0kx8ry",
+    "game": "Pink Panther: Pinkadelic Pursuit",
+    "player": "Captainbunny",
+    "player_location": "pk",
+    "time": 1925,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zn731g7m",
+    "game": "Pink Panther: Pinkadelic Pursuit",
+    "player": "Saifdine",
+    "player_location": "ly",
+    "time": 1490.073,
+    "category": "Any%",
+    "region": null,
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "mr7je0gz",
+    "game": "Pink Panther: Pinkadelic Pursuit",
+    "player": "MilkGames",
+    "player_location": "ru",
+    "time": 13.88,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zx7725gy",
+    "game": "Pink Panther: Pinkadelic Pursuit",
+    "player": "sacapuntas",
+    "player_location": "ar",
+    "time": 168.03,
+    "category": "Any%",
+    "region": null,
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "m7x36j5y",
+    "game": "Pink Panther: Pinkadelic Pursuit",
+    "player": "tanieldaniel",
+    "player_location": null,
+    "time": 1049,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

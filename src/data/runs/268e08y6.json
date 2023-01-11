@@ -1,0 +1,57 @@
+[
+  {
+    "id": "zp4k9k8z",
+    "game": "Samurai Champloo: Sidetracked",
+    "player": "Despera",
+    "player_location": "be",
+    "time": 6623,
+    "category": "Any% NG+",
+    "region": null,
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "zxlkeoez",
+    "game": "Samurai Champloo: Sidetracked",
+    "player": "miggnuggets",
+    "player_location": "us",
+    "time": 55,
+    "category": "Jin",
+    "region": null,
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "y8j1xw5z",
+    "game": "Samurai Champloo: Sidetracked",
+    "player": "Macrocosm",
+    "player_location": null,
+    "time": 5827,
+    "category": "Any% NG+",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "y6ndgk6z",
+    "game": "Samurai Champloo: Sidetracked",
+    "player": "Glitchedd",
+    "player_location": "us",
+    "time": 6278,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y9vw2l2m",
+    "game": "Samurai Champloo: Sidetracked",
+    "player": "Abbiescorner",
+    "player_location": "ca",
+    "time": 6567,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  }
+]

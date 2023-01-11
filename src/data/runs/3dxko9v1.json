@@ -1,0 +1,24 @@
+[
+  {
+    "id": "znj3j3vm",
+    "game": "Twin Eagle II",
+    "player": "Ellimist",
+    "player_location": "us",
+    "time": 1526,
+    "category": "2P",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "ywvdv02z",
+    "game": "Twin Eagle II",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 1630,
+    "category": "2P",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

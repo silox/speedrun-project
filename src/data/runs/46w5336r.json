@@ -1,0 +1,57 @@
+[
+  {
+    "id": "zgnl3jey",
+    "game": "James Bond The Duel",
+    "player": "666Deadhunter",
+    "player_location": "fr",
+    "time": 673,
+    "category": "Any% Normal",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "nz14k9gz",
+    "game": "James Bond The Duel",
+    "player": "linkboss",
+    "player_location": "fr",
+    "time": 984,
+    "category": "Any% Normal",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "y6l4v2qy",
+    "game": "James Bond The Duel",
+    "player": "MadMegaX381",
+    "player_location": "us",
+    "time": 662,
+    "category": "Any% Normal",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "m37v1qqz",
+    "game": "James Bond The Duel",
+    "player": "MrDoublePlays",
+    "player_location": "au",
+    "time": 1363,
+    "category": "Any% Easy SMS",
+    "region": "USA / NTSC",
+    "platform": "Sega Master System",
+    "emulated": true
+  },
+  {
+    "id": "ydg91jwy",
+    "game": "James Bond The Duel",
+    "player": "RadManFromMars",
+    "player_location": "us",
+    "time": 1260,
+    "category": "Any% Easy SMS",
+    "region": "USA / NTSC",
+    "platform": "Sega Master System",
+    "emulated": true
+  }
+]

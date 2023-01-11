@@ -1,0 +1,178 @@
+[
+  {
+    "id": "mr46e1gz",
+    "game": "Gregory Horror Show",
+    "player": "speedwerd",
+    "player_location": "us",
+    "time": 3625,
+    "category": "Any% (Normal)",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "jy9063ky",
+    "game": "Gregory Horror Show",
+    "player": "Ryohta",
+    "player_location": "us",
+    "time": 4057,
+    "category": "Any% (Normal)",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y8qjewwy",
+    "game": "Gregory Horror Show",
+    "player": "\u5357\u74dc",
+    "player_location": null,
+    "time": 3671,
+    "category": "Any% (Normal)",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y67gp3qm",
+    "game": "Gregory Horror Show",
+    "player": "HenryXLII",
+    "player_location": "us",
+    "time": 8166,
+    "category": "Any% Emulator (Normal)",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "z011kn8y",
+    "game": "Gregory Horror Show",
+    "player": "HarleyScape",
+    "player_location": "gb/eng",
+    "time": 3870,
+    "category": "Any% Emulator (Normal)",
+    "region": null,
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "m3oe9eqm",
+    "game": "Gregory Horror Show",
+    "player": "TheShyShadow1",
+    "player_location": "de",
+    "time": 4365,
+    "category": "Any% Emulator (Normal)",
+    "region": null,
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "z09ogj8z",
+    "game": "Gregory Horror Show",
+    "player": "Pa-Sama",
+    "player_location": "ca",
+    "time": 3782,
+    "category": "Any% (Normal)",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "mex4v08z",
+    "game": "Gregory Horror Show",
+    "player": "MilesRaid",
+    "player_location": "gb/eng",
+    "time": 3874,
+    "category": "Any% (Normal)",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y65pq46z",
+    "game": "Gregory Horror Show",
+    "player": "E172Paradigm",
+    "player_location": "gb/eng",
+    "time": 3943,
+    "category": "Any% (Normal)",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zx6j3gez",
+    "game": "Gregory Horror Show",
+    "player": "polarX",
+    "player_location": "dk",
+    "time": 3520,
+    "category": "Any% Emulator (Normal)",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "m7xj3v5y",
+    "game": "Gregory Horror Show",
+    "player": "JayKayVe",
+    "player_location": "us",
+    "time": 3506,
+    "category": "Any% Emulator (Hard)",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "y8v8jxdz",
+    "game": "Gregory Horror Show",
+    "player": "toxicTVfisher",
+    "player_location": "jp",
+    "time": 3879,
+    "category": "Any% (Normal)",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "z5v6rgem",
+    "game": "Gregory Horror Show",
+    "player": "Garlips",
+    "player_location": "gb/eng",
+    "time": 3741,
+    "category": "Any% Emulator (Normal)",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "yo666l0y",
+    "game": "Gregory Horror Show",
+    "player": "Raoul1234",
+    "player_location": "dk",
+    "time": 3482,
+    "category": "Any% Emulator (Normal)",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "m7w534ez",
+    "game": "Gregory Horror Show",
+    "player": "DemonicRobots",
+    "player_location": "us",
+    "time": 3769,
+    "category": "Any% (Normal)",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "yjx01o3z",
+    "game": "Gregory Horror Show",
+    "player": "Sokiki",
+    "player_location": null,
+    "time": 3556,
+    "category": "Any% Emulator (Normal)",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": true
+  }
+]

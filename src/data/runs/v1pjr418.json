@@ -1,0 +1,35 @@
+[
+  {
+    "id": "9yo25qdz",
+    "game": "",
+    "player": "Etoile0221",
+    "player_location": null,
+    "time": 18830,
+    "category": "Beat the Game in Story Mode",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "m796ed0y",
+    "game": "",
+    "player": "\u30e9\u30a4\u30c8",
+    "player_location": null,
+    "time": 14625,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "y21vlo9z",
+    "game": "Etrian Odyssey Untold: The Millennium Girl",
+    "player": "PinkPajamas",
+    "player_location": "us",
+    "time": 16847,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  }
+]

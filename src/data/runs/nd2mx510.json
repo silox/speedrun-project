@@ -1,0 +1,46 @@
+[
+  {
+    "id": "z0e900em",
+    "game": "Maze Racer",
+    "player": "mikedeanberry",
+    "player_location": null,
+    "time": 30.67,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Tabletop",
+    "emulated": false
+  },
+  {
+    "id": "y67rjj6m",
+    "game": "Maze Racer",
+    "player": "Unknown Player",
+    "player_location": null,
+    "time": 24.01,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Tabletop",
+    "emulated": false
+  },
+  {
+    "id": "z5o9o9ey",
+    "game": "Maze Racer",
+    "player": "Frikkinfriks14",
+    "player_location": "us",
+    "time": 11.18,
+    "category": "No Skips",
+    "region": "USA / NTSC",
+    "platform": "Tabletop",
+    "emulated": false
+  },
+  {
+    "id": "yl4q9jkm",
+    "game": "Maze Racer",
+    "player": "SM64",
+    "player_location": "lc",
+    "time": 9.85,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Tabletop",
+    "emulated": false
+  }
+]

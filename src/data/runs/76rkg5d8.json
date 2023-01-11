@@ -1,0 +1,90 @@
+[
+  {
+    "id": "zgnwnndy",
+    "game": "The Sims 2 (Console)",
+    "player": "MrZeratheMant",
+    "player_location": "us",
+    "time": 9319,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "yv322kez",
+    "game": "The Sims 2 (Console)",
+    "player": "MadRayne",
+    "player_location": "us",
+    "time": 2136,
+    "category": "Maxed Job",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "y216636z",
+    "game": "The Sims 2 (Console)",
+    "player": "xNose",
+    "player_location": "ca",
+    "time": 6210,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "y67jvxqm",
+    "game": "The Sims 2 (Console)",
+    "player": "lollipopomg",
+    "player_location": "ca/qc",
+    "time": 3119,
+    "category": "Maxed Job",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "me8jq23m",
+    "game": "The Sims 2 (Console)",
+    "player": "digital_j0ker",
+    "player_location": "us",
+    "time": 7947,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "z5jp2ejm",
+    "game": "The Sims 2 (Console)",
+    "player": "YNiekAC",
+    "player_location": "nl",
+    "time": 2871,
+    "category": "Maxed Job",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "yv94j34z",
+    "game": "The Sims 2 (Console)",
+    "player": "Nightwish",
+    "player_location": "be",
+    "time": 11469,
+    "category": "Story Mode (any%)",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "y6xd331y",
+    "game": "The Sims 2 (Console)",
+    "player": "Charapui",
+    "player_location": "br",
+    "time": 19784,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  }
+]

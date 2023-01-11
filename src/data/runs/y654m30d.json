@@ -1,0 +1,167 @@
+[
+  {
+    "id": "m79lw00y",
+    "game": "Star Fox 2",
+    "player": "zallard1",
+    "player_location": "us",
+    "time": 674,
+    "category": "Normal",
+    "region": "USA / NTSC",
+    "platform": "SNES Classic Mini",
+    "emulated": false
+  },
+  {
+    "id": "z11qqwgz",
+    "game": "Star Fox 2",
+    "player": "Oyster",
+    "player_location": "us",
+    "time": 715,
+    "category": "Normal",
+    "region": "USA / NTSC",
+    "platform": "SNES Classic Mini",
+    "emulated": false
+  },
+  {
+    "id": "yl966ony",
+    "game": "Star Fox 2",
+    "player": "tokko_tomcat",
+    "player_location": "us",
+    "time": 798,
+    "category": "Normal",
+    "region": "USA / NTSC",
+    "platform": "SNES Classic Mini",
+    "emulated": false
+  },
+  {
+    "id": "yo40e1jm",
+    "game": "Star Fox 2",
+    "player": "maramilitia",
+    "player_location": "gb/eng",
+    "time": 724,
+    "category": "Normal",
+    "region": "USA / NTSC",
+    "platform": "SNES Classic Mini",
+    "emulated": false
+  },
+  {
+    "id": "y97j3v2m",
+    "game": "Star Fox 2",
+    "player": "StrawberrySpeedruns",
+    "player_location": "us",
+    "time": 872,
+    "category": "Normal",
+    "region": "USA / NTSC",
+    "platform": "SNES Classic Mini",
+    "emulated": false
+  },
+  {
+    "id": "yo45jr7m",
+    "game": "Star Fox 2",
+    "player": "diegolazor4",
+    "player_location": "co",
+    "time": 836,
+    "category": "Normal",
+    "region": null,
+    "platform": "SNES Classic Mini",
+    "emulated": false
+  },
+  {
+    "id": "yl04k9ky",
+    "game": "Star Fox 2",
+    "player": "TuckerStudios",
+    "player_location": "us",
+    "time": 1189,
+    "category": "Normal",
+    "region": "USA / NTSC",
+    "platform": "SNES Classic Mini",
+    "emulated": false
+  },
+  {
+    "id": "z578ggjm",
+    "game": "Star Fox 2",
+    "player": "LiamGiiV",
+    "player_location": "ca",
+    "time": 1113,
+    "category": "Normal",
+    "region": null,
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "y410eeqy",
+    "game": "Star Fox 2",
+    "player": "Rakanai",
+    "player_location": "us",
+    "time": 728,
+    "category": "Normal",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "yj66x07z",
+    "game": "Star Fox 2",
+    "player": "Odolward",
+    "player_location": "gb",
+    "time": 682,
+    "category": "Normal",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "mk8ne9lm",
+    "game": "Star Fox 2",
+    "player": "CheeseMan_3",
+    "player_location": "us",
+    "time": 967,
+    "category": "Normal",
+    "region": "USA / NTSC",
+    "platform": "SNES Classic Mini",
+    "emulated": false
+  },
+  {
+    "id": "yw0n1wpm",
+    "game": "Star Fox 2",
+    "player": "supersonicfan91",
+    "player_location": "us",
+    "time": 1692,
+    "category": "Normal",
+    "region": "USA / NTSC",
+    "platform": "SNES Classic Mini",
+    "emulated": false
+  },
+  {
+    "id": "zp1r5o8z",
+    "game": "Star Fox 2",
+    "player": "ShadeTheCrow",
+    "player_location": "us",
+    "time": 859,
+    "category": "Normal",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "yjx12vdz",
+    "game": "Star Fox 2",
+    "player": "opti2000m",
+    "player_location": "pl",
+    "time": 1024,
+    "category": "Normal",
+    "region": "EUR / PAL",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "yln3w43z",
+    "game": "Star Fox 2",
+    "player": "JakeD.Snake",
+    "player_location": "us",
+    "time": 834,
+    "category": "Normal",
+    "region": "USA / NTSC",
+    "platform": "SNES Classic Mini",
+    "emulated": false
+  }
+]

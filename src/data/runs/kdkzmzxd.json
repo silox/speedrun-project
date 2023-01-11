@@ -1,0 +1,46 @@
+[
+  {
+    "id": "y81l01dz",
+    "game": "",
+    "player": "groteworld",
+    "player_location": "us",
+    "time": 3767,
+    "category": "Proposal",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "zqw188xz",
+    "game": "",
+    "player": "APayne",
+    "player_location": "us",
+    "time": 3123,
+    "category": "Proposal",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "y8exdr1y",
+    "game": "Harvest Moon: Another Wonderful Life",
+    "player": "NeroticGopher",
+    "player_location": "us",
+    "time": 1859,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "zp2x98xy",
+    "game": "Harvest Moon: Another Wonderful Life",
+    "player": "16BitFerret",
+    "player_location": "us",
+    "time": 1868,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  }
+]

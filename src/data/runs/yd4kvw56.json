@@ -1,0 +1,68 @@
+[
+  {
+    "id": "z5x9l4dy",
+    "game": "SimCity Creator (DS)",
+    "player": "MikeTheEntei",
+    "player_location": "us",
+    "time": 16921,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "z0lk11oz",
+    "game": "SimCity Creator (DS)",
+    "player": "Iromnic",
+    "player_location": "nl",
+    "time": 593,
+    "category": "Population Challange",
+    "region": "EUR / PAL",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "y6x2x7jy",
+    "game": "SimCity Creator (DS)",
+    "player": "KsKCC",
+    "player_location": "us",
+    "time": 1871,
+    "category": "Population Challange",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "m3x26rdm",
+    "game": "SimCity Creator (DS)",
+    "player": "DeathBringer138",
+    "player_location": "ph",
+    "time": 606,
+    "category": "Population Challange",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "y9xle2ey",
+    "game": "SimCity Creator (DS)",
+    "player": "firstaoichan",
+    "player_location": "jp",
+    "time": 5324,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "y8xl3enm",
+    "game": "SimCity Creator (DS)",
+    "player": "PattieKemp",
+    "player_location": "nl",
+    "time": 7727,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Nintendo DS",
+    "emulated": true
+  }
+]

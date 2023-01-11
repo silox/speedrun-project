@@ -1,0 +1,101 @@
+[
+  {
+    "id": "yj860ddm",
+    "game": "Super Mario on Scratch 4",
+    "player": "Ikan492",
+    "player_location": "us",
+    "time": 3.02,
+    "category": "Die%",
+    "region": null,
+    "platform": "Web",
+    "emulated": true
+  },
+  {
+    "id": "y2pve29z",
+    "game": "Super Mario on Scratch 4",
+    "player": "peanutbutterpancake",
+    "player_location": "us",
+    "time": 433,
+    "category": "Any%",
+    "region": null,
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "z1p8gqgz",
+    "game": "Super Mario on Scratch 4",
+    "player": "SIDVERSE",
+    "player_location": null,
+    "time": 326.69,
+    "category": "Any%",
+    "region": null,
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "yddwpl0y",
+    "game": "Super Mario on Scratch 4",
+    "player": "HRM_Speedruns",
+    "player_location": "pl",
+    "time": 14.1,
+    "category": "1 Star%",
+    "region": "EUR / PAL",
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "zq7ekp8m",
+    "game": "Super Mario on Scratch 4",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 4.4,
+    "category": "Die%",
+    "region": null,
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "z0pnlley",
+    "game": "Super Mario on Scratch 4",
+    "player": "TRLittleToaster",
+    "player_location": "us",
+    "time": 5.4,
+    "category": "Die%",
+    "region": "USA / NTSC",
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "yd1v7kvy",
+    "game": "Super Mario on Scratch 4",
+    "player": "pocogamer",
+    "player_location": "gr",
+    "time": 5,
+    "category": "Die%",
+    "region": null,
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "y6o5xl0y",
+    "game": "Super Mario on Scratch 4",
+    "player": "Vu16",
+    "player_location": "ca/qc",
+    "time": 3.183,
+    "category": "Die%",
+    "region": null,
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "zxnd61km",
+    "game": "Super Mario on Scratch 4",
+    "player": "Teoinator",
+    "player_location": "do",
+    "time": 2.983,
+    "category": "Die%",
+    "region": null,
+    "platform": "Web",
+    "emulated": false
+  }
+]

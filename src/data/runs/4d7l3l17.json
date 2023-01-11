@@ -1,0 +1,68 @@
+[
+  {
+    "id": "z0erv8em",
+    "game": "Shin Megami Tensei: Digital Devil Saga 2",
+    "player": "Kanri",
+    "player_location": null,
+    "time": 17979,
+    "category": "Normal Mode",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "zx268k8m",
+    "game": "Shin Megami Tensei: Digital Devil Saga 2",
+    "player": "PinkPajamas",
+    "player_location": "us",
+    "time": 18425,
+    "category": "Normal Mode",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "7z0gv48y",
+    "game": "Shin Megami Tensei: Digital Devil Saga 2",
+    "player": "KMB_chimera",
+    "player_location": "jp",
+    "time": 19552,
+    "category": "Normal Mode",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "dy4pllny",
+    "game": "Shin Megami Tensei: Digital Devil Saga 2",
+    "player": "ChampionBeef",
+    "player_location": "us",
+    "time": 27303,
+    "category": "Normal Mode",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "znrqg27y",
+    "game": "Shin Megami Tensei: Digital Devil Saga 2",
+    "player": "otogitune",
+    "player_location": "jp",
+    "time": 18858,
+    "category": "Normal Mode",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "z1prdx7z",
+    "game": "Shin Megami Tensei: Digital Devil Saga 2",
+    "player": "Freedom_Pulse",
+    "player_location": "us",
+    "time": 17798,
+    "category": "Normal Mode",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  }
+]

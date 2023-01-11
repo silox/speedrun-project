@@ -1,0 +1,35 @@
+[
+  {
+    "id": "m787dkwz",
+    "game": "Ring of Destruction: Slam Masters II",
+    "player": "DBcade",
+    "player_location": "jp",
+    "time": 1503,
+    "category": "Arcade Mode",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zggkx2dz",
+    "game": "Ring of Destruction: Slam Masters II",
+    "player": "ivanpaduano",
+    "player_location": "it",
+    "time": 1147,
+    "category": "Arcade Mode",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "mrojv9dm",
+    "game": "Ring of Destruction: Slam Masters II",
+    "player": "manticor5",
+    "player_location": "cl",
+    "time": 2877,
+    "category": "Arcade Mode",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

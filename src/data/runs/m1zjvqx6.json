@@ -1,0 +1,35 @@
+[
+  {
+    "id": "mk3wx3vz",
+    "game": "",
+    "player": "rhythmsong",
+    "player_location": null,
+    "time": 6369,
+    "category": "Any% (TurboCD)",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16 CD-ROM",
+    "emulated": false
+  },
+  {
+    "id": "zgkjendy",
+    "game": "",
+    "player": "Schtolteheim",
+    "player_location": "us",
+    "time": 8477,
+    "category": "Any% (TurboCD)",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16 CD-ROM",
+    "emulated": true
+  },
+  {
+    "id": "me36vk9z",
+    "game": "",
+    "player": "NLeseul",
+    "player_location": "us",
+    "time": 16881,
+    "category": "Any% (MSX2)",
+    "region": "JPN / NTSC",
+    "platform": "MSX2",
+    "emulated": false
+  }
+]

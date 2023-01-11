@@ -1,0 +1,46 @@
+[
+  {
+    "id": "z07x999y",
+    "game": "Mega Man Battle Network 5: Double Team DS",
+    "player": "eurasia_m",
+    "player_location": "us",
+    "time": 14160,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "yj5w66dm",
+    "game": "Mega Man Battle Network 5: Double Team DS",
+    "player": "luckytyphlosion",
+    "player_location": "ca",
+    "time": 14862,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "zgr8vvem",
+    "game": "Mega Man Battle Network 5: Double Team DS",
+    "player": "ChaoticDX",
+    "player_location": "us",
+    "time": 23349,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "yvox12oz",
+    "game": "Mega Man Battle Network 5: Double Team DS",
+    "player": "GhostScit",
+    "player_location": null,
+    "time": 18912,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  }
+]

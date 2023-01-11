@@ -1,0 +1,68 @@
+[
+  {
+    "id": "m7pwrlem",
+    "game": "Find Mii II",
+    "player": "Marrow",
+    "player_location": "us",
+    "time": 283,
+    "category": "Main Quest Any%",
+    "region": "JPN / NTSC",
+    "platform": "New Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "y235ej9m",
+    "game": "Find Mii II",
+    "player": "dafinky",
+    "player_location": "us",
+    "time": 618,
+    "category": "Secret Quest Any%",
+    "region": "USA / NTSC",
+    "platform": "New Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "y45q43qm",
+    "game": "Find Mii II",
+    "player": "MrEnderman",
+    "player_location": null,
+    "time": 523,
+    "category": "Secret Quest Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "y99kdxky",
+    "game": "Find Mii II",
+    "player": "MiiWii",
+    "player_location": "us",
+    "time": 320,
+    "category": "Main Quest Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "z5jw78nm",
+    "game": "Find Mii II",
+    "player": "FloralTrash",
+    "player_location": "us",
+    "time": 349,
+    "category": "Main Quest Any%",
+    "region": "USA / NTSC",
+    "platform": "New Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "yjxe4q3z",
+    "game": "Find Mii II",
+    "player": "Kobazco",
+    "player_location": "us",
+    "time": 310,
+    "category": "Main Quest Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  }
+]

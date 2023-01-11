@@ -1,0 +1,68 @@
+[
+  {
+    "id": "y9lgglky",
+    "game": "Jewel Master",
+    "player": "leandrom90",
+    "player_location": "br",
+    "time": 703,
+    "category": "Normal",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "zn84k6lz",
+    "game": "Jewel Master",
+    "player": "Breakdown",
+    "player_location": null,
+    "time": 674,
+    "category": "Normal",
+    "region": null,
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "y21vp27z",
+    "game": "Jewel Master",
+    "player": "ajfirecracker",
+    "player_location": "us",
+    "time": 780,
+    "category": "Normal",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "z574nkjm",
+    "game": "Jewel Master",
+    "player": "lenamek",
+    "player_location": "fr",
+    "time": 1004,
+    "category": "Normal",
+    "region": null,
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "zgwx7rjy",
+    "game": "Jewel Master",
+    "player": "z_tox",
+    "player_location": "us",
+    "time": 866,
+    "category": "Normal",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "m36w2pgm",
+    "game": "Jewel Master",
+    "player": "ZeeGee_",
+    "player_location": "us",
+    "time": 672,
+    "category": "Normal",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  }
+]

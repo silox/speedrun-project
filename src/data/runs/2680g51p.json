@@ -1,0 +1,90 @@
+[
+  {
+    "id": "pyd27rwm",
+    "game": "Amazing Tater",
+    "player": "Xaephod",
+    "player_location": "ca",
+    "time": 158.011,
+    "category": "",
+    "region": null,
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "ydq63o0m",
+    "game": "Amazing Tater",
+    "player": "ebloodycandy",
+    "player_location": "us",
+    "time": 146.48,
+    "category": "Puzzle Mode (Easy)",
+    "region": null,
+    "platform": "Game Boy",
+    "emulated": false
+  },
+  {
+    "id": "y6pppvqm",
+    "game": "Amazing Tater",
+    "player": "wanderson921",
+    "player_location": "us",
+    "time": 145.767,
+    "category": "Puzzle Mode (Easy)",
+    "region": null,
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "yjld9jnz",
+    "game": "Amazing Tater",
+    "player": "adrianus",
+    "player_location": "ch",
+    "time": 144.5,
+    "category": "Puzzle Mode (Easy)",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "yv60p5xz",
+    "game": "Amazing Tater",
+    "player": "BigLenny99",
+    "player_location": "us",
+    "time": 143,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "y90wep2y",
+    "game": "Amazing Tater",
+    "player": "MortimerNova",
+    "player_location": "us",
+    "time": 154.016,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "yv1qnv4y",
+    "game": "Amazing Tater",
+    "player": "Symm",
+    "player_location": "gb",
+    "time": 139.933,
+    "category": "Puzzle Mode (Easy)",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "y69kjp1y",
+    "game": "Amazing Tater",
+    "player": "JoePulito",
+    "player_location": "us",
+    "time": 175.4,
+    "category": "Puzzle Mode (Easy)",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "2ywpew9z",
+    "game": "Splatterhouse 3",
+    "player": "Slaughterhouserock",
+    "player_location": "us",
+    "time": 1121,
+    "category": "Any% Easy Difficulty",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "znrw683y",
+    "game": "Splatterhouse 3",
+    "player": "Rash",
+    "player_location": "ru",
+    "time": 1454,
+    "category": "Low% Easy Difficulty",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "yo211p5z",
+    "game": "Splatterhouse 3",
+    "player": "reanymation",
+    "player_location": "us",
+    "time": 1785,
+    "category": "Any% Normal Difficulty",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "mex1gp2z",
+    "game": "Splatterhouse 3",
+    "player": "Jrmhd91",
+    "player_location": "us",
+    "time": 1542,
+    "category": "Any% Easy Difficulty",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "y6l8vgjy",
+    "game": "Splatterhouse 3",
+    "player": "CherDuck",
+    "player_location": "ru",
+    "time": 1611,
+    "category": "Any% Normal Difficulty",
+    "region": null,
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "ylvwjrnm",
+    "game": "Splatterhouse 3",
+    "player": "The_Retro_Challenger",
+    "player_location": "ca/qc",
+    "time": 2174,
+    "category": "Any% Game Master Difficulty",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "mr4j5w7z",
+    "game": "Splatterhouse 3",
+    "player": "RutabagaSwe",
+    "player_location": "se",
+    "time": 1321,
+    "category": "Any% Normal Difficulty",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "zq9x46ry",
+    "game": "Splatterhouse 3",
+    "player": "hamatet",
+    "player_location": "jp",
+    "time": 1550,
+    "category": "Any% Game Master Difficulty",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  }
+]

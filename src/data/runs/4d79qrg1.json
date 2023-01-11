@@ -1,0 +1,145 @@
+[
+  {
+    "id": "yoj88q1m",
+    "game": "Newer Super Mario All-Stars",
+    "player": "Dani\u00eblHarteveld",
+    "player_location": "nl",
+    "time": 472,
+    "category": "SMB1",
+    "region": "EUR / PAL",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "y821xldy",
+    "game": "Newer Super Mario All-Stars",
+    "player": "Randonlyh",
+    "player_location": null,
+    "time": 431,
+    "category": "SMB1",
+    "region": null,
+    "platform": "Wii",
+    "emulated": true
+  },
+  {
+    "id": "mk2qo9vm",
+    "game": "Newer Super Mario All-Stars",
+    "player": "R0main",
+    "player_location": "fr",
+    "time": 475,
+    "category": "SMB1",
+    "region": "EUR / PAL",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "z5jjew5m",
+    "game": "Newer Super Mario All-Stars",
+    "player": "GLXQ",
+    "player_location": "gb",
+    "time": 580,
+    "category": "SMB1",
+    "region": null,
+    "platform": "Wii",
+    "emulated": true
+  },
+  {
+    "id": "z15vgljy",
+    "game": "Newer Super Mario All-Stars",
+    "player": "SaltyNic",
+    "player_location": "de",
+    "time": 405,
+    "category": "SMB1",
+    "region": "EUR / PAL",
+    "platform": "Wii",
+    "emulated": true
+  },
+  {
+    "id": "zp4oe8gz",
+    "game": "Newer Super Mario All-Stars",
+    "player": "Gloggekawa",
+    "player_location": "de",
+    "time": 2148,
+    "category": "SMB1",
+    "region": "EUR / PAL",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "yl05k6ry",
+    "game": "Newer Super Mario All-Stars",
+    "player": "weberrich",
+    "player_location": "de",
+    "time": 4101,
+    "category": "SMB1",
+    "region": "EUR / PAL",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "yw05n80m",
+    "game": "Newer Super Mario All-Stars",
+    "player": "wakanameko",
+    "player_location": "jp",
+    "time": 567,
+    "category": "SMB1",
+    "region": null,
+    "platform": "Wii",
+    "emulated": true
+  },
+  {
+    "id": "z07pv84y",
+    "game": "Newer Super Mario All-Stars",
+    "player": "Toad4Smash",
+    "player_location": "us",
+    "time": 27,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "z0rg929z",
+    "game": "Newer Super Mario All-Stars",
+    "player": "KKOJJGSS",
+    "player_location": "in",
+    "time": 14,
+    "category": "Any%",
+    "region": null,
+    "platform": "Wii",
+    "emulated": true
+  },
+  {
+    "id": "m371xw4z",
+    "game": "Newer Super Mario All-Stars",
+    "player": "McKiddy",
+    "player_location": "us",
+    "time": 14,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "y93xp9ny",
+    "game": "Newer Super Mario All-Stars",
+    "player": "brtCBR",
+    "player_location": "jp",
+    "time": 560,
+    "category": "SMB1",
+    "region": "JPN / NTSC",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "z5e5noez",
+    "game": "Newer Super Mario All-Stars",
+    "player": "maksimry",
+    "player_location": "us",
+    "time": 14,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "id": "1zq7ed1m",
+    "game": "The Cat in the Hat",
+    "player": "FingerQuick",
+    "player_location": "us",
+    "time": 5739,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Xbox",
+    "emulated": false
+  },
+  {
+    "id": "7yl7p6nm",
+    "game": "The Cat in the Hat",
+    "player": "Nostalgia64",
+    "player_location": "gb/nir",
+    "time": 152,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "me3opr9z",
+    "game": "The Cat in the Hat",
+    "player": "SuperSqank",
+    "player_location": "ke",
+    "time": 97.167,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "nz1pwqgz",
+    "game": "The Cat in the Hat",
+    "player": "Jeff_in_3D",
+    "player_location": "us",
+    "time": 6775,
+    "category": "Early Levels Unlocked",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "9me16q3y",
+    "game": "The Cat in the Hat",
+    "player": "TwoWorlds",
+    "player_location": "eg",
+    "time": 206,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Xbox",
+    "emulated": false
+  },
+  {
+    "id": "yv6w914z",
+    "game": "The Cat in the Hat",
+    "player": "Khlo\u00eb",
+    "player_location": "us",
+    "time": 10160,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Xbox",
+    "emulated": false
+  },
+  {
+    "id": "mk8j5nxm",
+    "game": "The Cat in the Hat",
+    "player": "Gavynmuench",
+    "player_location": "us",
+    "time": 5095,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "yj5gdvom",
+    "game": "The Cat in the Hat",
+    "player": "Cap.Adam",
+    "player_location": "jo",
+    "time": 4310,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zq0q1p8y",
+    "game": "The Cat in the Hat",
+    "player": "Matija_Youtuber",
+    "player_location": "si",
+    "time": 5481,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "mr6xn24m",
+    "game": "The Cat in the Hat",
+    "player": "Gingerboi06",
+    "player_location": "us",
+    "time": 4796,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Xbox",
+    "emulated": false
+  },
+  {
+    "id": "zgp7qnez",
+    "game": "The Cat in the Hat",
+    "player": "Majineta_",
+    "player_location": null,
+    "time": 49,
+    "category": "The Bonus Level",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "y9v2v8nm",
+    "game": "The Cat in the Hat",
+    "player": "N/A",
+    "player_location": null,
+    "time": 0.001,
+    "category": "",
+    "region": null,
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "z1ppvlgz",
+    "game": "The Cat in the Hat",
+    "player": "Chiptune_Human",
+    "player_location": "gb",
+    "time": 2715,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yjp3r6gy",
+    "game": "The Cat in the Hat",
+    "player": "Paul",
+    "player_location": "ie",
+    "time": 32.983,
+    "category": "The Bonus Level",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "ywvdn0nz",
+    "game": "The Cat in the Hat",
+    "player": "Geji",
+    "player_location": "us",
+    "time": 43.767,
+    "category": "The Bonus Level",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  }
+]

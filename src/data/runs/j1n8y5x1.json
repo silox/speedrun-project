@@ -1,0 +1,35 @@
+[
+  {
+    "id": "ydw4lejm",
+    "game": "Leegi DX",
+    "player": "Joshua69",
+    "player_location": "us",
+    "time": 210.836,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "yddq5njy",
+    "game": "Leegi DX",
+    "player": "SteeleDude42",
+    "player_location": "us",
+    "time": 210.054,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y8jg55xz",
+    "game": "Leegi DX",
+    "player": "MrSavageKitty",
+    "player_location": "us",
+    "time": 210.836,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  }
+]

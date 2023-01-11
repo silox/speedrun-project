@@ -1,0 +1,46 @@
+[
+  {
+    "id": "m3dvw14z",
+    "game": "",
+    "player": "srwfe",
+    "player_location": "tw",
+    "time": 857,
+    "category": "Arcade - PC",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yjl6v3oz",
+    "game": "",
+    "player": "Xznorg2",
+    "player_location": "us",
+    "time": 870,
+    "category": "Arcade - PC",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zxg19rky",
+    "game": "",
+    "player": "DBcade",
+    "player_location": "jp",
+    "time": 928,
+    "category": "Arcade - Switch",
+    "region": "JPN / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "z0rv1p4z",
+    "game": "",
+    "player": "NintenLew",
+    "player_location": "gb/eng",
+    "time": 1452,
+    "category": "Arcade - Switch",
+    "region": "EUR / PAL",
+    "platform": "Switch",
+    "emulated": false
+  }
+]

@@ -1,0 +1,211 @@
+[
+  {
+    "id": "nz1819ry",
+    "game": "Drakengard 3",
+    "player": "Silvius78",
+    "player_location": null,
+    "time": 9729,
+    "category": "[A] DLC",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "8y8d0jdz",
+    "game": "Drakengard 3",
+    "player": "Kerngesund",
+    "player_location": "de",
+    "time": 8693,
+    "category": "[A] DLC",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "zx42v58y",
+    "game": "Drakengard 3",
+    "player": "MASH",
+    "player_location": "ca",
+    "time": 8815,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "z03xge8z",
+    "game": "Drakengard 3",
+    "player": "UltimateTrainer",
+    "player_location": "us",
+    "time": 2263,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "y42n2w2m",
+    "game": "Drakengard 3",
+    "player": "RodG",
+    "player_location": "us",
+    "time": 5743,
+    "category": "[A] NG+",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": true
+  },
+  {
+    "id": "mk88w9lm",
+    "game": "Drakengard 3",
+    "player": "IntonerAlice",
+    "player_location": "ar",
+    "time": 1060,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": true
+  },
+  {
+    "id": "yd6pn1qz",
+    "game": "Drakengard 3",
+    "player": "DaleDukk",
+    "player_location": "us",
+    "time": 2281,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "z5jpwg5m",
+    "game": "Drakengard 3",
+    "player": "moonRTA",
+    "player_location": "gb",
+    "time": 1125,
+    "category": "Emu",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": true
+  },
+  {
+    "id": "z5j1qj5m",
+    "game": "Drakengard 3",
+    "player": "Amei",
+    "player_location": "gb/eng",
+    "time": 12361,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": true
+  },
+  {
+    "id": "me66woqz",
+    "game": "Drakengard 3",
+    "player": "Luluteller",
+    "player_location": "jp",
+    "time": 7151,
+    "category": "[A] NG+",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "m7xrd94y",
+    "game": "Drakengard 3",
+    "player": "aloyark",
+    "player_location": "us",
+    "time": 5021,
+    "category": "[A] NG+",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": true
+  },
+  {
+    "id": "mkgd1evy",
+    "game": "Drakengard 3",
+    "player": "LaprioArcaena",
+    "player_location": "us",
+    "time": 7106,
+    "category": "[A] NG+",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": true
+  },
+  {
+    "id": "znpev4lm",
+    "game": "Drakengard 3",
+    "player": "cathelios",
+    "player_location": "us",
+    "time": 5901,
+    "category": "[A] NG+",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": true
+  },
+  {
+    "id": "y2pndd5z",
+    "game": "Drakengard 3",
+    "player": "Sax_Gandalfu",
+    "player_location": "fr",
+    "time": 6376,
+    "category": "[A] NG+",
+    "region": null,
+    "platform": "PlayStation 3",
+    "emulated": true
+  },
+  {
+    "id": "yjp83doy",
+    "game": "Drakengard 3",
+    "player": "Valeriaaa_CHAN",
+    "player_location": "de",
+    "time": 7685,
+    "category": "[A] NG+",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": true
+  },
+  {
+    "id": "yjdjoj3y",
+    "game": "Drakengard 3",
+    "player": "kaye_dog",
+    "player_location": null,
+    "time": 7954,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": true
+  },
+  {
+    "id": "yv09rkoz",
+    "game": "Drakengard 3",
+    "player": "asparashos",
+    "player_location": "gr",
+    "time": 1328,
+    "category": "Emu",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": true
+  },
+  {
+    "id": "y4x7q92z",
+    "game": "Drakengard 3",
+    "player": "Toot3472",
+    "player_location": "us",
+    "time": 1255,
+    "category": "Console",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "ylnkpj3z",
+    "game": "Drakengard 3",
+    "player": "Chien",
+    "player_location": "jp",
+    "time": 6907,
+    "category": "[A] NG+",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  }
+]

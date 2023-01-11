@@ -1,0 +1,68 @@
+[
+  {
+    "id": "y819pw5z",
+    "game": "Winter Challenge",
+    "player": "YoBGS",
+    "player_location": "us",
+    "time": 849,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "yok3ex7z",
+    "game": "Winter Challenge",
+    "player": "LantisEscudo",
+    "player_location": "us",
+    "time": 668,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "m758olez",
+    "game": "Winter Challenge",
+    "player": "megamanreborn",
+    "player_location": "gb/wls",
+    "time": 778,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "m3gw77gz",
+    "game": "Winter Challenge",
+    "player": "Acinonyx",
+    "player_location": "it",
+    "time": 634,
+    "category": "Any%",
+    "region": null,
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "yo3185jy",
+    "game": "Winter Challenge",
+    "player": "Zooball",
+    "player_location": "gb/wls",
+    "time": 632,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "z50kx0ny",
+    "game": "Winter Challenge",
+    "player": "SantaClaus",
+    "player_location": "fi",
+    "time": 506,
+    "category": "Any%",
+    "region": null,
+    "platform": "MS-DOS",
+    "emulated": true
+  }
+]

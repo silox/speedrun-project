@@ -1,0 +1,46 @@
+[
+  {
+    "id": "y69od96y",
+    "game": "Art Academy",
+    "player": "wucens",
+    "player_location": "lv",
+    "time": 0.967,
+    "category": "1L IRL",
+    "region": "EUR / PAL",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "zno2eevy",
+    "game": "Art Academy",
+    "player": "Yoshikiller109",
+    "player_location": "us",
+    "time": 1.867,
+    "category": "1L IRL",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "zxg4r25y",
+    "game": "Art Academy",
+    "player": "PitayaGraves",
+    "player_location": "au",
+    "time": 176.82,
+    "category": "Lesson%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "zp8ggxvy",
+    "game": "Art Academy",
+    "player": "HIKARU",
+    "player_location": "kr",
+    "time": 0.833,
+    "category": "1L IRL",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  }
+]

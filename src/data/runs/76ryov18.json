@@ -1,0 +1,68 @@
+[
+  {
+    "id": "2ywk3d0y",
+    "game": "",
+    "player": "PJDiCesare",
+    "player_location": null,
+    "time": 4931,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "9yoxredy",
+    "game": "",
+    "player": "ZELLLOOO",
+    "player_location": "us",
+    "time": 5062,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "m7q0r3ez",
+    "game": "",
+    "player": "osse101",
+    "player_location": "ca",
+    "time": 5408,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "zqgn1v9m",
+    "game": "Lagoon",
+    "player": "vertz505",
+    "player_location": "us",
+    "time": 6444,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "ylo2re2y",
+    "game": "Lagoon",
+    "player": "Solarcell007",
+    "player_location": "us",
+    "time": 5875,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "yd9pwwqz",
+    "game": "Lagoon",
+    "player": "DLDarklink",
+    "player_location": "nl",
+    "time": 6904,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  }
+]

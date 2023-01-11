@@ -1,0 +1,35 @@
+[
+  {
+    "id": "z5rde9jy",
+    "game": "Resident Evil - Wesker's Rebirth",
+    "player": "Mercynm",
+    "player_location": "us",
+    "time": 232,
+    "category": "Original v1.1",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m7dw509m",
+    "game": "Resident Evil - Wesker's Rebirth",
+    "player": "SHiiDO",
+    "player_location": "de",
+    "time": 230,
+    "category": "Original v1.1",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z5r2r8jy",
+    "game": "Resident Evil - Wesker's Rebirth",
+    "player": "MaxPayne",
+    "player_location": "pt",
+    "time": 312,
+    "category": "Original v1.1",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

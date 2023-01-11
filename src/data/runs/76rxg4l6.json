@@ -1,0 +1,35 @@
+[
+  {
+    "id": "mk92qevz",
+    "game": "Final Lap Twin",
+    "player": "RetrophileTV",
+    "player_location": "us",
+    "time": 3979,
+    "category": "Quest Mode",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": true
+  },
+  {
+    "id": "zxko23gm",
+    "game": "Final Lap Twin",
+    "player": "Stimpy789",
+    "player_location": "us",
+    "time": 3509,
+    "category": "Quest Mode",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": true
+  },
+  {
+    "id": "yo3j14dy",
+    "game": "Final Lap Twin",
+    "player": "hukleburyfinnished",
+    "player_location": null,
+    "time": 3759,
+    "category": "Quest Mode",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": true
+  }
+]

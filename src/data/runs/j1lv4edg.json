@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1zx0plez",
+    "game": "",
+    "player": "Redlof",
+    "player_location": "ru",
+    "time": 2000,
+    "category": "Beat the Game",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": false
+  },
+  {
+    "id": "z1rx5o9m",
+    "game": "",
+    "player": "Dumber",
+    "player_location": "es",
+    "time": 2346,
+    "category": "Beat the Game",
+    "region": "EUR / PAL",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  }
+]

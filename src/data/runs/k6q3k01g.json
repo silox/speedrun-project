@@ -1,0 +1,112 @@
+[
+  {
+    "id": "y41n6vky",
+    "game": "Street Sk8er",
+    "player": "IcKY",
+    "player_location": "us",
+    "time": 57.05,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zp4o3lnz",
+    "game": "Street Sk8er",
+    "player": "Cyberdemon531",
+    "player_location": "us",
+    "time": 492,
+    "category": "Any% 1 Loop",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "z11127wz",
+    "game": "Street Sk8er",
+    "player": "PeterAfro",
+    "player_location": "us",
+    "time": 399,
+    "category": "Any% 1 Loop",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "yvj6gvxy",
+    "game": "Street Sk8er",
+    "player": "audhumla",
+    "player_location": "us",
+    "time": 396,
+    "category": "Any% 1 Loop",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "y81gr5dz",
+    "game": "Street Sk8er",
+    "player": "HiddenCasinoSleeper",
+    "player_location": null,
+    "time": 427.067,
+    "category": "Any% 1 Loop",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "z01066jy",
+    "game": "Street Sk8er",
+    "player": "LightningBS",
+    "player_location": null,
+    "time": 159.01,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "znrgoo9y",
+    "game": "Street Sk8er",
+    "player": "First Level King",
+    "player_location": null,
+    "time": 91.043,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "z57w0vem",
+    "game": "Street Sk8er",
+    "player": "rideofsteel400",
+    "player_location": null,
+    "time": 95.01,
+    "category": "B",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "yv372qez",
+    "game": "Street Sk8er",
+    "player": "llgiancoli",
+    "player_location": null,
+    "time": 131.05,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "zqg79erm",
+    "game": "Street Sk8er",
+    "player": "NinjaCocktail",
+    "player_location": "fr",
+    "time": 44.9,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  }
+]

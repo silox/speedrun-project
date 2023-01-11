@@ -1,0 +1,24 @@
+[
+  {
+    "id": "dy4o93qz",
+    "game": "Ninja Kid",
+    "player": "Raphael Brambilla",
+    "player_location": null,
+    "time": 1535,
+    "category": "All Stages",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "y923lkrz",
+    "game": "Ninja Kid",
+    "player": "SubStylee",
+    "player_location": "us",
+    "time": 627,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  }
+]

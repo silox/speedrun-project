@@ -1,0 +1,79 @@
+[
+  {
+    "id": "jy9qk92z",
+    "game": "Perplexus Epic",
+    "player": "UncleDaver",
+    "player_location": null,
+    "time": 25,
+    "category": "Practice A-Practice B",
+    "region": "USA / NTSC",
+    "platform": "Tabletop",
+    "emulated": false
+  },
+  {
+    "id": "y8160pwz",
+    "game": "Perplexus Epic",
+    "player": "Frikkinfriks14",
+    "player_location": "us",
+    "time": 0.267,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Tabletop",
+    "emulated": false
+  },
+  {
+    "id": "y8qnxrxy",
+    "game": "Perplexus Epic",
+    "player": "hanttoni",
+    "player_location": "fi",
+    "time": 1.11,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Tabletop",
+    "emulated": false
+  },
+  {
+    "id": "z01q529y",
+    "game": "Perplexus Epic",
+    "player": "JamEpix",
+    "player_location": "us",
+    "time": 0.43,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Tabletop",
+    "emulated": false
+  },
+  {
+    "id": "y421l8qm",
+    "game": "Perplexus Epic",
+    "player": "jackyboi1214",
+    "player_location": "us",
+    "time": 0.3,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Tabletop",
+    "emulated": false
+  },
+  {
+    "id": "ydev4nvm",
+    "game": "Perplexus Epic",
+    "player": "Leibi",
+    "player_location": "de",
+    "time": 0.333,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Tabletop",
+    "emulated": false
+  },
+  {
+    "id": "y8jvde5z",
+    "game": "Perplexus Epic",
+    "player": "slushywalrus",
+    "player_location": "in",
+    "time": 0.267,
+    "category": "Any%",
+    "region": null,
+    "platform": "Tabletop",
+    "emulated": false
+  }
+]

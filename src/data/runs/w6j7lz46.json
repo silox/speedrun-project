@@ -1,0 +1,24 @@
+[
+  {
+    "id": "mr11e28z",
+    "game": "Best of Best",
+    "player": "DBcade",
+    "player_location": "jp",
+    "time": 592,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "me19053y",
+    "game": "Best of Best",
+    "player": "Conspiratorial",
+    "player_location": "us",
+    "time": 500,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

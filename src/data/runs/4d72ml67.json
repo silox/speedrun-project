@@ -1,0 +1,46 @@
+[
+  {
+    "id": "7ylg022m",
+    "game": "",
+    "player": "Team_Caffeine",
+    "player_location": "us",
+    "time": 1188,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Game Gear",
+    "emulated": true
+  },
+  {
+    "id": "yw43ek2z",
+    "game": "",
+    "player": "Shentok",
+    "player_location": "us",
+    "time": 1003,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Game Gear",
+    "emulated": false
+  },
+  {
+    "id": "y9xg62vy",
+    "game": "",
+    "player": "squilibob",
+    "player_location": "au",
+    "time": 781,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Game Gear",
+    "emulated": false
+  },
+  {
+    "id": "m76x9d4y",
+    "game": "Tempo Jr.",
+    "player": "Grumpmeister",
+    "player_location": "nl",
+    "time": 844,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Game Gear",
+    "emulated": false
+  }
+]

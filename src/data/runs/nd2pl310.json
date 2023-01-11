@@ -1,0 +1,101 @@
+[
+  {
+    "id": "m3xg8k6m",
+    "game": "Teenage Mutant Ninja Turtles: Tournament Fighters (SNES)",
+    "player": "NerdyNester",
+    "player_location": "us",
+    "time": 836,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "yl9rpjxy",
+    "game": "Teenage Mutant Ninja Turtles: Tournament Fighters (SNES)",
+    "player": "LRock617",
+    "player_location": "us",
+    "time": 677,
+    "category": "Story",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "mek4n22m",
+    "game": "Teenage Mutant Ninja Turtles: Tournament Fighters (SNES)",
+    "player": "Kain [Youtube]",
+    "player_location": null,
+    "time": 1065,
+    "category": "Story",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y219kewz",
+    "game": "Teenage Mutant Ninja Turtles: Tournament Fighters (SNES)",
+    "player": "MrDino023",
+    "player_location": "mx",
+    "time": 872,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "m7qpdwez",
+    "game": "Teenage Mutant Ninja Turtles: Tournament Fighters (SNES)",
+    "player": "TwistedEpoch",
+    "player_location": "gb/eng",
+    "time": 844,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "y658x90z",
+    "game": "Teenage Mutant Ninja Turtles: Tournament Fighters (SNES)",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 1677,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "me6x2e8z",
+    "game": "Teenage Mutant Ninja Turtles: Tournament Fighters (SNES)",
+    "player": "Mystogan86",
+    "player_location": "br",
+    "time": 1087,
+    "category": "Story",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "z50433dy",
+    "game": "Teenage Mutant Ninja Turtles: Tournament Fighters (SNES)",
+    "player": "LightningCollector",
+    "player_location": "us",
+    "time": 813,
+    "category": "Story",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "z1pqxdrz",
+    "game": "Teenage Mutant Ninja Turtles: Tournament Fighters (SNES)",
+    "player": "Nobleboy77",
+    "player_location": "do",
+    "time": 766,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  }
+]

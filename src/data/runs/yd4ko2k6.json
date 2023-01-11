@@ -1,0 +1,68 @@
+[
+  {
+    "id": "zn0jl28y",
+    "game": "Nexomon",
+    "player": "SwampBadger",
+    "player_location": "de",
+    "time": 655.45,
+    "category": "Ivan% (PC & Mac)",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yvq7weom",
+    "game": "Nexomon",
+    "player": "waz00",
+    "player_location": "de",
+    "time": 859.86,
+    "category": "Ivan% (PC & Mac)",
+    "region": "EUR / PAL",
+    "platform": "Macintosh",
+    "emulated": false
+  },
+  {
+    "id": "zn0jqdly",
+    "game": "Nexomon",
+    "player": "Karlu13",
+    "player_location": "de",
+    "time": 862.95,
+    "category": "Ivan% (PC & Mac)",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y69o4wpy",
+    "game": "Nexomon",
+    "player": "Samuran",
+    "player_location": "de",
+    "time": 685.1,
+    "category": "Ivan% (PC & Mac)",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mk50vl5m",
+    "game": "Nexomon",
+    "player": "eddaket",
+    "player_location": "us",
+    "time": 11839,
+    "category": "Any% (PC & Mac)",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yvq3n54m",
+    "game": "Nexomon",
+    "player": "corrosive",
+    "player_location": "de",
+    "time": 5045.81,
+    "category": "Ventra% (PC & Mac)",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  }
+]

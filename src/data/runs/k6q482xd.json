@@ -1,0 +1,57 @@
+[
+  {
+    "id": "ylvqrpxm",
+    "game": "RayForce",
+    "player": "MetalVolt",
+    "player_location": "us",
+    "time": 1493,
+    "category": "1P Any %",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "mk737rly",
+    "game": "RayForce",
+    "player": "RitaH",
+    "player_location": "br",
+    "time": 1736,
+    "category": "2P Any %",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "ydr7n0vz",
+    "game": "RayForce",
+    "player": "robbiedagger",
+    "player_location": "us",
+    "time": 1469,
+    "category": "1P Any %",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "me1l582y",
+    "game": "RayForce",
+    "player": "Ellimist",
+    "player_location": "us",
+    "time": 1598,
+    "category": "2P Any %",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yd1pv60y",
+    "game": "RayForce",
+    "player": "HosteL",
+    "player_location": "ru",
+    "time": 1722,
+    "category": "1P Any %",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

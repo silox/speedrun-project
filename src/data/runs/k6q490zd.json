@@ -1,0 +1,57 @@
+[
+  {
+    "id": "zxv1o4gy",
+    "game": "Five Nights at Freddy's 3 (Troll Game)",
+    "player": "Kevlar_Sniper",
+    "player_location": "au",
+    "time": 758,
+    "category": "Troll Game",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z1jjpl9z",
+    "game": "Five Nights at Freddy's 3 (Troll Game)",
+    "player": "TylertheTyrrific",
+    "player_location": "us",
+    "time": 402.73,
+    "category": "Troll Game",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z05g7kem",
+    "game": "Five Nights at Freddy's 3 (Troll Game)",
+    "player": "LoremIpsumDocet",
+    "player_location": "fr",
+    "time": 381,
+    "category": "Troll Game",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m757wp0z",
+    "game": "Five Nights at Freddy's 3 (Troll Game)",
+    "player": "TheFazbearLegacy",
+    "player_location": "us",
+    "time": 359.7,
+    "category": "Troll Game",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mkdrwpxy",
+    "game": "Five Nights at Freddy's 3 (Troll Game)",
+    "player": "Danimed",
+    "player_location": "br",
+    "time": 674.7,
+    "category": "Troll Game",
+    "region": "BRA / PAL",
+    "platform": "PC",
+    "emulated": false
+  }
+]

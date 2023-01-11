@@ -1,0 +1,222 @@
+[
+  {
+    "id": "pydjnqwy",
+    "game": "Gran Turismo",
+    "player": "thebook92",
+    "player_location": "us",
+    "time": 4514,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": null,
+    "emulated": false
+  },
+  {
+    "id": "pzgv01ez",
+    "game": "Gran Turismo",
+    "player": "Squaky",
+    "player_location": "ca",
+    "time": 6756,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": null,
+    "emulated": false
+  },
+  {
+    "id": "mrqorjdy",
+    "game": "Gran Turismo",
+    "player": "Sough",
+    "player_location": "us",
+    "time": 4347,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": null,
+    "emulated": false
+  },
+  {
+    "id": "yl9k22ry",
+    "game": "Gran Turismo",
+    "player": "ragnar_2017",
+    "player_location": "pl",
+    "time": 4535,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": null,
+    "emulated": false
+  },
+  {
+    "id": "y95rwokz",
+    "game": "Gran Turismo",
+    "player": "Dugna",
+    "player_location": "it",
+    "time": 23.995,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": null,
+    "emulated": false
+  },
+  {
+    "id": "z059534m",
+    "game": "Gran Turismo",
+    "player": "Moorea",
+    "player_location": "aq",
+    "time": 5981,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": null,
+    "emulated": false
+  },
+  {
+    "id": "zpr1jprm",
+    "game": "Gran Turismo",
+    "player": "Bregermann",
+    "player_location": "us",
+    "time": 4664,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": null,
+    "emulated": false
+  },
+  {
+    "id": "zn77xe8m",
+    "game": "Gran Turismo",
+    "player": "GroMic",
+    "player_location": "be",
+    "time": 23.308,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": null,
+    "emulated": false
+  },
+  {
+    "id": "mkeee25m",
+    "game": "Gran Turismo",
+    "player": "K1KOU",
+    "player_location": "fr",
+    "time": 23.279,
+    "category": "License Tests",
+    "region": "EUR / PAL",
+    "platform": null,
+    "emulated": false
+  },
+  {
+    "id": "z0l3e09z",
+    "game": "Gran Turismo",
+    "player": "ThrasherDBS",
+    "player_location": "us",
+    "time": 23.935,
+    "category": "License Tests",
+    "region": "USA / NTSC",
+    "platform": null,
+    "emulated": false
+  },
+  {
+    "id": "yorxng1y",
+    "game": "Gran Turismo",
+    "player": "TokyoRacer",
+    "player_location": "us",
+    "time": 4509.74,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": null,
+    "emulated": false
+  },
+  {
+    "id": "yor82pjy",
+    "game": "Gran Turismo",
+    "player": "Luvs2BGlued",
+    "player_location": "ca",
+    "time": 6864,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": null,
+    "emulated": false
+  },
+  {
+    "id": "zx72qpqy",
+    "game": "Gran Turismo",
+    "player": "SEGARALLY",
+    "player_location": null,
+    "time": 23.491,
+    "category": "License Tests",
+    "region": "USA / NTSC",
+    "platform": null,
+    "emulated": false
+  },
+  {
+    "id": "z1pd4jgz",
+    "game": "Gran Turismo",
+    "player": "RotaMota",
+    "player_location": "au",
+    "time": 5984,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": null,
+    "emulated": false
+  },
+  {
+    "id": "ydd435xy",
+    "game": "Gran Turismo",
+    "player": "N.4",
+    "player_location": "dk",
+    "time": 29.245,
+    "category": "License Tests",
+    "region": "EUR / PAL",
+    "platform": null,
+    "emulated": false
+  },
+  {
+    "id": "y60k6rqy",
+    "game": "Gran Turismo",
+    "player": "DidierLeVolant",
+    "player_location": null,
+    "time": 6526.52,
+    "category": "Any%",
+    "region": null,
+    "platform": null,
+    "emulated": false
+  },
+  {
+    "id": "y6x005jy",
+    "game": "Gran Turismo",
+    "player": "Cousin",
+    "player_location": "fr",
+    "time": 5939,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": null,
+    "emulated": true
+  },
+  {
+    "id": "zq91oj9y",
+    "game": "Gran Turismo",
+    "player": "FlyingDutchy",
+    "player_location": "nl",
+    "time": 5940.92,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": null,
+    "emulated": true
+  },
+  {
+    "id": "z1q5k7gy",
+    "game": "Gran Turismo",
+    "player": "JasperTheNarwhal",
+    "player_location": "gl",
+    "time": 4842.07,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": null,
+    "emulated": true
+  },
+  {
+    "id": "zpgrg2nz",
+    "game": "Gran Turismo",
+    "player": "TedGN",
+    "player_location": "bg",
+    "time": 4652,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": null,
+    "emulated": true
+  }
+]

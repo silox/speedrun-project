@@ -1,0 +1,35 @@
+[
+  {
+    "id": "y2v7pv6z",
+    "game": "",
+    "player": "MasterCactaur",
+    "player_location": "us",
+    "time": 867,
+    "category": "Any% Easy",
+    "region": "JPN / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "z52n0gez",
+    "game": "",
+    "player": "Ellimist",
+    "player_location": "us",
+    "time": 835,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "yjd2057y",
+    "game": "Double Dragon II: The Revenge (Genesis)",
+    "player": "JkLoser",
+    "player_location": "se",
+    "time": 936,
+    "category": "Any% Easy",
+    "region": null,
+    "platform": "Sega Genesis",
+    "emulated": true
+  }
+]

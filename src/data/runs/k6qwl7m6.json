@@ -1,0 +1,35 @@
+[
+  {
+    "id": "z1qd789y",
+    "game": "",
+    "player": "HosteL",
+    "player_location": "ru",
+    "time": 1330,
+    "category": "1P",
+    "region": "KOR / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y6o66w6y",
+    "game": "",
+    "player": "apinardo_",
+    "player_location": "ar",
+    "time": 1188,
+    "category": "",
+    "region": "KOR / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z1qdw6wy",
+    "game": "Arcadia",
+    "player": "Ellimist",
+    "player_location": "us",
+    "time": 1230,
+    "category": "",
+    "region": "KOR / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "6yj88qnm",
+    "game": "",
+    "player": "btrim",
+    "player_location": "us",
+    "time": 1183,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "yo4l8ldm",
+    "game": "",
+    "player": "LiquidDeath911",
+    "player_location": "us",
+    "time": 1135,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y23w925m",
+    "game": "",
+    "player": "kbzonfc1",
+    "player_location": "cl",
+    "time": 1014,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "yw6l7kpm",
+    "game": "Soul Hackers 2",
+    "player": "secretbunnyninja",
+    "player_location": "us",
+    "time": 4424,
+    "category": "NG+",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 5",
+    "emulated": false
+  },
+  {
+    "id": "yd1726jy",
+    "game": "Soul Hackers 2",
+    "player": "Loreweaver",
+    "player_location": "us",
+    "time": 5506,
+    "category": "NG+",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "mrr2gjgm",
+    "game": "Soul Hackers 2",
+    "player": "TatsuyaAct",
+    "player_location": "at",
+    "time": 4918,
+    "category": "NG+",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z5e059ez",
+    "game": "Soul Hackers 2",
+    "player": "ChampionBeef",
+    "player_location": "us",
+    "time": 20658,
+    "category": "True End",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y2jqnk7z",
+    "game": "Soul Hackers 2",
+    "player": "Syo_speedrunner",
+    "player_location": "jp",
+    "time": 28890,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "9yok5qdz",
+    "game": "Monster Rancher Advance",
+    "player": "CardsOfTheHeart",
+    "player_location": "us",
+    "time": 6987,
+    "category": "any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Player",
+    "emulated": false
+  },
+  {
+    "id": "oy204r5m",
+    "game": "Monster Rancher Advance",
+    "player": "Plush",
+    "player_location": null,
+    "time": 11111,
+    "category": "any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "z1301q7m",
+    "game": "Monster Rancher Advance",
+    "player": "Cypress",
+    "player_location": "us",
+    "time": 5214,
+    "category": "any%",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "y9nlqgkz",
+    "game": "Monster Rancher Advance",
+    "player": "news",
+    "player_location": "jp",
+    "time": 5001,
+    "category": "any%",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Player",
+    "emulated": false
+  },
+  {
+    "id": "y6dn2xpm",
+    "game": "Monster Rancher Advance",
+    "player": "runasoru",
+    "player_location": "jp",
+    "time": 4718,
+    "category": "any%",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Player",
+    "emulated": false
+  },
+  {
+    "id": "zn71rg9m",
+    "game": "Monster Rancher Advance",
+    "player": "kaitoupurin",
+    "player_location": "jp",
+    "time": 4821,
+    "category": "any%",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Player",
+    "emulated": false
+  }
+]

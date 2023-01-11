@@ -1,0 +1,35 @@
+[
+  {
+    "id": "z53pl6jy",
+    "game": "R-Type Leo",
+    "player": "RitaH",
+    "player_location": "br",
+    "time": 1110,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y91j57rm",
+    "game": "R-Type Leo",
+    "player": "NeetSuhiro",
+    "player_location": "jp",
+    "time": 1002,
+    "category": "Any% - Single Player",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": false
+  },
+  {
+    "id": "yw6542pm",
+    "game": "R-Type Leo",
+    "player": "Ellimist",
+    "player_location": "us",
+    "time": 1032,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

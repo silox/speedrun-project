@@ -1,0 +1,145 @@
+[
+  {
+    "id": "pydq35jm",
+    "game": "Klonoa: Empire of Dreams",
+    "player": "ab27826",
+    "player_location": "us",
+    "time": 3296,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "8y8k21wy",
+    "game": "Klonoa: Empire of Dreams",
+    "player": "Deku_sr",
+    "player_location": "it",
+    "time": 2976,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "9menrj3m",
+    "game": "Klonoa: Empire of Dreams",
+    "player": "Jgiga",
+    "player_location": "us",
+    "time": 3386,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "y6d2lj1m",
+    "game": "Klonoa: Empire of Dreams",
+    "player": "Dog_In_Da_Grass",
+    "player_location": "us",
+    "time": 38.533,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "z5d21nem",
+    "game": "Klonoa: Empire of Dreams",
+    "player": "Harutomo",
+    "player_location": "jp",
+    "time": 46.166,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Wii U Virtual Console",
+    "emulated": false
+  },
+  {
+    "id": "zxvlkn8y",
+    "game": "Klonoa: Empire of Dreams",
+    "player": "Scrub_Busta",
+    "player_location": "us",
+    "time": 2913,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Wii U Virtual Console",
+    "emulated": false
+  },
+  {
+    "id": "yj4kvldy",
+    "game": "Klonoa: Empire of Dreams",
+    "player": "fmp",
+    "player_location": null,
+    "time": 3097,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "zxke8x5m",
+    "game": "Klonoa: Empire of Dreams",
+    "player": "Moxieclaws",
+    "player_location": "us",
+    "time": 3148,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Wii U Virtual Console",
+    "emulated": false
+  },
+  {
+    "id": "mr4p10dz",
+    "game": "Klonoa: Empire of Dreams",
+    "player": "PrincessAquos",
+    "player_location": "us",
+    "time": 7222,
+    "category": "100%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "z0rgv8oz",
+    "game": "Klonoa: Empire of Dreams",
+    "player": "DarkySquid",
+    "player_location": "fr",
+    "time": 3089,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "z5re42ey",
+    "game": "Klonoa: Empire of Dreams",
+    "player": "Doomtune",
+    "player_location": "us",
+    "time": 41.733,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "y6dkr6jm",
+    "game": "Klonoa: Empire of Dreams",
+    "player": "SoapAgent",
+    "player_location": "us",
+    "time": 46.116,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "m7789n9m",
+    "game": "Klonoa: Empire of Dreams",
+    "player": "Umbreoff",
+    "player_location": "us",
+    "time": 83.16,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  }
+]

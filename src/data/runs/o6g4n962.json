@@ -1,0 +1,145 @@
+[
+  {
+    "id": "zgnp9kny",
+    "game": "Yu-Gi-Oh! Worldwide Edition: Stairway to the Destined Duel",
+    "player": "mamgar",
+    "player_location": "us",
+    "time": 8416,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": false
+  },
+  {
+    "id": "z5o261ey",
+    "game": "Yu-Gi-Oh! Worldwide Edition: Stairway to the Destined Duel",
+    "player": "altabiscuit",
+    "player_location": "us",
+    "time": 8953,
+    "category": "All Limitation Tournaments",
+    "region": null,
+    "platform": "Game Boy Advance",
+    "emulated": false
+  },
+  {
+    "id": "m796vgwy",
+    "game": "Yu-Gi-Oh! Worldwide Edition: Stairway to the Destined Duel",
+    "player": "Ouro",
+    "player_location": "us",
+    "time": 11728,
+    "category": "All Limitation Tournaments",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "mex7r9qz",
+    "game": "Yu-Gi-Oh! Worldwide Edition: Stairway to the Destined Duel",
+    "player": "sk84uhlivin",
+    "player_location": "us",
+    "time": 2275,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "yj4dvedy",
+    "game": "Yu-Gi-Oh! Worldwide Edition: Stairway to the Destined Duel",
+    "player": "Tagerplayer",
+    "player_location": "se",
+    "time": 6844,
+    "category": "All Limitation Tournaments",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": false
+  },
+  {
+    "id": "y6ll0j0y",
+    "game": "Yu-Gi-Oh! Worldwide Edition: Stairway to the Destined Duel",
+    "player": "MikeKatz45",
+    "player_location": "mx",
+    "time": 4017,
+    "category": "",
+    "region": null,
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "zgkx45dy",
+    "game": "Yu-Gi-Oh! Worldwide Edition: Stairway to the Destined Duel",
+    "player": "GoddessMaria",
+    "player_location": "us",
+    "time": 2363,
+    "category": "All Duelists",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "z01rqney",
+    "game": "Yu-Gi-Oh! Worldwide Edition: Stairway to the Destined Duel",
+    "player": "DerTeppich",
+    "player_location": "de",
+    "time": 2169,
+    "category": "All Duelists",
+    "region": null,
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "mkexkjvm",
+    "game": "Yu-Gi-Oh! Worldwide Edition: Stairway to the Destined Duel",
+    "player": "Exarion",
+    "player_location": "us",
+    "time": 1897,
+    "category": "All Duelists",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "zxl5qxkz",
+    "game": "Yu-Gi-Oh! Worldwide Edition: Stairway to the Destined Duel",
+    "player": "BadNewsNate",
+    "player_location": "us",
+    "time": 1936,
+    "category": "All Duelists",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "y217jlwz",
+    "game": "Yu-Gi-Oh! Worldwide Edition: Stairway to the Destined Duel",
+    "player": "TearBaer",
+    "player_location": "us",
+    "time": 2352,
+    "category": "All Duelists",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "y4rr2pkz",
+    "game": "Yu-Gi-Oh! Worldwide Edition: Stairway to the Destined Duel",
+    "player": "AsneL",
+    "player_location": "jp",
+    "time": 9341,
+    "category": "All Limitation Tournaments",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": false
+  },
+  {
+    "id": "y6xn7dpy",
+    "game": "Yu-Gi-Oh! Worldwide Edition: Stairway to the Destined Duel",
+    "player": "Mr_Vodka",
+    "player_location": "fr",
+    "time": 6262,
+    "category": "All Limitation Tournaments",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "pydx43vz",
+    "game": "Disney's Tarzan: Untamed",
+    "player": "sharkthesaiyan",
+    "player_location": "fi",
+    "time": 2658,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "zgko39ey",
+    "game": "Disney's Tarzan: Untamed",
+    "player": "DoubleDubbel",
+    "player_location": "nl",
+    "time": 1212,
+    "category": "Beat Crocodile",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "z11lre9z",
+    "game": "Disney's Tarzan: Untamed",
+    "player": "muikula",
+    "player_location": "fi",
+    "time": 1213,
+    "category": "Beat Crocodile",
+    "region": "EUR / PAL",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "zxk36kem",
+    "game": "Disney's Tarzan: Untamed",
+    "player": "Clover",
+    "player_location": "nl",
+    "time": 1252,
+    "category": "Beat Crocodile",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "ydr82owz",
+    "game": "Disney's Tarzan: Untamed",
+    "player": "Proenke",
+    "player_location": "de",
+    "time": 1176,
+    "category": "Beat Crocodile",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  }
+]

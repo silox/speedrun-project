@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1zq8dl5z",
+    "game": "The Adventures of Lomax",
+    "player": "SoaringLlama",
+    "player_location": "us",
+    "time": 3310,
+    "category": "Any%",
+    "region": null,
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "y27w096z",
+    "game": "The Adventures of Lomax",
+    "player": "MrTophatDev",
+    "player_location": null,
+    "time": 2520,
+    "category": "Any%",
+    "region": null,
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "y2eo10wy",
+    "game": "The Adventures of Lomax",
+    "player": "Thatchbro",
+    "player_location": "no",
+    "time": 52,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yl1n1k3m",
+    "game": "The Adventures of Lomax",
+    "player": "elsiz",
+    "player_location": "es",
+    "time": 101,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  }
+]

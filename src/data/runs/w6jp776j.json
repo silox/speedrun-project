@@ -1,0 +1,123 @@
+[
+  {
+    "id": "mek9l88m",
+    "game": "Baseball Stars 2",
+    "player": "MrMannyRodz",
+    "player_location": "us",
+    "time": 1250,
+    "category": "Single Game Victory (NES)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "zpqgqp8y",
+    "game": "Baseball Stars 2",
+    "player": "RantronBomb",
+    "player_location": null,
+    "time": 939,
+    "category": "Single Game Victory (NES)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "yw1v8e3z",
+    "game": "Baseball Stars 2",
+    "player": "dadabeep",
+    "player_location": "us",
+    "time": 808,
+    "category": "Single Game Victory (NES)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "y67w41jm",
+    "game": "Baseball Stars 2",
+    "player": "NihilistComedyHour",
+    "player_location": "eo",
+    "time": 1201,
+    "category": "Single Game Victory (NES)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "y4w332dm",
+    "game": "Baseball Stars 2",
+    "player": "Peanutfan22",
+    "player_location": "us",
+    "time": 833,
+    "category": "Single Game Victory (Arcade)",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": false
+  },
+  {
+    "id": "m3op8k6m",
+    "game": "Baseball Stars 2",
+    "player": "royalistkaw",
+    "player_location": "gb/eng",
+    "time": 1362,
+    "category": "Single Game Victory (NES)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "z1j4x47z",
+    "game": "Baseball Stars 2",
+    "player": "ShesChardcore",
+    "player_location": "us",
+    "time": 720,
+    "category": "Single Game Victory (NES)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "y4rdr8kz",
+    "game": "Baseball Stars 2",
+    "player": "grimlocksoflove",
+    "player_location": "us",
+    "time": 335,
+    "category": "Single Game Victory (NES)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "zgr3q1dm",
+    "game": "Baseball Stars 2",
+    "player": "zanth",
+    "player_location": "us",
+    "time": 605,
+    "category": "Single Game Victory (NES)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "z071lr8y",
+    "game": "Baseball Stars 2",
+    "player": "PGHGuitarGuy",
+    "player_location": "us",
+    "time": 521,
+    "category": "Single Game Victory (NES)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "yvr2e2oz",
+    "game": "Baseball Stars 2",
+    "player": "GhostSenpai",
+    "player_location": "mx",
+    "time": 285,
+    "category": "Single Game Victory (NES)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  }
+]

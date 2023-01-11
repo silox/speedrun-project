@@ -1,0 +1,46 @@
+[
+  {
+    "id": "z1r794rm",
+    "game": "SMG2 Cosmic Clones Challenge",
+    "player": "Silver",
+    "player_location": "ca",
+    "time": 25.88,
+    "category": "Individual Stars",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "mkgrpo3y",
+    "game": "SMG2 Cosmic Clones Challenge",
+    "player": "N/A",
+    "player_location": null,
+    "time": 0.001,
+    "category": "All Stars",
+    "region": null,
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "z07wog9y",
+    "game": "SMG2 Cosmic Clones Challenge",
+    "player": "Laurozz",
+    "player_location": "mx",
+    "time": 38.8,
+    "category": "Individual Stars",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "zgrp49vm",
+    "game": "SMG2 Cosmic Clones Challenge",
+    "player": "30Aces",
+    "player_location": "us",
+    "time": 1188,
+    "category": "Scotch%",
+    "region": "USA / NTSC",
+    "platform": "Wii U",
+    "emulated": false
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "id": "z010178y",
+    "game": "Avenging Spirit (Arcade)",
+    "player": "Eddward",
+    "player_location": "pl",
+    "time": 451,
+    "category": "Bad Ending",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zx4377ky",
+    "game": "Avenging Spirit (Arcade)",
+    "player": "Dumple",
+    "player_location": "us",
+    "time": 1158,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z51p22jm",
+    "game": "Avenging Spirit (Arcade)",
+    "player": "Janet",
+    "player_location": null,
+    "time": 890,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y21g929z",
+    "game": "Avenging Spirit (Arcade)",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 1221,
+    "category": "Bad Ending",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y2en209y",
+    "game": "Avenging Spirit (Arcade)",
+    "player": "kamil2050",
+    "player_location": "pl",
+    "time": 409,
+    "category": "Bad Ending",
+    "region": "JPN / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "zgxr45dm",
+    "game": "Avenging Spirit (Arcade)",
+    "player": "Arran",
+    "player_location": null,
+    "time": 857,
+    "category": "Bad Ending",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "mk59g85m",
+    "game": "Avenging Spirit (Arcade)",
+    "player": "JejuKyo",
+    "player_location": "jp",
+    "time": 502,
+    "category": "Bad Ending",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zgq26w0y",
+    "game": "Avenging Spirit (Arcade)",
+    "player": "yorinuki",
+    "player_location": "jp",
+    "time": 563,
+    "category": "Good Ending",
+    "region": "JPN / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "mrr5rv8m",
+    "game": "Avenging Spirit (Arcade)",
+    "player": "OscarGAMZ",
+    "player_location": "mx",
+    "time": 439,
+    "category": "Bad Ending",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

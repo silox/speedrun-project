@@ -1,0 +1,57 @@
+[
+  {
+    "id": "y47w91ny",
+    "game": "Boxing Star",
+    "player": "PullMatrox",
+    "player_location": "ar",
+    "time": 134,
+    "category": "Fighters",
+    "region": null,
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "zqvqql9m",
+    "game": "Boxing Star",
+    "player": "linws",
+    "player_location": "us",
+    "time": 114,
+    "category": "Fighters",
+    "region": "USA / NTSC",
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "yle3k32z",
+    "game": "Boxing Star",
+    "player": "KingMoony",
+    "player_location": "us",
+    "time": 189.045,
+    "category": "Fighters",
+    "region": "USA / NTSC",
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "zp2266gy",
+    "game": "Boxing Star",
+    "player": "Xenomorphg1101",
+    "player_location": null,
+    "time": 145,
+    "category": "Fighters",
+    "region": "USA / NTSC",
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "z12g1wgy",
+    "game": "Boxing Star",
+    "player": "JMBoltz",
+    "player_location": "us",
+    "time": 100,
+    "category": "Fighters",
+    "region": null,
+    "platform": "iOS",
+    "emulated": false
+  }
+]

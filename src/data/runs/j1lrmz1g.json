@@ -1,0 +1,68 @@
+[
+  {
+    "id": "7z0d50ey",
+    "game": "A.R.E.S.: Extinction Agenda EX",
+    "player": "Papajasu",
+    "player_location": "be",
+    "time": 1553,
+    "category": "Tarus Any% NG+",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mk995k1z",
+    "game": "A.R.E.S.: Extinction Agenda EX",
+    "player": "AviaRy",
+    "player_location": "us",
+    "time": 1515,
+    "category": "Tarus Any% NG+",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yo25qr5z",
+    "game": "A.R.E.S.: Extinction Agenda EX",
+    "player": "Mathwe",
+    "player_location": "de",
+    "time": 1452,
+    "category": "Tarus Any% NG+",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z50qv55y",
+    "game": "A.R.E.S.: Extinction Agenda EX",
+    "player": "Finalaharl",
+    "player_location": "fr",
+    "time": 1376,
+    "category": "Tarus Any% NG+",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m33wedgm",
+    "game": "A.R.E.S.: Extinction Agenda EX",
+    "player": "S0RIN",
+    "player_location": null,
+    "time": 1861,
+    "category": "Ares Any% NG+ Hardcore",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y4geen3y",
+    "game": "A.R.E.S.: Extinction Agenda EX",
+    "player": "Kiwami",
+    "player_location": "br",
+    "time": 1363,
+    "category": "Tarus Any% NG+",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "zx6w7nkz",
+    "game": "Super Mario Galaxy 64",
+    "player": "SPG64",
+    "player_location": "ie",
+    "time": 1464,
+    "category": "Holiday Special",
+    "region": "EUR / PAL",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "yd9n82wz",
+    "game": "Super Mario Galaxy 64",
+    "player": "FortTheo",
+    "player_location": "fr",
+    "time": 1337,
+    "category": "Holiday Special",
+    "region": "EUR / PAL",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "mk7qkr5y",
+    "game": "Super Mario Galaxy 64",
+    "player": "Shadow64",
+    "player_location": "gb",
+    "time": 1917,
+    "category": "Holiday Special",
+    "region": "EUR / PAL",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "m3r5rpgm",
+    "game": "Super Mario Galaxy 64",
+    "player": "30Aces",
+    "player_location": "us",
+    "time": 1288,
+    "category": "Holiday Special",
+    "region": "USA / NTSC",
+    "platform": "Wii U",
+    "emulated": false
+  }
+]

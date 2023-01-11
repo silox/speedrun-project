@@ -1,0 +1,57 @@
+[
+  {
+    "id": "yod6n5dm",
+    "game": "",
+    "player": "HagiTaisa",
+    "player_location": "jp",
+    "time": 2787,
+    "category": "Switch/PC Any%",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zxo3r6gz",
+    "game": "",
+    "player": "ymanaghi",
+    "player_location": "jp",
+    "time": 5495,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "yv08okxz",
+    "game": "Neptunia x Senran Kagura: Ninja Wars",
+    "player": "BALU6464",
+    "player_location": "jp",
+    "time": 3475,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "m33oqddm",
+    "game": "Neptunia x Senran Kagura: Ninja Wars",
+    "player": "selain237",
+    "player_location": "jp",
+    "time": 3621,
+    "category": "PS4 Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "m7x6j59y",
+    "game": "Neptunia x Senran Kagura: Ninja Wars",
+    "player": "BabyRapZero",
+    "player_location": "th",
+    "time": 2386,
+    "category": "Switch/PC Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

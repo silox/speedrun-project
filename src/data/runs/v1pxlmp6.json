@@ -1,0 +1,46 @@
+[
+  {
+    "id": "yv17k58y",
+    "game": "Might and Magic III: Isles of Terra",
+    "player": "Symm",
+    "player_location": "gb",
+    "time": 1895,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "ywj2g8pz",
+    "game": "Might and Magic III: Isles of Terra",
+    "player": "theoryjoe",
+    "player_location": "us",
+    "time": 1596,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "mr764lgz",
+    "game": "Might and Magic III: Isles of Terra",
+    "player": "LiLbUg",
+    "player_location": null,
+    "time": 340,
+    "category": "Any%",
+    "region": null,
+    "platform": "MS-DOS",
+    "emulated": true
+  },
+  {
+    "id": "zqe4985z",
+    "game": "Might and Magic III: Isles of Terra",
+    "player": "Moo_Moony",
+    "player_location": "ca/qc",
+    "time": 1073,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  }
+]

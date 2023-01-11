@@ -1,0 +1,24 @@
+[
+  {
+    "id": "mken1exm",
+    "game": "Supaplex",
+    "player": "Espazi",
+    "player_location": "nl",
+    "time": 1,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zq0n5n1y",
+    "game": "Supaplex",
+    "player": "steppehaan",
+    "player_location": "nl",
+    "time": 1,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  }
+]

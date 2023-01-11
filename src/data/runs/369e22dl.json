@@ -1,0 +1,178 @@
+[
+  {
+    "id": "7z0o094z",
+    "game": "Wipeout Pure",
+    "player": "GGeek",
+    "player_location": "fr",
+    "time": 1253.655,
+    "category": "Ascension Tournament EMU",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "z0l86djz",
+    "game": "Wipeout Pure",
+    "player": "systeminspired",
+    "player_location": "us",
+    "time": 17.97,
+    "category": "Speed Lap",
+    "region": "EUR / PAL",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "y41eld3y",
+    "game": "Wipeout Pure",
+    "player": "Madsandy",
+    "player_location": "us",
+    "time": 35.39,
+    "category": "Speed Lap",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": false
+  },
+  {
+    "id": "yw4vwv3z",
+    "game": "Wipeout Pure",
+    "player": "thp",
+    "player_location": "at",
+    "time": 619,
+    "category": "Alpha Tournament",
+    "region": "EUR / PAL",
+    "platform": "PlayStation Portable",
+    "emulated": false
+  },
+  {
+    "id": "yjlkdegz",
+    "game": "Wipeout Pure",
+    "player": "swoopthenoob",
+    "player_location": "cz",
+    "time": 566.97,
+    "category": "Alpha Tournament",
+    "region": null,
+    "platform": "PlayStation Portable",
+    "emulated": false
+  },
+  {
+    "id": "z5joxpgm",
+    "game": "Wipeout Pure",
+    "player": "aktraizer",
+    "player_location": "fr",
+    "time": 532.07,
+    "category": "Alpha Tournament EMU",
+    "region": "EUR / PAL",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "yw8nlx0y",
+    "game": "Wipeout Pure",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 119.37,
+    "category": "Time Trial",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "ylv44orm",
+    "game": "Wipeout Pure",
+    "player": "Andgen",
+    "player_location": "fr",
+    "time": 110,
+    "category": "Time Trial",
+    "region": "EUR / PAL",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "m33wxn4m",
+    "game": "Wipeout Pure",
+    "player": "Shadow_WZ",
+    "player_location": "gb/eng",
+    "time": 26.36,
+    "category": "Speed Lap",
+    "region": "EUR / PAL",
+    "platform": "PlayStation Portable",
+    "emulated": false
+  },
+  {
+    "id": "yj10kpgy",
+    "game": "Wipeout Pure",
+    "player": "Alicetwopointoh",
+    "player_location": "us",
+    "time": 520.03,
+    "category": "Alpha Tournament EMU",
+    "region": "EUR / PAL",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "ywq8v93y",
+    "game": "Wipeout Pure",
+    "player": "JohnMLTX",
+    "player_location": "us",
+    "time": 38.55,
+    "category": "Speed Lap",
+    "region": "EUR / PAL",
+    "platform": "PlayStation Portable",
+    "emulated": false
+  },
+  {
+    "id": "zp11kp8z",
+    "game": "Wipeout Pure",
+    "player": "IAADPotato",
+    "player_location": "us",
+    "time": 21.1,
+    "category": "Speed Lap",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "m33rv7gm",
+    "game": "Wipeout Pure",
+    "player": "ExperiBass",
+    "player_location": "us",
+    "time": 20.39,
+    "category": "Speed Lap",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "y4gexlny",
+    "game": "Wipeout Pure",
+    "player": "CycloneJoker",
+    "player_location": "us",
+    "time": 18.34,
+    "category": "Speed Lap",
+    "region": "EUR / PAL",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "m7wkxnwz",
+    "game": "Wipeout Pure",
+    "player": "Kaijie",
+    "player_location": "gb",
+    "time": 1229.019,
+    "category": "Ascension Tournament EMU",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "zpdd29gz",
+    "game": "Wipeout Pure",
+    "player": "foden44",
+    "player_location": "gb/eng",
+    "time": 18.75,
+    "category": "Speed Lap",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  }
+]

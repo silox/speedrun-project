@@ -1,0 +1,35 @@
+[
+  {
+    "id": "yv0wqk4z",
+    "game": "Mighty! Pang",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 2376,
+    "category": "Tour Mode 2 Players",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y2j3ke7z",
+    "game": "Mighty! Pang",
+    "player": "HosteL",
+    "player_location": "ru",
+    "time": 5182,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y803v5dm",
+    "game": "Mighty! Pang",
+    "player": "manticor5",
+    "player_location": "cl",
+    "time": 5859,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

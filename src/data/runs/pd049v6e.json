@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1zx2645m",
+    "game": "",
+    "player": "CrystalChaos",
+    "player_location": null,
+    "time": 5070,
+    "category": "Puzzle",
+    "region": "JPN / NTSC",
+    "platform": "Neo Geo Pocket Color",
+    "emulated": true
+  },
+  {
+    "id": "yv650vez",
+    "game": "",
+    "player": "MortimerNova",
+    "player_location": "us",
+    "time": 136,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Neo Geo Pocket Color",
+    "emulated": true
+  }
+]

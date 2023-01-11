@@ -1,0 +1,24 @@
+[
+  {
+    "id": "zpd30qrz",
+    "game": "",
+    "player": "KungFusedMike",
+    "player_location": "us",
+    "time": 584,
+    "category": "Any %",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "y4x268qz",
+    "game": "",
+    "player": "AlphaNerd",
+    "player_location": "ca",
+    "time": 1280,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  }
+]

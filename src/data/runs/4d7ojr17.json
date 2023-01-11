@@ -1,0 +1,79 @@
+[
+  {
+    "id": "dy4x61nz",
+    "game": "Super Monkey Ball 2: Sakura Edition",
+    "player": "jonahspeedruns",
+    "player_location": null,
+    "time": 5500,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "kz5x8rny",
+    "game": "Super Monkey Ball 2: Sakura Edition",
+    "player": "Jumpyluff",
+    "player_location": "us",
+    "time": 79,
+    "category": "Individual Worlds",
+    "region": null,
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "mk857j5m",
+    "game": "Super Monkey Ball 2: Sakura Edition",
+    "player": "Arrius",
+    "player_location": "au",
+    "time": 167,
+    "category": "Individual Worlds",
+    "region": "EUR / PAL",
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "zp0ln1vm",
+    "game": "Super Monkey Ball 2: Sakura Edition",
+    "player": "NinjastarReviews",
+    "player_location": "aq",
+    "time": 294,
+    "category": "Individual Worlds",
+    "region": "USA / NTSC",
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "zgk224ny",
+    "game": "Super Monkey Ball 2: Sakura Edition",
+    "player": "Cuboe",
+    "player_location": "vi",
+    "time": 207,
+    "category": "Individual Worlds",
+    "region": "USA / NTSC",
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "yd5n3kvm",
+    "game": "Super Monkey Ball 2: Sakura Edition",
+    "player": "Levyorg",
+    "player_location": "us",
+    "time": 299,
+    "category": "Individual Worlds",
+    "region": "USA / NTSC",
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "z09r0kez",
+    "game": "Super Monkey Ball 2: Sakura Edition",
+    "player": "attackTheChocha",
+    "player_location": "us",
+    "time": 172,
+    "category": "Individual Worlds",
+    "region": "USA / NTSC",
+    "platform": "iOS",
+    "emulated": false
+  }
+]

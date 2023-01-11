@@ -1,0 +1,112 @@
+[
+  {
+    "id": "emkw62vm",
+    "game": "Robots (2005)",
+    "player": "ABIGFNEAGLE",
+    "player_location": "us",
+    "time": 4617,
+    "category": "Console",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "yj46ok7y",
+    "game": "Robots (2005)",
+    "player": "ArkhanLight",
+    "player_location": "be",
+    "time": 37,
+    "category": "Any% IL PC",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yo2kw8dz",
+    "game": "Robots (2005)",
+    "player": "Gustrb",
+    "player_location": "br",
+    "time": 288,
+    "category": "Any% IL PC",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yd9rlqxz",
+    "game": "Robots (2005)",
+    "player": "Yuezie",
+    "player_location": "nl",
+    "time": 2892,
+    "category": "PC",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y2v3rwwz",
+    "game": "Robots (2005)",
+    "player": "Gidan",
+    "player_location": "it",
+    "time": 4010,
+    "category": "Console",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "z0721v9y",
+    "game": "Robots (2005)",
+    "player": "The_GMeister",
+    "player_location": "us",
+    "time": 94,
+    "category": "Any% IL Console",
+    "region": "JPN / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "y27rnd6z",
+    "game": "Robots (2005)",
+    "player": "theriverp",
+    "player_location": "us",
+    "time": 4417,
+    "category": "Console",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "zgd1d3dz",
+    "game": "Robots (2005)",
+    "player": "Raytem",
+    "player_location": "ru",
+    "time": 137,
+    "category": "Any% IL PC",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mr6ppw8m",
+    "game": "Robots (2005)",
+    "player": "ZMistero",
+    "player_location": "us",
+    "time": 233,
+    "category": "Any% IL PC",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y2pd0r5z",
+    "game": "Robots (2005)",
+    "player": "ripWSB",
+    "player_location": null,
+    "time": 123,
+    "category": "Any% IL PC",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  }
+]

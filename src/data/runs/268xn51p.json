@@ -1,0 +1,57 @@
+[
+  {
+    "id": "7yl0l03y",
+    "game": "Silent Line: Armored Core",
+    "player": "hokson",
+    "player_location": null,
+    "time": 5081,
+    "category": "Any%(no fail missions/no OoB)",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "6yj6wxgz",
+    "game": "Silent Line: Armored Core",
+    "player": "Sparking_AC",
+    "player_location": "gb/eng",
+    "time": 4706,
+    "category": "Any%(no fail missions/no OoB)",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "ywplgl3z",
+    "game": "Silent Line: Armored Core",
+    "player": "SUPER FLEET",
+    "player_location": null,
+    "time": 4502,
+    "category": "Any%(no fail missions/no OoB)",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zgdwn00z",
+    "game": "Silent Line: Armored Core",
+    "player": "naddys_codebeta",
+    "player_location": "jp",
+    "time": 4317,
+    "category": "Any%(no fail missions/no OoB)",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "mr7el27z",
+    "game": "Silent Line: Armored Core",
+    "player": "PockeWolf",
+    "player_location": "jp",
+    "time": 4679,
+    "category": "Any%(no fail missions/no OoB)",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  }
+]

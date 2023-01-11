@@ -1,0 +1,57 @@
+[
+  {
+    "id": "yo636ody",
+    "game": "Giga Wing 2",
+    "player": "manticor5",
+    "player_location": "cl",
+    "time": 1071.498,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  },
+  {
+    "id": "ylr7ggry",
+    "game": "Giga Wing 2",
+    "player": "RitaH",
+    "player_location": "br",
+    "time": 743,
+    "category": "Dreamcast 2 Players",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  },
+  {
+    "id": "yjp29rdy",
+    "game": "Giga Wing 2",
+    "player": "Pearl",
+    "player_location": "ca",
+    "time": 781.34,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  },
+  {
+    "id": "yw3nqrnm",
+    "game": "Giga Wing 2",
+    "player": "JDubAKAdrofloW",
+    "player_location": "us",
+    "time": 777.46,
+    "category": "Dreamcast 1 Player",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  },
+  {
+    "id": "mkkpp01m",
+    "game": "Giga Wing 2",
+    "player": "wax_house",
+    "player_location": "us",
+    "time": 876.68,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  }
+]

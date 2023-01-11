@@ -1,0 +1,112 @@
+[
+  {
+    "id": "0znd46lm",
+    "game": "Chulip",
+    "player": "speedwerd",
+    "player_location": "us",
+    "time": 8596,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "kz5dernm",
+    "game": "Chulip",
+    "player": "Rebcart",
+    "player_location": "us",
+    "time": 15393,
+    "category": "Any% Glitchless",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "2ywle1pm",
+    "game": "Chulip",
+    "player": "SirNiko",
+    "player_location": "us",
+    "time": 8749,
+    "category": "Any% Glitchless",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "zq6w97xy",
+    "game": "Chulip",
+    "player": "paggigalo",
+    "player_location": "us",
+    "time": 10679,
+    "category": "Any% Glitchless",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "zqrlg05y",
+    "game": "Chulip",
+    "player": "Otonyshi",
+    "player_location": "gb/nir",
+    "time": 4680,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "z115vjjz",
+    "game": "Chulip",
+    "player": "Don",
+    "player_location": "de",
+    "time": 13789,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "m7q1lowz",
+    "game": "Chulip",
+    "player": "stoic_rose",
+    "player_location": "us",
+    "time": 5596,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "yw4v79nz",
+    "game": "Chulip",
+    "player": "Pa-Sama",
+    "player_location": "ca",
+    "time": 5631,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y81w0vdz",
+    "game": "Chulip",
+    "player": "HoldenL",
+    "player_location": "us",
+    "time": 7250,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "zx8rvnqm",
+    "game": "Chulip",
+    "player": "MotokoChan",
+    "player_location": "jp",
+    "time": 14142,
+    "category": "Any% Glitchless",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  }
+]

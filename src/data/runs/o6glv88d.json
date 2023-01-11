@@ -1,0 +1,46 @@
+[
+  {
+    "id": "z11n217z",
+    "game": "Ultimate Muscle: Legends vs. New Generation",
+    "player": "XeroTec",
+    "player_location": "us",
+    "time": 620,
+    "category": "Story Normal",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "m37g93dz",
+    "game": "Ultimate Muscle: Legends vs. New Generation",
+    "player": "LordBlueFish",
+    "player_location": "us",
+    "time": 550,
+    "category": "Story Easy",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "y8ejj3ny",
+    "game": "Ultimate Muscle: Legends vs. New Generation",
+    "player": "SRG365",
+    "player_location": "us",
+    "time": 954,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "zgdgepnz",
+    "game": "Ultimate Muscle: Legends vs. New Generation",
+    "player": "MaedaBaison",
+    "player_location": "jp",
+    "time": 412,
+    "category": "Story Easy",
+    "region": "JPN / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  }
+]

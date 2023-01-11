@@ -1,0 +1,90 @@
+[
+  {
+    "id": "z11k177z",
+    "game": "Simon the Sorcerer",
+    "player": "PcJackSlater",
+    "player_location": "de",
+    "time": 4014,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": true
+  },
+  {
+    "id": "yvjqlpoy",
+    "game": "Simon the Sorcerer",
+    "player": "PortsCenter",
+    "player_location": "us",
+    "time": 3528,
+    "category": "Any% (PC/DOS)",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mr7k34dz",
+    "game": "Simon the Sorcerer",
+    "player": "tuko",
+    "player_location": "ch",
+    "time": 2486,
+    "category": "",
+    "region": null,
+    "platform": "PC",
+    "emulated": true
+  },
+  {
+    "id": "mejnqn3y",
+    "game": "Simon the Sorcerer",
+    "player": "MilkToast",
+    "player_location": "de",
+    "time": 3701,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Amiga",
+    "emulated": true
+  },
+  {
+    "id": "yd516j0m",
+    "game": "Simon the Sorcerer",
+    "player": "Racooze",
+    "player_location": "de",
+    "time": 3267,
+    "category": "Any% (PC/DOS)",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y8do2knz",
+    "game": "Simon the Sorcerer",
+    "player": "Dr_Ravenholm",
+    "player_location": "gb/sct",
+    "time": 2465,
+    "category": "Any% (Fast-EMU)",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z5d042jm",
+    "game": "Simon the Sorcerer",
+    "player": "ARKJordan",
+    "player_location": "es",
+    "time": 1992,
+    "category": "Any% (Fast-EMU)",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": true
+  },
+  {
+    "id": "mr6j972m",
+    "game": "Simon the Sorcerer",
+    "player": "Parz15al",
+    "player_location": "ch",
+    "time": 3857,
+    "category": "Any% (PC/DOS)",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "mk9n93vz",
+    "game": "DemiKids: Light Version and Dark Version",
+    "player": "lilfatkid",
+    "player_location": "gb/eng",
+    "time": 7109,
+    "category": "Dark Version",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "y816o95z",
+    "game": "DemiKids: Light Version and Dark Version",
+    "player": "nope_bms",
+    "player_location": "jp",
+    "time": 6663,
+    "category": "Dark Version",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Player",
+    "emulated": false
+  },
+  {
+    "id": "z0o0o08z",
+    "game": "DemiKids: Light Version and Dark Version",
+    "player": "therealbmanbeast",
+    "player_location": "us",
+    "time": 9833,
+    "category": "Light Version",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "zxg4wxqy",
+    "game": "DemiKids: Light Version and Dark Version",
+    "player": "Masteroftherun",
+    "player_location": "us",
+    "time": 7784,
+    "category": "Dark Version",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "ylepp5xz",
+    "game": "DemiKids: Light Version and Dark Version",
+    "player": "Sioneus",
+    "player_location": "pt",
+    "time": 9558,
+    "category": "Light Version",
+    "region": null,
+    "platform": "Game Boy Advance",
+    "emulated": true
+  }
+]

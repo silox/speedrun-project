@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1zx0lggz",
+    "game": "",
+    "player": "Winslinator",
+    "player_location": "us",
+    "time": 274,
+    "category": "High Score",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "0zngpx8m",
+    "game": "",
+    "player": "nick666101",
+    "player_location": "nl",
+    "time": 86,
+    "category": "High Score",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "zn87j07z",
+    "game": "Pac-Attack",
+    "player": "[jp]wankoshino1",
+    "player_location": null,
+    "time": 182,
+    "category": "High Score",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "y6pk29qm",
+    "game": "Pac-Attack",
+    "player": "Anko",
+    "player_location": "ru",
+    "time": 2599,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "y2vgvo6z",
+    "game": "Pac-Attack",
+    "player": "LockedOnRangers",
+    "player_location": "us",
+    "time": 496,
+    "category": "High Score",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  }
+]

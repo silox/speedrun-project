@@ -1,0 +1,24 @@
+[
+  {
+    "id": "y239v27m",
+    "game": "Kengo: Master of Bushido",
+    "player": "MasterJohn",
+    "player_location": "de",
+    "time": 2804,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "zn190j9m",
+    "game": "Kengo: Master of Bushido",
+    "player": "CountD",
+    "player_location": "us",
+    "time": 151.81,
+    "category": "Tournament Mode",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  }
+]

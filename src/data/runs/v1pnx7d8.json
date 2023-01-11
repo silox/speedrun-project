@@ -1,0 +1,90 @@
+[
+  {
+    "id": "zgnw51dy",
+    "game": "",
+    "player": "SammymonRules",
+    "player_location": null,
+    "time": 2992,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y671qnjm",
+    "game": "",
+    "player": "Dunn_and_Dunn",
+    "player_location": "us",
+    "time": 4040.09,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y927l3vz",
+    "game": "Five Nights at Candy's",
+    "player": "PokeCubes",
+    "player_location": null,
+    "time": 2714,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zxkjn3gm",
+    "game": "Five Nights at Candy's",
+    "player": "Caisang",
+    "player_location": "cn",
+    "time": 2658.06,
+    "category": "Any%",
+    "region": "CHN / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "ywjkj2nz",
+    "game": "Five Nights at Candy's",
+    "player": "anipalary",
+    "player_location": "ru",
+    "time": 3478.023,
+    "category": "",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zx7k9wey",
+    "game": "Five Nights at Candy's",
+    "player": "CrokyTheKiwi",
+    "player_location": "fr",
+    "time": 2682.28,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yl1exgnm",
+    "game": "Five Nights at Candy's",
+    "player": "TaserXDFNAF",
+    "player_location": null,
+    "time": 2714.02,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zq9n8o9y",
+    "game": "Five Nights at Candy's",
+    "player": "oleksiy73",
+    "player_location": "ua",
+    "time": 3746.6,
+    "category": "100%",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  }
+]

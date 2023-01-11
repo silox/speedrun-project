@@ -1,0 +1,35 @@
+[
+  {
+    "id": "ydelw5jm",
+    "game": "Little Town Hero",
+    "player": "ratyu",
+    "player_location": "jp",
+    "time": 3009,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "z12rn79y",
+    "game": "Little Town Hero",
+    "player": "kmbyukarin",
+    "player_location": "jp",
+    "time": 2346,
+    "category": "Challenge a monster",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "yod3j77m",
+    "game": "Little Town Hero",
+    "player": "hiryu",
+    "player_location": "jp",
+    "time": 2887,
+    "category": "Challenge a monster",
+    "region": "JPN / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  }
+]

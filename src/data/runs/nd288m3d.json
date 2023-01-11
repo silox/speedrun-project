@@ -1,0 +1,90 @@
+[
+  {
+    "id": "ywqop23y",
+    "game": "Street Fighter IV",
+    "player": "DWednesday",
+    "player_location": "gb",
+    "time": 76,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y6djjkjm",
+    "game": "Street Fighter IV",
+    "player": "Peanutfan22",
+    "player_location": "us",
+    "time": 135,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zp1ovnnz",
+    "game": "Street Fighter IV",
+    "player": "Habble",
+    "player_location": "au",
+    "time": 80,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yv15p9oy",
+    "game": "Street Fighter IV",
+    "player": "NerdyNester",
+    "player_location": "us",
+    "time": 87,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z5dj64gm",
+    "game": "Street Fighter IV",
+    "player": "AdamCarnage",
+    "player_location": "gb/eng",
+    "time": 98,
+    "category": "Arcade",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "y9319lvy",
+    "game": "Street Fighter IV",
+    "player": "N/A",
+    "player_location": null,
+    "time": 1,
+    "category": "",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": false
+  },
+  {
+    "id": "ylrqp5ry",
+    "game": "Street Fighter IV",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 77,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zxlv1vqz",
+    "game": "Street Fighter IV",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 102,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  }
+]

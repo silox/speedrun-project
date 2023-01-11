@@ -1,0 +1,101 @@
+[
+  {
+    "id": "9mrker8y",
+    "game": "Rune Factory",
+    "player": "Anwonu",
+    "player_location": "br",
+    "time": 3228,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "zxk98o8m",
+    "game": "Rune Factory",
+    "player": "DezertPenguin8",
+    "player_location": "us",
+    "time": 1499,
+    "category": "Any% Glitched",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "yvjjjooy",
+    "game": "Rune Factory",
+    "player": "Deviltube718",
+    "player_location": "us",
+    "time": 4103,
+    "category": "Any% Glitched",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "z09kdo9z",
+    "game": "Rune Factory",
+    "player": "O.D.W.",
+    "player_location": "us",
+    "time": 1189,
+    "category": "Any% Glitched",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "y4131q3y",
+    "game": "Rune Factory",
+    "player": "enu",
+    "player_location": "jp",
+    "time": 1191,
+    "category": "Any% Glitched",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "yj3g9k7z",
+    "game": "Rune Factory",
+    "player": "Gamira449",
+    "player_location": null,
+    "time": 1564,
+    "category": "Any% Glitched",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "z1jrn5rz",
+    "game": "Rune Factory",
+    "player": "\u30e0\u30a8\u30c9",
+    "player_location": null,
+    "time": 6747,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "ylnk0wxz",
+    "game": "Rune Factory",
+    "player": "suittyo",
+    "player_location": "jp",
+    "time": 500,
+    "category": "Any% Glitched",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "z1gwr6gz",
+    "game": "Rune Factory",
+    "player": "Ameagari",
+    "player_location": "vn",
+    "time": 532,
+    "category": "Any% Glitched",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  }
+]

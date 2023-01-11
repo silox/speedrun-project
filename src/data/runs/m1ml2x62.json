@@ -1,0 +1,79 @@
+[
+  {
+    "id": "pydn0njm",
+    "game": "Dynasty Warriors Gundam Reborn",
+    "player": "SPTspoon",
+    "player_location": "us",
+    "time": 1200.756,
+    "category": "NG",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "ydqeqdqm",
+    "game": "Dynasty Warriors Gundam Reborn",
+    "player": "TheRolePlayingGuy",
+    "player_location": "nl",
+    "time": 2682.442,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "y66pdg6y",
+    "game": "Dynasty Warriors Gundam Reborn",
+    "player": "sityslow",
+    "player_location": "us",
+    "time": 744.453,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "me39gk0z",
+    "game": "Dynasty Warriors Gundam Reborn",
+    "player": "ThePopularFront",
+    "player_location": null,
+    "time": 1440.171,
+    "category": "NG+",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "y2j3749z",
+    "game": "Dynasty Warriors Gundam Reborn",
+    "player": "Zaraphira",
+    "player_location": "ca",
+    "time": 45.805,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "y2j3v57z",
+    "game": "Dynasty Warriors Gundam Reborn",
+    "player": "Art_Izon",
+    "player_location": "us",
+    "time": 639.688,
+    "category": "NG+",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "zqe6o0xz",
+    "game": "Dynasty Warriors Gundam Reborn",
+    "player": "Nighlin",
+    "player_location": "us",
+    "time": 13.899,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": true
+  }
+]

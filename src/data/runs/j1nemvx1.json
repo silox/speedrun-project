@@ -1,0 +1,57 @@
+[
+  {
+    "id": "yo2p9j0z",
+    "game": "",
+    "player": "R0main",
+    "player_location": "fr",
+    "time": 371,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "yo21ve1z",
+    "game": "",
+    "player": "Dani\u00eblHarteveld",
+    "player_location": "nl",
+    "time": 368,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "y41ropqy",
+    "game": "",
+    "player": "LukasYT",
+    "player_location": "de",
+    "time": 541,
+    "category": "100%",
+    "region": "EUR / PAL",
+    "platform": "Wii U",
+    "emulated": true
+  },
+  {
+    "id": "zgk42qny",
+    "game": "",
+    "player": "SaltyNic",
+    "player_location": "de",
+    "time": 366,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Wii U",
+    "emulated": true
+  },
+  {
+    "id": "y908dlky",
+    "game": "",
+    "player": "Mutexx",
+    "player_location": "de",
+    "time": 362,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Wii U",
+    "emulated": true
+  }
+]

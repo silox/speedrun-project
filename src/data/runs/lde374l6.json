@@ -1,0 +1,46 @@
+[
+  {
+    "id": "yo6ddw1y",
+    "game": "NBA 2K14",
+    "player": "5am0nte",
+    "player_location": "ph",
+    "time": 323.022,
+    "category": "Blacktop",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "y69odx0y",
+    "game": "NBA 2K14",
+    "player": "Mykolangelo",
+    "player_location": "ua",
+    "time": 240.774,
+    "category": "Blacktop",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m7x8xeey",
+    "game": "NBA 2K14",
+    "player": "spacepete",
+    "player_location": "us",
+    "time": 199.16,
+    "category": "Blacktop",
+    "region": "USA / NTSC",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "y9x3qpny",
+    "game": "NBA 2K14",
+    "player": "HysDom18",
+    "player_location": "hu",
+    "time": 418,
+    "category": "",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  }
+]

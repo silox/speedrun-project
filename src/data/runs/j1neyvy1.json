@@ -1,0 +1,101 @@
+[
+  {
+    "id": "mk27og5m",
+    "game": "Open Season (GBA)",
+    "player": "SomeRandomSonicfan",
+    "player_location": "us",
+    "time": 1957,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "z11ejq7z",
+    "game": "Open Season (GBA)",
+    "player": "EnlightenedOne",
+    "player_location": "us",
+    "time": 2322,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "mex02qqz",
+    "game": "Open Season (GBA)",
+    "player": "TheDarkestUno",
+    "player_location": "us",
+    "time": 1664,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "y996xlky",
+    "game": "Open Season (GBA)",
+    "player": "thegoodjakeward",
+    "player_location": "us",
+    "time": 88.633,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "meo4q53z",
+    "game": "Open Season (GBA)",
+    "player": "Bango",
+    "player_location": "ca",
+    "time": 207,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "y25wgd5y",
+    "game": "Open Season (GBA)",
+    "player": "HuffingFreon",
+    "player_location": "us",
+    "time": 1547,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "me918k0z",
+    "game": "Open Season (GBA)",
+    "player": "Walgrey",
+    "player_location": "ca",
+    "time": 87.667,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "yjg7157y",
+    "game": "Open Season (GBA)",
+    "player": "O.D.W.",
+    "player_location": "us",
+    "time": 1624,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "zgr12gem",
+    "game": "Open Season (GBA)",
+    "player": "getulioalan",
+    "player_location": "br",
+    "time": 1603,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "mk4n31xy",
+    "game": "Yu-Gi-Oh! GX Tag Force 2",
+    "player": "Mergy",
+    "player_location": "de",
+    "time": 3394,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "zgx598jm",
+    "game": "Yu-Gi-Oh! GX Tag Force 2",
+    "player": "themataurian",
+    "player_location": "nz",
+    "time": 3340,
+    "category": "Any%",
+    "region": null,
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "zqe4oj1z",
+    "game": "Yu-Gi-Oh! GX Tag Force 2",
+    "player": "shadoweh",
+    "player_location": "us",
+    "time": 4354,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  }
+]

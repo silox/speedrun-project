@@ -1,0 +1,134 @@
+[
+  {
+    "id": "mexg878z",
+    "game": "Super Street Fighter  2: Turbo Revival",
+    "player": "Sonicman2005",
+    "player_location": "us",
+    "time": 702,
+    "category": "Chun-Li  Easy",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "yo3lpjdy",
+    "game": "Super Street Fighter  2: Turbo Revival",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 468,
+    "category": "M. Bison Easy",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "yvr6l68z",
+    "game": "Super Street Fighter  2: Turbo Revival",
+    "player": "bustaboy",
+    "player_location": "us",
+    "time": 459,
+    "category": "Akuma Easy",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "y42rnrqm",
+    "game": "Super Street Fighter  2: Turbo Revival",
+    "player": "victu",
+    "player_location": "br",
+    "time": 518,
+    "category": "Chun-Li  Easy",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "zp10l0rz",
+    "game": "Super Street Fighter  2: Turbo Revival",
+    "player": "NintenLew",
+    "player_location": "gb/eng",
+    "time": 1084,
+    "category": "T. Hawk Easy",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "me7nlnqy",
+    "game": "Super Street Fighter  2: Turbo Revival",
+    "player": "NerdyNester",
+    "player_location": "us",
+    "time": 487,
+    "category": "Vega Easy",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": false
+  },
+  {
+    "id": "zp1xr8nz",
+    "game": "Super Street Fighter  2: Turbo Revival",
+    "player": "Peanutfan22",
+    "player_location": "us",
+    "time": 1047,
+    "category": "Ken Easy",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": false
+  },
+  {
+    "id": "zn723k7m",
+    "game": "Super Street Fighter  2: Turbo Revival",
+    "player": "Habble",
+    "player_location": "au",
+    "time": 469,
+    "category": "Chun-Li  Easy",
+    "region": "JPN / NTSC",
+    "platform": "MiSTer",
+    "emulated": false
+  },
+  {
+    "id": "mrn95p2y",
+    "game": "Super Street Fighter  2: Turbo Revival",
+    "player": "RaeCourt",
+    "player_location": "ca",
+    "time": 1201,
+    "category": "Guile Easy",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "mkeq2nvm",
+    "game": "Super Street Fighter  2: Turbo Revival",
+    "player": "MUSICnGAMING",
+    "player_location": "us",
+    "time": 401,
+    "category": "M. Bison Easy",
+    "region": "JPN / NTSC",
+    "platform": "MiSTer",
+    "emulated": false
+  },
+  {
+    "id": "zq05515y",
+    "game": "Super Street Fighter  2: Turbo Revival",
+    "player": "ThatArchvillan",
+    "player_location": null,
+    "time": 591,
+    "category": "M. Bison Normal",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "yj836gnm",
+    "game": "Super Street Fighter  2: Turbo Revival",
+    "player": "Edo_87",
+    "player_location": "cl",
+    "time": 454,
+    "category": "Chun-Li  Easy",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  }
+]

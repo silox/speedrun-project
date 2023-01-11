@@ -1,0 +1,112 @@
+[
+  {
+    "id": "mrojg42m",
+    "game": "Bayonetta 3",
+    "player": "Kap",
+    "player_location": "us",
+    "time": 9484,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "y2e4enwy",
+    "game": "Bayonetta 3",
+    "player": "LightningLeon",
+    "player_location": "us",
+    "time": 11612,
+    "category": "Any% (New Game)",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "zq9l155y",
+    "game": "Bayonetta 3",
+    "player": "a_variety_pack",
+    "player_location": "us",
+    "time": 11262,
+    "category": "Any% (New Game)",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "yjdvxr3y",
+    "game": "Bayonetta 3",
+    "player": "UltimaWeaponSR",
+    "player_location": "cl",
+    "time": 12237,
+    "category": "Any% (New Game)",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "me152n2y",
+    "game": "Bayonetta 3",
+    "player": "Reclaimer",
+    "player_location": "us",
+    "time": 10020,
+    "category": "Any% (New Game)",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "y8x5dqdm",
+    "game": "Bayonetta 3",
+    "player": "Vanerek",
+    "player_location": "mx",
+    "time": 16200,
+    "category": "Any% (New Game)",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "z0nw69om",
+    "game": "Bayonetta 3",
+    "player": "HiST",
+    "player_location": "jp",
+    "time": 11659,
+    "category": "Any% (New Game)",
+    "region": "JPN / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "mee96o8m",
+    "game": "Bayonetta 3",
+    "player": "AceKrana",
+    "player_location": "nl",
+    "time": 9004,
+    "category": "Any% (New Game)",
+    "region": "EUR / PAL",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "yj867kgm",
+    "game": "Bayonetta 3",
+    "player": "DarkRedDove",
+    "player_location": "us",
+    "time": 11905,
+    "category": "Any% (New Game)",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "z5e013gz",
+    "game": "Bayonetta 3",
+    "player": "Cornelius2017",
+    "player_location": "us",
+    "time": 12666,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  }
+]

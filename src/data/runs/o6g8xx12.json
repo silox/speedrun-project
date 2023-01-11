@@ -1,0 +1,57 @@
+[
+  {
+    "id": "9mr1kd2z",
+    "game": "Cowboy Kid",
+    "player": "authorblues",
+    "player_location": "us",
+    "time": 1666,
+    "category": "Beat the Game",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "m3dlxxgz",
+    "game": "Cowboy Kid",
+    "player": "WhiteHat94",
+    "player_location": "us",
+    "time": 1535,
+    "category": "Beat the Game",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "z5oerngy",
+    "game": "Cowboy Kid",
+    "player": "Lastsincommited",
+    "player_location": "us",
+    "time": 1646,
+    "category": "Beat the Game",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y81q38dz",
+    "game": "Cowboy Kid",
+    "player": "Arcus",
+    "player_location": "us",
+    "time": 1591,
+    "category": "Beat the Game",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y2qv4w6y",
+    "game": "Cowboy Kid",
+    "player": "Vidtendo",
+    "player_location": "ca/qc",
+    "time": 1492,
+    "category": "Beat the Game",
+    "region": null,
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  }
+]

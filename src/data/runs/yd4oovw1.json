@@ -1,0 +1,35 @@
+[
+  {
+    "id": "zq6e5dry",
+    "game": "Rastan Saga 2",
+    "player": "wolfman11983",
+    "player_location": "us",
+    "time": 590,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "y257nn9y",
+    "game": "Rastan Saga 2",
+    "player": "RitaH",
+    "player_location": "br",
+    "time": 986,
+    "category": "Any% (Arcade-Coop)",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y8vx1wnz",
+    "game": "Rastan Saga 2",
+    "player": "MAME_Retro_Avengers",
+    "player_location": "it",
+    "time": 691,
+    "category": "",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

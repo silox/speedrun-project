@@ -1,0 +1,57 @@
+[
+  {
+    "id": "y9934oky",
+    "game": "Castlevania: Aria of Sorrow Category Extensions",
+    "player": "JupiterClimb",
+    "player_location": "us",
+    "time": 834,
+    "category": "Manipless",
+    "region": null,
+    "platform": null,
+    "emulated": true
+  },
+  {
+    "id": "z5r25gey",
+    "game": "Castlevania: Aria of Sorrow Category Extensions",
+    "player": "SimplyD",
+    "player_location": "br",
+    "time": 1039,
+    "category": "Manipless",
+    "region": null,
+    "platform": null,
+    "emulated": true
+  },
+  {
+    "id": "y27l88jz",
+    "game": "Castlevania: Aria of Sorrow Category Extensions",
+    "player": "MisterI",
+    "player_location": "pa",
+    "time": 2294,
+    "category": "Manipless",
+    "region": null,
+    "platform": null,
+    "emulated": true
+  },
+  {
+    "id": "z5204wez",
+    "game": "Castlevania: Aria of Sorrow Category Extensions",
+    "player": "Brooke",
+    "player_location": "us",
+    "time": 997,
+    "category": "Hard Mode",
+    "region": null,
+    "platform": null,
+    "emulated": false
+  },
+  {
+    "id": "m72p0k0z",
+    "game": "Castlevania: Aria of Sorrow Category Extensions",
+    "player": "Chewy4u",
+    "player_location": "us",
+    "time": 792,
+    "category": "Manipless",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  }
+]

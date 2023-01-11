@@ -1,0 +1,24 @@
+[
+  {
+    "id": "z1jp7wwz",
+    "game": "Barbie & Her Sisters: Puppy Rescue",
+    "player": "Thursday",
+    "player_location": "aq",
+    "time": 6538,
+    "category": "Barbie's Dog",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mk50315m",
+    "game": "Barbie & Her Sisters: Puppy Rescue",
+    "player": "xXTheSteveXx",
+    "player_location": "au",
+    "time": 8153,
+    "category": "Barbie's Dog",
+    "region": "EUR / PAL",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  }
+]

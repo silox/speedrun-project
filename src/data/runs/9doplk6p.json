@@ -1,0 +1,46 @@
+[
+  {
+    "id": "nz1ggvrz",
+    "game": "",
+    "player": "Scott Kessler",
+    "player_location": null,
+    "time": 2685,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "6yj8pjgm",
+    "game": "",
+    "player": "feasel",
+    "player_location": "us",
+    "time": 1742,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "z53rokdy",
+    "game": "",
+    "player": "KHANanaphone",
+    "player_location": "ca",
+    "time": 1515,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "z0o0w78z",
+    "game": "Dr. Chaos",
+    "player": "silverrain64",
+    "player_location": "us",
+    "time": 2270,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  }
+]

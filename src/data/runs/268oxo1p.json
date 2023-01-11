@@ -1,0 +1,46 @@
+[
+  {
+    "id": "9yoo5p0y",
+    "game": "",
+    "player": "NanaChanAkane",
+    "player_location": null,
+    "time": 1322,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "mk49w9ly",
+    "game": "",
+    "player": "EdgyGamerGuy",
+    "player_location": "us",
+    "time": 930,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "ylk5qdkz",
+    "game": "X-Kaliber 2097",
+    "player": "Shokushu",
+    "player_location": "ca/qc",
+    "time": 1079,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "zxn95qkm",
+    "game": "X-Kaliber 2097",
+    "player": "tryrex67",
+    "player_location": "fr",
+    "time": 1190,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  }
+]

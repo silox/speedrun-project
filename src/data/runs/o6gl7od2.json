@@ -1,0 +1,90 @@
+[
+  {
+    "id": "nz1889jy",
+    "game": "Bomberman Tournament",
+    "player": "tetrahydren",
+    "player_location": "ca",
+    "time": 5211,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "pzgdp80z",
+    "game": "Bomberman Tournament",
+    "player": "qdoe",
+    "player_location": "us",
+    "time": 5662,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": false
+  },
+  {
+    "id": "2ywdorpz",
+    "game": "Bomberman Tournament",
+    "player": "Winslinator",
+    "player_location": "us",
+    "time": 3,
+    "category": "Defeat 3 CPUs",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "9meg232y",
+    "game": "Bomberman Tournament",
+    "player": "Megami_infini",
+    "player_location": "pl",
+    "time": 5358,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "y2ewe4jy",
+    "game": "Bomberman Tournament",
+    "player": "GreenBomber",
+    "player_location": "us",
+    "time": 2,
+    "category": "Defeat 3 CPUs",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": false
+  },
+  {
+    "id": "mk90wwlz",
+    "game": "Bomberman Tournament",
+    "player": "EternalManco",
+    "player_location": "cr",
+    "time": 2,
+    "category": "Defeat 3 CPUs",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "m7ql800z",
+    "game": "Bomberman Tournament",
+    "player": "Lizstar",
+    "player_location": "us",
+    "time": 8323,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "z055g9om",
+    "game": "Bomberman Tournament",
+    "player": "SoshiPlayZ",
+    "player_location": "no",
+    "time": 5292,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  }
+]

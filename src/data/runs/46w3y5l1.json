@@ -1,0 +1,79 @@
+[
+  {
+    "id": "mr8k9j2y",
+    "game": "Dr. Mario Express",
+    "player": "wshedd",
+    "player_location": "us",
+    "time": 13,
+    "category": "Runs",
+    "region": null,
+    "platform": "Nintendo 3DS Virtual Console",
+    "emulated": false
+  },
+  {
+    "id": "zxk2g98m",
+    "game": "Dr. Mario Express",
+    "player": "drybloxman",
+    "player_location": "us",
+    "time": 9,
+    "category": "Runs",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS Virtual Console",
+    "emulated": false
+  },
+  {
+    "id": "y25886jy",
+    "game": "Dr. Mario Express",
+    "player": "LuigiHelpsOut",
+    "player_location": null,
+    "time": 17,
+    "category": "Runs",
+    "region": null,
+    "platform": "New Nintendo 3DS Virtual Console",
+    "emulated": false
+  },
+  {
+    "id": "zgvx240z",
+    "game": "Dr. Mario Express",
+    "player": "WilliamHarris",
+    "player_location": "gb/eng",
+    "time": 28,
+    "category": "Runs",
+    "region": null,
+    "platform": "Nintendo 3DS Virtual Console",
+    "emulated": false
+  },
+  {
+    "id": "yd9q8rjz",
+    "game": "Dr. Mario Express",
+    "player": "TheBayxlr",
+    "player_location": "us",
+    "time": 129,
+    "category": "Runs",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "z18orwjy",
+    "game": "Dr. Mario Express",
+    "player": "FeiticeiroDeAraqui",
+    "player_location": "br",
+    "time": 2956,
+    "category": "0-10",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "ydrqe3qz",
+    "game": "Dr. Mario Express",
+    "player": "MidLarge_Pizza",
+    "player_location": "dk",
+    "time": 2186,
+    "category": "0-10",
+    "region": "EUR / PAL",
+    "platform": "Nintendo DS",
+    "emulated": false
+  }
+]

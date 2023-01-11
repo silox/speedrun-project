@@ -1,0 +1,156 @@
+[
+  {
+    "id": "yd321l0z",
+    "game": "Burnout Dominator",
+    "player": "DJAtomika",
+    "player_location": "ch",
+    "time": 942,
+    "category": "Unlock Factory Series",
+    "region": "EUR / PAL",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "zq6qq1ry",
+    "game": "Burnout Dominator",
+    "player": "SxyTimbyy",
+    "player_location": "fi",
+    "time": 34.66,
+    "category": "Forward",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "zn8w1wlz",
+    "game": "Burnout Dominator",
+    "player": "TARS",
+    "player_location": "ca",
+    "time": 1228,
+    "category": "Unlock Factory Series",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "z5o13pjy",
+    "game": "Burnout Dominator",
+    "player": "binoo",
+    "player_location": "br",
+    "time": 1044.32,
+    "category": "Unlock Factory Series",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "yjk6rrdm",
+    "game": "Burnout Dominator",
+    "player": "CertifiedPyro",
+    "player_location": "us",
+    "time": 942,
+    "category": "Unlock Factory Series",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "yv6ed5xz",
+    "game": "Burnout Dominator",
+    "player": "Realm",
+    "player_location": "gb/eng",
+    "time": 34.64,
+    "category": "Forward",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "z139lrwm",
+    "game": "Burnout Dominator",
+    "player": "CrashRatchet008",
+    "player_location": "it",
+    "time": 1071,
+    "category": "Unlock Factory Series",
+    "region": "EUR / PAL",
+    "platform": "PlayStation Portable",
+    "emulated": false
+  },
+  {
+    "id": "z0397w8z",
+    "game": "Burnout Dominator",
+    "player": "Woldemar",
+    "player_location": "ua",
+    "time": 10464,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "yojl5v1m",
+    "game": "Burnout Dominator",
+    "player": "ViperUK",
+    "player_location": "gb/eng",
+    "time": 880.93,
+    "category": "Unlock Factory Series",
+    "region": "EUR / PAL",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "yv3kx46z",
+    "game": "Burnout Dominator",
+    "player": "VGRdaftpunk",
+    "player_location": "fr",
+    "time": 833.31,
+    "category": "Unlock Factory Series",
+    "region": "EUR / PAL",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "z051jp4m",
+    "game": "Burnout Dominator",
+    "player": "GabrielUser3",
+    "player_location": "br",
+    "time": 2109,
+    "category": "Unlock Tuned Series",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "ywq4k12y",
+    "game": "Burnout Dominator",
+    "player": "GrafZeppi",
+    "player_location": "de",
+    "time": 56.53,
+    "category": "Reverse",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "m3rg076m",
+    "game": "Burnout Dominator",
+    "player": "Sleepydriver47",
+    "player_location": "za",
+    "time": 78.61,
+    "category": "Forward",
+    "region": null,
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "z1pr77gz",
+    "game": "Burnout Dominator",
+    "player": "Exposure",
+    "player_location": "us",
+    "time": 33.51,
+    "category": "Forward",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "y670prqm",
+    "game": "Paladin's Quest",
+    "player": "BOOTMAN",
+    "player_location": "us",
+    "time": 17228,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "m3d6j46z",
+    "game": "Paladin's Quest",
+    "player": "Dragondarch",
+    "player_location": "us",
+    "time": 13637,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y67xjpjm",
+    "game": "Paladin's Quest",
+    "player": "MrBuzzman",
+    "player_location": "ca/qc",
+    "time": 13328,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "yv1djd8y",
+    "game": "Paladin's Quest",
+    "player": "limp3324",
+    "player_location": "ca",
+    "time": 7737,
+    "category": "NewGame+",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  }
+]

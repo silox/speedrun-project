@@ -1,0 +1,46 @@
+[
+  {
+    "id": "2ywg453z",
+    "game": "The Peanuts Movie: Snoopy's Grand Adventure",
+    "player": "gilberto557",
+    "player_location": "us",
+    "time": 5760,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "2ywgow2z",
+    "game": "The Peanuts Movie: Snoopy's Grand Adventure",
+    "player": "Antilles58",
+    "player_location": "us",
+    "time": 2086,
+    "category": "any%",
+    "region": null,
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "wzpxkerm",
+    "game": "The Peanuts Movie: Snoopy's Grand Adventure",
+    "player": "Linkzz1",
+    "player_location": "us",
+    "time": 3124,
+    "category": "any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "m7pkv79m",
+    "game": "The Peanuts Movie: Snoopy's Grand Adventure",
+    "player": "SalmonBuffalo",
+    "player_location": "us",
+    "time": 2815,
+    "category": "any%",
+    "region": "USA / NTSC",
+    "platform": "Xbox One",
+    "emulated": false
+  }
+]

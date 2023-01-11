@@ -1,0 +1,90 @@
+[
+  {
+    "id": "jy903ey4",
+    "game": "Ape Escape: On the Loose",
+    "player": "gonya707",
+    "player_location": "es",
+    "time": 4815,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": false
+  },
+  {
+    "id": "8yv3474z",
+    "game": "Ape Escape: On the Loose",
+    "player": "BmanRulesYou21",
+    "player_location": "us",
+    "time": 8185,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "zpqnl7ry",
+    "game": "Ape Escape: On the Loose",
+    "player": "eednob",
+    "player_location": "us",
+    "time": 5389,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "8y8lo6wm",
+    "game": "Ape Escape: On the Loose",
+    "player": "OTFree",
+    "player_location": "us",
+    "time": 7757,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "yw4l903z",
+    "game": "Ape Escape: On the Loose",
+    "player": "SRGTsilent",
+    "player_location": "us",
+    "time": 4664,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Playstation TV",
+    "emulated": false
+  },
+  {
+    "id": "zx7nex8y",
+    "game": "Ape Escape: On the Loose",
+    "player": "Bobbykaze",
+    "player_location": "ca",
+    "time": 5.1,
+    "category": "Time Attack",
+    "region": "USA / NTSC",
+    "platform": "Playstation TV",
+    "emulated": false
+  },
+  {
+    "id": "yvolppoz",
+    "game": "Ape Escape: On the Loose",
+    "player": "0DaphPunk0",
+    "player_location": "us",
+    "time": 25102,
+    "category": "100%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "yd1k97jy",
+    "game": "Ape Escape: On the Loose",
+    "player": "zazami",
+    "player_location": "jp",
+    "time": 1.56,
+    "category": "Time Attack",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": false
+  }
+]

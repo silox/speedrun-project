@@ -1,0 +1,57 @@
+[
+  {
+    "id": "pm317jgz",
+    "game": "",
+    "player": "Claude",
+    "player_location": null,
+    "time": 8218,
+    "category": "C Ending",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "yjknx7dm",
+    "game": "",
+    "player": "Dragondarch",
+    "player_location": "us",
+    "time": 7176,
+    "category": "C Ending",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "oy217w7z",
+    "game": "",
+    "player": "cha0sWR",
+    "player_location": "cx",
+    "time": 11596,
+    "category": "C Ending",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "mk5931xm",
+    "game": "Valkyrie Profile: Covenant of the Plume",
+    "player": "Sniperwave",
+    "player_location": "nl",
+    "time": 6173,
+    "category": "C Ending",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "mke0xpvm",
+    "game": "Valkyrie Profile: Covenant of the Plume",
+    "player": "InuGakushin",
+    "player_location": "jp",
+    "time": 6814,
+    "category": "C Ending",
+    "region": null,
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "znrlv98y",
+    "game": "Samurai Shodown III",
+    "player": "isaac1979",
+    "player_location": "br",
+    "time": 872,
+    "category": "Arcade Mode - Beginner Class",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zx6d4r8z",
+    "game": "Samurai Shodown III",
+    "player": "InoDORO0",
+    "player_location": "co",
+    "time": 46671,
+    "category": "Arcade Mode - Medium Grade",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y4r88l2z",
+    "game": "Samurai Shodown III",
+    "player": "53done",
+    "player_location": "jp",
+    "time": 691,
+    "category": "Arcade Mode - Upper Grade",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yvorqgez",
+    "game": "Samurai Shodown III",
+    "player": "zeldamaniac",
+    "player_location": "dz",
+    "time": 780,
+    "category": "Arcade Mode - Beginner Class",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y2pw6w9z",
+    "game": "Samurai Shodown III",
+    "player": "ZALOMASTER",
+    "player_location": "cl",
+    "time": 739,
+    "category": "Arcade Mode - Medium Grade",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z5xgg4jy",
+    "game": "Samurai Shodown III",
+    "player": "Black-Shadow",
+    "player_location": "us",
+    "time": 1655,
+    "category": "Arcade Mode - Beginner Class",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "m729970z",
+    "game": "Samurai Shodown III",
+    "player": "sobacha",
+    "player_location": "jp",
+    "time": 652,
+    "category": "Arcade Mode - Upper Grade",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yv8gxvxm",
+    "game": "Samurai Shodown III",
+    "player": "CesarD",
+    "player_location": "cl",
+    "time": 753,
+    "category": "Arcade Mode - Beginner Class",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

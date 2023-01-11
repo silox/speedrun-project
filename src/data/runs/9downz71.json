@@ -1,0 +1,35 @@
+[
+  {
+    "id": "z5j1n9nm",
+    "game": "Deluxe Super Mario Bros Wii",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 47,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": true
+  },
+  {
+    "id": "y60l406y",
+    "game": "Deluxe Super Mario Bros Wii",
+    "player": "KKOJJGSS",
+    "player_location": "in",
+    "time": 47,
+    "category": "Any%",
+    "region": null,
+    "platform": "Wii",
+    "emulated": true
+  },
+  {
+    "id": "yopq3k0m",
+    "game": "Deluxe Super Mario Bros Wii",
+    "player": "Sleppie",
+    "player_location": "nl",
+    "time": 47,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Wii",
+    "emulated": true
+  }
+]

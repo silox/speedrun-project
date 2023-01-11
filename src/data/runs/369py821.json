@@ -1,0 +1,35 @@
+[
+  {
+    "id": "yjkvx47m",
+    "game": "Red Alarm",
+    "player": "Linkums",
+    "player_location": "us",
+    "time": 1101,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "Virtual Boy",
+    "emulated": false
+  },
+  {
+    "id": "yvgdg5xy",
+    "game": "Red Alarm",
+    "player": "Witchs_Hex",
+    "player_location": null,
+    "time": 1138,
+    "category": "Easy",
+    "region": "JPN / NTSC",
+    "platform": "Virtual Boy",
+    "emulated": true
+  },
+  {
+    "id": "z1x0o79m",
+    "game": "Red Alarm",
+    "player": "Yuyukichi",
+    "player_location": "jp",
+    "time": 1101,
+    "category": "Easy",
+    "region": "JPN / NTSC",
+    "platform": "Virtual Boy",
+    "emulated": false
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "id": "y6nnggpz",
+    "game": "Atelier Ryza 2: Lost Legends & the Secret Fairy",
+    "player": "angela",
+    "player_location": "us",
+    "time": 14748,
+    "category": "New Game",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yjxk76gz",
+    "game": "Atelier Ryza 2: Lost Legends & the Secret Fairy",
+    "player": "Griotte_At",
+    "player_location": "jp",
+    "time": 6036,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 5",
+    "emulated": false
+  },
+  {
+    "id": "z1r4vqwm",
+    "game": "Atelier Ryza 2: Lost Legends & the Secret Fairy",
+    "player": "Cjkndy",
+    "player_location": "us",
+    "time": 15466,
+    "category": "New Game",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yj52kngm",
+    "game": "Atelier Ryza 2: Lost Legends & the Secret Fairy",
+    "player": "naanua",
+    "player_location": "us",
+    "time": 8082,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "y6xe1gpy",
+    "game": "Atelier Ryza 2: Lost Legends & the Secret Fairy",
+    "player": "Nuhji",
+    "player_location": "ca",
+    "time": 7171,
+    "category": "New Game+",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y4r02w2z",
+    "game": "Atelier Ryza 2: Lost Legends & the Secret Fairy",
+    "player": "miguelcornelius",
+    "player_location": "br",
+    "time": 20108,
+    "category": "New Game",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zqe4899z",
+    "game": "Atelier Ryza 2: Lost Legends & the Secret Fairy",
+    "player": "fumihina",
+    "player_location": "jp",
+    "time": 7181,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

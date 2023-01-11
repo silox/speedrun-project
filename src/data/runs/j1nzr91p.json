@@ -1,0 +1,123 @@
+[
+  {
+    "id": "yo447vjm",
+    "game": "Street Fighter",
+    "player": "osinvasoresoficial",
+    "player_location": "br",
+    "time": 1315,
+    "category": "Arcade Mode (Normal)",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zp0llonm",
+    "game": "Street Fighter",
+    "player": "PaulyWally",
+    "player_location": "us",
+    "time": 831,
+    "category": "Arcade Mode (Hardest)",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zp03wxxm",
+    "game": "Street Fighter",
+    "player": "Gurg.Derpson",
+    "player_location": "ca",
+    "time": 589,
+    "category": "Arcade Mode (Normal)",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yj4en5gy",
+    "game": "Street Fighter",
+    "player": "Rakurai-UK",
+    "player_location": "gb/eng",
+    "time": 560,
+    "category": "Arcade Mode (Hardest)",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "mk9j0jxz",
+    "game": "Street Fighter",
+    "player": "DingoStarr",
+    "player_location": "es",
+    "time": 953,
+    "category": "Arcade Mode (Hardest)",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "mexor3qz",
+    "game": "Street Fighter",
+    "player": "Blackbeltscrub",
+    "player_location": "us",
+    "time": 549,
+    "category": "Arcade Mode (Hardest)",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zxoq3l5z",
+    "game": "Street Fighter",
+    "player": "damdai",
+    "player_location": "us",
+    "time": 519.7,
+    "category": "Arcade Mode (Normal)",
+    "region": "USA / NTSC",
+    "platform": "MiSTer",
+    "emulated": false
+  },
+  {
+    "id": "zpr5prxm",
+    "game": "Street Fighter",
+    "player": "Tom-Striker",
+    "player_location": "mx",
+    "time": 556,
+    "category": "Arcade Mode (Normal)",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "meoqkdqz",
+    "game": "Street Fighter",
+    "player": "Habble",
+    "player_location": "au",
+    "time": 528.294,
+    "category": "Arcade Mode (Normal)",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "me73oo3y",
+    "game": "Street Fighter",
+    "player": "NerdJosh",
+    "player_location": "us",
+    "time": 523.73,
+    "category": "Arcade Mode (Normal)",
+    "region": null,
+    "platform": "MiSTer",
+    "emulated": false
+  },
+  {
+    "id": "y2dn5q7z",
+    "game": "Street Fighter",
+    "player": "Dumple",
+    "player_location": "us",
+    "time": 621,
+    "category": "Arcade Mode (Normal)",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

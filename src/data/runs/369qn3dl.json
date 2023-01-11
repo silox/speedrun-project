@@ -1,0 +1,90 @@
+[
+  {
+    "id": "7ylgpl3m",
+    "game": "Excitebike World Rally",
+    "player": "ArrayNight",
+    "player_location": "fr",
+    "time": 247.72,
+    "category": "Bronze Cup",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": true
+  },
+  {
+    "id": "zpqod5gy",
+    "game": "Excitebike World Rally",
+    "player": "DanOcampo",
+    "player_location": "mx",
+    "time": 45,
+    "category": "Single Track",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "y4501l3m",
+    "game": "Excitebike World Rally",
+    "player": "Mandalore",
+    "player_location": "gb/wls",
+    "time": 44.9,
+    "category": "Single Track",
+    "region": "EUR / PAL",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "yvgw1wxy",
+    "game": "Excitebike World Rally",
+    "player": "Poshact",
+    "player_location": "us",
+    "time": 1412.76,
+    "category": "Full World Tour",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "yo9p3ejy",
+    "game": "Excitebike World Rally",
+    "player": "Baja_Blessed",
+    "player_location": "us",
+    "time": 47.92,
+    "category": "Single Track",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "zgxl4ldm",
+    "game": "Excitebike World Rally",
+    "player": "TopStar",
+    "player_location": "us",
+    "time": 46.35,
+    "category": "Single Track",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "yl1r4g3m",
+    "game": "Excitebike World Rally",
+    "player": "ThatPunk_MachRider",
+    "player_location": null,
+    "time": 44.67,
+    "category": "Single Track",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "zpd8klvz",
+    "game": "Excitebike World Rally",
+    "player": "Version_Japonesa",
+    "player_location": "cl",
+    "time": 1412.41,
+    "category": "Full World Tour",
+    "region": "JPN / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  }
+]

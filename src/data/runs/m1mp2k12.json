@@ -1,0 +1,24 @@
+[
+  {
+    "id": "y21lo05z",
+    "game": "G-Loc Air Battle",
+    "player": "McGarren",
+    "player_location": "fr",
+    "time": 171.98,
+    "category": "Any% (Trainee)",
+    "region": "USA / NTSC",
+    "platform": "Sega Master System",
+    "emulated": true
+  },
+  {
+    "id": "m31r41gz",
+    "game": "G-Loc Air Battle",
+    "player": "baldnate",
+    "player_location": null,
+    "time": 180.24,
+    "category": "Any% (Trainee)",
+    "region": "USA / NTSC",
+    "platform": "Sega Master System",
+    "emulated": false
+  }
+]

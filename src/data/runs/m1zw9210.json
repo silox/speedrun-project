@@ -1,0 +1,35 @@
+[
+  {
+    "id": "y9797jnm",
+    "game": "Super Foss World",
+    "player": "RBMACHOK",
+    "player_location": "mx",
+    "time": 1355,
+    "category": "100 %",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y23dw06m",
+    "game": "Super Foss World",
+    "player": "westslasher2",
+    "player_location": "us",
+    "time": 5154,
+    "category": "100 %",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "y6xoreqy",
+    "game": "Super Foss World",
+    "player": "icterus440",
+    "player_location": "us",
+    "time": 1189,
+    "category": "100 %",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "mek1q19m",
+    "game": "Genius of Sappheiros",
+    "player": "PinkPajamas",
+    "player_location": "us",
+    "time": 19194,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zgqrgpdy",
+    "game": "Genius of Sappheiros",
+    "player": "legrandgrand",
+    "player_location": "fr",
+    "time": 10195,
+    "category": "Beat Main Game",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "ydwxjkwm",
+    "game": "Genius of Sappheiros",
+    "player": "craze819",
+    "player_location": "tw",
+    "time": 10266,
+    "category": "Beat Main Game",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

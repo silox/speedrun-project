@@ -1,0 +1,112 @@
+[
+  {
+    "id": "1zqr9w5y",
+    "game": "Advance Wars",
+    "player": "Alistair Grant",
+    "player_location": null,
+    "time": 4404,
+    "category": "Any% No Map Glitch",
+    "region": null,
+    "platform": "Game Boy Advance",
+    "emulated": false
+  },
+  {
+    "id": "dy4w0knm",
+    "game": "Advance Wars",
+    "player": "lecorbak",
+    "player_location": "fr",
+    "time": 808,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Advance",
+    "emulated": false
+  },
+  {
+    "id": "9me9vd3z",
+    "game": "Advance Wars",
+    "player": "Deln",
+    "player_location": "ca/qc",
+    "time": 800,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "z0eox4jm",
+    "game": "Advance Wars",
+    "player": "Eira",
+    "player_location": "au",
+    "time": 794,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "mk4ge4vy",
+    "game": "Advance Wars",
+    "player": "LinkV23",
+    "player_location": "gb/eng",
+    "time": 6625,
+    "category": "Any% No Map Glitch",
+    "region": "EUR / PAL",
+    "platform": "Wii U Virtual Console",
+    "emulated": false
+  },
+  {
+    "id": "z5o4jjey",
+    "game": "Advance Wars",
+    "player": "smbai",
+    "player_location": "ca",
+    "time": 1067,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "z1rxo3gm",
+    "game": "Advance Wars",
+    "player": "legrandgrand",
+    "player_location": "fr",
+    "time": 2734,
+    "category": "Any% No Map Glitch",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Advance",
+    "emulated": false
+  },
+  {
+    "id": "zp0221xm",
+    "game": "Advance Wars",
+    "player": "RedeemerDragon",
+    "player_location": "us",
+    "time": 3796,
+    "category": "Any% No Map Glitch",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": false
+  },
+  {
+    "id": "m31nr1wz",
+    "game": "Advance Wars",
+    "player": "cyghfer",
+    "player_location": "us",
+    "time": 3345,
+    "category": "Any% No Map Glitch",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": false
+  },
+  {
+    "id": "mr1nle4z",
+    "game": "Advance Wars",
+    "player": "SiliconSquid",
+    "player_location": "gb/sct",
+    "time": 2670,
+    "category": "Any% No Map Glitch",
+    "region": null,
+    "platform": "Game Boy Advance",
+    "emulated": true
+  }
+]

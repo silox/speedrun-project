@@ -1,0 +1,57 @@
+[
+  {
+    "id": "mr7qxl4z",
+    "game": "Rune Factory 5",
+    "player": "Demo",
+    "player_location": "us",
+    "time": 22334,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "y2evrp7y",
+    "game": "Rune Factory 5",
+    "player": "qazplm",
+    "player_location": "us",
+    "time": 12913,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m3l518gm",
+    "game": "Rune Factory 5",
+    "player": "wrb0301",
+    "player_location": "jp",
+    "time": 9389,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "znj35k3m",
+    "game": "Rune Factory 5",
+    "player": "RuneRavenFP",
+    "player_location": "us",
+    "time": 11684,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z1q82ojy",
+    "game": "Rune Factory 5",
+    "player": "enu",
+    "player_location": "jp",
+    "time": 7773,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

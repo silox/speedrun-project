@@ -1,0 +1,134 @@
+[
+  {
+    "id": "zxv1xlgy",
+    "game": "Five Nights at Candy's 2",
+    "player": "Dunn_and_Dunn",
+    "player_location": "us",
+    "time": 4506.6,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yo2vk6dz",
+    "game": "Five Nights at Candy's 2",
+    "player": "N/A",
+    "player_location": null,
+    "time": 0.001,
+    "category": "100%",
+    "region": null,
+    "platform": null,
+    "emulated": true
+  },
+  {
+    "id": "y89ojvwm",
+    "game": "Five Nights at Candy's 2",
+    "player": "NokiGam",
+    "player_location": "ca",
+    "time": 2904.164,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yl0grq3y",
+    "game": "Five Nights at Candy's 2",
+    "player": "XS-Savior",
+    "player_location": "cn",
+    "time": 2831.97,
+    "category": "",
+    "region": "CHN / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mrk9l84y",
+    "game": "Five Nights at Candy's 2",
+    "player": "zir0nic",
+    "player_location": "vh",
+    "time": 2297.233,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z09wqk4z",
+    "game": "Five Nights at Candy's 2",
+    "player": "Iainn_n",
+    "player_location": "us",
+    "time": 2291.068,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "ydeevw0m",
+    "game": "Five Nights at Candy's 2",
+    "player": "Monnsterzz",
+    "player_location": "fr",
+    "time": 2748,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yj5rxgom",
+    "game": "Five Nights at Candy's 2",
+    "player": "Blaziken",
+    "player_location": "us",
+    "time": 2268.58,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yjpk21oy",
+    "game": "Five Nights at Candy's 2",
+    "player": "ToastTimes",
+    "player_location": null,
+    "time": 2670.015,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m33or3qm",
+    "game": "Five Nights at Candy's 2",
+    "player": "CrokyTheKiwi",
+    "player_location": "fr",
+    "time": 2974.65,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mkkjl1xm",
+    "game": "Five Nights at Candy's 2",
+    "player": "blubengui",
+    "player_location": "us",
+    "time": 2285.093,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yl15n9km",
+    "game": "Five Nights at Candy's 2",
+    "player": "Z4nuM",
+    "player_location": "th",
+    "time": 2303.983,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  }
+]

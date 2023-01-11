@@ -1,0 +1,24 @@
+[
+  {
+    "id": "7z0gk9oy",
+    "game": "",
+    "player": "JC",
+    "player_location": "us",
+    "time": 15567,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "y88vlgny",
+    "game": "",
+    "player": "Mattmatt",
+    "player_location": "aq",
+    "time": 9682,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Xbox",
+    "emulated": false
+  }
+]

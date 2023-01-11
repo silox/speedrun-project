@@ -1,0 +1,35 @@
+[
+  {
+    "id": "mrr24v8m",
+    "game": "Air Gallet",
+    "player": "Ellimist",
+    "player_location": "us",
+    "time": 1260,
+    "category": "2P",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "mkdq7o3y",
+    "game": "Air Gallet",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 1233,
+    "category": "2P",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "m7xv8v0y",
+    "game": "Air Gallet",
+    "player": "HosteL",
+    "player_location": "ru",
+    "time": 1329,
+    "category": "1P",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

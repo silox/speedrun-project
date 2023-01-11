@@ -1,0 +1,68 @@
+[
+  {
+    "id": "7z0qn6om",
+    "game": "Midtown Madness 3",
+    "player": "FinnishRacePro",
+    "player_location": "fi",
+    "time": 52.57,
+    "category": "Finish The Race/Level",
+    "region": "EUR / PAL",
+    "platform": "Xbox",
+    "emulated": false
+  },
+  {
+    "id": "9yoxd20y",
+    "game": "Midtown Madness 3",
+    "player": "bangerra",
+    "player_location": "be",
+    "time": 29.99,
+    "category": "Finish The Race/Level",
+    "region": "EUR / PAL",
+    "platform": "Xbox",
+    "emulated": false
+  },
+  {
+    "id": "yo2k810z",
+    "game": "Midtown Madness 3",
+    "player": "donbedd",
+    "player_location": null,
+    "time": 42.69,
+    "category": "Finish The Race/Level",
+    "region": "USA / NTSC",
+    "platform": "Xbox",
+    "emulated": false
+  },
+  {
+    "id": "y6lg94py",
+    "game": "Midtown Madness 3",
+    "player": "BlackIronMotorJudas",
+    "player_location": "gb/eng",
+    "time": 28.68,
+    "category": "Finish The Race/Level",
+    "region": "EUR / PAL",
+    "platform": "Xbox",
+    "emulated": false
+  },
+  {
+    "id": "y4q8g03m",
+    "game": "Midtown Madness 3",
+    "player": "AardappelMASTER",
+    "player_location": "nl",
+    "time": 43.62,
+    "category": "Finish The Race/Level",
+    "region": "EUR / PAL",
+    "platform": "Xbox",
+    "emulated": false
+  },
+  {
+    "id": "m33qkd6m",
+    "game": "Midtown Madness 3",
+    "player": "Razzley",
+    "player_location": "au",
+    "time": 28.22,
+    "category": "Finish The Race/Level",
+    "region": "EUR / PAL",
+    "platform": "Xbox",
+    "emulated": true
+  }
+]

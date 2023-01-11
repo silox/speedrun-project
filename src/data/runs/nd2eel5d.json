@@ -1,0 +1,79 @@
+[
+  {
+    "id": "m793dr4y",
+    "game": "Romancing SaGa 2",
+    "player": "Duders",
+    "player_location": "us",
+    "time": 9074,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Xbox One",
+    "emulated": false
+  },
+  {
+    "id": "zn8gd03z",
+    "game": "Romancing SaGa 2",
+    "player": "GHTrost",
+    "player_location": "us",
+    "time": 5323,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y895dwdm",
+    "game": "Romancing SaGa 2",
+    "player": "catklaw",
+    "player_location": null,
+    "time": 8164,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z055dg9m",
+    "game": "Romancing SaGa 2",
+    "player": "susuru",
+    "player_location": "jp",
+    "time": 7521,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mk3g8o3z",
+    "game": "Romancing SaGa 2",
+    "player": "FullDe",
+    "player_location": "jp",
+    "time": 3110,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y9vn2r2m",
+    "game": "Romancing SaGa 2",
+    "player": "akisu_nico",
+    "player_location": "jp",
+    "time": 5365,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "m33p3q6m",
+    "game": "Romancing SaGa 2",
+    "player": "AurionSkydragon",
+    "player_location": "us",
+    "time": 4887,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "y955w8nz",
+    "game": "Digimon World Championship",
+    "player": "Eldwick",
+    "player_location": "ca",
+    "time": 5527,
+    "category": "Any% Emulator",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "y2x6kq9m",
+    "game": "Digimon World Championship",
+    "player": "dwagonhunter",
+    "player_location": "us",
+    "time": 3869,
+    "category": "Any% Emulator",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "y2x686jm",
+    "game": "Digimon World Championship",
+    "player": "anmec",
+    "player_location": "us",
+    "time": 3220,
+    "category": "Any% Emulator",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "zxgn625y",
+    "game": "Digimon World Championship",
+    "player": "DarthAnimal",
+    "player_location": "ca",
+    "time": 6280,
+    "category": "Any% Emulator",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "yjg204oy",
+    "game": "Digimon World Championship",
+    "player": "1NaCl",
+    "player_location": "jp",
+    "time": 3971,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "y8ed9q5y",
+    "game": "Digimon World Championship",
+    "player": "PeasantsOMFG",
+    "player_location": "au",
+    "time": 3846,
+    "category": "Any% Emulator",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  }
+]

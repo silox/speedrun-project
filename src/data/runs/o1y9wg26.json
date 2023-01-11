@@ -1,0 +1,35 @@
+[
+  {
+    "id": "mk3dwevz",
+    "game": "",
+    "player": "Tavetendo",
+    "player_location": "us",
+    "time": 8070,
+    "category": "Langrisser I",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zpl3wjvm",
+    "game": "",
+    "player": "LadyStarbird",
+    "player_location": "us",
+    "time": 8029,
+    "category": "Langrisser I",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "zp13dpgz",
+    "game": "",
+    "player": "suruiyingmu0",
+    "player_location": "cn",
+    "time": 20402,
+    "category": "Langrisser I",
+    "region": null,
+    "platform": "PlayStation",
+    "emulated": true
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "id": "nz13o9wm",
+    "game": "Resonance of Fate",
+    "player": "AkiJP",
+    "player_location": null,
+    "time": 11915,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "8m795o9y",
+    "game": "Resonance of Fate",
+    "player": "Takataka09",
+    "player_location": null,
+    "time": 9430,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "wzpgr68z",
+    "game": "Resonance of Fate",
+    "player": "Neviutz",
+    "player_location": "de",
+    "time": 10730,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "7z0n5eom",
+    "game": "Resonance of Fate",
+    "player": "CrimsonPheonix",
+    "player_location": "ca",
+    "time": 15151,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "pm3l5n6m",
+    "game": "Resonance of Fate",
+    "player": "moka",
+    "player_location": "jp",
+    "time": 15526,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "zpr8lrgm",
+    "game": "Resonance of Fate",
+    "player": "R1ffRafftheG",
+    "player_location": "nl",
+    "time": 14350,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "ydr4w3vz",
+    "game": "Resonance of Fate",
+    "player": "xShonnen",
+    "player_location": "es",
+    "time": 9355,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 3",
+    "emulated": false
+  }
+]

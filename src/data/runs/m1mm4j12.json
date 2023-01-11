@@ -1,0 +1,57 @@
+[
+  {
+    "id": "pm3q1edy",
+    "game": "Chaos Legion",
+    "player": "loooordvx",
+    "player_location": "us",
+    "time": 3648,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y95pr8ez",
+    "game": "Chaos Legion",
+    "player": "Joker_Of_God",
+    "player_location": "fi",
+    "time": 5807,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zgqewj0y",
+    "game": "Chaos Legion",
+    "player": "DECosmic",
+    "player_location": "us",
+    "time": 4617,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zx8wrwqm",
+    "game": "Chaos Legion",
+    "player": "Symm",
+    "player_location": "gb",
+    "time": 2288,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "m7x4w40y",
+    "game": "Chaos Legion",
+    "player": "LonerHero",
+    "player_location": "qa",
+    "time": 4609,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  }
+]

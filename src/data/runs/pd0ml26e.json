@@ -1,0 +1,123 @@
+[
+  {
+    "id": "8m7nrd0z",
+    "game": "The 3rd Birthday",
+    "player": "Rhon_DOAE",
+    "player_location": "ph",
+    "time": 4891,
+    "category": "Any% NG+",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": false
+  },
+  {
+    "id": "8y8pxknz",
+    "game": "The 3rd Birthday",
+    "player": "Xerobladedge",
+    "player_location": "us",
+    "time": 10988,
+    "category": "Any% Emu",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "m795j85y",
+    "game": "The 3rd Birthday",
+    "player": "drakorg23",
+    "player_location": "mx",
+    "time": 3203,
+    "category": "Any% NG+ (Emu)",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "yd33d4xz",
+    "game": "The 3rd Birthday",
+    "player": "Slammin",
+    "player_location": "ar",
+    "time": 2910,
+    "category": "Any% NG+ (Emu)",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "zn4wvwvm",
+    "game": "The 3rd Birthday",
+    "player": "AlphaCentauri",
+    "player_location": "th",
+    "time": 3032,
+    "category": "Any% NG+ (Emu)",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "y4w19o2m",
+    "game": "The 3rd Birthday",
+    "player": "Zaigar",
+    "player_location": "ca",
+    "time": 2801,
+    "category": "Any% NG+ (Emu)",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "ylvl43nm",
+    "game": "The 3rd Birthday",
+    "player": "Valkyrie_ZB",
+    "player_location": "es",
+    "time": 6985,
+    "category": "Any% Emu",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "zxgqp4gy",
+    "game": "The 3rd Birthday",
+    "player": "SirRetro91",
+    "player_location": "gb/eng",
+    "time": 7657,
+    "category": "Any%",
+    "region": null,
+    "platform": "PlayStation Portable",
+    "emulated": false
+  },
+  {
+    "id": "m3n05jwy",
+    "game": "The 3rd Birthday",
+    "player": "Ecdycis",
+    "player_location": "us",
+    "time": 7763,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": false
+  },
+  {
+    "id": "y93r45ny",
+    "game": "The 3rd Birthday",
+    "player": "Lilianon",
+    "player_location": "it",
+    "time": 6420,
+    "category": "Any% Emu",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "y20qre7m",
+    "game": "The 3rd Birthday",
+    "player": "megatopo",
+    "player_location": "cl",
+    "time": 7154,
+    "category": "Any% Emu",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  }
+]

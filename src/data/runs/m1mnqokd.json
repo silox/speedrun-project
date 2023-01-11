@@ -1,0 +1,35 @@
+[
+  {
+    "id": "mkd0r9ly",
+    "game": "",
+    "player": "Ellimist",
+    "player_location": "us",
+    "time": 458,
+    "category": "2P",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y6x28l0y",
+    "game": "",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 667,
+    "category": "2P",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zgq8dnny",
+    "game": "",
+    "player": "giuliok",
+    "player_location": "br",
+    "time": 402,
+    "category": "1P",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

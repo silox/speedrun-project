@@ -1,0 +1,123 @@
+[
+  {
+    "id": "zg74nj0z",
+    "game": "Bosconian",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 54.3,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "y41qv8ny",
+    "game": "Bosconian",
+    "player": "DJMiller",
+    "player_location": "us",
+    "time": 36.5,
+    "category": "2 Rounds",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z1jeodjz",
+    "game": "Bosconian",
+    "player": "WhimsicalDragon",
+    "player_location": null,
+    "time": 35.74,
+    "category": "2 Rounds",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yj1e28oy",
+    "game": "Bosconian",
+    "player": "sikraiken",
+    "player_location": "jp",
+    "time": 16.38,
+    "category": "",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yd0gndjz",
+    "game": "Bosconian",
+    "player": "Alicetwopointoh",
+    "player_location": "us",
+    "time": 34.1,
+    "category": "2 Rounds",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y66epnjy",
+    "game": "Bosconian",
+    "player": "Soccersam",
+    "player_location": null,
+    "time": 41.332,
+    "category": "2 Rounds",
+    "region": "USA / NTSC",
+    "platform": "Plug and Play",
+    "emulated": false
+  },
+  {
+    "id": "y42j1w2m",
+    "game": "Bosconian",
+    "player": "ShadowSquid",
+    "player_location": "us",
+    "time": 19.152,
+    "category": "",
+    "region": null,
+    "platform": "Plug and Play",
+    "emulated": false
+  },
+  {
+    "id": "y93eg72y",
+    "game": "Bosconian",
+    "player": "Glitchedblood",
+    "player_location": "us",
+    "time": 38.289,
+    "category": "2 Rounds",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yjxvg93z",
+    "game": "Bosconian",
+    "player": "300g",
+    "player_location": null,
+    "time": 34.9,
+    "category": "2 Rounds",
+    "region": null,
+    "platform": "Plug and Play",
+    "emulated": false
+  },
+  {
+    "id": "zp2vv6xy",
+    "game": "Bosconian",
+    "player": "Bacin",
+    "player_location": "us",
+    "time": 35.591,
+    "category": "2 Rounds",
+    "region": null,
+    "platform": "Plug and Play",
+    "emulated": false
+  },
+  {
+    "id": "yd1jvxvy",
+    "game": "Bosconian",
+    "player": "BrenoLudgero",
+    "player_location": "br",
+    "time": 32.833,
+    "category": "2 Rounds",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

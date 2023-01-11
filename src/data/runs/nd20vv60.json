@@ -1,0 +1,178 @@
+[
+  {
+    "id": "8yvwxe6m",
+    "game": "Vegas Stakes (SNES)",
+    "player": "Spiderweb__",
+    "player_location": "us",
+    "time": 579,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "9yog4d0m",
+    "game": "Vegas Stakes (SNES)",
+    "player": "Celestial_pizza",
+    "player_location": "at",
+    "time": 804,
+    "category": "Single Segment",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "0y6kg4pz",
+    "game": "Vegas Stakes (SNES)",
+    "player": "KittyTrouble",
+    "player_location": null,
+    "time": 535,
+    "category": "Single Segment",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "y41qr3dy",
+    "game": "Vegas Stakes (SNES)",
+    "player": "DukeFireBird",
+    "player_location": "us",
+    "time": 153,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "zq6llk5y",
+    "game": "Vegas Stakes (SNES)",
+    "player": "Iceblue",
+    "player_location": "us",
+    "time": 593,
+    "category": "Single Segment",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "y89n47nm",
+    "game": "Vegas Stakes (SNES)",
+    "player": "shmupforlife",
+    "player_location": "br",
+    "time": 184,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "m7pde5wm",
+    "game": "Vegas Stakes (SNES)",
+    "player": "FlannelKat",
+    "player_location": "us",
+    "time": 840,
+    "category": "Single Segment",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y89e6kdm",
+    "game": "Vegas Stakes (SNES)",
+    "player": "Unitedone",
+    "player_location": "au",
+    "time": 496,
+    "category": "Single Segment",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "zn42ew8m",
+    "game": "Vegas Stakes (SNES)",
+    "player": "buffalax",
+    "player_location": "us",
+    "time": 188,
+    "category": "Vegas Adventure",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "y2q2929y",
+    "game": "Vegas Stakes (SNES)",
+    "player": "Angrylarry",
+    "player_location": "us",
+    "time": 577,
+    "category": "Single Segment",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "yl4d1exm",
+    "game": "Vegas Stakes (SNES)",
+    "player": "Aurilliux",
+    "player_location": "gb/wls",
+    "time": 259,
+    "category": "Vegas Adventure",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y92jj4vz",
+    "game": "Vegas Stakes (SNES)",
+    "player": "RottDawg",
+    "player_location": null,
+    "time": 323,
+    "category": "Single Segment",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "z030qq8z",
+    "game": "Vegas Stakes (SNES)",
+    "player": "baldnate",
+    "player_location": null,
+    "time": 180,
+    "category": "Vegas Adventure",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "yl09qdny",
+    "game": "Vegas Stakes (SNES)",
+    "player": "zerfall",
+    "player_location": "ca",
+    "time": 760,
+    "category": "Single Segment",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "me4wkv0y",
+    "game": "Vegas Stakes (SNES)",
+    "player": "harumph",
+    "player_location": "ca",
+    "time": 160,
+    "category": "Vegas Adventure",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "y6x23ppy",
+    "game": "Vegas Stakes (SNES)",
+    "player": "cujokila",
+    "player_location": "us",
+    "time": 230,
+    "category": "Vegas Adventure",
+    "region": null,
+    "platform": "Super Nintendo",
+    "emulated": false
+  }
+]

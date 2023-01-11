@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1zqwr91z",
+    "game": "Rune Factory 3",
+    "player": "Rosael",
+    "player_location": "us",
+    "time": 27422,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "0y65lx0z",
+    "game": "Rune Factory 3",
+    "player": "Anwonu",
+    "player_location": "br",
+    "time": 5246,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "yoj7xkjm",
+    "game": "Rune Factory 3",
+    "player": "\u30e0\u30a8\u30c9",
+    "player_location": null,
+    "time": 9081,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "zpgnoonz",
+    "game": "Rune Factory 3",
+    "player": "Ameagari",
+    "player_location": "vn",
+    "time": 4835,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "me1j009y",
+    "game": "Rune Factory 3",
+    "player": "qazplm",
+    "player_location": "us",
+    "time": 4935,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  }
+]

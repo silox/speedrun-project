@@ -1,0 +1,35 @@
+[
+  {
+    "id": "yopxvk5m",
+    "game": "Biocats",
+    "player": "Beardstrength",
+    "player_location": "ca",
+    "time": 184.417,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "mkkor35m",
+    "game": "Biocats",
+    "player": "Zarc0nis",
+    "player_location": "us",
+    "time": 301.3,
+    "category": "Any% (NOOB)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "y4x5r93z",
+    "game": "Biocats",
+    "player": "JoePulito",
+    "player_location": "us",
+    "time": 376.817,
+    "category": "Any% (NOOB)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  }
+]

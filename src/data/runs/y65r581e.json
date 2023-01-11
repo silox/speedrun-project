@@ -1,0 +1,68 @@
+[
+  {
+    "id": "wzp21v8y",
+    "game": "",
+    "player": "Lenophis",
+    "player_location": "us",
+    "time": 1421,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y23675jm",
+    "game": "",
+    "player": "Vultus",
+    "player_location": "de",
+    "time": 1291,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "0y68w5pz",
+    "game": "",
+    "player": "Tom Votava",
+    "player_location": null,
+    "time": 1556,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "yo4xlojm",
+    "game": "Road Runner's Death Valley Rally",
+    "player": "slopdop",
+    "player_location": "ca",
+    "time": 1324,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y88jpp5y",
+    "game": "Road Runner's Death Valley Rally",
+    "player": "gameO",
+    "player_location": "jp",
+    "time": 1253,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "zp9oe98m",
+    "game": "Road Runner's Death Valley Rally",
+    "player": "janglestorm",
+    "player_location": "nl",
+    "time": 1437,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  }
+]

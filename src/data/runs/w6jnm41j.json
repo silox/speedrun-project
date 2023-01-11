@@ -1,0 +1,112 @@
+[
+  {
+    "id": "mk4qre1y",
+    "game": "Alone In The Dark: The New Nightmare",
+    "player": "Romulator",
+    "player_location": "au",
+    "time": 1064,
+    "category": "Any% (GBC)",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "zgkg6rny",
+    "game": "Alone In The Dark: The New Nightmare",
+    "player": "Symm",
+    "player_location": "gb",
+    "time": 2421,
+    "category": "",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m369l1dm",
+    "game": "Alone In The Dark: The New Nightmare",
+    "player": "TheNevs",
+    "player_location": "br",
+    "time": 2065,
+    "category": "",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y2111wjz",
+    "game": "Alone In The Dark: The New Nightmare",
+    "player": "MrSilentVid",
+    "player_location": "gb",
+    "time": 2958,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y656jnjz",
+    "game": "Alone In The Dark: The New Nightmare",
+    "player": "Anderson_XP",
+    "player_location": "br",
+    "time": 2431,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "ylkr1okz",
+    "game": "Alone In The Dark: The New Nightmare",
+    "player": "H1pp0_",
+    "player_location": "au",
+    "time": 2247,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zqgd935m",
+    "game": "Alone In The Dark: The New Nightmare",
+    "player": "kid_muscle",
+    "player_location": "us",
+    "time": 3202,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y2x72k9m",
+    "game": "Alone In The Dark: The New Nightmare",
+    "player": "Reforged",
+    "player_location": "gb/wls",
+    "time": 2213,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z0r2129z",
+    "game": "Alone In The Dark: The New Nightmare",
+    "player": "cassolzao",
+    "player_location": "br",
+    "time": 2066,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y8jpjv1z",
+    "game": "Alone In The Dark: The New Nightmare",
+    "player": "Pyrofosforico",
+    "player_location": "ar",
+    "time": 2357,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  }
+]

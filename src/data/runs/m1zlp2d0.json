@@ -1,0 +1,90 @@
+[
+  {
+    "id": "0y68oojz",
+    "game": "",
+    "player": "Hawk_Snow",
+    "player_location": null,
+    "time": 14560,
+    "category": "Shallistera",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "9yo8650z",
+    "game": "",
+    "player": "elkidwx",
+    "player_location": "us",
+    "time": 13245,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "y8ql395y",
+    "game": "Atelier Shallie: Alchemists of the Dusk Sea",
+    "player": "PinkPajamas",
+    "player_location": "us",
+    "time": 17110,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "yjllvq3z",
+    "game": "Atelier Shallie: Alchemists of the Dusk Sea",
+    "player": "auroraflow12",
+    "player_location": "us",
+    "time": 9523,
+    "category": "Shallotte DX",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y825x7dy",
+    "game": "Atelier Shallie: Alchemists of the Dusk Sea",
+    "player": "chelsea",
+    "player_location": "jp",
+    "time": 9099,
+    "category": "Shallotte DX",
+    "region": "JPN / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "y25r77jy",
+    "game": "Atelier Shallie: Alchemists of the Dusk Sea",
+    "player": "Uokagi",
+    "player_location": "jp",
+    "time": 12518,
+    "category": "Shallotte DX",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "ywdke0nz",
+    "game": "Atelier Shallie: Alchemists of the Dusk Sea",
+    "player": "angela",
+    "player_location": "us",
+    "time": 10622,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y2p76v7z",
+    "game": "Atelier Shallie: Alchemists of the Dusk Sea",
+    "player": "tetu_ao",
+    "player_location": "jp",
+    "time": 5520,
+    "category": "Shallotte DX",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

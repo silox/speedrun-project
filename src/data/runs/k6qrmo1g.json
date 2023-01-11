@@ -1,0 +1,90 @@
+[
+  {
+    "id": "6yjlk0gz",
+    "game": "Dragon Ball Z: Budokai Tenkaichi",
+    "player": "Daniel_1RD",
+    "player_location": "dk",
+    "time": 16108,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "pydejejm",
+    "game": "Dragon Ball Z: Budokai Tenkaichi",
+    "player": "supersaiyanmikito",
+    "player_location": "us",
+    "time": 8509,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "pzgl23dm",
+    "game": "Dragon Ball Z: Budokai Tenkaichi",
+    "player": "datPalomo",
+    "player_location": "it",
+    "time": 6594,
+    "category": "Ultimate Battle",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "wzperqry",
+    "game": "Dragon Ball Z: Budokai Tenkaichi",
+    "player": "ciccioDM",
+    "player_location": "it",
+    "time": 10521,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "m3dnd44z",
+    "game": "Dragon Ball Z: Budokai Tenkaichi",
+    "player": "Lewisb99",
+    "player_location": "gb/sct",
+    "time": 8993,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "mekrre2m",
+    "game": "Dragon Ball Z: Budokai Tenkaichi",
+    "player": "Vanity",
+    "player_location": null,
+    "time": 9142,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "yd321jqz",
+    "game": "Dragon Ball Z: Budokai Tenkaichi",
+    "player": "Lucariobro",
+    "player_location": "gb/nir",
+    "time": 8365,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "z0o9o5jz",
+    "game": "Dragon Ball Z: Budokai Tenkaichi",
+    "player": "DBcade",
+    "player_location": "jp",
+    "time": 6524,
+    "category": "Ultimate Battle",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  }
+]

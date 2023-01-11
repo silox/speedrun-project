@@ -1,0 +1,57 @@
+[
+  {
+    "id": "mreq5pdy",
+    "game": "KIDS",
+    "player": "restful64",
+    "player_location": "ch",
+    "time": 612,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "z01epvoy",
+    "game": "KIDS",
+    "player": "Evandar",
+    "player_location": "fr",
+    "time": 678,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mk22qo1m",
+    "game": "KIDS",
+    "player": "kyourikey",
+    "player_location": "jp",
+    "time": 638,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m7qqn19z",
+    "game": "KIDS",
+    "player": "Norishige710",
+    "player_location": "jp",
+    "time": 664,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z1599wry",
+    "game": "KIDS",
+    "player": "williamlofgren",
+    "player_location": "se",
+    "time": 798.464,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  }
+]

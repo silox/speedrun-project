@@ -1,0 +1,24 @@
+[
+  {
+    "id": "z510xdnm",
+    "game": "Ghost Lion",
+    "player": "Jiseed",
+    "player_location": "ca",
+    "time": 3572,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y2q7276y",
+    "game": "Ghost Lion",
+    "player": "pianistman",
+    "player_location": "us",
+    "time": 17080,
+    "category": "100%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  }
+]

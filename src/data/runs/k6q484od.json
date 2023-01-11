@@ -1,0 +1,24 @@
+[
+  {
+    "id": "z51633em",
+    "game": "",
+    "player": "Arran",
+    "player_location": null,
+    "time": 384.82,
+    "category": "Individual",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "me39109z",
+    "game": "",
+    "player": "Dumple",
+    "player_location": "us",
+    "time": 400.57,
+    "category": "Individual",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

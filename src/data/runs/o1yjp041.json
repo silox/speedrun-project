@@ -1,0 +1,112 @@
+[
+  {
+    "id": "mkkr601m",
+    "game": "",
+    "player": "Ryz3xPW1",
+    "player_location": "ru",
+    "time": 14.4,
+    "category": "Any%Glitchless",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m764dv0y",
+    "game": "",
+    "player": "OGGbuda",
+    "player_location": "ru",
+    "time": 7,
+    "category": "",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yd1q9xvy",
+    "game": "Lazr-Cyberpunk Platformer",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 10.39,
+    "category": "Any%Glitchless",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y6x7e8jy",
+    "game": "Lazr-Cyberpunk Platformer",
+    "player": "Kerius",
+    "player_location": "ru",
+    "time": 27.11,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mkd4o31y",
+    "game": "Lazr-Cyberpunk Platformer",
+    "player": "GrinRoll",
+    "player_location": "ru",
+    "time": 11.73,
+    "category": "No hitbox touches",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "znq8lwlz",
+    "game": "Lazr-Cyberpunk Platformer",
+    "player": "Cadro",
+    "player_location": null,
+    "time": 102.622,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yjd4lx3y",
+    "game": "Lazr-Cyberpunk Platformer",
+    "player": "PresetPad",
+    "player_location": "cn",
+    "time": 39,
+    "category": "",
+    "region": "CHN / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yw684e2m",
+    "game": "Lazr-Cyberpunk Platformer",
+    "player": "Wacoman",
+    "player_location": null,
+    "time": 96.314,
+    "category": "Challenges",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zq9wrw8y",
+    "game": "Lazr-Cyberpunk Platformer",
+    "player": "Yanix",
+    "player_location": "ml",
+    "time": 41.8,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y4xd543z",
+    "game": "Lazr-Cyberpunk Platformer",
+    "player": "freeve4",
+    "player_location": null,
+    "time": 19.85,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

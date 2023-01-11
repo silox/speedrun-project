@@ -1,0 +1,101 @@
+[
+  {
+    "id": "jy95w4ez",
+    "game": "Ace Combat 3 : Electrosphere",
+    "player": "InsaneFalcon",
+    "player_location": "fr",
+    "time": 5247,
+    "category": "Any% (PAL/NTSC-U)",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "m7p1d70m",
+    "game": "Ace Combat 3 : Electrosphere",
+    "player": "Lukaton",
+    "player_location": "pl",
+    "time": 5220,
+    "category": "Any% (PAL/NTSC-U)",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "me8ddo3m",
+    "game": "Ace Combat 3 : Electrosphere",
+    "player": "casinocoin",
+    "player_location": "ca",
+    "time": 10973,
+    "category": "All campaigns (NTSC-J)",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zn7688vm",
+    "game": "Ace Combat 3 : Electrosphere",
+    "player": "TransparentBlue",
+    "player_location": "vh",
+    "time": 4503.5,
+    "category": "Any% (PAL/NTSC-U)",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "y2ve9r6z",
+    "game": "Ace Combat 3 : Electrosphere",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 62.36,
+    "category": "Any% Easy",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "yo76k60m",
+    "game": "Ace Combat 3 : Electrosphere",
+    "player": "Michin11",
+    "player_location": "ar",
+    "time": 8909,
+    "category": "All campaigns (NTSC-J)",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "m33r696m",
+    "game": "Ace Combat 3 : Electrosphere",
+    "player": "Celacantospin",
+    "player_location": null,
+    "time": 10.23,
+    "category": "Any% Hard",
+    "region": null,
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "y93p0kny",
+    "game": "Ace Combat 3 : Electrosphere",
+    "player": "FalconLuma",
+    "player_location": "au",
+    "time": 4.03,
+    "category": "Any% Easy",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "yjdg32dy",
+    "game": "Ace Combat 3 : Electrosphere",
+    "player": "0Acerlot0",
+    "player_location": "au",
+    "time": 16.3,
+    "category": "Any% Hard",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  }
+]

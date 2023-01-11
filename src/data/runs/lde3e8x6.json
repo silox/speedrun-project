@@ -1,0 +1,134 @@
+[
+  {
+    "id": "y81lxvxz",
+    "game": "Resident Evil: The Darkside Chronicles",
+    "player": "Piedraso",
+    "player_location": "es",
+    "time": 524,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": true
+  },
+  {
+    "id": "z094kk8z",
+    "game": "Resident Evil: The Darkside Chronicles",
+    "player": "TheCrashKid",
+    "player_location": "gb/eng",
+    "time": 533,
+    "category": "Handgun% Co-op",
+    "region": "EUR / PAL",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "yv9kedez",
+    "game": "Resident Evil: The Darkside Chronicles",
+    "player": "AbrilRedfield",
+    "player_location": "mx",
+    "time": 15247,
+    "category": "NG",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "ywd93k2z",
+    "game": "Resident Evil: The Darkside Chronicles",
+    "player": "Spiderman1204",
+    "player_location": null,
+    "time": 549,
+    "category": "Handgun% Co-op",
+    "region": "EUR / PAL",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "zxd17lgy",
+    "game": "Resident Evil: The Darkside Chronicles",
+    "player": "PAUL3083",
+    "player_location": "gb/eng",
+    "time": 396,
+    "category": "Handgun%",
+    "region": "EUR / PAL",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "y2x3pxjm",
+    "game": "Resident Evil: The Darkside Chronicles",
+    "player": "RitaH",
+    "player_location": "br",
+    "time": 403,
+    "category": "Any% Co-op",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "yo7jxr1m",
+    "game": "Resident Evil: The Darkside Chronicles",
+    "player": "LaMorsa",
+    "player_location": "ar",
+    "time": 18019,
+    "category": "NG",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "mkgql8ly",
+    "game": "Resident Evil: The Darkside Chronicles",
+    "player": "kdaugh1",
+    "player_location": "us",
+    "time": 465,
+    "category": "Any% Co-op",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "y8d5j6nz",
+    "game": "Resident Evil: The Darkside Chronicles",
+    "player": "deserteagle417",
+    "player_location": "us",
+    "time": 631,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "me4xp72y",
+    "game": "Resident Evil: The Darkside Chronicles",
+    "player": "Simmonshire",
+    "player_location": "us",
+    "time": 431,
+    "category": "Tofu",
+    "region": "USA / NTSC",
+    "platform": "Wii Virtual Console",
+    "emulated": true
+  },
+  {
+    "id": "yo68g77y",
+    "game": "Resident Evil: The Darkside Chronicles",
+    "player": "VinceWanlord",
+    "player_location": "fr",
+    "time": 15429,
+    "category": "NG",
+    "region": "EUR / PAL",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "zq9nrw1y",
+    "game": "Resident Evil: The Darkside Chronicles",
+    "player": "DarkZane89",
+    "player_location": "mx",
+    "time": 4474,
+    "category": "Single Story",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  }
+]

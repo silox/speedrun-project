@@ -1,0 +1,112 @@
+[
+  {
+    "id": "y41w79ky",
+    "game": "skate.",
+    "player": "Mattie",
+    "player_location": "us",
+    "time": 4170,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "wzplqrvm",
+    "game": "skate.",
+    "player": "tridenttail",
+    "player_location": "ca",
+    "time": 2819,
+    "category": "X-Games%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "nz15ovjy",
+    "game": "skate.",
+    "player": "Extraguy",
+    "player_location": null,
+    "time": 3519,
+    "category": "X-Games%",
+    "region": "USA / NTSC",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "9yo3k75y",
+    "game": "skate.",
+    "player": "Shingo",
+    "player_location": "us",
+    "time": 6191,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "y41gn02y",
+    "game": "skate.",
+    "player": "expireddata",
+    "player_location": "gb",
+    "time": 2742,
+    "category": "X-Games%",
+    "region": "EUR / PAL",
+    "platform": "Xbox One",
+    "emulated": false
+  },
+  {
+    "id": "z578vrjm",
+    "game": "skate.",
+    "player": "GnarlyRae",
+    "player_location": null,
+    "time": 3594,
+    "category": "X-Games%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "y6d7v2jm",
+    "game": "skate.",
+    "player": "TINFOILGRILLS",
+    "player_location": "ca",
+    "time": 2666,
+    "category": "X-Games%",
+    "region": null,
+    "platform": "Xbox One",
+    "emulated": false
+  },
+  {
+    "id": "y4xg95dz",
+    "game": "skate.",
+    "player": "SupaScared",
+    "player_location": "us",
+    "time": 2731,
+    "category": "X-Games%",
+    "region": "USA / NTSC",
+    "platform": "Xbox Series S",
+    "emulated": false
+  },
+  {
+    "id": "yw3l4npm",
+    "game": "skate.",
+    "player": "m1btlyz",
+    "player_location": "au",
+    "time": 2649,
+    "category": "X-Games%",
+    "region": null,
+    "platform": "Xbox One",
+    "emulated": false
+  },
+  {
+    "id": "z1ggp7wz",
+    "game": "skate.",
+    "player": "TropicalsBeach",
+    "player_location": "us",
+    "time": 2661,
+    "category": "X-Games%",
+    "region": "USA / NTSC",
+    "platform": "Xbox One",
+    "emulated": false
+  }
+]

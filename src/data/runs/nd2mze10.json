@@ -1,0 +1,57 @@
+[
+  {
+    "id": "y435vpdz",
+    "game": "World Heroes 2",
+    "player": "Peanutfan22",
+    "player_location": "us",
+    "time": 753,
+    "category": "SNES",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "yw4lpr3z",
+    "game": "World Heroes 2",
+    "player": "NerdyNester",
+    "player_location": "us",
+    "time": 726,
+    "category": "SNES",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "zp4e6o8z",
+    "game": "World Heroes 2",
+    "player": "DanEvilEye",
+    "player_location": "br",
+    "time": 866,
+    "category": "Neo Geo (MVS)",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y82wnr5y",
+    "game": "World Heroes 2",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 856,
+    "category": "SNES",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "me1w2j8y",
+    "game": "World Heroes 2",
+    "player": "ThaddeusMcKnight",
+    "player_location": "us",
+    "time": 1182,
+    "category": "SNES",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "y45jvrdm",
+    "game": "Cube Runner",
+    "player": "yohn",
+    "player_location": null,
+    "time": 336,
+    "category": "1 - 25",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mek5pj2m",
+    "game": "Cube Runner",
+    "player": "Sokks",
+    "player_location": null,
+    "time": 265,
+    "category": "1 - 25",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y2qp37jy",
+    "game": "Cube Runner",
+    "player": "DexterManson",
+    "player_location": "de",
+    "time": 242,
+    "category": "1 - 25",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y92klokz",
+    "game": "Cube Runner",
+    "player": "Mora",
+    "player_location": "us",
+    "time": 219,
+    "category": "1 - 25",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

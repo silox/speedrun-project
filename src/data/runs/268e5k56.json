@@ -1,0 +1,24 @@
+[
+  {
+    "id": "zq3vql1y",
+    "game": "WWF Rage in the Cage",
+    "player": "NerdyNester",
+    "player_location": "us",
+    "time": 727,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega CD",
+    "emulated": false
+  },
+  {
+    "id": "zp3jnxxm",
+    "game": "WWF Rage in the Cage",
+    "player": "WillWagnerMusic",
+    "player_location": "us",
+    "time": 770,
+    "category": "Tournament",
+    "region": "USA / NTSC",
+    "platform": "Sega CD",
+    "emulated": true
+  }
+]

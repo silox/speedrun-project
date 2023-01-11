@@ -1,0 +1,167 @@
+[
+  {
+    "id": "6yjw5o3m",
+    "game": "Master of Darkness",
+    "player": "btrim",
+    "player_location": "us",
+    "time": 1323,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Master System",
+    "emulated": false
+  },
+  {
+    "id": "0zn1vnlm",
+    "game": "Master of Darkness",
+    "player": "Rasmus_1990",
+    "player_location": "no",
+    "time": 1385,
+    "category": "Any% (SMS)",
+    "region": "USA / NTSC",
+    "platform": "Sega Master System",
+    "emulated": false
+  },
+  {
+    "id": "1zxgqqey",
+    "game": "Master of Darkness",
+    "player": "takojaki",
+    "player_location": "eu",
+    "time": 2266,
+    "category": "Any% (SMS)",
+    "region": "USA / NTSC",
+    "platform": "Sega Master System",
+    "emulated": false
+  },
+  {
+    "id": "yl9xov2y",
+    "game": "Master of Darkness",
+    "player": "KrisTheHedgehog",
+    "player_location": "fr",
+    "time": 1278,
+    "category": "Any% (SMS)",
+    "region": null,
+    "platform": "Sega Master System",
+    "emulated": true
+  },
+  {
+    "id": "zgnp140y",
+    "game": "Master of Darkness",
+    "player": "The_Retro_Challenger",
+    "player_location": "ca/qc",
+    "time": 1367,
+    "category": "Any% (SMS)",
+    "region": "USA / NTSC",
+    "platform": "Sega Master System",
+    "emulated": false
+  },
+  {
+    "id": "zq6l69ry",
+    "game": "Master of Darkness",
+    "player": "Pioneeri",
+    "player_location": "fi",
+    "time": 1581,
+    "category": "Any% (SMS)",
+    "region": "EUR / PAL",
+    "platform": "Sega Master System",
+    "emulated": true
+  },
+  {
+    "id": "yd63e2vz",
+    "game": "Master of Darkness",
+    "player": "ViviBloom",
+    "player_location": "us",
+    "time": 1268,
+    "category": "Any% (SMS)",
+    "region": "USA / NTSC",
+    "platform": "Sega Master System",
+    "emulated": false
+  },
+  {
+    "id": "ywdqkxnz",
+    "game": "Master of Darkness",
+    "player": "BoosterShane",
+    "player_location": "us",
+    "time": 1272,
+    "category": "Any% (SMS)",
+    "region": "USA / NTSC",
+    "platform": "Sega Master System",
+    "emulated": false
+  },
+  {
+    "id": "yl06x22y",
+    "game": "Master of Darkness",
+    "player": "RadManFromMars",
+    "player_location": "us",
+    "time": 1249,
+    "category": "Any% (SMS)",
+    "region": "USA / NTSC",
+    "platform": "Sega Master System",
+    "emulated": true
+  },
+  {
+    "id": "zqe60j8z",
+    "game": "Master of Darkness",
+    "player": "Quarbit",
+    "player_location": "ca",
+    "time": 1102,
+    "category": "Any% (SMS)",
+    "region": "USA / NTSC",
+    "platform": "Sega Master System",
+    "emulated": false
+  },
+  {
+    "id": "yd1pk4vy",
+    "game": "Master of Darkness",
+    "player": "callumbal",
+    "player_location": "gb/eng",
+    "time": 1093,
+    "category": "Any% (SMS)",
+    "region": "USA / NTSC",
+    "platform": "Sega Master System",
+    "emulated": false
+  },
+  {
+    "id": "yddjqkjy",
+    "game": "Master of Darkness",
+    "player": "SauloAndrade",
+    "player_location": "br",
+    "time": 1255,
+    "category": "Any% (SMS)",
+    "region": "USA / NTSC",
+    "platform": "Sega Master System",
+    "emulated": true
+  },
+  {
+    "id": "zgd243ez",
+    "game": "Master of Darkness",
+    "player": "cm5871",
+    "player_location": "us",
+    "time": 1452,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Game Gear",
+    "emulated": true
+  },
+  {
+    "id": "znp4eg8m",
+    "game": "Master of Darkness",
+    "player": "darkman425",
+    "player_location": "us",
+    "time": 1351,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Game Gear",
+    "emulated": true
+  },
+  {
+    "id": "z1geq59z",
+    "game": "Master of Darkness",
+    "player": "Brendorphin",
+    "player_location": null,
+    "time": 1620,
+    "category": "Any% (Game Gear)",
+    "region": "USA / NTSC",
+    "platform": "Sega Game Gear",
+    "emulated": true
+  }
+]

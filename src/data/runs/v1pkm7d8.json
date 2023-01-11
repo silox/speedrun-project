@@ -1,0 +1,24 @@
+[
+  {
+    "id": "mk4w4rly",
+    "game": "",
+    "player": "Media Pool",
+    "player_location": null,
+    "time": 8613,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "z111dgwz",
+    "game": "",
+    "player": "Lexifer",
+    "player_location": "ru",
+    "time": 10277,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  }
+]

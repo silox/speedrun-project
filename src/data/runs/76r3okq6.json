@@ -1,0 +1,79 @@
+[
+  {
+    "id": "z0ov294z",
+    "game": "",
+    "player": "seductivehat",
+    "player_location": null,
+    "time": 83,
+    "category": "any%",
+    "region": "USA / NTSC",
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "y6nk48qz",
+    "game": "",
+    "player": "sWinTuZ",
+    "player_location": "ru",
+    "time": 75,
+    "category": "any%",
+    "region": null,
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "ywjloq0z",
+    "game": "",
+    "player": "chona",
+    "player_location": "ar",
+    "time": 520,
+    "category": "any%",
+    "region": "BRA / PAL",
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "zpd8n7rz",
+    "game": "Escape Talking Ben",
+    "player": "robin_net",
+    "player_location": "fr",
+    "time": 60,
+    "category": "any%",
+    "region": "EUR / PAL",
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "znp4507m",
+    "game": "Escape Talking Ben",
+    "player": "Znix",
+    "player_location": "us",
+    "time": 170,
+    "category": "",
+    "region": null,
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "z52j2pgz",
+    "game": "Escape Talking Ben",
+    "player": "imshepy",
+    "player_location": "br",
+    "time": 271,
+    "category": "any%",
+    "region": "BRA / PAL",
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "znqownlz",
+    "game": "Escape Talking Ben",
+    "player": "Lucianoide",
+    "player_location": "ar",
+    "time": 70,
+    "category": "die%",
+    "region": null,
+    "platform": "Android",
+    "emulated": false
+  }
+]

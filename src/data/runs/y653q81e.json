@@ -1,0 +1,35 @@
+[
+  {
+    "id": "zxvo9jqy",
+    "game": "Puppeteer",
+    "player": "LaceyStripes",
+    "player_location": "au",
+    "time": 10692,
+    "category": "Boss Rush",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "pzgxleem",
+    "game": "Puppeteer",
+    "player": "jacargon",
+    "player_location": "au",
+    "time": 16715,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "yv3npe4z",
+    "game": "Puppeteer",
+    "player": "RavenSuzumiya",
+    "player_location": "mx",
+    "time": 15034,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  }
+]

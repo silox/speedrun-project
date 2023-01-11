@@ -1,0 +1,46 @@
+[
+  {
+    "id": "y6lqxn0y",
+    "game": "Rayman Raving Rabbids: TV Party",
+    "player": "BlueWill",
+    "player_location": "gb",
+    "time": 7220,
+    "category": "All cutscenes",
+    "region": "EUR / PAL",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "mkkgj31m",
+    "game": "Rayman Raving Rabbids: TV Party",
+    "player": "splatmy",
+    "player_location": "fr",
+    "time": 5391,
+    "category": "All cutscenes",
+    "region": "EUR / PAL",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "m750jo4z",
+    "game": "Rayman Raving Rabbids: TV Party",
+    "player": "Sex",
+    "player_location": "gn",
+    "time": 5910,
+    "category": "All cutscenes",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": true
+  },
+  {
+    "id": "yo3l9o1y",
+    "game": "Rayman Raving Rabbids: TV Party",
+    "player": "MorbyGanaWho",
+    "player_location": "gb/eng",
+    "time": 6460,
+    "category": "All cutscenes",
+    "region": "EUR / PAL",
+    "platform": "Wii U",
+    "emulated": false
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "nz156lgy",
+    "game": "",
+    "player": "SmilingSatyr",
+    "player_location": "us",
+    "time": 1960,
+    "category": "House%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "wzprlvrm",
+    "game": "",
+    "player": "Spookas_",
+    "player_location": "us",
+    "time": 2874,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "z570jgdm",
+    "game": "Haunting Starring Polterguy",
+    "player": "RetroGhoulie",
+    "player_location": "us",
+    "time": 3520,
+    "category": "House%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "yo606kdy",
+    "game": "Haunting Starring Polterguy",
+    "player": "stuffisstuff",
+    "player_location": "us",
+    "time": 2472,
+    "category": "House%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  }
+]

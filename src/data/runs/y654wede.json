@@ -1,0 +1,35 @@
+[
+  {
+    "id": "1zx0xqzx",
+    "game": "Star Ocean: The Last Hope",
+    "player": "rinimt",
+    "player_location": "us",
+    "time": 10730,
+    "category": "Any% Earth",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "nz113qjz",
+    "game": "Star Ocean: The Last Hope",
+    "player": "Pitted",
+    "player_location": "us",
+    "time": 10866,
+    "category": "Any% Galaxy",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "0y6k91qz",
+    "game": "Star Ocean: The Last Hope",
+    "player": "FumoFumoMeiling",
+    "player_location": "ca",
+    "time": 9216,
+    "category": "Any% Earth",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  }
+]

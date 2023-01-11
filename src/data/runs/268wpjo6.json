@@ -1,0 +1,35 @@
+[
+  {
+    "id": "y47jn42y",
+    "game": "Goodboy Galaxy",
+    "player": "Grylvak",
+    "player_location": null,
+    "time": 413,
+    "category": "Chapter 0 - Any %",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": false
+  },
+  {
+    "id": "mkeqg21m",
+    "game": "Goodboy Galaxy",
+    "player": "Aranea",
+    "player_location": null,
+    "time": 407,
+    "category": "Chapter 0 - Any %",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "ywkjkgny",
+    "game": "Goodboy Galaxy",
+    "player": "sleepycloud",
+    "player_location": "pa",
+    "time": 833,
+    "category": "",
+    "region": null,
+    "platform": "Game Boy Advance",
+    "emulated": true
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "yvg9dn4y",
+    "game": "",
+    "player": "AAGGAGAT",
+    "player_location": "br",
+    "time": 17846,
+    "category": "Easy Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "yl9q92ry",
+    "game": "",
+    "player": "Speeady",
+    "player_location": "ru",
+    "time": 5634,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "zxv79qqy",
+    "game": "Countdown Vampires",
+    "player": "clix_gaming",
+    "player_location": "us",
+    "time": 5063,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "y25o2gjy",
+    "game": "Countdown Vampires",
+    "player": "wolfdnc",
+    "player_location": "us",
+    "time": 4967,
+    "category": "Normal Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "y6rd850y",
+    "game": "Countdown Vampires",
+    "player": "Mr.Croft",
+    "player_location": "br",
+    "time": 4865,
+    "category": "Normal Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "yv86e5em",
+    "game": "Countdown Vampires",
+    "player": "JSR_",
+    "player_location": "us",
+    "time": 6102,
+    "category": "Easy Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "mk9pg8lz",
+    "game": "",
+    "player": "Ryxex",
+    "player_location": null,
+    "time": 1721,
+    "category": "Tower Completion",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zg7o5lez",
+    "game": "",
+    "player": "eternal0paradox",
+    "player_location": "br",
+    "time": 510,
+    "category": "",
+    "region": "BRA / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mexv768z",
+    "game": "Heartbound",
+    "player": "NiNeWind",
+    "player_location": "br",
+    "time": 531,
+    "category": "",
+    "region": "BRA / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z01lxxoy",
+    "game": "Heartbound",
+    "player": "KittenIsLive",
+    "player_location": "us",
+    "time": 476,
+    "category": "Defeat Barghest",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yj3dwwoz",
+    "game": "Heartbound",
+    "player": "Celticers",
+    "player_location": "ch",
+    "time": 1798.088,
+    "category": "Tower Completion",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y888j5wy",
+    "game": "Heartbound",
+    "player": "FeiticeiroDeAraqui",
+    "player_location": "br",
+    "time": 523,
+    "category": "Defeat Barghest",
+    "region": "BRA / PAL",
+    "platform": "PC",
+    "emulated": false
+  }
+]

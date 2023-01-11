@@ -1,0 +1,35 @@
+[
+  {
+    "id": "y81x0gwz",
+    "game": "",
+    "player": "IcKY",
+    "player_location": "us",
+    "time": 7864,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "yw466epz",
+    "game": "",
+    "player": "tuglaw",
+    "player_location": "pt",
+    "time": 10043,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "m7qneq0z",
+    "game": "",
+    "player": "mitjitsu",
+    "player_location": "gb/sct",
+    "time": 7595,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  }
+]

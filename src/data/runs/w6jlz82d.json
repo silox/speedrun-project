@@ -1,0 +1,35 @@
+[
+  {
+    "id": "yv3qk2ez",
+    "game": "IS -Infinite Stratos- Versus Colors",
+    "player": "Kirizaki_Akira",
+    "player_location": "jp",
+    "time": 282.61,
+    "category": "Tournament Any\uff05",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z5799d5m",
+    "game": "IS -Infinite Stratos- Versus Colors",
+    "player": "bre4th",
+    "player_location": "uy",
+    "time": 160.79,
+    "category": "Tournament Any\uff05",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y6lkeejy",
+    "game": "IS -Infinite Stratos- Versus Colors",
+    "player": "Litandus",
+    "player_location": "us",
+    "time": 168.1,
+    "category": "Tournament Any\uff05",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

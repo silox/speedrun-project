@@ -1,0 +1,134 @@
+[
+  {
+    "id": "ydev0wqm",
+    "game": "PsiloSybil",
+    "player": "samu_g05tz",
+    "player_location": "de",
+    "time": 216,
+    "category": "",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z5vok2dm",
+    "game": "PsiloSybil",
+    "player": "Bregermann",
+    "player_location": "us",
+    "time": 116,
+    "category": "",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "me16968y",
+    "game": "PsiloSybil",
+    "player": "AshRe_L",
+    "player_location": null,
+    "time": 100,
+    "category": "",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zxlv0eqz",
+    "game": "PsiloSybil",
+    "player": "Dereklander",
+    "player_location": null,
+    "time": 105,
+    "category": "",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yvq2jx8m",
+    "game": "PsiloSybil",
+    "player": "ThrasherDBS",
+    "player_location": "us",
+    "time": 111.97,
+    "category": "",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mrr3v37m",
+    "game": "PsiloSybil",
+    "player": "codie_sys",
+    "player_location": "br",
+    "time": 8.77,
+    "category": "Time Trial",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yl1kg83m",
+    "game": "PsiloSybil",
+    "player": "CourtDamageCtrl",
+    "player_location": "au",
+    "time": 8.99,
+    "category": "Time Trial",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y8xrl45m",
+    "game": "PsiloSybil",
+    "player": "ChickadeeVivi",
+    "player_location": "us",
+    "time": 8.85,
+    "category": "Time Trial",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yw6d650m",
+    "game": "PsiloSybil",
+    "player": "Haxaplax",
+    "player_location": "us",
+    "time": 61.21,
+    "category": "Time Trial",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yw6j28nm",
+    "game": "PsiloSybil",
+    "player": "Yutori_Inu",
+    "player_location": "jp",
+    "time": 50.62,
+    "category": "Time Trial",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mrr0q48m",
+    "game": "PsiloSybil",
+    "player": "SwitchCubed",
+    "player_location": "us",
+    "time": 41.15,
+    "category": "Time Trial",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yj867j3m",
+    "game": "PsiloSybil",
+    "player": "popcornparfait",
+    "player_location": "us",
+    "time": 2176.34,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  }
+]

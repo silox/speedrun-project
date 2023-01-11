@@ -1,0 +1,68 @@
+[
+  {
+    "id": "yw1jdr9z",
+    "game": "",
+    "player": "OldSchool_Richard",
+    "player_location": "se",
+    "time": 2148,
+    "category": "NES Trilogy run",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "yl9evl3y",
+    "game": "",
+    "player": "Arcus",
+    "player_location": "us",
+    "time": 2163,
+    "category": "NES Trilogy run",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "yvgr73ey",
+    "game": "",
+    "player": "WhiteHat94",
+    "player_location": "us",
+    "time": 2255,
+    "category": "NES Trilogy run",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "mk419wxy",
+    "game": "Multiple Ninja Gaiden games",
+    "player": "Beerfullofbelly",
+    "player_location": null,
+    "time": 2232,
+    "category": "NES Trilogy run",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "yv99jnxz",
+    "game": "Multiple Ninja Gaiden games",
+    "player": "Grayson1048",
+    "player_location": "mx",
+    "time": 25437,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "y8ewglxy",
+    "game": "Multiple Ninja Gaiden games",
+    "player": "knuckle_buster",
+    "player_location": "us",
+    "time": 2500,
+    "category": "NES Trilogy run",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "id": "yok7g45z",
+    "game": "Dragon Fighter",
+    "player": "k0zzx",
+    "player_location": "sr",
+    "time": 810,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "emkoqk3z",
+    "game": "Dragon Fighter",
+    "player": "Extraguy",
+    "player_location": "us",
+    "time": 927,
+    "category": "Any%",
+    "region": null,
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "zq7oq35m",
+    "game": "Dragon Fighter",
+    "player": "ANGEL_UNDEAD",
+    "player_location": "ru",
+    "time": 799,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "zxv9j6gy",
+    "game": "Dragon Fighter",
+    "player": "-Varm-",
+    "player_location": "us",
+    "time": 1638,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "m317le6z",
+    "game": "Dragon Fighter",
+    "player": "smartalec24",
+    "player_location": "us",
+    "time": 1028,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y21xqejz",
+    "game": "Dragon Fighter",
+    "player": "skateman222",
+    "player_location": "ca/qc",
+    "time": 882,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y6lo5l6y",
+    "game": "Dragon Fighter",
+    "player": "Pikachu",
+    "player_location": "ua",
+    "time": 808,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "zxke475m",
+    "game": "Dragon Fighter",
+    "player": "TwoCplus",
+    "player_location": "gr",
+    "time": 878,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "y93d8g2y",
+    "game": "Dragon Fighter",
+    "player": "MU---MINN",
+    "player_location": "jp",
+    "time": 839,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "y93jwgry",
+    "game": "Dragon Fighter",
+    "player": "KoodBool",
+    "player_location": "fr",
+    "time": 864,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y2047w6m",
+    "game": "Dragon Fighter",
+    "player": "Chimp",
+    "player_location": "us",
+    "time": 827,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y889v7dy",
+    "game": "Dragon Fighter",
+    "player": "zeugman",
+    "player_location": "fr",
+    "time": 802,
+    "category": "Any%",
+    "region": null,
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  }
+]

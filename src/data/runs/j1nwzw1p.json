@@ -1,0 +1,68 @@
+[
+  {
+    "id": "emkweo1m",
+    "game": "",
+    "player": "IlluminaTea",
+    "player_location": "us",
+    "time": 372,
+    "category": "Spelling Bee Any%, 4 Players",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "wzpoo0gm",
+    "game": "",
+    "player": "JoyfulFireball",
+    "player_location": "us",
+    "time": 351,
+    "category": "Spelling Bee Any%, 4 Players",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "z5o79j5y",
+    "game": "Scripps Spelling Bee",
+    "player": "samue1",
+    "player_location": "us",
+    "time": 1300,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "y45go6qm",
+    "game": "Scripps Spelling Bee",
+    "player": "SCPatrick",
+    "player_location": "us",
+    "time": 1106,
+    "category": "Spelling Bee Any%, 1 Player",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "zq6ql0xy",
+    "game": "Scripps Spelling Bee",
+    "player": "Wilf",
+    "player_location": "gb/eng",
+    "time": 355,
+    "category": "Spelling Bee Any%, 4 Players",
+    "region": "EUR / PAL",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "zx2x1pkm",
+    "game": "Scripps Spelling Bee",
+    "player": "TradeMarked",
+    "player_location": "us",
+    "time": 340,
+    "category": "Spelling Bee Any%, 4 Players",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  }
+]

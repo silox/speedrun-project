@@ -1,0 +1,46 @@
+[
+  {
+    "id": "zp2wq4xy",
+    "game": "",
+    "player": "manticor5",
+    "player_location": "cl",
+    "time": 762,
+    "category": "Any% 1 Player (1 Loop)",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yv08g2oz",
+    "game": "",
+    "player": "Ellimist",
+    "player_location": "us",
+    "time": 778,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "znqe8elz",
+    "game": "Sand Scorpion",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 820,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yl1gp33m",
+    "game": "Sand Scorpion",
+    "player": "HosteL",
+    "player_location": "ru",
+    "time": 743,
+    "category": "Any% 1 Player (1 Loop)",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

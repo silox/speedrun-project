@@ -1,0 +1,57 @@
+[
+  {
+    "id": "y8187vwz",
+    "game": "Fitness Boxing",
+    "player": "Usyuuu",
+    "player_location": "jp",
+    "time": 4327,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "yw8g1eny",
+    "game": "Fitness Boxing",
+    "player": "HERO_PECO",
+    "player_location": "jp",
+    "time": 4050,
+    "category": "30 Star",
+    "region": "JPN / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "m78o79ez",
+    "game": "Fitness Boxing",
+    "player": "BrunoLate98",
+    "player_location": "mx",
+    "time": 3912,
+    "category": "",
+    "region": null,
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "zn03eply",
+    "game": "Fitness Boxing",
+    "player": "GamesB4Gains",
+    "player_location": "us",
+    "time": 4923,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "y4765qqy",
+    "game": "Fitness Boxing",
+    "player": "UncleSamPatriot",
+    "player_location": "fi",
+    "time": 5718,
+    "category": "All Music (No break)",
+    "region": null,
+    "platform": "Switch",
+    "emulated": false
+  }
+]

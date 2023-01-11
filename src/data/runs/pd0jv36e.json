@@ -1,0 +1,68 @@
+[
+  {
+    "id": "8y8o2qwm",
+    "game": "ChuChu Rocket!",
+    "player": "Naegleria",
+    "player_location": "ca",
+    "time": 530,
+    "category": "Stage Challenge",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "ywpk512z",
+    "game": "ChuChu Rocket!",
+    "player": "AaronDobbe",
+    "player_location": "us",
+    "time": 489,
+    "category": "Stage Challenge",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "m37rkpdz",
+    "game": "ChuChu Rocket!",
+    "player": "stellasion",
+    "player_location": "jp",
+    "time": 389,
+    "category": "Stage Challenge",
+    "region": "JPN / NTSC",
+    "platform": "Wii U Virtual Console",
+    "emulated": false
+  },
+  {
+    "id": "yd52xewm",
+    "game": "ChuChu Rocket!",
+    "player": "SamWhich",
+    "player_location": "kz",
+    "time": 420,
+    "category": "Stage Challenge",
+    "region": null,
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "zqg33gxm",
+    "game": "ChuChu Rocket!",
+    "player": "cheekychunk",
+    "player_location": null,
+    "time": 510,
+    "category": "Stage Challenge",
+    "region": "EUR / PAL",
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "z1xonjwm",
+    "game": "ChuChu Rocket!",
+    "player": "miso_nicomi",
+    "player_location": "jp",
+    "time": 435,
+    "category": "Stage Challenge",
+    "region": "JPN / NTSC",
+    "platform": "Wii U Virtual Console",
+    "emulated": false
+  }
+]

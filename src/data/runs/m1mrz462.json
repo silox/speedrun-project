@@ -1,0 +1,101 @@
+[
+  {
+    "id": "yvgqr44y",
+    "game": "Megadimension Neptunia VIIR",
+    "player": "zfresh",
+    "player_location": "us",
+    "time": 10697,
+    "category": "Any Patch",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "zxvo9xqy",
+    "game": "Megadimension Neptunia VIIR",
+    "player": "Wdog-999",
+    "player_location": "us",
+    "time": 20790,
+    "category": "Any Patch",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "y2q9j7wy",
+    "game": "Megadimension Neptunia VIIR",
+    "player": "ChoZox",
+    "player_location": "us",
+    "time": 8711,
+    "category": "Any Patch",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "mk9268lz",
+    "game": "Megadimension Neptunia VIIR",
+    "player": "Yuuri_",
+    "player_location": "fr",
+    "time": 9504,
+    "category": "Any Patch",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "ydqk4rxm",
+    "game": "Megadimension Neptunia VIIR",
+    "player": "Hexi",
+    "player_location": "gb",
+    "time": 17461,
+    "category": "Current Patch",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "zxo8rlgz",
+    "game": "Megadimension Neptunia VIIR",
+    "player": "Worldie",
+    "player_location": "it",
+    "time": 11199,
+    "category": "Current Patch",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 4 Pro",
+    "emulated": false
+  },
+  {
+    "id": "zn0qk7vy",
+    "game": "Megadimension Neptunia VIIR",
+    "player": "Veloalopus",
+    "player_location": "us",
+    "time": 14879,
+    "category": "Current Patch",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zqvewn8m",
+    "game": "Megadimension Neptunia VIIR",
+    "player": "Fulton_Boss",
+    "player_location": "mx",
+    "time": 9686,
+    "category": "Current Patch",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z5dkqrdm",
+    "game": "Megadimension Neptunia VIIR",
+    "player": "IIvgmII",
+    "player_location": "us",
+    "time": 9469,
+    "category": "Current Patch",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

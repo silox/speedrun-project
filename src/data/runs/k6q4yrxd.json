@@ -1,0 +1,57 @@
+[
+  {
+    "id": "yvjld4ey",
+    "game": "Tetris Blast",
+    "player": "NihilistComedyHour",
+    "player_location": "eo",
+    "time": 2847,
+    "category": "Contest",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "zp4w19nz",
+    "game": "Tetris Blast",
+    "player": "Xealous",
+    "player_location": null,
+    "time": 1275,
+    "category": "Contest",
+    "region": "JPN / NTSC",
+    "platform": "Super Game Boy 2",
+    "emulated": false
+  },
+  {
+    "id": "m78k19wz",
+    "game": "Tetris Blast",
+    "player": "DrRhythm",
+    "player_location": null,
+    "time": 1249,
+    "category": "Contest",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Player",
+    "emulated": false
+  },
+  {
+    "id": "y6n7k06z",
+    "game": "Tetris Blast",
+    "player": "Blackflag82",
+    "player_location": "us",
+    "time": 1136,
+    "category": "Contest",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Player",
+    "emulated": false
+  },
+  {
+    "id": "z0l6ww4z",
+    "game": "Tetris Blast",
+    "player": "DonAtreides",
+    "player_location": "us",
+    "time": 1238,
+    "category": "Contest",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  }
+]

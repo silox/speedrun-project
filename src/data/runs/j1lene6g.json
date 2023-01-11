@@ -1,0 +1,90 @@
+[
+  {
+    "id": "zgnwg2jy",
+    "game": "HAL's Hole in One Golf",
+    "player": "TurbulentEddie",
+    "player_location": null,
+    "time": 739,
+    "category": "Stroke Play - Professional",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "zgnwv5ny",
+    "game": "HAL's Hole in One Golf",
+    "player": "JkLoser",
+    "player_location": "se",
+    "time": 708,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "m3dk0lgz",
+    "game": "HAL's Hole in One Golf",
+    "player": "Ossra",
+    "player_location": "us",
+    "time": 832,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "y2q9849y",
+    "game": "HAL's Hole in One Golf",
+    "player": "NihilistComedyHour",
+    "player_location": "eo",
+    "time": 1232,
+    "category": "Stroke Play - Amateur",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "y92eo2nz",
+    "game": "HAL's Hole in One Golf",
+    "player": "hyo24",
+    "player_location": "us",
+    "time": 771,
+    "category": "Stroke Play - Amateur",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "z1140pwz",
+    "game": "HAL's Hole in One Golf",
+    "player": "YogiBearback",
+    "player_location": "us",
+    "time": 819,
+    "category": "Stroke Play - Amateur",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "yoj1qojm",
+    "game": "HAL's Hole in One Golf",
+    "player": "z_tox",
+    "player_location": "us",
+    "time": 797,
+    "category": "Stroke Play - Amateur",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "yo77gd1m",
+    "game": "HAL's Hole in One Golf",
+    "player": "Su",
+    "player_location": "jp",
+    "time": 682,
+    "category": "Stroke Play - Amateur",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  }
+]

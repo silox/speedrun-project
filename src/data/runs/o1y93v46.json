@@ -1,0 +1,79 @@
+[
+  {
+    "id": "zq6ng05y",
+    "game": "",
+    "player": "Sm_Izumi",
+    "player_location": "fr",
+    "time": 1326,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yj38ngnz",
+    "game": "Mutation Nation",
+    "player": "RitaH",
+    "player_location": "br",
+    "time": 2038,
+    "category": "Coop",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y4wqkk3m",
+    "game": "Mutation Nation",
+    "player": "Peanutfan22",
+    "player_location": "us",
+    "time": 2041,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "mk306p1z",
+    "game": "Mutation Nation",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 1889,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z066v6oz",
+    "game": "Mutation Nation",
+    "player": "gheb",
+    "player_location": null,
+    "time": 1520,
+    "category": "",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zgx18wem",
+    "game": "Mutation Nation",
+    "player": "sky-18",
+    "player_location": "jp",
+    "time": 1187,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": false
+  },
+  {
+    "id": "yv0nkg8z",
+    "game": "Mutation Nation",
+    "player": "MCRJ",
+    "player_location": "br",
+    "time": 1140,
+    "category": "1CC",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "id": "z064g38z",
+    "game": "Street Fighter: The Movie",
+    "player": "NintenLew",
+    "player_location": "gb/eng",
+    "time": 1184,
+    "category": "Street Battle",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "yorevrjy",
+    "game": "Street Fighter: The Movie",
+    "player": "MUSICnGAMING",
+    "player_location": "us",
+    "time": 942,
+    "category": "Street Battle",
+    "region": "USA / NTSC",
+    "platform": "MiSTer",
+    "emulated": false
+  },
+  {
+    "id": "yorx72dy",
+    "game": "Street Fighter: The Movie",
+    "player": "orig4mi",
+    "player_location": "de",
+    "time": 1123,
+    "category": "Street Battle",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "yjxedq7z",
+    "game": "Street Fighter: The Movie",
+    "player": "Habble",
+    "player_location": "au",
+    "time": 1059,
+    "category": "Street Battle",
+    "region": "USA / NTSC",
+    "platform": "MiSTer",
+    "emulated": false
+  },
+  {
+    "id": "zq05x18y",
+    "game": "Street Fighter: The Movie",
+    "player": "Conspiratorial",
+    "player_location": "us",
+    "time": 719,
+    "category": "Arcade Release",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zq0nw6ry",
+    "game": "Street Fighter: The Movie",
+    "player": "Edo_87",
+    "player_location": "cl",
+    "time": 696,
+    "category": "Arcade Release",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zq0o4oxy",
+    "game": "Street Fighter: The Movie",
+    "player": "konitama",
+    "player_location": "jp",
+    "time": 795,
+    "category": "Movie Battle",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "mken3o1m",
+    "game": "Street Fighter: The Movie",
+    "player": "NerdyNester",
+    "player_location": "us",
+    "time": 1207,
+    "category": "Street Battle",
+    "region": "USA / NTSC",
+    "platform": "MiSTer",
+    "emulated": false
+  },
+  {
+    "id": "zp9lnpvm",
+    "game": "Street Fighter: The Movie",
+    "player": "ParallaxMKChile",
+    "player_location": "cl",
+    "time": 659,
+    "category": "Arcade Release",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "mkd5613y",
+    "game": "Street Fighter: The Movie",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 1028,
+    "category": "Street Battle",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "y2ek829y",
+    "game": "Street Fighter: The Movie",
+    "player": "Marius150PL",
+    "player_location": "pl",
+    "time": 675,
+    "category": "Arcade Release",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

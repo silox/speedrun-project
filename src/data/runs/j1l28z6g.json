@@ -1,0 +1,24 @@
+[
+  {
+    "id": "znkx6d9z",
+    "game": "Medabots Infinity",
+    "player": "dellett",
+    "player_location": "us",
+    "time": 39820,
+    "category": "Any%",
+    "region": null,
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "yo94n71y",
+    "game": "Medabots Infinity",
+    "player": "core4512",
+    "player_location": "jp",
+    "time": 23594,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  }
+]

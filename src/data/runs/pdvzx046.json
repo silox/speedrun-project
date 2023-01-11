@@ -1,0 +1,35 @@
+[
+  {
+    "id": "y669711y",
+    "game": "Digimon Card Game Teaching App",
+    "player": "TatsuyaDakimakura",
+    "player_location": "au",
+    "time": 1109,
+    "category": "100%",
+    "region": null,
+    "platform": "Android",
+    "emulated": true
+  },
+  {
+    "id": "y201d5wm",
+    "game": "Digimon Card Game Teaching App",
+    "player": "BlackDove001",
+    "player_location": "us",
+    "time": 904,
+    "category": "100%",
+    "region": "USA / NTSC",
+    "platform": "Android",
+    "emulated": true
+  },
+  {
+    "id": "z5xx2l5y",
+    "game": "Digimon Card Game Teaching App",
+    "player": "DBcade",
+    "player_location": "jp",
+    "time": 995,
+    "category": "100%",
+    "region": "JPN / NTSC",
+    "platform": "iOS",
+    "emulated": false
+  }
+]

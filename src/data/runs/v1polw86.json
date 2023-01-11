@@ -1,0 +1,90 @@
+[
+  {
+    "id": "mekp04qm",
+    "game": "",
+    "player": "jzpig102",
+    "player_location": "us",
+    "time": 887,
+    "category": "Any% - no Mods",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "m3d2v06z",
+    "game": "",
+    "player": "weebmeister",
+    "player_location": "us",
+    "time": 384,
+    "category": "Any% - no Mods",
+    "region": null,
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "m359oqdy",
+    "game": "",
+    "player": "SSJ4Affleck",
+    "player_location": "ca",
+    "time": 143,
+    "category": "Any% - with Mods",
+    "region": null,
+    "platform": "Game Boy Advance",
+    "emulated": false
+  },
+  {
+    "id": "y41pj22y",
+    "game": "",
+    "player": "DBcade",
+    "player_location": "jp",
+    "time": 419,
+    "category": "Any% - no Mods",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "z5j51p5m",
+    "game": "Dragon Ball Z: Taiketsu",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 137,
+    "category": "Any% - with Mods",
+    "region": null,
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "y259qg5y",
+    "game": "Dragon Ball Z: Taiketsu",
+    "player": "Nazgurath",
+    "player_location": null,
+    "time": 172,
+    "category": "Any% - with Mods",
+    "region": null,
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "me6v3p0z",
+    "game": "Dragon Ball Z: Taiketsu",
+    "player": "MortimerNova",
+    "player_location": "us",
+    "time": 523,
+    "category": "Any% - no Mods",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "yleev33z",
+    "game": "Dragon Ball Z: Taiketsu",
+    "player": "notdonknotts",
+    "player_location": "us",
+    "time": 144,
+    "category": "Any% - with Mods",
+    "region": null,
+    "platform": "Game Boy Advance",
+    "emulated": true
+  }
+]

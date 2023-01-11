@@ -1,0 +1,134 @@
+[
+  {
+    "id": "z125kvgy",
+    "game": "Tales of Arise",
+    "player": "Vesperax",
+    "player_location": "us",
+    "time": 9763,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z1xq5ljm",
+    "game": "Tales of Arise",
+    "player": "secretbunnyninja",
+    "player_location": "us",
+    "time": 12840,
+    "category": "New Game+",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 5",
+    "emulated": false
+  },
+  {
+    "id": "y27jv8wz",
+    "game": "Tales of Arise",
+    "player": "Loloup",
+    "player_location": "ca/qc",
+    "time": 38948,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mr71908z",
+    "game": "Tales of Arise",
+    "player": "FlashNain",
+    "player_location": "fr",
+    "time": 9899,
+    "category": "New Game+",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zgr0vdnm",
+    "game": "Tales of Arise",
+    "player": "putmeinasandwich",
+    "player_location": "us",
+    "time": 17426,
+    "category": "New Game",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y47lv6dy",
+    "game": "Tales of Arise",
+    "player": "AAA0000",
+    "player_location": "kr",
+    "time": 23356,
+    "category": "New Game",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yjp5oo3y",
+    "game": "Tales of Arise",
+    "player": "braster515",
+    "player_location": "jp",
+    "time": 20058,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m36nwrgm",
+    "game": "Tales of Arise",
+    "player": "anon1234",
+    "player_location": null,
+    "time": 20141,
+    "category": "New Game+",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "mr6x907m",
+    "game": "Tales of Arise",
+    "player": "bastionlol",
+    "player_location": null,
+    "time": 10652,
+    "category": "New Game+",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z127q6jy",
+    "game": "Tales of Arise",
+    "player": "GreenJL",
+    "player_location": "us",
+    "time": 10543,
+    "category": "New Game+",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y206r3wm",
+    "game": "Tales of Arise",
+    "player": "retired_jeff",
+    "player_location": "se",
+    "time": 17966,
+    "category": "New Game+",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "zq73xl9m",
+    "game": "Tales of Arise",
+    "player": "LightningLeon",
+    "player_location": "us",
+    "time": 12986,
+    "category": "New Game+",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

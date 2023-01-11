@@ -1,0 +1,145 @@
+[
+  {
+    "id": "y97190km",
+    "game": "Motocross Maniacs",
+    "player": "MattyJ311",
+    "player_location": "us",
+    "time": 1036,
+    "category": "Solo All Course No Glitching - A",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "mr8j2n7y",
+    "game": "Motocross Maniacs",
+    "player": "MigJmz",
+    "player_location": "us",
+    "time": 53.42,
+    "category": "Glitch Level A",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "mk4xqgly",
+    "game": "Motocross Maniacs",
+    "player": "Choup",
+    "player_location": "ch",
+    "time": 57.44,
+    "category": "Glitch Level A",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "z130k37m",
+    "game": "Motocross Maniacs",
+    "player": "bensweeneyonbass",
+    "player_location": "us",
+    "time": 73.94,
+    "category": "Level A",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Player",
+    "emulated": false
+  },
+  {
+    "id": "y6714w1m",
+    "game": "Motocross Maniacs",
+    "player": "Tob\u00fcr",
+    "player_location": "pt",
+    "time": 53.42,
+    "category": "Glitch Level A",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "y2q9n0jy",
+    "game": "Motocross Maniacs",
+    "player": "smartalec24",
+    "player_location": "us",
+    "time": 935,
+    "category": "Solo All Course No Glitching - A",
+    "region": "USA / NTSC",
+    "platform": "Super Game Boy 2",
+    "emulated": false
+  },
+  {
+    "id": "zqrj9j1y",
+    "game": "Motocross Maniacs",
+    "player": "adrianus",
+    "player_location": "ch",
+    "time": 1051,
+    "category": "Solo All Course No Glitching - A",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "yjlpoodz",
+    "game": "Motocross Maniacs",
+    "player": "SerSanju",
+    "player_location": "es",
+    "time": 868,
+    "category": "All course any% v/s com - A",
+    "region": null,
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "yv6q618z",
+    "game": "Motocross Maniacs",
+    "player": "Maiguels",
+    "player_location": "es",
+    "time": 1071,
+    "category": "Solo All Course No Glitching - A",
+    "region": null,
+    "platform": "Game Boy Player",
+    "emulated": true
+  },
+  {
+    "id": "z5jn4wdm",
+    "game": "Motocross Maniacs",
+    "player": "MortimerNova",
+    "player_location": "us",
+    "time": 76.006,
+    "category": "Level A",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "ywdg7onz",
+    "game": "Motocross Maniacs",
+    "player": "DrLambda",
+    "player_location": "de",
+    "time": 54.28,
+    "category": "Glitch Level A",
+    "region": "EUR / PAL",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "yjgw1d7y",
+    "game": "Motocross Maniacs",
+    "player": "JuegAriel",
+    "player_location": "es",
+    "time": 970,
+    "category": "Solo All Course No Glitching - A",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Player",
+    "emulated": true
+  },
+  {
+    "id": "z5v4r15m",
+    "game": "Motocross Maniacs",
+    "player": "Eldroth_",
+    "player_location": "fr",
+    "time": 67.96,
+    "category": "Level A",
+    "region": null,
+    "platform": "Game Boy Player",
+    "emulated": false
+  }
+]

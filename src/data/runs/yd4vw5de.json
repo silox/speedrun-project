@@ -1,0 +1,112 @@
+[
+  {
+    "id": "nz18pvjy",
+    "game": "Bust-A-Move '99",
+    "player": "JimothyJimJam",
+    "player_location": null,
+    "time": 157,
+    "category": "Challenge Mode!",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": true
+  },
+  {
+    "id": "pzge1nny",
+    "game": "Bust-A-Move '99",
+    "player": "Shawne25",
+    "player_location": "us",
+    "time": 115,
+    "category": "Challenge Mode!",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": false
+  },
+  {
+    "id": "yo4pjv0m",
+    "game": "Bust-A-Move '99",
+    "player": "ruunix2",
+    "player_location": "us",
+    "time": 117,
+    "category": "Challenge Mode!",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": false
+  },
+  {
+    "id": "y2qv0g5y",
+    "game": "Bust-A-Move '99",
+    "player": "MeridianPrime",
+    "player_location": "nl",
+    "time": 1980,
+    "category": "Puzzle Mode Normal",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": false
+  },
+  {
+    "id": "zq3d265y",
+    "game": "Bust-A-Move '99",
+    "player": "Namesblank",
+    "player_location": "ca",
+    "time": 126,
+    "category": "Puzzle Mode Practice",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": true
+  },
+  {
+    "id": "zgwg7pjy",
+    "game": "Bust-A-Move '99",
+    "player": "Unreal704",
+    "player_location": "us",
+    "time": 329,
+    "category": "Vs CPU Normal",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": false
+  },
+  {
+    "id": "yv6dn18z",
+    "game": "Bust-A-Move '99",
+    "player": "MortimerNova",
+    "player_location": "us",
+    "time": 157,
+    "category": "Puzzle Mode Practice",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": true
+  },
+  {
+    "id": "mk829kxm",
+    "game": "Bust-A-Move '99",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 105,
+    "category": "Puzzle Mode Practice",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": true
+  },
+  {
+    "id": "y8rw54dm",
+    "game": "Bust-A-Move '99",
+    "player": "AirAngel",
+    "player_location": "us",
+    "time": 115,
+    "category": "Puzzle Mode Practice",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": false
+  },
+  {
+    "id": "me3e1d2z",
+    "game": "Bust-A-Move '99",
+    "player": "JoePulito",
+    "player_location": "us",
+    "time": 82,
+    "category": "Puzzle Mode Practice",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": false
+  }
+]

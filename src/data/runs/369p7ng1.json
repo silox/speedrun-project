@@ -1,0 +1,57 @@
+[
+  {
+    "id": "y9229r2z",
+    "game": "Top Gun",
+    "player": "JSR_",
+    "player_location": "us",
+    "time": 1676.8,
+    "category": "Beat the game",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y82l0o5y",
+    "game": "Top Gun",
+    "player": "Rash",
+    "player_location": "ru",
+    "time": 1490,
+    "category": "Beat the game",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "y43vev3z",
+    "game": "Top Gun",
+    "player": "catsonurhead",
+    "player_location": "us",
+    "time": 1507,
+    "category": "Beat the game",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zxorvnqz",
+    "game": "Top Gun",
+    "player": "the8bitFitz",
+    "player_location": "us",
+    "time": 1797,
+    "category": "Beat the game",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "yw6d4r3m",
+    "game": "Top Gun",
+    "player": "Throgg",
+    "player_location": "us",
+    "time": 1762,
+    "category": "Deathless",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  }
+]

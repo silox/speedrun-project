@@ -1,0 +1,35 @@
+[
+  {
+    "id": "pydwwexm",
+    "game": "Digimon World Data Squad",
+    "player": "NoNameDude",
+    "player_location": "ca",
+    "time": 19907,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "yj4ll1dy",
+    "game": "Digimon World Data Squad",
+    "player": "ZChaotix",
+    "player_location": "us",
+    "time": 18912,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "z15k22wy",
+    "game": "Digimon World Data Squad",
+    "player": "caffeinatedpolygons",
+    "player_location": "us",
+    "time": 26604,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  }
+]

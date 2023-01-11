@@ -1,0 +1,200 @@
+[
+  {
+    "id": "z5orv4ey",
+    "game": "High Seas Havoc",
+    "player": "RantronBomb",
+    "player_location": null,
+    "time": 416,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "ydqlq4vm",
+    "game": "High Seas Havoc",
+    "player": "clix_gaming",
+    "player_location": "us",
+    "time": 358,
+    "category": "Any% NTSC",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "zgn8krny",
+    "game": "High Seas Havoc",
+    "player": "faulteroyy",
+    "player_location": "ca",
+    "time": 368,
+    "category": "Any% NTSC",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "yd6383jz",
+    "game": "High Seas Havoc",
+    "player": "SpaceCow",
+    "player_location": "us",
+    "time": 359,
+    "category": "Any% NTSC",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "z03oq2oz",
+    "game": "High Seas Havoc",
+    "player": "Defanged_Develon",
+    "player_location": "gi",
+    "time": 353,
+    "category": "Any% NTSC",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "znreep7y",
+    "game": "High Seas Havoc",
+    "player": "Sagaz",
+    "player_location": "fr",
+    "time": 359,
+    "category": "Any% NTSC",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "yl0pxeny",
+    "game": "High Seas Havoc",
+    "player": "janglestorm",
+    "player_location": "nl",
+    "time": 437,
+    "category": "Any% NTSC",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "mrk8qo8y",
+    "game": "High Seas Havoc",
+    "player": "smartalec24",
+    "player_location": "us",
+    "time": 436,
+    "category": "Any% NTSC",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "z156pd7y",
+    "game": "High Seas Havoc",
+    "player": "DGR",
+    "player_location": "us",
+    "time": 368,
+    "category": "Any% NTSC",
+    "region": null,
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "zpl812xm",
+    "game": "High Seas Havoc",
+    "player": "dagronSR",
+    "player_location": "ca",
+    "time": 349,
+    "category": "Any% NTSC",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "z1xj267m",
+    "game": "High Seas Havoc",
+    "player": "Uncle_Hambone",
+    "player_location": "us",
+    "time": 358,
+    "category": "Any% NTSC",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "yo94wl5y",
+    "game": "High Seas Havoc",
+    "player": "Woody036",
+    "player_location": "rs",
+    "time": 427,
+    "category": "Any% NTSC",
+    "region": null,
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "z06d9j8z",
+    "game": "High Seas Havoc",
+    "player": "SteveZero",
+    "player_location": "us",
+    "time": 360,
+    "category": "Any% NTSC",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "znoen1ly",
+    "game": "High Seas Havoc",
+    "player": "Tarukai788",
+    "player_location": "us",
+    "time": 543,
+    "category": "Any% NTSC",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "yjddl33y",
+    "game": "High Seas Havoc",
+    "player": "WhiteHat94",
+    "player_location": "us",
+    "time": 1425,
+    "category": "Any% NTSC",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "y9xprpky",
+    "game": "High Seas Havoc",
+    "player": "Chubbus",
+    "player_location": "us",
+    "time": 1558,
+    "category": "Any% NTSC",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "znql9r8z",
+    "game": "High Seas Havoc",
+    "player": "Profesorteto69",
+    "player_location": "ar",
+    "time": 347,
+    "category": "Any% NTSC",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "y80343nm",
+    "game": "High Seas Havoc",
+    "player": "wax_house",
+    "player_location": "us",
+    "time": 367,
+    "category": "Any% NTSC",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "id": "9me1ql3y",
+    "game": "PuLiRuLa",
+    "player": "dollaboy",
+    "player_location": "us",
+    "time": 794,
+    "category": "1P Any%",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": false
+  },
+  {
+    "id": "m79d9x5y",
+    "game": "PuLiRuLa",
+    "player": "AlfredoSalza",
+    "player_location": "cl",
+    "time": 718,
+    "category": "1P Any%",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yvg8ojoy",
+    "game": "PuLiRuLa",
+    "player": "Jefestrefe",
+    "player_location": null,
+    "time": 755,
+    "category": "1P Any%",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zq62lk8y",
+    "game": "PuLiRuLa",
+    "player": "OldWorldGamer",
+    "player_location": "ca",
+    "time": 883,
+    "category": "1P Any%",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yl4w9okm",
+    "game": "PuLiRuLa",
+    "player": "FlameChocobo",
+    "player_location": "us",
+    "time": 690,
+    "category": "1P Any%",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z01jlnoy",
+    "game": "PuLiRuLa",
+    "player": "RitaH",
+    "player_location": "br",
+    "time": 902,
+    "category": "2P Any%",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z06ewqoz",
+    "game": "PuLiRuLa",
+    "player": "Thatchbro",
+    "player_location": "no",
+    "time": 679,
+    "category": "1P Any%",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "ydr41dxz",
+    "game": "PuLiRuLa",
+    "player": "Sonikkustar",
+    "player_location": "us",
+    "time": 699,
+    "category": "1P Any%",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "m7627wey",
+    "game": "PuLiRuLa",
+    "player": "Yakata",
+    "player_location": "jp",
+    "time": 597,
+    "category": "1P Any%",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": false
+  },
+  {
+    "id": "y60xj46y",
+    "game": "PuLiRuLa",
+    "player": "manticor5",
+    "player_location": "cl",
+    "time": 899,
+    "category": "1P Any%",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yv0r1gez",
+    "game": "PuLiRuLa",
+    "player": "Ellimist",
+    "player_location": "us",
+    "time": 782,
+    "category": "2P Any%",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

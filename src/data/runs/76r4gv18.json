@@ -1,0 +1,57 @@
+[
+  {
+    "id": "0y6k26qz",
+    "game": "",
+    "player": "Dugongue",
+    "player_location": "us",
+    "time": 236,
+    "category": "Puzzle (Easy)",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "1zqxq85y",
+    "game": "",
+    "player": "GKJA",
+    "player_location": "au",
+    "time": 174,
+    "category": "Puzzle (Easy)",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "yd0v3e0z",
+    "game": "",
+    "player": "AirAngel",
+    "player_location": "us",
+    "time": 210,
+    "category": "Puzzle (Easy)",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "ydr5rnvz",
+    "game": "Puzzle Bobble Millennium",
+    "player": "Funny_Animal_Gamer",
+    "player_location": "us",
+    "time": 145,
+    "category": "Puzzle (Easy)",
+    "region": null,
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "m7xrvj5y",
+    "game": "Puzzle Bobble Millennium",
+    "player": "callumeme",
+    "player_location": "gb/eng",
+    "time": 129,
+    "category": "Puzzle (Easy)",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  }
+]

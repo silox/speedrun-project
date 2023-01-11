@@ -1,0 +1,68 @@
+[
+  {
+    "id": "jy97p4em",
+    "game": "GT Advance 2: Rally Racing",
+    "player": "Dugongue",
+    "player_location": "us",
+    "time": 38.44,
+    "category": "Leg 1",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "z5jq8ngm",
+    "game": "GT Advance 2: Rally Racing",
+    "player": "gamergeek35",
+    "player_location": "us",
+    "time": 28.62,
+    "category": "Leg 1",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "y6pdnq0m",
+    "game": "GT Advance 2: Rally Racing",
+    "player": "ViperUK",
+    "player_location": "gb/eng",
+    "time": 4068,
+    "category": "Championship%",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "y43x9qkz",
+    "game": "GT Advance 2: Rally Racing",
+    "player": "meauxdal",
+    "player_location": "us",
+    "time": 36.95,
+    "category": "Leg 1",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Interface",
+    "emulated": false
+  },
+  {
+    "id": "z07dv2ey",
+    "game": "GT Advance 2: Rally Racing",
+    "player": "rusto",
+    "player_location": "us",
+    "time": 25.97,
+    "category": "Leg 1",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "y90rg2ky",
+    "game": "GT Advance 2: Rally Racing",
+    "player": "dtm",
+    "player_location": "us",
+    "time": 28.28,
+    "category": "Leg 1",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Interface",
+    "emulated": false
+  }
+]

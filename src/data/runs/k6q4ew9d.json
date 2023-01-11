@@ -1,0 +1,79 @@
+[
+  {
+    "id": "mr4nvg8z",
+    "game": "YAPP: Yet Another Puzzle Platformer",
+    "player": "doctorbattle",
+    "player_location": "us",
+    "time": 62.4,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y8ve975z",
+    "game": "YAPP: Yet Another Puzzle Platformer",
+    "player": "Punch",
+    "player_location": "us",
+    "time": 72.59,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zgx6dp0m",
+    "game": "YAPP: Yet Another Puzzle Platformer",
+    "player": "StarlitEternity",
+    "player_location": "us",
+    "time": 66.82,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y8v1445z",
+    "game": "YAPP: Yet Another Puzzle Platformer",
+    "player": "Thomas93",
+    "player_location": "us",
+    "time": 1158.96,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y42182km",
+    "game": "YAPP: Yet Another Puzzle Platformer",
+    "player": "BittSea",
+    "player_location": "us",
+    "time": 737.79,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zgxk8dnm",
+    "game": "YAPP: Yet Another Puzzle Platformer",
+    "player": "kylekanga",
+    "player_location": "ca",
+    "time": 233.8,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zgxx41vm",
+    "game": "YAPP: Yet Another Puzzle Platformer",
+    "player": "CaseHenson",
+    "player_location": "us",
+    "time": 205.34,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

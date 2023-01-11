@@ -1,0 +1,46 @@
+[
+  {
+    "id": "8y824n1y",
+    "game": "Valis III (Genesis)",
+    "player": "cornshaq",
+    "player_location": "us",
+    "time": 1160,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "8y825jwy",
+    "game": "Valis III (Genesis)",
+    "player": "takojaki",
+    "player_location": "eu",
+    "time": 1138,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "8y8oedwm",
+    "game": "Valis III (Genesis)",
+    "player": "Shardykar",
+    "player_location": null,
+    "time": 992,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "zgwxj70y",
+    "game": "Valis III (Genesis)",
+    "player": "z_tox",
+    "player_location": "us",
+    "time": 1083,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  }
+]

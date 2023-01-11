@@ -1,0 +1,57 @@
+[
+  {
+    "id": "z0ew2d8m",
+    "game": "Crack Down",
+    "player": "Aureus_Lunae",
+    "player_location": "nl",
+    "time": 834,
+    "category": "any%",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "8y854jxy",
+    "game": "Crack Down",
+    "player": "Arcree",
+    "player_location": "fr",
+    "time": 835,
+    "category": "any%",
+    "region": null,
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "z1373vwm",
+    "game": "Crack Down",
+    "player": "oddtom",
+    "player_location": "us",
+    "time": 964,
+    "category": "any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "zn0d0e8y",
+    "game": "Crack Down",
+    "player": "MaxisMozark",
+    "player_location": "us",
+    "time": 831,
+    "category": "any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "y8e5eg1y",
+    "game": "Crack Down",
+    "player": "Dick_Danza",
+    "player_location": "us",
+    "time": 1157,
+    "category": "any% co-op",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "y2q2l76y",
+    "game": "Fullmetal Alchemist 2: Curse of the Crimson Elixir",
+    "player": "EZScape",
+    "player_location": "us",
+    "time": 9155,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "m3oojw4m",
+    "game": "Fullmetal Alchemist 2: Curse of the Crimson Elixir",
+    "player": "ikepenguin",
+    "player_location": "jp",
+    "time": 9782,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zx4x1v8y",
+    "game": "Fullmetal Alchemist 2: Curse of the Crimson Elixir",
+    "player": "IGM",
+    "player_location": "mx",
+    "time": 11148,
+    "category": "Any%",
+    "region": null,
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "yj319k7z",
+    "game": "Fullmetal Alchemist 2: Curse of the Crimson Elixir",
+    "player": "jv-max",
+    "player_location": "br",
+    "time": 9735,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "m753g89z",
+    "game": "Fullmetal Alchemist 2: Curse of the Crimson Elixir",
+    "player": "Jnadare",
+    "player_location": "jp",
+    "time": 8589,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y48j16km",
+    "game": "Fullmetal Alchemist 2: Curse of the Crimson Elixir",
+    "player": "Kevy1885",
+    "player_location": "us",
+    "time": 8529,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  }
+]

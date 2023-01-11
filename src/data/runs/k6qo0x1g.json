@@ -1,0 +1,112 @@
+[
+  {
+    "id": "pm3w1k4y",
+    "game": "Street Fighter EX Plus Alpha",
+    "player": "Shikitin",
+    "player_location": "es",
+    "time": 800,
+    "category": "Arcade",
+    "region": "EUR / PAL",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "nz17qqrz",
+    "game": "Street Fighter EX Plus Alpha",
+    "player": "WeaponLord",
+    "player_location": null,
+    "time": 650,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "yw12j82z",
+    "game": "Street Fighter EX Plus Alpha",
+    "player": "YT_Veritas0923",
+    "player_location": "ca",
+    "time": 914,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "z0ldgkez",
+    "game": "Street Fighter EX Plus Alpha",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 28.61,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "z124vq7y",
+    "game": "Street Fighter EX Plus Alpha",
+    "player": "Mech-Akuma",
+    "player_location": "ar",
+    "time": 19.37,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "y82l851y",
+    "game": "Street Fighter EX Plus Alpha",
+    "player": "KaktusPrime",
+    "player_location": "nz",
+    "time": 511,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "ylv92qxm",
+    "game": "Street Fighter EX Plus Alpha",
+    "player": "frbnash",
+    "player_location": "br",
+    "time": 528,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "mr60pk4m",
+    "game": "Street Fighter EX Plus Alpha",
+    "player": "Habble",
+    "player_location": "au",
+    "time": 36,
+    "category": "Time Attack",
+    "region": "USA / NTSC",
+    "platform": "MiSTer",
+    "emulated": false
+  },
+  {
+    "id": "m36wl0gm",
+    "game": "Street Fighter EX Plus Alpha",
+    "player": "DKRAGE",
+    "player_location": "br",
+    "time": 591,
+    "category": "",
+    "region": null,
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "zp2erjxy",
+    "game": "Street Fighter EX Plus Alpha",
+    "player": "NerdyNester",
+    "player_location": "us",
+    "time": 697,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "MiSTer",
+    "emulated": false
+  }
+]

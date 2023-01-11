@@ -1,0 +1,79 @@
+[
+  {
+    "id": "0zn6157y",
+    "game": "Yu-Gi-Oh! Power of Chaos",
+    "player": "Daniel_1RD",
+    "player_location": "dk",
+    "time": 251,
+    "category": "Yugi the Destiny",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "9medjoqy",
+    "game": "Yu-Gi-Oh! Power of Chaos",
+    "player": "Mergy",
+    "player_location": "de",
+    "time": 109,
+    "category": "Yugi the Destiny",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "7z042poy",
+    "game": "Yu-Gi-Oh! Power of Chaos",
+    "player": "r4nd0mz_____________",
+    "player_location": null,
+    "time": 69,
+    "category": "Joey the Passion",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mek0d5qm",
+    "game": "Yu-Gi-Oh! Power of Chaos",
+    "player": "BadNewsNate",
+    "player_location": "us",
+    "time": 55,
+    "category": "Joey the Passion",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zgnj5ojy",
+    "game": "Yu-Gi-Oh! Power of Chaos",
+    "player": "GenericMadScientist",
+    "player_location": "gb/sct",
+    "time": 31.98,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zpr7npvm",
+    "game": "Yu-Gi-Oh! Power of Chaos",
+    "player": "RonaldoRP",
+    "player_location": "br",
+    "time": 132,
+    "category": "",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y8rl37xm",
+    "game": "Yu-Gi-Oh! Power of Chaos",
+    "player": "9nine",
+    "player_location": "br",
+    "time": 432.13,
+    "category": "Yugi the Destiny",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

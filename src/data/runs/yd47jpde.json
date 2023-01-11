@@ -1,0 +1,90 @@
+[
+  {
+    "id": "jy9209ez",
+    "game": "Yoshi's Fruit Cart",
+    "player": "Dawnlover72",
+    "player_location": "us",
+    "time": 320,
+    "category": "1-10",
+    "region": "USA / NTSC",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "nz1kl19y",
+    "game": "Yoshi's Fruit Cart",
+    "player": "Luvbaseball58",
+    "player_location": "us",
+    "time": 307,
+    "category": "1-10",
+    "region": null,
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "m3rjo1gm",
+    "game": "Yoshi's Fruit Cart",
+    "player": "Vallu",
+    "player_location": "fi",
+    "time": 151,
+    "category": "1-10",
+    "region": "EUR / PAL",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "7z0g32jy",
+    "game": "Yoshi's Fruit Cart",
+    "player": "50Minutes",
+    "player_location": "us",
+    "time": 245,
+    "category": "1-10",
+    "region": "USA / NTSC",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "y67x8v6m",
+    "game": "Yoshi's Fruit Cart",
+    "player": "Aruzard",
+    "player_location": "je",
+    "time": 311,
+    "category": "1-10",
+    "region": "EUR / PAL",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "y25xpe5y",
+    "game": "Yoshi's Fruit Cart",
+    "player": "ironninja1116",
+    "player_location": "us",
+    "time": 414,
+    "category": "1-10",
+    "region": "USA / NTSC",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "m78rxg9z",
+    "game": "Yoshi's Fruit Cart",
+    "player": "AidanToad",
+    "player_location": "us",
+    "time": 199,
+    "category": "1-10",
+    "region": "USA / NTSC",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "zn1q0llm",
+    "game": "Yoshi's Fruit Cart",
+    "player": "Fortuna151",
+    "player_location": "ca",
+    "time": 367,
+    "category": "All Levels",
+    "region": null,
+    "platform": "Wii U",
+    "emulated": false
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "pzgjngvz",
+    "game": "Gemfire",
+    "player": "Scottimus432",
+    "player_location": null,
+    "time": 2430,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y952x1nz",
+    "game": "Gemfire",
+    "player": "Anko",
+    "player_location": "ru",
+    "time": 327,
+    "category": "any% (Genesis)",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "y816pxdz",
+    "game": "Gemfire",
+    "player": "Tavetendo",
+    "player_location": "us",
+    "time": 716,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y8198w1z",
+    "game": "Gemfire",
+    "player": "sYn",
+    "player_location": "us",
+    "time": 503,
+    "category": "any% (Genesis)",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "zqwno9rz",
+    "game": "Gemfire",
+    "player": "JacoboTheChocobo",
+    "player_location": "us",
+    "time": 272,
+    "category": "any% (Genesis)",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "yopv560m",
+    "game": "Contra Revenge of the Red Falcon",
+    "player": "k1ngk0opa",
+    "player_location": "mx",
+    "time": 3804,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "yw34dr0m",
+    "game": "Contra Revenge of the Red Falcon",
+    "player": "TheMexicanRunner",
+    "player_location": "mx",
+    "time": 3298,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zp94lxxm",
+    "game": "Contra Revenge of the Red Falcon",
+    "player": "LittleMIXER",
+    "player_location": null,
+    "time": 6277,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "mr7er3gz",
+    "game": "Contra Revenge of the Red Falcon",
+    "player": "MEGADAN29",
+    "player_location": null,
+    "time": 4600,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "me3ojr2z",
+    "game": "Contra Revenge of the Red Falcon",
+    "player": "Retronomicon",
+    "player_location": null,
+    "time": 2950,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  }
+]

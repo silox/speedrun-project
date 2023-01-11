@@ -1,0 +1,90 @@
+[
+  {
+    "id": "z032l84z",
+    "game": "Omega Quintet",
+    "player": "DLH112",
+    "player_location": "us",
+    "time": 3350,
+    "category": "New Game Plus",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4 Pro",
+    "emulated": false
+  },
+  {
+    "id": "z0e7vp8m",
+    "game": "Omega Quintet",
+    "player": "heikin_fan_club",
+    "player_location": "jp",
+    "time": 10523,
+    "category": "New Game",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "m3d8o9qz",
+    "game": "Omega Quintet",
+    "player": "auroraflow12",
+    "player_location": "us",
+    "time": 12374,
+    "category": "New Game",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "y236v47m",
+    "game": "Omega Quintet",
+    "player": "Dabomstew",
+    "player_location": "nz",
+    "time": 3505,
+    "category": "New Game Plus",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "z01lvk9y",
+    "game": "Omega Quintet",
+    "player": "mrsancini",
+    "player_location": "br",
+    "time": 8761,
+    "category": "New Game Plus",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "mr163egz",
+    "game": "Omega Quintet",
+    "player": "AaronEsP11",
+    "player_location": "es",
+    "time": 7845,
+    "category": "New Game",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 5",
+    "emulated": false
+  },
+  {
+    "id": "yo7eg55m",
+    "game": "Omega Quintet",
+    "player": "Worldie",
+    "player_location": "it",
+    "time": 11784,
+    "category": "New Game",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 5",
+    "emulated": false
+  },
+  {
+    "id": "yv1pxgey",
+    "game": "Omega Quintet",
+    "player": "Fulton_Boss",
+    "player_location": "mx",
+    "time": 9224,
+    "category": "New Game",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  }
+]

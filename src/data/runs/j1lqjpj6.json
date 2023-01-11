@@ -1,0 +1,90 @@
+[
+  {
+    "id": "y9v3q0em",
+    "game": "Croc's World 3",
+    "player": "Big_Guy1234",
+    "player_location": null,
+    "time": 1602,
+    "category": "Levels 1-15 Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z522e4jz",
+    "game": "Croc's World 3",
+    "player": "turcocriss",
+    "player_location": "ru",
+    "time": 32,
+    "category": "Level 1 Any%",
+    "region": null,
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "zx78p15y",
+    "game": "Croc's World 3",
+    "player": "Captain_Pig4",
+    "player_location": "us",
+    "time": 25.91,
+    "category": "Level 1 Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "znpq6vlm",
+    "game": "Croc's World 3",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 26,
+    "category": "Level 1 Any%",
+    "region": null,
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "zgpldpez",
+    "game": "Croc's World 3",
+    "player": "yoboy1uk",
+    "player_location": "gb/eng",
+    "time": 27.65,
+    "category": "Level 1 Any%",
+    "region": "EUR / PAL",
+    "platform": "Xbox One",
+    "emulated": false
+  },
+  {
+    "id": "m3xd5lwm",
+    "game": "Croc's World 3",
+    "player": "TheFatDiabetic",
+    "player_location": null,
+    "time": 25.95,
+    "category": "Level 1 Any%",
+    "region": null,
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "y8xrp71m",
+    "game": "Croc's World 3",
+    "player": "ZED_E_HellisoN",
+    "player_location": "iq",
+    "time": 25.62,
+    "category": "Level 1 Any%",
+    "region": null,
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "meev1lqm",
+    "game": "Croc's World 3",
+    "player": "jerrinth3glitch",
+    "player_location": "us",
+    "time": 790,
+    "category": "Levels 1-15 Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  }
+]

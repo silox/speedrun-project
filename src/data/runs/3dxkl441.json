@@ -1,0 +1,57 @@
+[
+  {
+    "id": "y6nj9n0z",
+    "game": "Richest Deal ",
+    "player": "TRLittleToaster",
+    "player_location": "us",
+    "time": 85,
+    "category": "Accept Bank Offer",
+    "region": null,
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "zxl5ox8z",
+    "game": "Richest Deal ",
+    "player": "Act_",
+    "player_location": "us",
+    "time": 78,
+    "category": "Accept Bank Offer",
+    "region": "USA / NTSC",
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "y9lqlevy",
+    "game": "Richest Deal ",
+    "player": "supercrazestar",
+    "player_location": "sg",
+    "time": 76,
+    "category": "Accept Bank Offer",
+    "region": null,
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "zgp7o0vz",
+    "game": "Richest Deal ",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 75,
+    "category": "Accept Bank Offer",
+    "region": null,
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "ydgqgxwy",
+    "game": "Richest Deal ",
+    "player": "Zambrini",
+    "player_location": "us",
+    "time": 75,
+    "category": "Accept Bank Offer",
+    "region": "USA / NTSC",
+    "platform": "iOS",
+    "emulated": false
+  }
+]

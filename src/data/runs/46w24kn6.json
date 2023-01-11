@@ -1,0 +1,35 @@
+[
+  {
+    "id": "yv0g1qez",
+    "game": "Ruthless Smile",
+    "player": "Lebkuchen",
+    "player_location": "kz",
+    "time": 17.249,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yl1o1o2m",
+    "game": "Ruthless Smile",
+    "player": "Tegron",
+    "player_location": "pl",
+    "time": 31.333,
+    "category": "Ep 0: Story that someone breaks",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "znjk9glm",
+    "game": "Ruthless Smile",
+    "player": "Baking_cOokie",
+    "player_location": "hr",
+    "time": 209,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

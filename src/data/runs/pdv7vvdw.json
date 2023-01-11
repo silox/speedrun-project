@@ -1,0 +1,46 @@
+[
+  {
+    "id": "pyd1r6vy",
+    "game": "",
+    "player": "puri_puri",
+    "player_location": "us",
+    "time": 11524,
+    "category": "Kill the Animals",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "8y8xv51m",
+    "game": "",
+    "player": "Tiffanyspeedruns",
+    "player_location": "us",
+    "time": 11757,
+    "category": "Kill the Animals",
+    "region": null,
+    "platform": "Dreamcast",
+    "emulated": true
+  },
+  {
+    "id": "y2dlgo9z",
+    "game": "Seventh Cross Evolution",
+    "player": "fusecv",
+    "player_location": null,
+    "time": 5354,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  },
+  {
+    "id": "y2v1xljz",
+    "game": "Seventh Cross Evolution",
+    "player": "7thAce",
+    "player_location": "us",
+    "time": 5380,
+    "category": "Kill the Animals",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  }
+]

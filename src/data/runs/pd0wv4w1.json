@@ -1,0 +1,123 @@
+[
+  {
+    "id": "yjlw763z",
+    "game": "Monster Train",
+    "player": "never_nathaniel",
+    "player_location": "de",
+    "time": 430,
+    "category": "Single Runs",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yv6ljl4z",
+    "game": "Monster Train",
+    "player": "Cinis",
+    "player_location": "us",
+    "time": 249,
+    "category": "Single Runs",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "ylkjo73z",
+    "game": "Monster Train",
+    "player": "Narninian",
+    "player_location": "us",
+    "time": 408,
+    "category": "Single Runs",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mr4k187z",
+    "game": "Monster Train",
+    "player": "vn497",
+    "player_location": "ca",
+    "time": 343,
+    "category": "Misc",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y2vgn76z",
+    "game": "Monster Train",
+    "player": "MrJollyWeeper",
+    "player_location": "us",
+    "time": 279,
+    "category": "Single Runs",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yo98n87y",
+    "game": "Monster Train",
+    "player": "Medoras",
+    "player_location": "fr",
+    "time": 245,
+    "category": "Single Runs",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y205rp7m",
+    "game": "Monster Train",
+    "player": "iiDynastyFTW2",
+    "player_location": null,
+    "time": 235,
+    "category": "Single Runs",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m7w7j14z",
+    "game": "Monster Train",
+    "player": "Zrightning",
+    "player_location": "be",
+    "time": 616,
+    "category": "Single Runs",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mkek023m",
+    "game": "Monster Train",
+    "player": "Shadow_Quill",
+    "player_location": "us",
+    "time": 1440,
+    "category": "Single Runs",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yjxnd5oz",
+    "game": "Monster Train",
+    "player": "TwitchyTucker",
+    "player_location": "us",
+    "time": 224,
+    "category": "Misc",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yddo7wwy",
+    "game": "Monster Train",
+    "player": "GoodraGoo",
+    "player_location": "us",
+    "time": 295,
+    "category": "Single Runs",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

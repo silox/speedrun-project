@@ -1,0 +1,46 @@
+[
+  {
+    "id": "0y65o0z7",
+    "game": "Phantasy Star Online Episode III: C.A.R.D. Revolution",
+    "player": "Ryock",
+    "player_location": "us",
+    "time": 11520,
+    "category": "Hero Side",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "pydrjvzn",
+    "game": "Phantasy Star Online Episode III: C.A.R.D. Revolution",
+    "player": "greenounet",
+    "player_location": "fr",
+    "time": 10800,
+    "category": "Hero Side",
+    "region": "EUR / PAL",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "emk94klz",
+    "game": "Phantasy Star Online Episode III: C.A.R.D. Revolution",
+    "player": "ShiftaDeband",
+    "player_location": "us",
+    "time": 12420,
+    "category": "Hero Side",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "z111669z",
+    "game": "Phantasy Star Online Episode III: C.A.R.D. Revolution",
+    "player": "Gigobooma",
+    "player_location": "us",
+    "time": 10094,
+    "category": "Hero Side",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  }
+]

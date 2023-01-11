@@ -1,0 +1,156 @@
+[
+  {
+    "id": "y8qg5xdy",
+    "game": "Meteos",
+    "player": "PokeeMay",
+    "player_location": "gb/eng",
+    "time": 359.888,
+    "category": "Straight Star Trip",
+    "region": "EUR / PAL",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "zpq9wq8y",
+    "game": "Meteos",
+    "player": "Albcatmastercat",
+    "player_location": "br",
+    "time": 299.93,
+    "category": "Straight Star Trip",
+    "region": "EUR / PAL",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "zn89k97z",
+    "game": "Meteos",
+    "player": "FurretTurret",
+    "player_location": "us",
+    "time": 327.55,
+    "category": "Straight Star Trip",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "y67goqjm",
+    "game": "Meteos",
+    "player": "caeonosphere",
+    "player_location": "us",
+    "time": 238.784,
+    "category": "Straight Star Trip",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "zq6pj99y",
+    "game": "Meteos",
+    "player": "FusRoYay",
+    "player_location": "ca",
+    "time": 352.36,
+    "category": "Straight Star Trip",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "m7ppdg0m",
+    "game": "Meteos",
+    "player": "El_Nacho",
+    "player_location": "cr",
+    "time": 280.11,
+    "category": "Straight Star Trip",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "zn48wpvm",
+    "game": "Meteos",
+    "player": "LarviStar",
+    "player_location": "us",
+    "time": 316,
+    "category": "Branch Star Trip",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "y6pgdnjm",
+    "game": "Meteos",
+    "player": "Stick_Luigi",
+    "player_location": "br",
+    "time": 721.9,
+    "category": "Straight Star Trip",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "znrrqkly",
+    "game": "Meteos",
+    "player": "TheWWMResident",
+    "player_location": "fr",
+    "time": 271.68,
+    "category": "Straight Star Trip",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "meoe6v3z",
+    "game": "Meteos",
+    "player": "Yeofoxeon",
+    "player_location": "us",
+    "time": 480.413,
+    "category": "Multi Star Trip",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "zn3ov89y",
+    "game": "Meteos",
+    "player": "RakdosLOR",
+    "player_location": "my",
+    "time": 290.85,
+    "category": "Straight Star Trip",
+    "region": "EUR / PAL",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "y936jqry",
+    "game": "Meteos",
+    "player": "weedfish",
+    "player_location": "si",
+    "time": 238.183,
+    "category": "Straight Star Trip",
+    "region": "EUR / PAL",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "mrokp82m",
+    "game": "Meteos",
+    "player": "ktg5",
+    "player_location": "us",
+    "time": 297.97,
+    "category": "Branch Star Trip",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "zgqdppvy",
+    "game": "Meteos",
+    "player": "makuda",
+    "player_location": "jp",
+    "time": 347.01,
+    "category": "Straight Star Trip",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "0y6qdk6z",
+    "game": "Stone Protectors",
+    "player": "Christian Hanner",
+    "player_location": null,
+    "time": 3392,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "m7646vwy",
+    "game": "Stone Protectors",
+    "player": "Technickle_",
+    "player_location": "us",
+    "time": 1518,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "yo4rwv5m",
+    "game": "Stone Protectors",
+    "player": "cornshaq",
+    "player_location": "us",
+    "time": 2146,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "mk3o091z",
+    "game": "Stone Protectors",
+    "player": "miyafuji311",
+    "player_location": "us",
+    "time": 1587,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "SNES Classic Mini",
+    "emulated": true
+  },
+  {
+    "id": "zgw76lny",
+    "game": "Stone Protectors",
+    "player": "Ahzuri",
+    "player_location": "us",
+    "time": 2044,
+    "category": "Co-op%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y65pjvjz",
+    "game": "Stone Protectors",
+    "player": "Cykette",
+    "player_location": "us",
+    "time": 1826,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  }
+]

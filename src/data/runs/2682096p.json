@@ -1,0 +1,90 @@
+[
+  {
+    "id": "9mr1r6gz",
+    "game": "",
+    "player": "Trysdyn",
+    "player_location": null,
+    "time": 1173,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Famicom",
+    "emulated": true
+  },
+  {
+    "id": "1zxg8ley",
+    "game": "",
+    "player": "Krzysiobal",
+    "player_location": null,
+    "time": 1275,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Famicom",
+    "emulated": false
+  },
+  {
+    "id": "2yw2nopy",
+    "game": "",
+    "player": "Spiderweb__",
+    "player_location": "us",
+    "time": 1834,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Famicom",
+    "emulated": false
+  },
+  {
+    "id": "yl9j70xy",
+    "game": "Doki! Doki! Yuenchi: Crazy Land Daisakusen",
+    "player": "soulJY",
+    "player_location": "cn",
+    "time": 1031,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Famicom",
+    "emulated": true
+  },
+  {
+    "id": "zxvrgvgy",
+    "game": "Doki! Doki! Yuenchi: Crazy Land Daisakusen",
+    "player": "tstyle1991",
+    "player_location": "pl",
+    "time": 1137,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Famicom",
+    "emulated": false
+  },
+  {
+    "id": "y65d18pz",
+    "game": "Doki! Doki! Yuenchi: Crazy Land Daisakusen",
+    "player": "Zhrakula",
+    "player_location": "aq",
+    "time": 958,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Famicom",
+    "emulated": true
+  },
+  {
+    "id": "m7g80k9m",
+    "game": "Doki! Doki! Yuenchi: Crazy Land Daisakusen",
+    "player": "Kat_kunoichi",
+    "player_location": "it",
+    "time": 1053,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Famicom",
+    "emulated": false
+  },
+  {
+    "id": "yjx4d3oz",
+    "game": "Doki! Doki! Yuenchi: Crazy Land Daisakusen",
+    "player": "JosephHTobinJr",
+    "player_location": "ru",
+    "time": 951,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Famicom",
+    "emulated": true
+  }
+]

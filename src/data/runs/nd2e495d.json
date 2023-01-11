@@ -1,0 +1,35 @@
+[
+  {
+    "id": "meorq2qz",
+    "game": "Ken Griffey Jr.'s Slugfest",
+    "player": "woodenspoon",
+    "player_location": "us",
+    "time": 214,
+    "category": "Home Run Derby",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": false
+  },
+  {
+    "id": "ywk1jk9y",
+    "game": "Ken Griffey Jr.'s Slugfest",
+    "player": "winkmarket",
+    "player_location": "us",
+    "time": 214,
+    "category": "Home Run Derby",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": false
+  },
+  {
+    "id": "y9lggo2y",
+    "game": "Ken Griffey Jr.'s Slugfest",
+    "player": "Duck_avenger",
+    "player_location": "us",
+    "time": 949,
+    "category": "Lose A Game",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": true
+  }
+]

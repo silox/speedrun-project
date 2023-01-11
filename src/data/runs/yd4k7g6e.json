@@ -1,0 +1,90 @@
+[
+  {
+    "id": "dy4djqqy",
+    "game": "Kid Icarus: of Myths and Monsters",
+    "player": "Jorf",
+    "player_location": "ca",
+    "time": 1264,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "emk4l3xy",
+    "game": "Kid Icarus: of Myths and Monsters",
+    "player": "PHatHome666",
+    "player_location": "us",
+    "time": 1947,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Game Boy",
+    "emulated": false
+  },
+  {
+    "id": "7yl5q42z",
+    "game": "Kid Icarus: of Myths and Monsters",
+    "player": "ZorlaxSeven",
+    "player_location": "us",
+    "time": 1179,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "ydqvg9xm",
+    "game": "Kid Icarus: of Myths and Monsters",
+    "player": "Burb",
+    "player_location": "se",
+    "time": 1764,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": false
+  },
+  {
+    "id": "m7p8569m",
+    "game": "Kid Icarus: of Myths and Monsters",
+    "player": "Witchs_Hex",
+    "player_location": null,
+    "time": 1797,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": false
+  },
+  {
+    "id": "zplgglgm",
+    "game": "Kid Icarus: of Myths and Monsters",
+    "player": "JuegAriel",
+    "player_location": "es",
+    "time": 1658,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "y8rj931m",
+    "game": "Kid Icarus: of Myths and Monsters",
+    "player": "smartalec24",
+    "player_location": "us",
+    "time": 1719,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Game Boy 2",
+    "emulated": false
+  },
+  {
+    "id": "ylevndkz",
+    "game": "Kid Icarus: of Myths and Monsters",
+    "player": "Sharpless_",
+    "player_location": "us",
+    "time": 1457,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  }
+]

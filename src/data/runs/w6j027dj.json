@@ -1,0 +1,123 @@
+[
+  {
+    "id": "z5j0695m",
+    "game": "Gradius: The Interstellar Assault",
+    "player": "LeeBoon",
+    "player_location": "it",
+    "time": 1092,
+    "category": "Easy%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "zqwg5xrz",
+    "game": "Gradius: The Interstellar Assault",
+    "player": "TheMotherBrain86",
+    "player_location": "nl",
+    "time": 1128,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "yv625woz",
+    "game": "Gradius: The Interstellar Assault",
+    "player": "Dugongue",
+    "player_location": "us",
+    "time": 1287,
+    "category": "Easy%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "y25pd39y",
+    "game": "Gradius: The Interstellar Assault",
+    "player": "NeetSuhiro",
+    "player_location": "jp",
+    "time": 1064,
+    "category": "Hard%",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy",
+    "emulated": false
+  },
+  {
+    "id": "zx2l2eqm",
+    "game": "Gradius: The Interstellar Assault",
+    "player": "xenkaroshi",
+    "player_location": "se",
+    "time": 1077,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "m35x23wy",
+    "game": "Gradius: The Interstellar Assault",
+    "player": "Kraidster",
+    "player_location": "se",
+    "time": 1070,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "zgv22vdz",
+    "game": "Gradius: The Interstellar Assault",
+    "player": "JuegAriel",
+    "player_location": "es",
+    "time": 1099,
+    "category": "Easy%",
+    "region": "EUR / PAL",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "yo37de5y",
+    "game": "Gradius: The Interstellar Assault",
+    "player": "Atroz",
+    "player_location": "us",
+    "time": 1068.583,
+    "category": "Easy%",
+    "region": "EUR / PAL",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "zq40gk5m",
+    "game": "Gradius: The Interstellar Assault",
+    "player": "smartalec24",
+    "player_location": "us",
+    "time": 1115,
+    "category": "Easy%",
+    "region": "JPN / NTSC",
+    "platform": "Super Game Boy 2",
+    "emulated": false
+  },
+  {
+    "id": "yj6xwedz",
+    "game": "Gradius: The Interstellar Assault",
+    "player": "Oreb7",
+    "player_location": "se",
+    "time": 1085,
+    "category": "Easy%",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "zqv0nd8m",
+    "game": "Gradius: The Interstellar Assault",
+    "player": "SevenHeavenHaven",
+    "player_location": "us",
+    "time": 1167,
+    "category": "Easy%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  }
+]

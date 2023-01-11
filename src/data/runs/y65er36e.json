@@ -1,0 +1,79 @@
+[
+  {
+    "id": "znrw6r7y",
+    "game": "Samurai Warriors 2",
+    "player": "witchakorn",
+    "player_location": "th",
+    "time": 1787,
+    "category": "Mitsuhide Akechi",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "z05oxr4m",
+    "game": "Samurai Warriors 2",
+    "player": "diamine",
+    "player_location": "jp",
+    "time": 2219,
+    "category": "Ginchiyo Tachibana (NG)",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "yd0on6jz",
+    "game": "Samurai Warriors 2",
+    "player": "beS",
+    "player_location": "ru",
+    "time": 1399,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y42nrpdm",
+    "game": "Samurai Warriors 2",
+    "player": "lord_tvoeu_ass",
+    "player_location": "ru",
+    "time": 1220,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z0o0qkoz",
+    "game": "Samurai Warriors 2",
+    "player": "SazMichael",
+    "player_location": "id",
+    "time": 402.49,
+    "category": "1st Force",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yjpjp3oy",
+    "game": "Samurai Warriors 2",
+    "player": "Andreas_mangwana",
+    "player_location": "ke",
+    "time": 1726,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "mkdv7dxy",
+    "game": "Samurai Warriors 2",
+    "player": "abokrsh",
+    "player_location": "sa",
+    "time": 304,
+    "category": "1st Force",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "id": "yoj3kl5m",
+    "game": "",
+    "player": "Zaxon96",
+    "player_location": "us",
+    "time": 429,
+    "category": "Beat the game",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "y6lr3qjy",
+    "game": "",
+    "player": "JoeyBaby69",
+    "player_location": "us",
+    "time": 447,
+    "category": "Beat the game",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "z1j571wz",
+    "game": "",
+    "player": "chronoon",
+    "player_location": "us",
+    "time": 545,
+    "category": "Beat the game",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "z1jovv9z",
+    "game": "Mystic Defender",
+    "player": "Mannix86",
+    "player_location": "ca",
+    "time": 555,
+    "category": "Beat the game",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "zxkdq8qm",
+    "game": "Mystic Defender",
+    "player": "Chubbus",
+    "player_location": "us",
+    "time": 503,
+    "category": "Beat the game",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "m7q5dkwz",
+    "game": "Mystic Defender",
+    "player": "turbogilman",
+    "player_location": "us",
+    "time": 606,
+    "category": "Beat the game",
+    "region": "JPN / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "m7gxp89m",
+    "game": "Mystic Defender",
+    "player": "kronoschiarini",
+    "player_location": "br",
+    "time": 1594,
+    "category": "Beat the game",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  }
+]

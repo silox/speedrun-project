@@ -1,0 +1,57 @@
+[
+  {
+    "id": "pzgq280y",
+    "game": "Moomin's Tale",
+    "player": "Elgu",
+    "player_location": "eu",
+    "time": 82,
+    "category": "Beat the level",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Color",
+    "emulated": false
+  },
+  {
+    "id": "0znq1jlz",
+    "game": "Moomin's Tale",
+    "player": "ParallaxDG",
+    "player_location": "ca",
+    "time": 205,
+    "category": "Beat the level",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "zgvdegvz",
+    "game": "Moomin's Tale",
+    "player": "Pudzila",
+    "player_location": null,
+    "time": 28632,
+    "category": "Beat the game",
+    "region": null,
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "mr4227gz",
+    "game": "Moomin's Tale",
+    "player": "summertimealice",
+    "player_location": "us",
+    "time": 204,
+    "category": "Beat the level",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "zq93vpxy",
+    "game": "Moomin's Tale",
+    "player": "Pad-Ass",
+    "player_location": "fi",
+    "time": 2599,
+    "category": "Beat the game",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Color",
+    "emulated": true
+  }
+]

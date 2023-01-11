@@ -1,0 +1,145 @@
+[
+  {
+    "id": "zg77nqjz",
+    "game": "Super Pac-Man",
+    "player": "buffalax",
+    "player_location": "us",
+    "time": 28.17,
+    "category": "High Score",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "me8d7j8m",
+    "game": "Super Pac-Man",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 37,
+    "category": "2 Stages",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y2qlq9wy",
+    "game": "Super Pac-Man",
+    "player": "ViviBloom",
+    "player_location": "us",
+    "time": 28.35,
+    "category": "2 Stages",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z57vg2nm",
+    "game": "Super Pac-Man",
+    "player": "Olavi",
+    "player_location": "kr",
+    "time": 84.13,
+    "category": "High Score",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z57xl9dm",
+    "game": "Super Pac-Man",
+    "player": "aspeedrunner101",
+    "player_location": "us",
+    "time": 34.035,
+    "category": "2 Stages",
+    "region": null,
+    "platform": "PC",
+    "emulated": true
+  },
+  {
+    "id": "y41gqdny",
+    "game": "Super Pac-Man",
+    "player": "VGRdaftpunk",
+    "player_location": "fr",
+    "time": 119.7,
+    "category": "High Score",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y8dq981z",
+    "game": "Super Pac-Man",
+    "player": "nerphblaster27",
+    "player_location": "us",
+    "time": 29.08,
+    "category": "2 Stages",
+    "region": "USA / NTSC",
+    "platform": "Plug and Play",
+    "emulated": false
+  },
+  {
+    "id": "mke4141m",
+    "game": "Super Pac-Man",
+    "player": "HIKARU",
+    "player_location": "kr",
+    "time": 37.924,
+    "category": "2 Stages",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y4qr7qnm",
+    "game": "Super Pac-Man",
+    "player": "Snpr_Breth",
+    "player_location": "us",
+    "time": 80.89,
+    "category": "2 Stages",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": false
+  },
+  {
+    "id": "yopd041m",
+    "game": "Super Pac-Man",
+    "player": "cgtoad625yt",
+    "player_location": "us",
+    "time": 115,
+    "category": "4 Stages",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zp9g1xvm",
+    "game": "Super Pac-Man",
+    "player": "WiiFi66",
+    "player_location": "us",
+    "time": 123.38,
+    "category": "High Score",
+    "region": "USA / NTSC",
+    "platform": "Plug and Play",
+    "emulated": false
+  },
+  {
+    "id": "mrokoqgm",
+    "game": "Super Pac-Man",
+    "player": "Lando_Blando",
+    "player_location": "mx",
+    "time": 35.7,
+    "category": "2 Stages",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "zpglld8z",
+    "game": "Super Pac-Man",
+    "player": "DankZappaX",
+    "player_location": null,
+    "time": 46.9,
+    "category": "2 Stages",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

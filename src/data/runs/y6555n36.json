@@ -1,0 +1,79 @@
+[
+  {
+    "id": "m3rwjkdm",
+    "game": "Einh\u00e4nder",
+    "player": "Bobbykaze",
+    "player_location": "ca",
+    "time": 218,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": false
+  },
+  {
+    "id": "z0r8q94z",
+    "game": "Einh\u00e4nder",
+    "player": "andresfgp13",
+    "player_location": "cl",
+    "time": 236,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "y9v36jkm",
+    "game": "Einh\u00e4nder",
+    "player": "ShyArmadillo",
+    "player_location": "us",
+    "time": 233,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y8j7dg5z",
+    "game": "Einh\u00e4nder",
+    "player": "RAIGEKISGKPC11",
+    "player_location": "bo",
+    "time": 2193,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "mr7g718z",
+    "game": "Einh\u00e4nder",
+    "player": "Xxdisturb",
+    "player_location": "bo",
+    "time": 1936,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "y60d890y",
+    "game": "Einh\u00e4nder",
+    "player": "Chaldy",
+    "player_location": "mx",
+    "time": 1961,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "z0ln484z",
+    "game": "Einh\u00e4nder",
+    "player": "f1r3w2lk3r",
+    "player_location": "ar",
+    "time": 2031,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  }
+]

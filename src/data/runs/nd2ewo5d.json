@@ -1,0 +1,79 @@
+[
+  {
+    "id": "zgn47ljy",
+    "game": "Lemony Snicket's A Series of Unfortunate Events (Console)",
+    "player": "dubforce",
+    "player_location": "us",
+    "time": 5717,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "yo41205m",
+    "game": "Lemony Snicket's A Series of Unfortunate Events (Console)",
+    "player": "ThePackle",
+    "player_location": "us",
+    "time": 5852,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "z13w19wm",
+    "game": "Lemony Snicket's A Series of Unfortunate Events (Console)",
+    "player": "Ainsel",
+    "player_location": "fr",
+    "time": 6382,
+    "category": "Any%",
+    "region": null,
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "yj3pelnz",
+    "game": "Lemony Snicket's A Series of Unfortunate Events (Console)",
+    "player": "Craigelbagel001",
+    "player_location": "nz",
+    "time": 4966,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Xbox",
+    "emulated": false
+  },
+  {
+    "id": "m75www4z",
+    "game": "Lemony Snicket's A Series of Unfortunate Events (Console)",
+    "player": "Cobra_X21",
+    "player_location": "aq",
+    "time": 5137,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "mk3gp43z",
+    "game": "Lemony Snicket's A Series of Unfortunate Events (Console)",
+    "player": "Chillin_Chum",
+    "player_location": "ca",
+    "time": 6273,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Xbox",
+    "emulated": false
+  },
+  {
+    "id": "yo7v0e7m",
+    "game": "Lemony Snicket's A Series of Unfortunate Events (Console)",
+    "player": "Zayjack",
+    "player_location": "us",
+    "time": 8708,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "ydq3xeqm",
+    "game": "",
+    "player": "chaos42666",
+    "player_location": "us",
+    "time": 1327,
+    "category": "any%",
+    "region": "JPN / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "z0ewep9m",
+    "game": "",
+    "player": "gyre",
+    "player_location": null,
+    "time": 1357,
+    "category": "any%",
+    "region": "JPN / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "m7879vwz",
+    "game": "",
+    "player": "Lizstar",
+    "player_location": "us",
+    "time": 1779,
+    "category": "any%",
+    "region": "JPN / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "me32dl3z",
+    "game": "Astal",
+    "player": "Pochilin",
+    "player_location": "us",
+    "time": 1699,
+    "category": "any%",
+    "region": "JPN / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  }
+]

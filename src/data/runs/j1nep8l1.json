@@ -1,0 +1,178 @@
+[
+  {
+    "id": "ywp10r3z",
+    "game": "Alien Storm",
+    "player": "beadle111",
+    "player_location": "gb",
+    "time": 1190,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": null,
+    "emulated": true
+  },
+  {
+    "id": "z13e86wm",
+    "game": "Alien Storm",
+    "player": "Sm_Izumi",
+    "player_location": "fr",
+    "time": 1201,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": null,
+    "emulated": true
+  },
+  {
+    "id": "z0ev9qom",
+    "game": "Alien Storm",
+    "player": "GeorgStin",
+    "player_location": "de",
+    "time": 1833,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": null,
+    "emulated": true
+  },
+  {
+    "id": "yj466gdy",
+    "game": "Alien Storm",
+    "player": "babasan851",
+    "player_location": "us",
+    "time": 1562,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yoj3p4jm",
+    "game": "Alien Storm",
+    "player": "turbogilman",
+    "player_location": "us",
+    "time": 967,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": null,
+    "emulated": false
+  },
+  {
+    "id": "yl05pexy",
+    "game": "Alien Storm",
+    "player": "Blasco",
+    "player_location": "it",
+    "time": 1240,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": null,
+    "emulated": true
+  },
+  {
+    "id": "yoj8g1jm",
+    "game": "Alien Storm",
+    "player": "zantomun",
+    "player_location": "us",
+    "time": 1646,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yw8d479y",
+    "game": "Alien Storm",
+    "player": "Glugsey",
+    "player_location": "au",
+    "time": 1135,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": null,
+    "emulated": true
+  },
+  {
+    "id": "zgwp4jdy",
+    "game": "Alien Storm",
+    "player": "Sonikkustar",
+    "player_location": "us",
+    "time": 961,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": null,
+    "emulated": true
+  },
+  {
+    "id": "m3g9qr6z",
+    "game": "Alien Storm",
+    "player": "Zooball",
+    "player_location": "gb/wls",
+    "time": 964,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": null,
+    "emulated": true
+  },
+  {
+    "id": "zpl34lgm",
+    "game": "Alien Storm",
+    "player": "Mr_Feta",
+    "player_location": "gr",
+    "time": 1103,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": null,
+    "emulated": true
+  },
+  {
+    "id": "yv9njv4z",
+    "game": "Alien Storm",
+    "player": "Jimmy_Diamonds",
+    "player_location": "gb",
+    "time": 1071,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": null,
+    "emulated": true
+  },
+  {
+    "id": "me9v242z",
+    "game": "Alien Storm",
+    "player": "Znell",
+    "player_location": "uy",
+    "time": 935,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": null,
+    "emulated": true
+  },
+  {
+    "id": "y2p42k7z",
+    "game": "Alien Storm",
+    "player": "CyberLokii",
+    "player_location": "ar",
+    "time": 1112,
+    "category": "Co-op 2P",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zgrpq7nm",
+    "game": "Alien Storm",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 1446,
+    "category": "Co-op 2P",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y2ee396y",
+    "game": "Alien Storm",
+    "player": "Ellimist",
+    "player_location": "us",
+    "time": 1367,
+    "category": "Co-op 3p",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "9mrlxv8m",
+    "game": "Surf's Up (GBA)",
+    "player": "32Bit_Entertainment",
+    "player_location": "ca",
+    "time": 1853,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "1zxwn7km",
+    "game": "Surf's Up (GBA)",
+    "player": "poultfloyd",
+    "player_location": "fr",
+    "time": 1763,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "me8x048m",
+    "game": "Surf's Up (GBA)",
+    "player": "FlashTheorie",
+    "player_location": "fr",
+    "time": 1696,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "yl4q2v2m",
+    "game": "Surf's Up (GBA)",
+    "player": "Willy002",
+    "player_location": "se",
+    "time": 1930,
+    "category": "Any%",
+    "region": null,
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "z064nooz",
+    "game": "Surf's Up (GBA)",
+    "player": "Dylarf",
+    "player_location": "us",
+    "time": 1751,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  }
+]

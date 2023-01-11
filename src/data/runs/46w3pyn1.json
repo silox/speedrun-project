@@ -1,0 +1,112 @@
+[
+  {
+    "id": "z0re859z",
+    "game": "Cross Virus",
+    "player": "Otterstone_Gamer",
+    "player_location": "us",
+    "time": 198.55,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "zgxen8nm",
+    "game": "Cross Virus",
+    "player": "Dynamotor",
+    "player_location": "gb/eng",
+    "time": 368.23,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "z06q5ojz",
+    "game": "Cross Virus",
+    "player": "Pieozek",
+    "player_location": "pl",
+    "time": 232.86,
+    "category": "Any%",
+    "region": null,
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "zxgn52gy",
+    "game": "Cross Virus",
+    "player": "jatloe",
+    "player_location": "us",
+    "time": 218.833,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "ydr3jxjz",
+    "game": "Cross Virus",
+    "player": "TRLittleToaster",
+    "player_location": "us",
+    "time": 282.783,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "y2xexj7m",
+    "game": "Cross Virus",
+    "player": "Anriel",
+    "player_location": "de",
+    "time": 227.13,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "z122x8gy",
+    "game": "Cross Virus",
+    "player": "Aymbaut",
+    "player_location": "us",
+    "time": 118.066,
+    "category": "Any%",
+    "region": null,
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "y9le1jny",
+    "game": "Cross Virus",
+    "player": "killerkun...",
+    "player_location": "jp",
+    "time": 411.4,
+    "category": "100%",
+    "region": null,
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "zgd1280z",
+    "game": "Cross Virus",
+    "player": "daff",
+    "player_location": "ru",
+    "time": 256.533,
+    "category": "Any%",
+    "region": null,
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "zgp65xnz",
+    "game": "Cross Virus",
+    "player": "1337",
+    "player_location": "pl",
+    "time": 277.316,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Web",
+    "emulated": false
+  }
+]

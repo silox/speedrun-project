@@ -1,0 +1,123 @@
+[
+  {
+    "id": "yvg5rj8y",
+    "game": "Disney Infinity",
+    "player": "Jak8",
+    "player_location": "us",
+    "time": 1741,
+    "category": "Monsters University",
+    "region": "USA / NTSC",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "y6lkl26y",
+    "game": "Disney Infinity",
+    "player": "29th_letter",
+    "player_location": "us",
+    "time": 4476,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "zx6v6lqz",
+    "game": "Disney Infinity",
+    "player": "clarkjensen",
+    "player_location": "us",
+    "time": 4644,
+    "category": "Pirates of the Carribean",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "me9xv70z",
+    "game": "Disney Infinity",
+    "player": "Jiblobnyan",
+    "player_location": "us",
+    "time": 1882,
+    "category": "Monsters University",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mke147lm",
+    "game": "Disney Infinity",
+    "player": "HoonGoons",
+    "player_location": "us",
+    "time": 1340,
+    "category": "Monsters University",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "y6n0wp6z",
+    "game": "Disney Infinity",
+    "player": "Dunhaibee",
+    "player_location": "nl",
+    "time": 1725,
+    "category": "Monsters University",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yjxe16dz",
+    "game": "Disney Infinity",
+    "player": "dripfinlay",
+    "player_location": null,
+    "time": 2392,
+    "category": "Monsters University",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y6x4ll0y",
+    "game": "Disney Infinity",
+    "player": "Dilla",
+    "player_location": "us",
+    "time": 1307,
+    "category": "Monsters University",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yd1x2x0y",
+    "game": "Disney Infinity",
+    "player": "_Goujon_",
+    "player_location": "gb/eng",
+    "time": 1255,
+    "category": "Monsters University",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "me12kl8y",
+    "game": "Disney Infinity",
+    "player": "IzzyHopeDolphin",
+    "player_location": null,
+    "time": 1551,
+    "category": "Monsters University",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "znqv6d7z",
+    "game": "Disney Infinity",
+    "player": "Selrun",
+    "player_location": "us",
+    "time": 2057,
+    "category": "Monsters University",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

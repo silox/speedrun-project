@@ -1,0 +1,35 @@
+[
+  {
+    "id": "y4294jqm",
+    "game": "",
+    "player": "Azurill",
+    "player_location": "it",
+    "time": 331.63,
+    "category": "Demo%",
+    "region": "EUR / PAL",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "me3kq69z",
+    "game": "",
+    "player": "Leafeonyx",
+    "player_location": "us",
+    "time": 1348,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "z1g9xerz",
+    "game": "Puzzle & Dragons Z + Puzzle & Dragons Super Mario Bros. Edition",
+    "player": "Puffffyyyy",
+    "player_location": "us",
+    "time": 34986,
+    "category": "P&D SMB",
+    "region": "USA / NTSC",
+    "platform": "New Nintendo 3DS",
+    "emulated": false
+  }
+]

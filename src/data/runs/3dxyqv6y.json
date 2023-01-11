@@ -1,0 +1,79 @@
+[
+  {
+    "id": "6yjd6ndy",
+    "game": "Ace Attorney Investigations: Miles Edgeworth",
+    "player": "Smashman64",
+    "player_location": "us",
+    "time": 15915,
+    "category": "All Cases (NG+)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "yd39l90z",
+    "game": "Ace Attorney Investigations: Miles Edgeworth",
+    "player": "Prakxoelpatatita",
+    "player_location": "es",
+    "time": 1524,
+    "category": "Win the Case (NG+)",
+    "region": "EUR / PAL",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "y89vw1nm",
+    "game": "Ace Attorney Investigations: Miles Edgeworth",
+    "player": "indykenobi",
+    "player_location": "us",
+    "time": 1460,
+    "category": "Win the Case (NG+)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "yvj1r16y",
+    "game": "Ace Attorney Investigations: Miles Edgeworth",
+    "player": "Wipeoutjack7",
+    "player_location": "us",
+    "time": 1506,
+    "category": "Win the Case (NG+)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "z0r64vez",
+    "game": "Ace Attorney Investigations: Miles Edgeworth",
+    "player": "Jaedentothefuture",
+    "player_location": "us",
+    "time": 2495,
+    "category": "Win the Case (NG+)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "yj5g6l3m",
+    "game": "Ace Attorney Investigations: Miles Edgeworth",
+    "player": "Emilius",
+    "player_location": "fr",
+    "time": 1430,
+    "category": "Win the Case (NG+)",
+    "region": "EUR / PAL",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "m7638qey",
+    "game": "Ace Attorney Investigations: Miles Edgeworth",
+    "player": "Kilowen",
+    "player_location": "fr",
+    "time": 2284,
+    "category": "Win the Case (NG+)",
+    "region": null,
+    "platform": "Nintendo DS",
+    "emulated": true
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "zx22r15m",
+    "game": "Trap Gunner",
+    "player": "Santouryu3",
+    "player_location": "us",
+    "time": 747.92,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "zq0kq01y",
+    "game": "Trap Gunner",
+    "player": "AmenAnthem",
+    "player_location": "at",
+    "time": 1264.983,
+    "category": "Easy (John Bishous)",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  }
+]

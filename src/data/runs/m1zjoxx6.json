@@ -1,0 +1,24 @@
+[
+  {
+    "id": "y65ggjqz",
+    "game": "",
+    "player": "DBcade",
+    "player_location": "jp",
+    "time": 249,
+    "category": "Time Attack",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y25rvpwy",
+    "game": "",
+    "player": "Despera",
+    "player_location": "be",
+    "time": 157,
+    "category": "Time Attack",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "emk6wk3z",
+    "game": "Jim Power in Mutant Planet",
+    "player": "Jorf",
+    "player_location": "ca",
+    "time": 1103,
+    "category": "TG16",
+    "region": "JPN / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": true
+  },
+  {
+    "id": "z0eg1kjm",
+    "game": "Jim Power in Mutant Planet",
+    "player": "Reboot",
+    "player_location": "de",
+    "time": 1695,
+    "category": "Amiga",
+    "region": "EUR / PAL",
+    "platform": "Amiga",
+    "emulated": true
+  },
+  {
+    "id": "zxleegqz",
+    "game": "Jim Power in Mutant Planet",
+    "player": "Yuyukichi",
+    "player_location": "jp",
+    "time": 1050,
+    "category": "TG16",
+    "region": "JPN / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": true
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "id": "m7d65n5m",
+    "game": "MAGO",
+    "player": "Yoshiabel",
+    "player_location": "es/ct",
+    "time": 1332,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z1rn467m",
+    "game": "MAGO",
+    "player": "Mr.Smileyfacetwo",
+    "player_location": "us",
+    "time": 61,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yvo12voz",
+    "game": "MAGO",
+    "player": "Archduck",
+    "player_location": "us",
+    "time": 60,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "ydw224xm",
+    "game": "MAGO",
+    "player": "hakita_power",
+    "player_location": "ar",
+    "time": 626.73,
+    "category": "",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y20r24jm",
+    "game": "MAGO",
+    "player": "GoodGuyAvocado",
+    "player_location": "ma",
+    "time": 578.12,
+    "category": "",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y8j7q3wz",
+    "game": "MAGO",
+    "player": "DiaxZR",
+    "player_location": "mx",
+    "time": 525.037,
+    "category": "Demo",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y20426wm",
+    "game": "MAGO",
+    "player": "FRANKO1609",
+    "player_location": null,
+    "time": 541,
+    "category": "Demo",
+    "region": "BRA / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yl71v6xm",
+    "game": "MAGO",
+    "player": "Sr_ShowRigby",
+    "player_location": null,
+    "time": 520.036,
+    "category": "Demo",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y2pwoxjz",
+    "game": "MAGO",
+    "player": "DeKhaPe",
+    "player_location": "pe",
+    "time": 7834.32,
+    "category": "",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z1g325wz",
+    "game": "MAGO",
+    "player": "Buddhabubbs",
+    "player_location": null,
+    "time": 504.83,
+    "category": "Demo",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yw66nw0m",
+    "game": "MAGO",
+    "player": "MachoHardcore",
+    "player_location": "es",
+    "time": 503.6,
+    "category": "Demo",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y6xeoj0y",
+    "game": "MAGO",
+    "player": "bochout",
+    "player_location": "ar",
+    "time": 493.66,
+    "category": "Demo",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  }
+]

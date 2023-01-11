@@ -1,0 +1,90 @@
+[
+  {
+    "id": "zxv40p5y",
+    "game": "Rascal",
+    "player": "MrDumDumDugan",
+    "player_location": "us",
+    "time": 3616,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "yjkgdggm",
+    "game": "Rascal",
+    "player": "hampusaberg98",
+    "player_location": "se",
+    "time": 4862,
+    "category": "Any%",
+    "region": null,
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "y662jg6y",
+    "game": "Rascal",
+    "player": "PeterAfro",
+    "player_location": "us",
+    "time": 4100,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "me8dkdqm",
+    "game": "Rascal",
+    "player": "XYX",
+    "player_location": "us",
+    "time": 3209,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zn3jo43y",
+    "game": "Rascal",
+    "player": "grimmyhunter",
+    "player_location": "gb/eng",
+    "time": 4242,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "zxd84q8y",
+    "game": "Rascal",
+    "player": "CriscoWild",
+    "player_location": "us",
+    "time": 6911,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zq4krg5m",
+    "game": "Rascal",
+    "player": "Airnathan119",
+    "player_location": "gb/eng",
+    "time": 7257,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "y8dnl25z",
+    "game": "Rascal",
+    "player": "Okamikaze",
+    "player_location": "gb",
+    "time": 5274,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  }
+]

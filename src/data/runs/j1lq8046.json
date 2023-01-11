@@ -1,0 +1,112 @@
+[
+  {
+    "id": "zq0opk8y",
+    "game": "Library Of Ruina",
+    "player": "7788TCNQ",
+    "player_location": "jp",
+    "time": 459,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z5xenlgy",
+    "game": "Library Of Ruina",
+    "player": "argo_lor",
+    "player_location": "jp",
+    "time": 268,
+    "category": "Floor Realization",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mr6v4jdm",
+    "game": "Library Of Ruina",
+    "player": "Pyroburn235",
+    "player_location": "us",
+    "time": 7890,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zx8r1lqm",
+    "game": "Library Of Ruina",
+    "player": "Hinoe",
+    "player_location": "jp",
+    "time": 1858,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yw3dojnm",
+    "game": "Library Of Ruina",
+    "player": "Nogika",
+    "player_location": null,
+    "time": 2300,
+    "category": "Special Reception",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y6xllkqy",
+    "game": "Library Of Ruina",
+    "player": "MrKuller3231",
+    "player_location": "ru",
+    "time": 61722,
+    "category": "",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m7x5jqey",
+    "game": "Library Of Ruina",
+    "player": "RoxasPowerHouse",
+    "player_location": null,
+    "time": 559,
+    "category": "Floor Realization",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z0lrvr9z",
+    "game": "Library Of Ruina",
+    "player": "PMgamePoPo",
+    "player_location": "kr",
+    "time": 69,
+    "category": "Special Reception",
+    "region": "KOR / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yw65k03m",
+    "game": "Library Of Ruina",
+    "player": "Mirza",
+    "player_location": "ru",
+    "time": 584,
+    "category": "Floor Realization",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z5xqrqny",
+    "game": "Library Of Ruina",
+    "player": "ibaracocoa",
+    "player_location": "cn",
+    "time": 249,
+    "category": "Special Reception",
+    "region": "CHN / PAL",
+    "platform": "PC",
+    "emulated": false
+  }
+]

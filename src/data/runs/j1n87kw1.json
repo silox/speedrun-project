@@ -1,0 +1,35 @@
+[
+  {
+    "id": "y6de0qqm",
+    "game": "",
+    "player": "DunkelGotik",
+    "player_location": "br",
+    "time": 11,
+    "category": "Open Game",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "zn75pxlm",
+    "game": "",
+    "player": "Sidneidkc",
+    "player_location": null,
+    "time": 2,
+    "category": "Open Game",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "mro8q38m",
+    "game": "",
+    "player": "RusbenCormano",
+    "player_location": "br",
+    "time": 2,
+    "category": "Open Game",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  }
+]

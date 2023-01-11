@@ -1,0 +1,46 @@
+[
+  {
+    "id": "mr6weq8m",
+    "game": "",
+    "player": "Griotte_At",
+    "player_location": "jp",
+    "time": 10330,
+    "category": "New Game",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 5",
+    "emulated": false
+  },
+  {
+    "id": "znprnllm",
+    "game": "",
+    "player": "peaches2112",
+    "player_location": null,
+    "time": 25625,
+    "category": "New Game",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yd12v2jy",
+    "game": "",
+    "player": "angela",
+    "player_location": "us",
+    "time": 19742,
+    "category": "New Game",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zpd68dxz",
+    "game": "Atelier Sophie 2: The Alchemist of the Mysterious Dream",
+    "player": "jihari",
+    "player_location": "jp",
+    "time": 11892,
+    "category": "New Game",
+    "region": "JPN / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  }
+]

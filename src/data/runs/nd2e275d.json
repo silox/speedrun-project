@@ -1,0 +1,24 @@
+[
+  {
+    "id": "z51n41gm",
+    "game": "Contra Advance: The Alien Wars EX",
+    "player": "Rayquaza911",
+    "player_location": "ca",
+    "time": 632,
+    "category": "Novice",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Player",
+    "emulated": false
+  },
+  {
+    "id": "yl4w4w2m",
+    "game": "Contra Advance: The Alien Wars EX",
+    "player": "WhiteHat94",
+    "player_location": "us",
+    "time": 626,
+    "category": "Novice",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Interface",
+    "emulated": false
+  }
+]

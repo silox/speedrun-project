@@ -1,0 +1,68 @@
+[
+  {
+    "id": "y6lok7qy",
+    "game": "Strikers 1945 III",
+    "player": "RitaH",
+    "player_location": "br",
+    "time": 707,
+    "category": "Any% Co-op",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zp3kj88m",
+    "game": "Strikers 1945 III",
+    "player": "andresfgp13",
+    "player_location": "cl",
+    "time": 580,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "yo3vowdy",
+    "game": "Strikers 1945 III",
+    "player": "juanpablogp13",
+    "player_location": "cl",
+    "time": 665,
+    "category": "Any% Co-op",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "z07d2wjy",
+    "game": "Strikers 1945 III",
+    "player": "MankoDax",
+    "player_location": "cl",
+    "time": 676,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "mej3rn8y",
+    "game": "Strikers 1945 III",
+    "player": "Bibi",
+    "player_location": "gb/eng",
+    "time": 652,
+    "category": "Any% Co-op",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yl17rdnm",
+    "game": "Strikers 1945 III",
+    "player": "HIKARU",
+    "player_location": "kr",
+    "time": 541,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

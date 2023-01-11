@@ -1,0 +1,35 @@
+[
+  {
+    "id": "m3dw7xqz",
+    "game": "Lost Sphear",
+    "player": "edge_shaaan",
+    "player_location": "jp",
+    "time": 14996,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y2q8n05y",
+    "game": "Lost Sphear",
+    "player": "Linacy",
+    "player_location": "gb/eng",
+    "time": 14134,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z576wejm",
+    "game": "Lost Sphear",
+    "player": "Freddeh",
+    "player_location": "us",
+    "time": 13505,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

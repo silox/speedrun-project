@@ -1,0 +1,112 @@
+[
+  {
+    "id": "9mr53ngy",
+    "game": "",
+    "player": "Mysteriousdewd",
+    "player_location": "vh",
+    "time": 1818,
+    "category": "Arcade Normal Mode",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zpq7je8y",
+    "game": "",
+    "player": "JakatoXtra",
+    "player_location": "us",
+    "time": 466,
+    "category": "Arcade Normal Mode",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": false
+  },
+  {
+    "id": "y2dv4gwz",
+    "game": "",
+    "player": "FalseHackerGaming",
+    "player_location": "us",
+    "time": 418,
+    "category": "Arcade Normal Mode",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yj3wkw3z",
+    "game": "BlazBlue: Continuum Shift Extend",
+    "player": "teapartycthulu",
+    "player_location": "us",
+    "time": 413,
+    "category": "Arcade Normal Mode",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "me6x6n2z",
+    "game": "BlazBlue: Continuum Shift Extend",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 627,
+    "category": "Arcade Normal Mode",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "m3gqw34z",
+    "game": "BlazBlue: Continuum Shift Extend",
+    "player": "Vendettavic",
+    "player_location": "es",
+    "time": 388,
+    "category": "Arcade Normal Mode",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mr194g4z",
+    "game": "BlazBlue: Continuum Shift Extend",
+    "player": "mrguyaverage",
+    "player_location": "us",
+    "time": 606,
+    "category": "Arcade Normal Mode",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z5r34kdy",
+    "game": "BlazBlue: Continuum Shift Extend",
+    "player": "K_E_I",
+    "player_location": "gb",
+    "time": 374,
+    "category": "Arcade Normal Mode",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zggp0kjz",
+    "game": "BlazBlue: Continuum Shift Extend",
+    "player": "renco_jp",
+    "player_location": "jp",
+    "time": 339,
+    "category": "Arcade Normal Mode",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zg275rdy",
+    "game": "BlazBlue: Continuum Shift Extend",
+    "player": "Bloodymayhem89",
+    "player_location": "us",
+    "time": 312,
+    "category": "Arcade Normal Mode",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

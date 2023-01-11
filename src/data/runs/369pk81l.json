@@ -1,0 +1,24 @@
+[
+  {
+    "id": "yo45q75m",
+    "game": "",
+    "player": "MigJmz",
+    "player_location": "us",
+    "time": 1181,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "m3n7pjwy",
+    "game": "",
+    "player": "adrianus",
+    "player_location": "ch",
+    "time": 2207,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Game Boy 2",
+    "emulated": false
+  }
+]

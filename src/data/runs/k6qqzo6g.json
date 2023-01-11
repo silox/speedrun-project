@@ -1,0 +1,90 @@
+[
+  {
+    "id": "8y80gkxm",
+    "game": "Rushing Beat Shura",
+    "player": "Sm_Izumi",
+    "player_location": "fr",
+    "time": 2477,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "pzg49xjz",
+    "game": "Rushing Beat Shura",
+    "player": "lotus100100",
+    "player_location": "cn",
+    "time": 1855,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "z0e8978m",
+    "game": "Rushing Beat Shura",
+    "player": "endeavorgaming",
+    "player_location": "us",
+    "time": 1676,
+    "category": "Dick/Fynn",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "y90d65ky",
+    "game": "Rushing Beat Shura",
+    "player": "El_Sabroso",
+    "player_location": "mx",
+    "time": 1504,
+    "category": "Dick/Fynn",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y2v0rg6z",
+    "game": "Rushing Beat Shura",
+    "player": "Colmillito",
+    "player_location": "cl",
+    "time": 1482,
+    "category": "Dick/Fynn",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "mr61ve8m",
+    "game": "Rushing Beat Shura",
+    "player": "sascha-gaming",
+    "player_location": "de",
+    "time": 2690,
+    "category": "Dick/Fynn",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "y60x4d0y",
+    "game": "Rushing Beat Shura",
+    "player": "RunsWithGanja",
+    "player_location": null,
+    "time": 1734,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "zq7pg71m",
+    "game": "Rushing Beat Shura",
+    "player": "AlpacaGaming",
+    "player_location": "us",
+    "time": 1634,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  }
+]

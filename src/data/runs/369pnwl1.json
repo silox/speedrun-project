@@ -1,0 +1,68 @@
+[
+  {
+    "id": "yd0lxxxz",
+    "game": "Your Turn to Shine",
+    "player": "APlumbertothePast",
+    "player_location": "us",
+    "time": 602,
+    "category": "15 days",
+    "region": null,
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "yodq7o1m",
+    "game": "Your Turn to Shine",
+    "player": "Tegron",
+    "player_location": "pl",
+    "time": 222,
+    "category": "15 days",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y8vvldxz",
+    "game": "Your Turn to Shine",
+    "player": "epicfroggymoment",
+    "player_location": null,
+    "time": 404,
+    "category": "15 days",
+    "region": null,
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "z5x6endy",
+    "game": "Your Turn to Shine",
+    "player": "ConfusedShin",
+    "player_location": "de",
+    "time": 273,
+    "category": "15 days",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yvoqen4z",
+    "game": "Your Turn to Shine",
+    "player": "Fireboy_gamez",
+    "player_location": "us",
+    "time": 285,
+    "category": "15 days",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z5v8krgm",
+    "game": "Your Turn to Shine",
+    "player": "RyuRanger",
+    "player_location": "cl",
+    "time": 227,
+    "category": "15 days",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "zg743o0z",
+    "game": "Automobili Lamborghini",
+    "player": "Darkhorse",
+    "player_location": "us",
+    "time": 223.48,
+    "category": "Normal",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": false
+  },
+  {
+    "id": "z157e4jy",
+    "game": "Automobili Lamborghini",
+    "player": "dou8le",
+    "player_location": "us",
+    "time": 2217.095,
+    "category": "100%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": false
+  },
+  {
+    "id": "znknxn8z",
+    "game": "Automobili Lamborghini",
+    "player": "jellygoober",
+    "player_location": "us",
+    "time": 2199.4,
+    "category": "100%",
+    "region": null,
+    "platform": "Nintendo 64",
+    "emulated": false
+  },
+  {
+    "id": "z50kp25y",
+    "game": "Automobili Lamborghini",
+    "player": "Zuiopp",
+    "player_location": "de",
+    "time": 205.52,
+    "category": "Normal",
+    "region": "EUR / PAL",
+    "platform": "Nintendo 64",
+    "emulated": false
+  },
+  {
+    "id": "y8rde5nm",
+    "game": "Automobili Lamborghini",
+    "player": "woodenspoon",
+    "player_location": "us",
+    "time": 211.16,
+    "category": "Normal",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": false
+  },
+  {
+    "id": "zx6d57gz",
+    "game": "Automobili Lamborghini",
+    "player": "MattyAlanEstock",
+    "player_location": "us",
+    "time": 2140,
+    "category": "100%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": false
+  },
+  {
+    "id": "yd929xwz",
+    "game": "Automobili Lamborghini",
+    "player": "andypanther",
+    "player_location": "ch",
+    "time": 205.56,
+    "category": "Normal",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": false
+  },
+  {
+    "id": "zn7w8gvm",
+    "game": "Automobili Lamborghini",
+    "player": "BMac_Attack_64",
+    "player_location": "us",
+    "time": 207.02,
+    "category": "Normal",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": false
+  }
+]

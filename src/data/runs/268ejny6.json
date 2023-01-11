@@ -1,0 +1,68 @@
+[
+  {
+    "id": "y903k6ky",
+    "game": "Capcom vs SNK Pro",
+    "player": "DBcade",
+    "player_location": "jp",
+    "time": 368,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  },
+  {
+    "id": "ylkp5g3z",
+    "game": "Capcom vs SNK Pro",
+    "player": "Tom-Striker",
+    "player_location": "mx",
+    "time": 582,
+    "category": "Arcade Mode Easy%",
+    "region": "JPN / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  },
+  {
+    "id": "zgvvqxnz",
+    "game": "Capcom vs SNK Pro",
+    "player": "Saullo64",
+    "player_location": "br",
+    "time": 377,
+    "category": "Arcade Mode Easy%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "yo3jov5y",
+    "game": "Capcom vs SNK Pro",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 339,
+    "category": "Arcade Mode Easy%",
+    "region": "JPN / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  },
+  {
+    "id": "ywkk433y",
+    "game": "Capcom vs SNK Pro",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 333,
+    "category": "Arcade Mode Easy%",
+    "region": "JPN / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  },
+  {
+    "id": "y6op761y",
+    "game": "Capcom vs SNK Pro",
+    "player": "crazymoose3k",
+    "player_location": "us",
+    "time": 591,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  }
+]

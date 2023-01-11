@@ -1,0 +1,68 @@
+[
+  {
+    "id": "9meplo2y",
+    "game": "",
+    "player": "JakatoXtra",
+    "player_location": "us",
+    "time": 1560,
+    "category": "Arcade Mode - Federation - Normal",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "yl9o733y",
+    "game": "",
+    "player": "Jefestrefe",
+    "player_location": null,
+    "time": 1916,
+    "category": "Arcade Mode - Federation - Normal",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "mr8x8dgy",
+    "game": "",
+    "player": "PilotPanda",
+    "player_location": "de",
+    "time": 1288,
+    "category": "Arcade Mode - ZEON - Normal",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y95210vz",
+    "game": "",
+    "player": "BlueMetal",
+    "player_location": "us",
+    "time": 1249,
+    "category": "Arcade Mode - ZEON - Normal",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "mk3pvklz",
+    "game": "",
+    "player": "DBcade",
+    "player_location": "jp",
+    "time": 1755,
+    "category": "Arcade Mode - Federation - Normal",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y6r7xp0y",
+    "game": "Mobile Suit Gundam: Federation vs. Zeon",
+    "player": "tukikuma",
+    "player_location": "jp",
+    "time": 1282,
+    "category": "Arcade Mode - ZEON - Normal",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  }
+]

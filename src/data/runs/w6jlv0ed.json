@@ -1,0 +1,46 @@
+[
+  {
+    "id": "zq36808y",
+    "game": "Super Mario Bros. U - Summer Vacation",
+    "player": "R0main",
+    "player_location": "fr",
+    "time": 881,
+    "category": "100%",
+    "region": "EUR / PAL",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "yl48vv3m",
+    "game": "Super Mario Bros. U - Summer Vacation",
+    "player": "Dani\u00eblHarteveld",
+    "player_location": "nl",
+    "time": 541,
+    "category": "Any%",
+    "region": null,
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "yoj771jm",
+    "game": "Super Mario Bros. U - Summer Vacation",
+    "player": "LukasYT",
+    "player_location": "de",
+    "time": 744,
+    "category": "100%",
+    "region": "EUR / PAL",
+    "platform": "Wii U",
+    "emulated": true
+  },
+  {
+    "id": "z05qkj9m",
+    "game": "Super Mario Bros. U - Summer Vacation",
+    "player": "Rave_SR",
+    "player_location": "de",
+    "time": 524,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Wii U",
+    "emulated": true
+  }
+]

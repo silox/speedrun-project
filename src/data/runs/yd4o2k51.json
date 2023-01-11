@@ -1,0 +1,79 @@
+[
+  {
+    "id": "z09qxo9z",
+    "game": "",
+    "player": "MagicK",
+    "player_location": "ca/qc",
+    "time": 2826,
+    "category": "Any% (1-33)",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "zgv40l0z",
+    "game": "Arkanoid: Doh It Again",
+    "player": "FabianTheRedHare",
+    "player_location": "de",
+    "time": 21574,
+    "category": "Any% (1-99)",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "z06ngl4z",
+    "game": "Arkanoid: Doh It Again",
+    "player": "Dugongue",
+    "player_location": "us",
+    "time": 2104,
+    "category": "Any% (1-33)",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "zggo950z",
+    "game": "Arkanoid: Doh It Again",
+    "player": "Veigard",
+    "player_location": "ca",
+    "time": 2037,
+    "category": "Any% (1-33)",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y2xovvjm",
+    "game": "Arkanoid: Doh It Again",
+    "player": "RobocopW",
+    "player_location": "hu",
+    "time": 1891,
+    "category": "Any% (1-33)",
+    "region": null,
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "yd1ek40y",
+    "game": "Arkanoid: Doh It Again",
+    "player": "ApathyIsDeath95",
+    "player_location": null,
+    "time": 1785,
+    "category": "Any% (1-33)",
+    "region": "EUR / PAL",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "z5e3ddez",
+    "game": "Arkanoid: Doh It Again",
+    "player": "inviso",
+    "player_location": "us",
+    "time": 1836,
+    "category": "Any% (1-33)",
+    "region": null,
+    "platform": "Super Nintendo",
+    "emulated": true
+  }
+]

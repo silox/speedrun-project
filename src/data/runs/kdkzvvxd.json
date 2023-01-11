@@ -1,0 +1,68 @@
+[
+  {
+    "id": "y2q1e3jy",
+    "game": "New Super Mario Bros. U Retro Remix",
+    "player": "R0main",
+    "player_location": "fr",
+    "time": 666.199,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "zpqjprvy",
+    "game": "New Super Mario Bros. U Retro Remix",
+    "player": "ILoveSMB",
+    "player_location": null,
+    "time": 607.017,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Wii U",
+    "emulated": true
+  },
+  {
+    "id": "mr8q39gy",
+    "game": "New Super Mario Bros. U Retro Remix",
+    "player": "YoshiBoi",
+    "player_location": "us",
+    "time": 755,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "y6p1r5jm",
+    "game": "New Super Mario Bros. U Retro Remix",
+    "player": "Dani\u00eblHarteveld",
+    "player_location": "nl",
+    "time": 653.267,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "zqrxw8ry",
+    "game": "New Super Mario Bros. U Retro Remix",
+    "player": "BigAds",
+    "player_location": "gb",
+    "time": 918.096,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "y25jr5wy",
+    "game": "New Super Mario Bros. U Retro Remix",
+    "player": "Mutexx",
+    "player_location": "de",
+    "time": 953.767,
+    "category": "All Levels",
+    "region": "EUR / PAL",
+    "platform": "Wii U",
+    "emulated": true
+  }
+]

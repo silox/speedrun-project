@@ -1,0 +1,57 @@
+[
+  {
+    "id": "7yl9njny",
+    "game": "Mystic Heroes",
+    "player": "PeteThePlayer",
+    "player_location": "de",
+    "time": 1395,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "pzgxx1nm",
+    "game": "Mystic Heroes",
+    "player": "TehMonkey1000",
+    "player_location": "us",
+    "time": 1774,
+    "category": "New Game+",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "z034w8oz",
+    "game": "Mystic Heroes",
+    "player": "PapayaJordane",
+    "player_location": "us",
+    "time": 257,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "y4560l2m",
+    "game": "Mystic Heroes",
+    "player": "ZippyZero",
+    "player_location": "us",
+    "time": 64,
+    "category": "Beat the Stage",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "mk57jl1m",
+    "game": "Mystic Heroes",
+    "player": "Akunai",
+    "player_location": null,
+    "time": 521,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "GameCube",
+    "emulated": true
+  }
+]

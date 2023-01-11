@@ -1,0 +1,178 @@
+[
+  {
+    "id": "y455o6dm",
+    "game": "Ridge Racer (PSX)",
+    "player": "wesen",
+    "player_location": "de",
+    "time": 94.601,
+    "category": "Special Cars",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "zxvlx98y",
+    "game": "Ridge Racer (PSX)",
+    "player": "Shikitin",
+    "player_location": "es",
+    "time": 923,
+    "category": "Normal Cup",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "y978ljnm",
+    "game": "Ridge Racer (PSX)",
+    "player": "99710",
+    "player_location": "gb/eng",
+    "time": 248.088,
+    "category": "Single Race",
+    "region": "EUR / PAL",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "mk4njj5y",
+    "game": "Ridge Racer (PSX)",
+    "player": "Saturecks",
+    "player_location": "us",
+    "time": 716.4,
+    "category": "Normal Cup",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "mk4w86ly",
+    "game": "Ridge Racer (PSX)",
+    "player": "YT_Veritas0923",
+    "player_location": "ca",
+    "time": 118.617,
+    "category": "Single Race",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "mrqwee7y",
+    "game": "Ridge Racer (PSX)",
+    "player": "the_androgyne",
+    "player_location": "jp",
+    "time": 179.509,
+    "category": "Special Cars",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "yl441o3m",
+    "game": "Ridge Racer (PSX)",
+    "player": "AMathMonkey",
+    "player_location": "ca",
+    "time": 174.906,
+    "category": "Special Cars",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "zgk2l3ny",
+    "game": "Ridge Racer (PSX)",
+    "player": "ALZERI28",
+    "player_location": "fi",
+    "time": 90.935,
+    "category": "Special Cars",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "m7g4en5m",
+    "game": "Ridge Racer (PSX)",
+    "player": "ARMS08Yuki",
+    "player_location": "jp",
+    "time": 84.806,
+    "category": "Special Cars",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "zqg268xm",
+    "game": "Ridge Racer (PSX)",
+    "player": "ciriislegend",
+    "player_location": "es/cn",
+    "time": 125.477,
+    "category": "Single Race",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "z0pe4p9y",
+    "game": "Ridge Racer (PSX)",
+    "player": "Luvs2BGlued",
+    "player_location": "ca",
+    "time": 704,
+    "category": "Extra Cup (Special Car)",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "z5ve93jm",
+    "game": "Ridge Racer (PSX)",
+    "player": "Randomii666",
+    "player_location": "fi",
+    "time": 112.359,
+    "category": "Special Cars",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "y2pdel5z",
+    "game": "Ridge Racer (PSX)",
+    "player": "Kazandaki",
+    "player_location": "tr",
+    "time": 773.99,
+    "category": "Normal Cup",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "y60ng70y",
+    "game": "Ridge Racer (PSX)",
+    "player": "ThrasherDBS",
+    "player_location": "us",
+    "time": 124.03,
+    "category": "Single Race",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "m3xwwvdm",
+    "game": "Ridge Racer (PSX)",
+    "player": "UrBoiRAD",
+    "player_location": "us",
+    "time": 119.402,
+    "category": "Single Race",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "y2eovl9y",
+    "game": "Ridge Racer (PSX)",
+    "player": "Serxmaister",
+    "player_location": "es",
+    "time": 827,
+    "category": "Normal Cup",
+    "region": null,
+    "platform": "PlayStation",
+    "emulated": true
+  }
+]

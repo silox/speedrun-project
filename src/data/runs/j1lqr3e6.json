@@ -1,0 +1,24 @@
+[
+  {
+    "id": "mkdknnvy",
+    "game": "",
+    "player": "Ellimist",
+    "player_location": "us",
+    "time": 1095,
+    "category": "2P",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yl1p1orm",
+    "game": "",
+    "player": "zhutousan123",
+    "player_location": "cn",
+    "time": 726,
+    "category": "",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

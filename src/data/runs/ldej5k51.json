@@ -1,0 +1,57 @@
+[
+  {
+    "id": "y801r1wm",
+    "game": "Nontan to Issho: Kuru-kuru Puzzle",
+    "player": "Teru",
+    "player_location": "jp",
+    "time": 194,
+    "category": "Score",
+    "region": null,
+    "platform": "Game Boy",
+    "emulated": false
+  },
+  {
+    "id": "y4ge5l3y",
+    "game": "Nontan to Issho: Kuru-kuru Puzzle",
+    "player": "hinketsumusume",
+    "player_location": "jp",
+    "time": 249,
+    "category": "",
+    "region": null,
+    "platform": "Super Game Boy 2",
+    "emulated": false
+  },
+  {
+    "id": "y2j5n46z",
+    "game": "Nontan to Issho: Kuru-kuru Puzzle",
+    "player": "HIKARU",
+    "player_location": "kr",
+    "time": 267,
+    "category": "Score",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "znjo1w9m",
+    "game": "Nontan to Issho: Kuru-kuru Puzzle",
+    "player": "asasumi",
+    "player_location": "jp",
+    "time": 192,
+    "category": "Score",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y96n8evy",
+    "game": "Nontan to Issho: Kuru-kuru Puzzle",
+    "player": "Mingura666",
+    "player_location": "mx",
+    "time": 318,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  }
+]

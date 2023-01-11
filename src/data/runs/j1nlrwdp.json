@@ -1,0 +1,24 @@
+[
+  {
+    "id": "z5o7d0ny",
+    "game": "Wreckless: The Yakuza Missions",
+    "player": "Silo_Simon",
+    "player_location": null,
+    "time": 17.16,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "m77pj54m",
+    "game": "Wreckless: The Yakuza Missions",
+    "player": "andygumpjr",
+    "player_location": "us",
+    "time": 3796,
+    "category": "Both Stories",
+    "region": "USA / NTSC",
+    "platform": "Xbox",
+    "emulated": false
+  }
+]

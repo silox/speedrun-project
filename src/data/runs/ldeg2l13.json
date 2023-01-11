@@ -1,0 +1,57 @@
+[
+  {
+    "id": "y97226rm",
+    "game": "Rising Zan: The Samurai Gunman",
+    "player": "PvtCb",
+    "player_location": "us",
+    "time": 37,
+    "category": "Normal",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "z5ol1vgy",
+    "game": "Rising Zan: The Samurai Gunman",
+    "player": "BubblesDelFuego",
+    "player_location": "us",
+    "time": 197,
+    "category": "Normal",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "zqrxg48y",
+    "game": "Rising Zan: The Samurai Gunman",
+    "player": "FionaKaenbyou",
+    "player_location": "gb/sct",
+    "time": 160,
+    "category": "Normal",
+    "region": null,
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "yokvx57z",
+    "game": "Rising Zan: The Samurai Gunman",
+    "player": "GeneJeanie",
+    "player_location": "us",
+    "time": 2153,
+    "category": "Beat the Game",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "zq702v9m",
+    "game": "Rising Zan: The Samurai Gunman",
+    "player": "Vojtas131",
+    "player_location": "cz",
+    "time": 2572,
+    "category": "Beat the Game",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  }
+]

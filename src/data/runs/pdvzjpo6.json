@@ -1,0 +1,46 @@
+[
+  {
+    "id": "z51oov5m",
+    "game": "4XM",
+    "player": "Kieron",
+    "player_location": "gb/eng",
+    "time": 428,
+    "category": "Classic, 5.0",
+    "region": "EUR / PAL",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "yl49e43m",
+    "game": "4XM",
+    "player": "hypermariosunshine",
+    "player_location": "us",
+    "time": 460,
+    "category": "All Star, Easy",
+    "region": "USA / NTSC",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "mk7vqn3y",
+    "game": "4XM",
+    "player": "Antor",
+    "player_location": "fr",
+    "time": 14.63,
+    "category": "Multi-Man Smash (10)",
+    "region": "EUR / PAL",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "znoeeq7y",
+    "game": "4XM",
+    "player": "FinalPhoenixSwitch",
+    "player_location": "us",
+    "time": 12.51,
+    "category": "Multi-Man Smash (10)",
+    "region": "USA / NTSC",
+    "platform": "Wii U",
+    "emulated": true
+  }
+]

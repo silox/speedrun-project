@@ -1,0 +1,145 @@
+[
+  {
+    "id": "zgpp98nz",
+    "game": "Mark Davis' The Fishing Master",
+    "player": "Squabbler",
+    "player_location": "us",
+    "time": 88.383,
+    "category": "Tournament Day 1",
+    "region": "USA / NTSC",
+    "platform": "MiSTer",
+    "emulated": false
+  },
+  {
+    "id": "ywj1qp2z",
+    "game": "Mark Davis' The Fishing Master",
+    "player": "pile",
+    "player_location": "us",
+    "time": 106.033,
+    "category": "Tournament Day 1",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "zp2qjpvy",
+    "game": "Mark Davis' The Fishing Master",
+    "player": "dnkcafe",
+    "player_location": "us",
+    "time": 90.433,
+    "category": "Tournament Day 1",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "yvr9e9oz",
+    "game": "Mark Davis' The Fishing Master",
+    "player": "Teleo1",
+    "player_location": "us",
+    "time": 88.15,
+    "category": "Tournament Day 1",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "zxlvp65z",
+    "game": "Mark Davis' The Fishing Master",
+    "player": "LuxStein",
+    "player_location": "us",
+    "time": 92.166,
+    "category": "Tournament Day 1",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "z1qoe0jy",
+    "game": "Mark Davis' The Fishing Master",
+    "player": "tetsuoooo",
+    "player_location": "us",
+    "time": 88.066,
+    "category": "Tournament Day 1",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "mejknk3y",
+    "game": "Mark Davis' The Fishing Master",
+    "player": "GYTID",
+    "player_location": "gb/eng",
+    "time": 106.734,
+    "category": "Tournament Day 1",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "ywj1de2z",
+    "game": "Mark Davis' The Fishing Master",
+    "player": "pingtoe",
+    "player_location": "us",
+    "time": 114.066,
+    "category": "Tournament Day 1",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "zn78p39m",
+    "game": "Mark Davis' The Fishing Master",
+    "player": "Paintbrush_Samurai",
+    "player_location": "us",
+    "time": 125.083,
+    "category": "Tournament Day 1",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "ywj13xpz",
+    "game": "Mark Davis' The Fishing Master",
+    "player": "tennisshoesfan",
+    "player_location": "us",
+    "time": 121.3,
+    "category": "Tournament Day 1",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "z123k17y",
+    "game": "Mark Davis' The Fishing Master",
+    "player": "pirateghetto",
+    "player_location": "us",
+    "time": 115.183,
+    "category": "Tournament Day 1",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y9lnnkey",
+    "game": "Mark Davis' The Fishing Master",
+    "player": "DontTouchtheDoor",
+    "player_location": "ca",
+    "time": 95.466,
+    "category": "Tournament Day 1",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y2p9ppjz",
+    "game": "Mark Davis' The Fishing Master",
+    "player": "NeSs7or9",
+    "player_location": "us",
+    "time": 111.317,
+    "category": "Tournament Day 1",
+    "region": null,
+    "platform": "Super Nintendo",
+    "emulated": true
+  }
+]

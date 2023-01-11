@@ -1,0 +1,79 @@
+[
+  {
+    "id": "1zq08o9y",
+    "game": "",
+    "player": "BnH247",
+    "player_location": null,
+    "time": 76,
+    "category": "Individual Level on Normal difficulty",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "7z0og74z",
+    "game": "",
+    "player": "Kungkobra",
+    "player_location": "se",
+    "time": 2430,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "1zxlqqkz",
+    "game": "Gemini: Heroes Reborn",
+    "player": "ihascube",
+    "player_location": "us",
+    "time": 3735,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "pm36234m",
+    "game": "Gemini: Heroes Reborn",
+    "player": "Twikax",
+    "player_location": "fr",
+    "time": 2536,
+    "category": "Any% Easy",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "9me5dq9m",
+    "game": "Gemini: Heroes Reborn",
+    "player": "Swags_The_Dog",
+    "player_location": "au",
+    "time": 3530,
+    "category": "Any% Easy",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m3165e4z",
+    "game": "Gemini: Heroes Reborn",
+    "player": "Cadarev",
+    "player_location": "ch",
+    "time": 2375,
+    "category": "Any% Easy",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zqw9n8xz",
+    "game": "Gemini: Heroes Reborn",
+    "player": "penguinz0",
+    "player_location": "us",
+    "time": 2684,
+    "category": "Any% Easy",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  }
+]

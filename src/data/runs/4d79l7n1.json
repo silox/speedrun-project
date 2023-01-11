@@ -1,0 +1,24 @@
+[
+  {
+    "id": "y653dqpz",
+    "game": "",
+    "player": "CardsOfTheHeart",
+    "player_location": "us",
+    "time": 2409,
+    "category": "Story",
+    "region": "EUR / PAL",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "mkkv37xm",
+    "game": "",
+    "player": "Slysonic",
+    "player_location": "gb",
+    "time": 4161,
+    "category": "Story",
+    "region": "EUR / PAL",
+    "platform": "New Nintendo 3DS",
+    "emulated": false
+  }
+]

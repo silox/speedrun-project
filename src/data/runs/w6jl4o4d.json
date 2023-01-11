@@ -1,0 +1,35 @@
+[
+  {
+    "id": "z0194pjy",
+    "game": "",
+    "player": "SzechuanSteb",
+    "player_location": "us",
+    "time": 738,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "y95lo32z",
+    "game": "",
+    "player": "MAME_Retro_Avengers",
+    "player_location": "it",
+    "time": 556,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zgkd070y",
+    "game": "",
+    "player": "Squishgame",
+    "player_location": "fr",
+    "time": 1001,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  }
+]

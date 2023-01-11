@@ -1,0 +1,57 @@
+[
+  {
+    "id": "zq6vqx9y",
+    "game": "Bomberman: Panic Bomber (Virtual Boy)",
+    "player": "Witchs_Hex",
+    "player_location": null,
+    "time": 1054.65,
+    "category": "True Ending",
+    "region": "JPN / NTSC",
+    "platform": "Virtual Boy",
+    "emulated": true
+  },
+  {
+    "id": "mk9l29vz",
+    "game": "Bomberman: Panic Bomber (Virtual Boy)",
+    "player": "Lizstar",
+    "player_location": "us",
+    "time": 1524,
+    "category": "True Ending",
+    "region": "USA / NTSC",
+    "platform": "Virtual Boy",
+    "emulated": true
+  },
+  {
+    "id": "m35w31dy",
+    "game": "Bomberman: Panic Bomber (Virtual Boy)",
+    "player": "0JMachine0",
+    "player_location": "ca",
+    "time": 1311.035,
+    "category": "True Ending",
+    "region": "USA / NTSC",
+    "platform": "Virtual Boy",
+    "emulated": true
+  },
+  {
+    "id": "y43pnvnz",
+    "game": "Bomberman: Panic Bomber (Virtual Boy)",
+    "player": "JosephAmargo",
+    "player_location": "br",
+    "time": 983,
+    "category": "True Ending",
+    "region": "USA / NTSC",
+    "platform": "Virtual Boy",
+    "emulated": true
+  },
+  {
+    "id": "y88r82wy",
+    "game": "Bomberman: Panic Bomber (Virtual Boy)",
+    "player": "JoePulito",
+    "player_location": "us",
+    "time": 1206,
+    "category": "True Ending",
+    "region": "USA / NTSC",
+    "platform": "Virtual Boy",
+    "emulated": true
+  }
+]

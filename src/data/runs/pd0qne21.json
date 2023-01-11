@@ -1,0 +1,57 @@
+[
+  {
+    "id": "zgrgvjjm",
+    "game": "The Great Ace Attorney: Adventures",
+    "player": "lefthandedGamer",
+    "player_location": "us",
+    "time": 4233,
+    "category": "Complete The Case",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zp89q9vy",
+    "game": "The Great Ace Attorney: Adventures",
+    "player": "NovaZone",
+    "player_location": "ca",
+    "time": 2743,
+    "category": "Complete The Case",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y8jwnenz",
+    "game": "The Great Ace Attorney: Adventures",
+    "player": "bee_speedruns",
+    "player_location": null,
+    "time": 4235,
+    "category": "Complete The Case",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "y9x974ny",
+    "game": "The Great Ace Attorney: Adventures",
+    "player": "Kaak18",
+    "player_location": "fr",
+    "time": 3040,
+    "category": "Complete The Case",
+    "region": "EUR / PAL",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "me1dvw9y",
+    "game": "The Great Ace Attorney: Adventures",
+    "player": "Coolguy0153",
+    "player_location": null,
+    "time": 23923,
+    "category": "All Cases",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  }
+]

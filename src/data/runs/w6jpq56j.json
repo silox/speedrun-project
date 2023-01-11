@@ -1,0 +1,68 @@
+[
+  {
+    "id": "z0e1g9om",
+    "game": "El Viento",
+    "player": "takojaki",
+    "player_location": "eu",
+    "time": 915,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "mk4doe1y",
+    "game": "El Viento",
+    "player": "Spineshark",
+    "player_location": null,
+    "time": 1060,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "y9227d2z",
+    "game": "El Viento",
+    "player": "BleppyBloppins",
+    "player_location": "us",
+    "time": 750,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "zgkw3ony",
+    "game": "El Viento",
+    "player": "smartalec24",
+    "player_location": "us",
+    "time": 1194,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "zxk5qqgm",
+    "game": "El Viento",
+    "player": "trivia212005",
+    "player_location": "us",
+    "time": 1613,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "m762465y",
+    "game": "El Viento",
+    "player": "darkstarx",
+    "player_location": null,
+    "time": 851,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  }
+]

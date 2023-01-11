@@ -1,0 +1,24 @@
+[
+  {
+    "id": "z57q19dm",
+    "game": "War Gods",
+    "player": "Darkhorse",
+    "player_location": "us",
+    "time": 622,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": false
+  },
+  {
+    "id": "yd6kww0z",
+    "game": "War Gods",
+    "player": "Santouryu3",
+    "player_location": "us",
+    "time": 598.52,
+    "category": "N64 Very Easy",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": true
+  }
+]

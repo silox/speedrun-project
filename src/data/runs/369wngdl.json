@@ -1,0 +1,101 @@
+[
+  {
+    "id": "emk2n9lm",
+    "game": "Gex",
+    "player": "IceChaosDragoon",
+    "player_location": "fr",
+    "time": 2154,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "jy9vjlem",
+    "game": "Gex",
+    "player": "Cimp",
+    "player_location": "de",
+    "time": 2436,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "0y6wg60z",
+    "game": "Gex",
+    "player": "Reece65536",
+    "player_location": "us",
+    "time": 2868,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zpq8o6xy",
+    "game": "Gex",
+    "player": "SolidSpiderZnake",
+    "player_location": "sa",
+    "time": 4033,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "zp01ejxm",
+    "game": "Gex",
+    "player": "Stanislaw0",
+    "player_location": "nz",
+    "time": 2632,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "znrwe7ly",
+    "game": "Gex",
+    "player": "crash",
+    "player_location": "us",
+    "time": 2468,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zq3ve9ry",
+    "game": "Gex",
+    "player": "Prinsdam",
+    "player_location": null,
+    "time": 4129,
+    "category": "",
+    "region": null,
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "m31pq9dz",
+    "game": "Gex",
+    "player": "Ongorom",
+    "player_location": "us",
+    "time": 3972,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zp2gk7vy",
+    "game": "Gex",
+    "player": "Lucidus",
+    "player_location": null,
+    "time": 2050,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  }
+]

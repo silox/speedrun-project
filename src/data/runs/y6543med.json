@@ -1,0 +1,68 @@
+[
+  {
+    "id": "z03q5j4z",
+    "game": "",
+    "player": "ImoutoNyan",
+    "player_location": "ca",
+    "time": 7849,
+    "category": "Any% NG+",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "zp0xg7gm",
+    "game": "",
+    "player": "Zomb1esmasher15",
+    "player_location": "us",
+    "time": 9093,
+    "category": "Any% NG+",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "y25n809y",
+    "game": "",
+    "player": "Asuka",
+    "player_location": "es/ct",
+    "time": 6648,
+    "category": "Any% NG+",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zp43v2rz",
+    "game": "Travis Strikes Again: No More Heroes",
+    "player": "AdrianVG",
+    "player_location": "us",
+    "time": 9290,
+    "category": "Any% NG+",
+    "region": "EUR / PAL",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "zqwqvrrz",
+    "game": "Travis Strikes Again: No More Heroes",
+    "player": "Aziamuth",
+    "player_location": "es",
+    "time": 7118,
+    "category": "Any% NG+",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z12kkjry",
+    "game": "Travis Strikes Again: No More Heroes",
+    "player": "SylvanEd",
+    "player_location": "us",
+    "time": 8563,
+    "category": "Any% NG+",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  }
+]

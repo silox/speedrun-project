@@ -1,0 +1,101 @@
+[
+  {
+    "id": "zx4qxgey",
+    "game": "One Piece: Grand Battle! Rush",
+    "player": "MewsSnep",
+    "player_location": "us",
+    "time": 320,
+    "category": "Story Mode",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "yo2j697z",
+    "game": "One Piece: Grand Battle! Rush",
+    "player": "Tirty17",
+    "player_location": "fr",
+    "time": 465,
+    "category": "Story Mode",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "zn4p1glm",
+    "game": "One Piece: Grand Battle! Rush",
+    "player": "witchakorn",
+    "player_location": "th",
+    "time": 310,
+    "category": "Event Battle (JP)",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "meogq00z",
+    "game": "One Piece: Grand Battle! Rush",
+    "player": "DBcade",
+    "player_location": "jp",
+    "time": 351,
+    "category": "Event Battle (JP)",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "yd93pdxz",
+    "game": "One Piece: Grand Battle! Rush",
+    "player": "LordDiamyo",
+    "player_location": "us",
+    "time": 327,
+    "category": "Story Mode",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "mkegdg5m",
+    "game": "One Piece: Grand Battle! Rush",
+    "player": "FarmingSim",
+    "player_location": "us",
+    "time": 459,
+    "category": "Story Mode",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "y882vldy",
+    "game": "One Piece: Grand Battle! Rush",
+    "player": "Takeas_Realm",
+    "player_location": "de",
+    "time": 785,
+    "category": "Story Mode",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "yd13wd0y",
+    "game": "One Piece: Grand Battle! Rush",
+    "player": "Nighlin",
+    "player_location": "us",
+    "time": 236,
+    "category": "Event Battle (JP)",
+    "region": "JPN / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "mkd8775y",
+    "game": "One Piece: Grand Battle! Rush",
+    "player": "Glitchedd",
+    "player_location": "us",
+    "time": 229,
+    "category": "Event Battle (JP)",
+    "region": "JPN / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  }
+]

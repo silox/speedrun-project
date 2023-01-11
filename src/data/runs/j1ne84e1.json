@@ -1,0 +1,46 @@
+[
+  {
+    "id": "y47v37ky",
+    "game": "Mega Man X: Command Mission",
+    "player": "MuSyou",
+    "player_location": "tw",
+    "time": 8283,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "z0e0998m",
+    "game": "Mega Man X: Command Mission",
+    "player": "Append",
+    "player_location": "tw",
+    "time": 10399,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "zp1e28nz",
+    "game": "Mega Man X: Command Mission",
+    "player": "finalmethod",
+    "player_location": "tw",
+    "time": 8492,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "z0lg0lez",
+    "game": "Mega Man X: Command Mission",
+    "player": "Hisagi_Z",
+    "player_location": "br",
+    "time": 8980.49,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  }
+]

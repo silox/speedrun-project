@@ -1,0 +1,68 @@
+[
+  {
+    "id": "8y8qkvny",
+    "game": "",
+    "player": "Omnigamer",
+    "player_location": "us",
+    "time": 1212,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y8q94g5y",
+    "game": "",
+    "player": "Spiderweb__",
+    "player_location": "us",
+    "time": 1444,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "z57vn2gm",
+    "game": "",
+    "player": "RottDawg",
+    "player_location": null,
+    "time": 1364,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "zx4e84ky",
+    "game": "Timecop",
+    "player": "crak_atak",
+    "player_location": "us",
+    "time": 1529,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y486dgnm",
+    "game": "Timecop",
+    "player": "EvilJimX",
+    "player_location": "us",
+    "time": 1362,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "yjxkkroz",
+    "game": "Timecop",
+    "player": "paltha",
+    "player_location": "cl",
+    "time": 1465,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  }
+]

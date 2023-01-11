@@ -1,0 +1,57 @@
+[
+  {
+    "id": "wzpppvrz",
+    "game": "Kirby Super Kaizo Ultra",
+    "player": "limga",
+    "player_location": "ph",
+    "time": 1906.32,
+    "category": "Meta Knightmare Ultra",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "emk6k85z",
+    "game": "Kirby Super Kaizo Ultra",
+    "player": "ProfanedGlitch",
+    "player_location": "us",
+    "time": 84.91,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "emkx0g3z",
+    "game": "Kirby Super Kaizo Ultra",
+    "player": "Strangecoinsz",
+    "player_location": "mt",
+    "time": 356,
+    "category": "Any%",
+    "region": null,
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "zq372v5y",
+    "game": "Kirby Super Kaizo Ultra",
+    "player": "BCP",
+    "player_location": "hk",
+    "time": 80.2,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "m790n10y",
+    "game": "Kirby Super Kaizo Ultra",
+    "player": "MKCocoon",
+    "player_location": "ca",
+    "time": 81.23,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  }
+]

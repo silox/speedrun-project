@@ -1,0 +1,24 @@
+[
+  {
+    "id": "m7gp0k4m",
+    "game": "",
+    "player": "hoppity64",
+    "player_location": "au",
+    "time": 3064,
+    "category": "any%/boring%",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16 CD-ROM",
+    "emulated": true
+  },
+  {
+    "id": "y25q20wy",
+    "game": "",
+    "player": "mikwuyma",
+    "player_location": "us",
+    "time": 2825,
+    "category": "any%/boring%",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16 CD-ROM",
+    "emulated": false
+  }
+]

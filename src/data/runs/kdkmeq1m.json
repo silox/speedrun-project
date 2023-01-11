@@ -1,0 +1,112 @@
+[
+  {
+    "id": "pzgn65ey",
+    "game": "King's Field",
+    "player": "uselesshobo",
+    "player_location": "us",
+    "time": 2430,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "emk4r3ly",
+    "game": "King's Field",
+    "player": "zombieroboninja1",
+    "player_location": "us",
+    "time": 2099,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "8y8jr0nz",
+    "game": "King's Field",
+    "player": "szsk",
+    "player_location": null,
+    "time": 3465,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "mex5lp9z",
+    "game": "King's Field",
+    "player": "meauxdal",
+    "player_location": "us",
+    "time": 196,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "mrn30kdy",
+    "game": "King's Field",
+    "player": "\u30b1\u30ed\u30c3\u30c8",
+    "player_location": null,
+    "time": 788,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "z1j0e3gz",
+    "game": "King's Field",
+    "player": "NightwolfXVI",
+    "player_location": "us",
+    "time": 264,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "z014364y",
+    "game": "King's Field",
+    "player": "dizzyjpeg",
+    "player_location": "us",
+    "time": 228,
+    "category": "Kill Termite Queen",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "z18w15ry",
+    "game": "King's Field",
+    "player": "rypietrowski",
+    "player_location": "us",
+    "time": 198,
+    "category": "Kill Termite Queen",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "z1ovx8wm",
+    "game": "King's Field",
+    "player": "ImJecht",
+    "player_location": "us",
+    "time": 184,
+    "category": "Kill Termite Queen",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "mr49022z",
+    "game": "King's Field",
+    "player": "Thombias",
+    "player_location": "at",
+    "time": 2774,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PlayStation",
+    "emulated": true
+  }
+]

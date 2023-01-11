@@ -1,0 +1,57 @@
+[
+  {
+    "id": "y8xo75dm",
+    "game": "Radiant Silvergun",
+    "player": "chronoon",
+    "player_location": "us",
+    "time": 2315,
+    "category": "Saturn Mode",
+    "region": null,
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "y6l45xpy",
+    "game": "Radiant Silvergun",
+    "player": "zantomun",
+    "player_location": "us",
+    "time": 1740,
+    "category": "Arcade Mode",
+    "region": "USA / NTSC",
+    "platform": "Xbox 360 Arcade",
+    "emulated": false
+  },
+  {
+    "id": "yv204oxm",
+    "game": "Radiant Silvergun",
+    "player": "Lizstar",
+    "player_location": "us",
+    "time": 2446,
+    "category": "Saturn Mode",
+    "region": "JPN / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "z5x9r3jy",
+    "game": "Radiant Silvergun",
+    "player": "suzie_geeforce",
+    "player_location": "gb/eng",
+    "time": 2310,
+    "category": "Saturn Mode",
+    "region": null,
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "yln4lvnz",
+    "game": "Radiant Silvergun",
+    "player": "VanArtic",
+    "player_location": "it",
+    "time": 1270,
+    "category": "Arcade Mode",
+    "region": "USA / NTSC",
+    "platform": "Xbox 360 Arcade",
+    "emulated": false
+  }
+]

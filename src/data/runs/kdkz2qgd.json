@@ -1,0 +1,68 @@
+[
+  {
+    "id": "y43pnlkz",
+    "game": "TAMASHII",
+    "player": "Racoonix",
+    "player_location": "ca/qc",
+    "time": 1694,
+    "category": "",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y915qjnm",
+    "game": "TAMASHII",
+    "player": "Quatropus",
+    "player_location": "us",
+    "time": 1270,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y2d27v7z",
+    "game": "TAMASHII",
+    "player": "Antheis",
+    "player_location": "fr",
+    "time": 1473,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zx6wg1qz",
+    "game": "TAMASHII",
+    "player": "Mercyzxyzjs",
+    "player_location": "ca/qc",
+    "time": 2093,
+    "category": "",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "ydrjkvjz",
+    "game": "TAMASHII",
+    "player": "UlekUlek",
+    "player_location": "pl",
+    "time": 1597,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mk5npdlm",
+    "game": "TAMASHII",
+    "player": "AquelePinguim",
+    "player_location": "br",
+    "time": 2518,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  }
+]

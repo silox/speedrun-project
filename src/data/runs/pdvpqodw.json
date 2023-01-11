@@ -1,0 +1,90 @@
+[
+  {
+    "id": "wzp169gz",
+    "game": "Half-Minute Hero",
+    "player": "dowolf",
+    "player_location": "us",
+    "time": 11.55,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": false
+  },
+  {
+    "id": "8y87xx5z",
+    "game": "Half-Minute Hero",
+    "player": "Witchs_Hex",
+    "player_location": null,
+    "time": 253.88,
+    "category": "Hero 300 PC",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m3ddwr6z",
+    "game": "Half-Minute Hero",
+    "player": "Fluteboy123",
+    "player_location": "us",
+    "time": 29.37,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zxv0j2ey",
+    "game": "Half-Minute Hero",
+    "player": "chiteiro1",
+    "player_location": "br",
+    "time": 246.84,
+    "category": "Hero 300 PC",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yl4rql2m",
+    "game": "Half-Minute Hero",
+    "player": "pokemonfan1937",
+    "player_location": "tw",
+    "time": 12.2,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z51rn2em",
+    "game": "Half-Minute Hero",
+    "player": "brunn08",
+    "player_location": "pt",
+    "time": 13.97,
+    "category": "Hero 3 PC",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yd608qjz",
+    "game": "Half-Minute Hero",
+    "player": "KrisTheHedgehog",
+    "player_location": "fr",
+    "time": 2201.6,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "m35lr2qy",
+    "game": "Half-Minute Hero",
+    "player": "Logi_Carra",
+    "player_location": null,
+    "time": 1730,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

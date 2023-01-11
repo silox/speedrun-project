@@ -1,0 +1,68 @@
+[
+  {
+    "id": "emkp9kvy",
+    "game": "",
+    "player": "trulystupidnewb",
+    "player_location": "ca/qc",
+    "time": 53509,
+    "category": "All Dungeon Bosses",
+    "region": "USA / NTSC",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "yvg7lley",
+    "game": "",
+    "player": "\u30ab\u30d6",
+    "player_location": null,
+    "time": 12447,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "mr8pxjdy",
+    "game": "Rune Factory: Frontier",
+    "player": "enu",
+    "player_location": "jp",
+    "time": 8214,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "mre1xe4y",
+    "game": "Rune Factory: Frontier",
+    "player": "\u4e0e\u5175\u885b",
+    "player_location": null,
+    "time": 38931,
+    "category": "Marriage",
+    "region": "JPN / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "y21xw1jz",
+    "game": "Rune Factory: Frontier",
+    "player": "\u3048\u3059\u3048\u3059",
+    "player_location": null,
+    "time": 20065,
+    "category": "Marriage",
+    "region": "JPN / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "y21xw1wz",
+    "game": "Rune Factory: Frontier",
+    "player": "WKRN",
+    "player_location": "jp",
+    "time": 9838,
+    "category": "Marriage",
+    "region": "JPN / NTSC",
+    "platform": "Wii U",
+    "emulated": false
+  }
+]

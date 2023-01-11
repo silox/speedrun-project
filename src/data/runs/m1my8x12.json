@@ -1,0 +1,46 @@
+[
+  {
+    "id": "yvg00vxy",
+    "game": "Fantasia",
+    "player": "ulvsblakk",
+    "player_location": "at",
+    "time": 694,
+    "category": "",
+    "region": null,
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "zxvln8ey",
+    "game": "Fantasia",
+    "player": "Jesse_Lee",
+    "player_location": "us",
+    "time": 2242,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "zg7nwdez",
+    "game": "Fantasia",
+    "player": "sluming",
+    "player_location": "us",
+    "time": 666,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "yj41lkgy",
+    "game": "Fantasia",
+    "player": "kronoschiarini",
+    "player_location": "br",
+    "time": 2220,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  }
+]

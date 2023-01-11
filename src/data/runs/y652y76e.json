@@ -1,0 +1,79 @@
+[
+  {
+    "id": "1zqvjvxm",
+    "game": "Yakuza",
+    "player": "aniimos",
+    "player_location": "au",
+    "time": 14455,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "ywdxxd0z",
+    "game": "Yakuza",
+    "player": "Mametaro",
+    "player_location": "jp",
+    "time": 7994,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "y8216g1y",
+    "game": "Yakuza",
+    "player": "tapioca",
+    "player_location": "us",
+    "time": 7311,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "z12p0kry",
+    "game": "Yakuza",
+    "player": "Zana_G",
+    "player_location": null,
+    "time": 7150,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "zxdkv18y",
+    "game": "Yakuza",
+    "player": "Mr_Mary",
+    "player_location": "pl",
+    "time": 11766,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "y69o72qy",
+    "game": "Yakuza",
+    "player": "Froob",
+    "player_location": "gb/eng",
+    "time": 8752,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "y2p71e5z",
+    "game": "Yakuza",
+    "player": "BigNoNo",
+    "player_location": null,
+    "time": 7134,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  }
+]

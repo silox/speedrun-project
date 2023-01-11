@@ -1,0 +1,222 @@
+[
+  {
+    "id": "meo0j42z",
+    "game": "Yu-Gi-Oh! The Falsebound Kingdom",
+    "player": "CardsOfTheHeart",
+    "player_location": "us",
+    "time": 7101,
+    "category": "Yugi Story",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "pzgkxwdy",
+    "game": "Yu-Gi-Oh! The Falsebound Kingdom",
+    "player": "sirjdog21",
+    "player_location": null,
+    "time": 20312,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "8yvplooy",
+    "game": "Yu-Gi-Oh! The Falsebound Kingdom",
+    "player": "Cybeasting",
+    "player_location": "us",
+    "time": 7688,
+    "category": "Yugi Story",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "2ywgqnpz",
+    "game": "Yu-Gi-Oh! The Falsebound Kingdom",
+    "player": "GreenBomber",
+    "player_location": "us",
+    "time": 6546,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "y45r3vnm",
+    "game": "Yu-Gi-Oh! The Falsebound Kingdom",
+    "player": "TheSassJacket",
+    "player_location": "us",
+    "time": 8172,
+    "category": "Yugi Story",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "mrq14l4y",
+    "game": "Yu-Gi-Oh! The Falsebound Kingdom",
+    "player": "freeland",
+    "player_location": "us",
+    "time": 8534,
+    "category": "Yugi Story",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "y89gpedm",
+    "game": "Yu-Gi-Oh! The Falsebound Kingdom",
+    "player": "Ivanzypher",
+    "player_location": "us",
+    "time": 618,
+    "category": "Challenge Mode (Yugi)",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "zp4lelvz",
+    "game": "Yu-Gi-Oh! The Falsebound Kingdom",
+    "player": "MichaelGio",
+    "player_location": "us",
+    "time": 7539,
+    "category": "Yugi Story",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "mk31983z",
+    "game": "Yu-Gi-Oh! The Falsebound Kingdom",
+    "player": "GracefulShutdown",
+    "player_location": "ca",
+    "time": 521,
+    "category": "Challenge Mode (Yugi)",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "m356lkdy",
+    "game": "Yu-Gi-Oh! The Falsebound Kingdom",
+    "player": "yeager.exe",
+    "player_location": "de",
+    "time": 8011,
+    "category": "Yugi Story",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": true
+  },
+  {
+    "id": "ywqq4vny",
+    "game": "Yu-Gi-Oh! The Falsebound Kingdom",
+    "player": "BigSlink",
+    "player_location": "us",
+    "time": 7034,
+    "category": "Yugi Story",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "yo331w7y",
+    "game": "Yu-Gi-Oh! The Falsebound Kingdom",
+    "player": "FernandoK9",
+    "player_location": "mx",
+    "time": 309,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "m7w8x20z",
+    "game": "Yu-Gi-Oh! The Falsebound Kingdom",
+    "player": "FarmingSim",
+    "player_location": "us",
+    "time": 318,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "yo333d0y",
+    "game": "Yu-Gi-Oh! The Falsebound Kingdom",
+    "player": "Vyseoflegends9002",
+    "player_location": "us",
+    "time": 331,
+    "category": "Challenge Mode (Kaiba)",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "y919e6vm",
+    "game": "Yu-Gi-Oh! The Falsebound Kingdom",
+    "player": "WesleyEvss",
+    "player_location": "us",
+    "time": 364,
+    "category": "Challenge Mode (Yugi)",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "zq00qj5y",
+    "game": "Yu-Gi-Oh! The Falsebound Kingdom",
+    "player": "top5g04t",
+    "player_location": "us",
+    "time": 677,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "y200lnwm",
+    "game": "Yu-Gi-Oh! The Falsebound Kingdom",
+    "player": "FrozenCasket",
+    "player_location": "gb",
+    "time": 327,
+    "category": "Challenge Mode (Kaiba)",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "y202wp9m",
+    "game": "Yu-Gi-Oh! The Falsebound Kingdom",
+    "player": "DanTheEnigma",
+    "player_location": "us",
+    "time": 7925,
+    "category": "Yugi Story",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "ydwxnvqm",
+    "game": "Yu-Gi-Oh! The Falsebound Kingdom",
+    "player": "vyndrelin",
+    "player_location": "us",
+    "time": 7526,
+    "category": "Yugi Story",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "z0p8ndoy",
+    "game": "Yu-Gi-Oh! The Falsebound Kingdom",
+    "player": "RyanMadeContent",
+    "player_location": "us",
+    "time": 341,
+    "category": "Challenge Mode (Yugi)",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  }
+]

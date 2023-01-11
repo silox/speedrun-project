@@ -1,0 +1,68 @@
+[
+  {
+    "id": "y2q07gjy",
+    "game": "Gourmet Sentai Bara Yarou",
+    "player": "DJBunyan",
+    "player_location": "us",
+    "time": 1286,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "yj4p1ony",
+    "game": "Gourmet Sentai Bara Yarou",
+    "player": "Sm_Izumi",
+    "player_location": "fr",
+    "time": 968,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "yd6ov9vz",
+    "game": "Gourmet Sentai Bara Yarou",
+    "player": "chaosowl",
+    "player_location": "cn",
+    "time": 1136,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "mrkjgd7y",
+    "game": "Gourmet Sentai Bara Yarou",
+    "player": "Ritzblues783",
+    "player_location": "us",
+    "time": 1125,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "ylkvwxkz",
+    "game": "Gourmet Sentai Bara Yarou",
+    "player": "inubanchou",
+    "player_location": "jp",
+    "time": 1086,
+    "category": "Bonjour",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "m3n21qwy",
+    "game": "Gourmet Sentai Bara Yarou",
+    "player": "mailer-demon",
+    "player_location": null,
+    "time": 919,
+    "category": "Bonjour",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  }
+]

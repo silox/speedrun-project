@@ -1,0 +1,57 @@
+[
+  {
+    "id": "dy45op2m",
+    "game": "Puzzle Bobble 4 (Arcade)",
+    "player": "CrystalChaos",
+    "player_location": null,
+    "time": 1686,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zn480v7m",
+    "game": "Puzzle Bobble 4 (Arcade)",
+    "player": "LarviStar",
+    "player_location": "us",
+    "time": 815,
+    "category": "Vs. Computer (Normal)",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "m7p925wm",
+    "game": "Puzzle Bobble 4 (Arcade)",
+    "player": "nick666101",
+    "player_location": "nl",
+    "time": 633,
+    "category": "",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yv9el46z",
+    "game": "Puzzle Bobble 4 (Arcade)",
+    "player": "MAME_Retro_Avengers",
+    "player_location": "it",
+    "time": 82,
+    "category": "",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y2vl2p7z",
+    "game": "Puzzle Bobble 4 (Arcade)",
+    "player": "Darmok57",
+    "player_location": "it",
+    "time": 957,
+    "category": "Puzzle (Normal)",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

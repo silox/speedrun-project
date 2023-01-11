@@ -1,0 +1,24 @@
+[
+  {
+    "id": "dy42nqnm",
+    "game": "Attack of the Killer Tomatoes (GB)",
+    "player": "StarvinStruthers",
+    "player_location": "us",
+    "time": 698,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": false
+  },
+  {
+    "id": "yo683edy",
+    "game": "Attack of the Killer Tomatoes (GB)",
+    "player": "Yuyukichi",
+    "player_location": "jp",
+    "time": 687,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  }
+]

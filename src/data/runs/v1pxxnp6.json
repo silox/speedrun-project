@@ -1,0 +1,145 @@
+[
+  {
+    "id": "me75819y",
+    "game": "Nintendo Badge Arcade",
+    "player": "SkittlesCat83",
+    "player_location": "us",
+    "time": 37.2,
+    "category": "Practice Catcher",
+    "region": "USA / NTSC",
+    "platform": null,
+    "emulated": false
+  },
+  {
+    "id": "y8d4j1xz",
+    "game": "Nintendo Badge Arcade",
+    "player": "TRLittleToaster",
+    "player_location": "us",
+    "time": 7.133,
+    "category": "Free Plays",
+    "region": "USA / NTSC",
+    "platform": null,
+    "emulated": false
+  },
+  {
+    "id": "yj5393dm",
+    "game": "Nintendo Badge Arcade",
+    "player": "BlueJay2018",
+    "player_location": "fr",
+    "time": 4.567,
+    "category": "Free Plays",
+    "region": "EUR / PAL",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "y27nd2wz",
+    "game": "Nintendo Badge Arcade",
+    "player": "Sex",
+    "player_location": "gn",
+    "time": 10.267,
+    "category": "Free Plays",
+    "region": "JPN / NTSC",
+    "platform": null,
+    "emulated": false
+  },
+  {
+    "id": "zxl449gz",
+    "game": "Nintendo Badge Arcade",
+    "player": "MacedonianRunner",
+    "player_location": null,
+    "time": 6,
+    "category": "Free Plays",
+    "region": null,
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "y8j11x1z",
+    "game": "Nintendo Badge Arcade",
+    "player": "FrostySR",
+    "player_location": null,
+    "time": 1.588,
+    "category": "Free Plays",
+    "region": "EUR / PAL",
+    "platform": null,
+    "emulated": false
+  },
+  {
+    "id": "z5vdw4nm",
+    "game": "Nintendo Badge Arcade",
+    "player": "iGameplay1337",
+    "player_location": null,
+    "time": 597.667,
+    "category": "",
+    "region": null,
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "z0o70v9z",
+    "game": "Nintendo Badge Arcade",
+    "player": "GameXplain",
+    "player_location": null,
+    "time": 69.3,
+    "category": "",
+    "region": null,
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "zn72kd3m",
+    "game": "Nintendo Badge Arcade",
+    "player": "Vu16",
+    "player_location": "ca/qc",
+    "time": 1.667,
+    "category": "Free Plays",
+    "region": null,
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "y4q1g0dm",
+    "game": "Nintendo Badge Arcade",
+    "player": "Nanostar",
+    "player_location": null,
+    "time": 4.633,
+    "category": "Free Plays",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "znjr607m",
+    "game": "Nintendo Badge Arcade",
+    "player": "Bobo1803",
+    "player_location": "gb/eng",
+    "time": 1.5,
+    "category": "Free Plays",
+    "region": "EUR / PAL",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "yope8p7m",
+    "game": "Nintendo Badge Arcade",
+    "player": "Nemasis200",
+    "player_location": "us",
+    "time": 4.767,
+    "category": "Paid Plays",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "zpgr09gz",
+    "game": "Nintendo Badge Arcade",
+    "player": "OtherRiley",
+    "player_location": "nl",
+    "time": 75.367,
+    "category": "Practice Catcher",
+    "region": "EUR / PAL",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  }
+]

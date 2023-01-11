@@ -1,0 +1,57 @@
+[
+  {
+    "id": "y43edlnz",
+    "game": "Legend of Oasis",
+    "player": "Mikebloke",
+    "player_location": "gb/eng",
+    "time": 8519,
+    "category": "Any %",
+    "region": "EUR / PAL",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "z1o21j7m",
+    "game": "Legend of Oasis",
+    "player": "walkingeye",
+    "player_location": "us",
+    "time": 2575,
+    "category": "2P Any %",
+    "region": "USA / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "ywqwxgny",
+    "game": "Legend of Oasis",
+    "player": "kururusama",
+    "player_location": "kr",
+    "time": 5575,
+    "category": "Any %",
+    "region": "JPN / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": true
+  },
+  {
+    "id": "mk5p78xm",
+    "game": "Legend of Oasis",
+    "player": "Lockey0507",
+    "player_location": "jp",
+    "time": 3199,
+    "category": "Any %",
+    "region": "JPN / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": true
+  },
+  {
+    "id": "zgplo2dz",
+    "game": "Legend of Oasis",
+    "player": "GreenShinobi",
+    "player_location": null,
+    "time": 6011,
+    "category": "100%",
+    "region": null,
+    "platform": "Sega Saturn",
+    "emulated": false
+  }
+]

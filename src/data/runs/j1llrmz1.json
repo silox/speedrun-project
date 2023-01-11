@@ -1,0 +1,167 @@
+[
+  {
+    "id": "meox5r3z",
+    "game": "Digimon World Category Extensions",
+    "player": "Hdot12",
+    "player_location": "de",
+    "time": 5500,
+    "category": "Randomiser",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "z5jop3dm",
+    "game": "Digimon World Category Extensions",
+    "player": "ZChaotix",
+    "player_location": "us",
+    "time": 15183,
+    "category": "Randomiser",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "me7kq93y",
+    "game": "Digimon World Category Extensions",
+    "player": "Raikou",
+    "player_location": "au",
+    "time": 525,
+    "category": "Curling",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "ylk05r2z",
+    "game": "Digimon World Category Extensions",
+    "player": "Trigantix",
+    "player_location": "de",
+    "time": 5800,
+    "category": "Legacy",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "yw3209pm",
+    "game": "Digimon World Category Extensions",
+    "player": "dragoonanime",
+    "player_location": "uy",
+    "time": 518,
+    "category": "Curling",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "mk3p503z",
+    "game": "Digimon World Category Extensions",
+    "player": "LordAmera",
+    "player_location": "ar",
+    "time": 4079,
+    "category": "Randomiser",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "yv676koz",
+    "game": "Digimon World Category Extensions",
+    "player": "Kyutora",
+    "player_location": "gb/eng",
+    "time": 584,
+    "category": "Open Tray/Debug",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "yj18e0oy",
+    "game": "Digimon World Category Extensions",
+    "player": "caffeinatedpolygons",
+    "player_location": "us",
+    "time": 6588,
+    "category": "Alt. Digimon",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "mrrpe5dm",
+    "game": "Digimon World Category Extensions",
+    "player": "MrSeawing",
+    "player_location": "se",
+    "time": 4010,
+    "category": "Randomiser",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "yjx4lvoz",
+    "game": "Digimon World Category Extensions",
+    "player": "Sparsie",
+    "player_location": "de",
+    "time": 12361,
+    "category": "Alt. Digimon",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "mej8o52y",
+    "game": "Digimon World Category Extensions",
+    "player": "Azureflame4",
+    "player_location": "us",
+    "time": 13029,
+    "category": "Alt. Digimon",
+    "region": null,
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "m76e1o0y",
+    "game": "Digimon World Category Extensions",
+    "player": "FlamesOlsen",
+    "player_location": "no",
+    "time": 521,
+    "category": "Curling",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zn7lo4vm",
+    "game": "Digimon World Category Extensions",
+    "player": "ShadowCrystallux",
+    "player_location": "au",
+    "time": 8007,
+    "category": "Legacy",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "z5x6krny",
+    "game": "Digimon World Category Extensions",
+    "player": "KiriGuy",
+    "player_location": "gb/eng",
+    "time": 6365,
+    "category": "Randomiser",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "y4g3v62y",
+    "game": "Digimon World Category Extensions",
+    "player": "_8P_",
+    "player_location": "jp",
+    "time": 539,
+    "category": "Open Tray/Debug",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "7z0npeem",
+    "game": "Final Fantasy Crystal Chronicles: The Crystal Bearers",
+    "player": "Sir_VG",
+    "player_location": "us",
+    "time": 14195,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "1zqe8d1z",
+    "game": "Final Fantasy Crystal Chronicles: The Crystal Bearers",
+    "player": "zewing",
+    "player_location": "us",
+    "time": 14726,
+    "category": "New Game",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "yvjkpqxy",
+    "game": "Final Fantasy Crystal Chronicles: The Crystal Bearers",
+    "player": "Palmer",
+    "player_location": "us",
+    "time": 14250,
+    "category": "New Game",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "y6937g6y",
+    "game": "Final Fantasy Crystal Chronicles: The Crystal Bearers",
+    "player": "Snafful",
+    "player_location": "jp",
+    "time": 14098,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  }
+]

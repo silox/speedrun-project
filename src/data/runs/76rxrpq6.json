@@ -1,0 +1,57 @@
+[
+  {
+    "id": "zp4pqjxz",
+    "game": "Slayers (SNES)",
+    "player": "saturn_neptune",
+    "player_location": "gb",
+    "time": 408,
+    "category": "Final%",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "yjg7q33y",
+    "game": "Slayers (SNES)",
+    "player": "Symm",
+    "player_location": "gb",
+    "time": 10147,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "y8xe65dm",
+    "game": "Slayers (SNES)",
+    "player": "Ryutheblackshadow",
+    "player_location": "de",
+    "time": 195,
+    "category": "Final%",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "znq0dpvz",
+    "game": "Slayers (SNES)",
+    "player": "Yorkeyjones",
+    "player_location": "gb/eng",
+    "time": 13512,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "yw63360m",
+    "game": "Slayers (SNES)",
+    "player": "Hawk_Snow",
+    "player_location": "jp",
+    "time": 10105,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  }
+]

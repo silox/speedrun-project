@@ -1,0 +1,46 @@
+[
+  {
+    "id": "8yvn6xom",
+    "game": "Bugs Bunny: Crazy Castle 3",
+    "player": "protaku82",
+    "player_location": null,
+    "time": 17031,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Player",
+    "emulated": false
+  },
+  {
+    "id": "znkw9elz",
+    "game": "Bugs Bunny: Crazy Castle 3",
+    "player": "AQ_Noops",
+    "player_location": "us",
+    "time": 5851,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "mex3jj0z",
+    "game": "Bugs Bunny: Crazy Castle 3",
+    "player": "LudwigVonKoopa",
+    "player_location": "de",
+    "time": 8228,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "z57vkqdm",
+    "game": "Bugs Bunny: Crazy Castle 3",
+    "player": "CocoConfession",
+    "player_location": "us",
+    "time": 16322,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Player",
+    "emulated": false
+  }
+]

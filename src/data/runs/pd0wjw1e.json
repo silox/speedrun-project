@@ -1,0 +1,145 @@
+[
+  {
+    "id": "8m78784z",
+    "game": "Bonk's Adventure (GB)",
+    "player": "Mickey Mage",
+    "player_location": null,
+    "time": 1133,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Super Game Boy",
+    "emulated": false
+  },
+  {
+    "id": "pm3w79gy",
+    "game": "Bonk's Adventure (GB)",
+    "player": "Jorf",
+    "player_location": "ca",
+    "time": 997,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "pzgj2g0z",
+    "game": "Bonk's Adventure (GB)",
+    "player": "mrcab55",
+    "player_location": "us",
+    "time": 1589,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Game Boy 2",
+    "emulated": false
+  },
+  {
+    "id": "7ylp852m",
+    "game": "Bonk's Adventure (GB)",
+    "player": "bangerra",
+    "player_location": "be",
+    "time": 1136,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Super Game Boy 2",
+    "emulated": false
+  },
+  {
+    "id": "8yvndexm",
+    "game": "Bonk's Adventure (GB)",
+    "player": "Moelle",
+    "player_location": "be",
+    "time": 1654,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Super Game Boy 2",
+    "emulated": false
+  },
+  {
+    "id": "7z00ed9z",
+    "game": "Bonk's Adventure (GB)",
+    "player": "infinitemystery",
+    "player_location": null,
+    "time": 1790,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Game Boy 2",
+    "emulated": false
+  },
+  {
+    "id": "mek8l68m",
+    "game": "Bonk's Adventure (GB)",
+    "player": "Flockdjur",
+    "player_location": "se",
+    "time": 1181,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "z03popoz",
+    "game": "Bonk's Adventure (GB)",
+    "player": "LattMackey",
+    "player_location": "us",
+    "time": 1299,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Game Boy 2",
+    "emulated": false
+  },
+  {
+    "id": "z5jxx8jm",
+    "game": "Bonk's Adventure (GB)",
+    "player": "TheStrahl",
+    "player_location": "us",
+    "time": 1319,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Player",
+    "emulated": false
+  },
+  {
+    "id": "yj392jgz",
+    "game": "Bonk's Adventure (GB)",
+    "player": "smartalec24",
+    "player_location": "us",
+    "time": 1276,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Game Boy 2",
+    "emulated": false
+  },
+  {
+    "id": "z01n7poy",
+    "game": "Bonk's Adventure (GB)",
+    "player": "giygasblues",
+    "player_location": null,
+    "time": 1689,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Game Boy 2",
+    "emulated": false
+  },
+  {
+    "id": "y4rk2gqz",
+    "game": "Bonk's Adventure (GB)",
+    "player": "JuegAriel",
+    "player_location": "es",
+    "time": 1375,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "yo62lpjy",
+    "game": "Bonk's Adventure (GB)",
+    "player": "slashinfty",
+    "player_location": "us",
+    "time": 1131,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Super Game Boy 2",
+    "emulated": false
+  }
+]

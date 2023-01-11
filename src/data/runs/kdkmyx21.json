@@ -1,0 +1,156 @@
+[
+  {
+    "id": "y4qk953m",
+    "game": "Chocobo GP",
+    "player": "Dcf_Z",
+    "player_location": "jp",
+    "time": 1217.59,
+    "category": "Story (Normal)",
+    "region": "JPN / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "zxlpe68z",
+    "game": "Chocobo GP",
+    "player": "FakeBigWeld",
+    "player_location": "gb",
+    "time": 1665.43,
+    "category": "Story (Normal)",
+    "region": "EUR / PAL",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "y204vd7m",
+    "game": "Chocobo GP",
+    "player": "poshi",
+    "player_location": "jp",
+    "time": 1362.75,
+    "category": "Story (Normal)",
+    "region": "JPN / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "mkkqj4xm",
+    "game": "Chocobo GP",
+    "player": "groggydog",
+    "player_location": "us",
+    "time": 1225.21,
+    "category": "Story (Normal)",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "zq0xx68y",
+    "game": "Chocobo GP",
+    "player": "NA217",
+    "player_location": null,
+    "time": 1255.11,
+    "category": "Story (Normal)",
+    "region": "JPN / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "y204827m",
+    "game": "Chocobo GP",
+    "player": "Jaaay",
+    "player_location": null,
+    "time": 1692.2,
+    "category": "Story (Normal)",
+    "region": "EUR / PAL",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "zgpr39nz",
+    "game": "Chocobo GP",
+    "player": "NANONOX",
+    "player_location": "jp",
+    "time": 1221.31,
+    "category": "Story (Extra)",
+    "region": "JPN / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "yjpp4vny",
+    "game": "Chocobo GP",
+    "player": "Obiyo",
+    "player_location": "ca/qc",
+    "time": 1254.3,
+    "category": "Story (Normal)",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "znqwngvz",
+    "game": "Chocobo GP",
+    "player": "kariohki",
+    "player_location": "us",
+    "time": 1339.16,
+    "category": "Story (Normal)",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "zx799pky",
+    "game": "Chocobo GP",
+    "player": "Shizu_Rin",
+    "player_location": "jp",
+    "time": 1226.97,
+    "category": "Story (Normal)",
+    "region": "JPN / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "yd1p3qxy",
+    "game": "Chocobo GP",
+    "player": "Shigan_",
+    "player_location": "fr",
+    "time": 1253.5,
+    "category": "Story (Normal)",
+    "region": "EUR / PAL",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "zq97q61y",
+    "game": "Chocobo GP",
+    "player": "Kitori",
+    "player_location": "jp",
+    "time": 1271.42,
+    "category": "Story (Extra)",
+    "region": "JPN / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "yjp1223y",
+    "game": "Chocobo GP",
+    "player": "R_Tencho",
+    "player_location": "jp",
+    "time": 1261.38,
+    "category": "Story (Normal)",
+    "region": "JPN / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "m33vd66m",
+    "game": "Chocobo GP",
+    "player": "Ulvind",
+    "player_location": "fr",
+    "time": 1357.14,
+    "category": "Story (Normal)",
+    "region": "EUR / PAL",
+    "platform": "Switch",
+    "emulated": false
+  }
+]

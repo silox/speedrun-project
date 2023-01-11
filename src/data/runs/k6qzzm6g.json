@@ -1,0 +1,156 @@
+[
+  {
+    "id": "oy2ddp7z",
+    "game": "Pocky & Rocky",
+    "player": "Akisto",
+    "player_location": "se",
+    "time": 1238,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "7z099poz",
+    "game": "Pocky & Rocky",
+    "player": "PJDicesare",
+    "player_location": null,
+    "time": 1312,
+    "category": "Any% Co-Op",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "dy4q14dm",
+    "game": "Pocky & Rocky",
+    "player": "SerelepeMarsupial",
+    "player_location": "br",
+    "time": 1591,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "zp0x9v8m",
+    "game": "Pocky & Rocky",
+    "player": "dagronSR",
+    "player_location": "ca",
+    "time": 1178,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "mekqjkqm",
+    "game": "Pocky & Rocky",
+    "player": "EODTex",
+    "player_location": "us",
+    "time": 1776,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "zg7p30ez",
+    "game": "Pocky & Rocky",
+    "player": "najibbara",
+    "player_location": "us",
+    "time": 1469,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y89ovxnm",
+    "game": "Pocky & Rocky",
+    "player": "RottDawg",
+    "player_location": null,
+    "time": 1401,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y6nnjrqz",
+    "game": "Pocky & Rocky",
+    "player": "Volwrath",
+    "player_location": "ca",
+    "time": 1214,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "yj1q8doy",
+    "game": "Pocky & Rocky",
+    "player": "Zericc",
+    "player_location": "ca",
+    "time": 1789,
+    "category": "Any% Co-Op",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "y9llxnny",
+    "game": "Pocky & Rocky",
+    "player": "Rancore",
+    "player_location": "jp",
+    "time": 1159,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "me3j5q3z",
+    "game": "Pocky & Rocky",
+    "player": "Xiaoyuyu",
+    "player_location": "cn",
+    "time": 1375,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "yjppj7ny",
+    "game": "Pocky & Rocky",
+    "player": "Nolinto",
+    "player_location": "ca/qc",
+    "time": 1272,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y4x3xqqz",
+    "game": "Pocky & Rocky",
+    "player": "RetroRalle",
+    "player_location": "de",
+    "time": 1523,
+    "category": "Any% Co-Op",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "zpddnlxz",
+    "game": "Pocky & Rocky",
+    "player": "mr_sis",
+    "player_location": "de",
+    "time": 2046,
+    "category": "Any% Co-Op",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  }
+]

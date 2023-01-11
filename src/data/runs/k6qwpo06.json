@@ -1,0 +1,90 @@
+[
+  {
+    "id": "y93or5vy",
+    "game": "Angry Birds Reloaded",
+    "player": "TRLittleToaster",
+    "player_location": "us",
+    "time": 10.033,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "zn73vv8m",
+    "game": "Angry Birds Reloaded",
+    "player": "Kakariki",
+    "player_location": "nz",
+    "time": 9.95,
+    "category": "Any%",
+    "region": null,
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "ylevw53z",
+    "game": "Angry Birds Reloaded",
+    "player": "Soundwave_Pig",
+    "player_location": "us",
+    "time": 14.55,
+    "category": "Any%",
+    "region": null,
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "mej1n78y",
+    "game": "Angry Birds Reloaded",
+    "player": "jackzfiml",
+    "player_location": "us",
+    "time": 1396,
+    "category": "Hot Pursuit",
+    "region": "USA / NTSC",
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "ydd8jqjy",
+    "game": "Angry Birds Reloaded",
+    "player": "CaptNinja6",
+    "player_location": "us",
+    "time": 599.683,
+    "category": "Hot Pursuit",
+    "region": null,
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "y8816dwy",
+    "game": "Angry Birds Reloaded",
+    "player": "FlashGiant",
+    "player_location": "us",
+    "time": 10.2,
+    "category": "Any%",
+    "region": null,
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "zgprw4nz",
+    "game": "Angry Birds Reloaded",
+    "player": "Fingerschmaus",
+    "player_location": "de",
+    "time": 606.033,
+    "category": "Hot Pursuit",
+    "region": "EUR / PAL",
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "y80qevxm",
+    "game": "Angry Birds Reloaded",
+    "player": "AidanRuns",
+    "player_location": null,
+    "time": 3963,
+    "category": "Hot Pursuit",
+    "region": "USA / NTSC",
+    "platform": "iOS",
+    "emulated": false
+  }
+]

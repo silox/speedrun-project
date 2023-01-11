@@ -1,0 +1,112 @@
+[
+  {
+    "id": "z5owkrjy",
+    "game": "Super Dragon Ball Z",
+    "player": "Daniel_1RD",
+    "player_location": "dk",
+    "time": 639,
+    "category": "PS2",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "z01j6ojy",
+    "game": "Super Dragon Ball Z",
+    "player": "DrunkGecko",
+    "player_location": "us",
+    "time": 369,
+    "category": "PS2",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "m3n0jjgy",
+    "game": "Super Dragon Ball Z",
+    "player": "gpbear4",
+    "player_location": null,
+    "time": 273,
+    "category": "Emulator",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "m3gn0egz",
+    "game": "Super Dragon Ball Z",
+    "player": "Hinokami",
+    "player_location": "de",
+    "time": 305,
+    "category": "Emulator",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zn3pd8vy",
+    "game": "Super Dragon Ball Z",
+    "player": "Daragamuffin",
+    "player_location": null,
+    "time": 298,
+    "category": "PS2",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "ylo00g3y",
+    "game": "Super Dragon Ball Z",
+    "player": "Th3ReaperHD",
+    "player_location": "gb/nir",
+    "time": 286,
+    "category": "Emulator",
+    "region": null,
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "m3nwk4qy",
+    "game": "Super Dragon Ball Z",
+    "player": "MachaKing",
+    "player_location": "pt",
+    "time": 266,
+    "category": "Emulator",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y66e4rjy",
+    "game": "Super Dragon Ball Z",
+    "player": "DeadlyRaveNeo",
+    "player_location": "us",
+    "time": 268,
+    "category": "Emulator",
+    "region": null,
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "ylqv4p2z",
+    "game": "Super Dragon Ball Z",
+    "player": "HOBOTROLL9000",
+    "player_location": "au",
+    "time": 280,
+    "category": "Emulator",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "z0nwdqjm",
+    "game": "Super Dragon Ball Z",
+    "player": "Lekupaz",
+    "player_location": "es",
+    "time": 334,
+    "category": "Emulator",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  }
+]

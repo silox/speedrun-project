@@ -1,0 +1,24 @@
+[
+  {
+    "id": "pm33x54m",
+    "game": "46 Okunen Monogatari: The Shinkaron",
+    "player": "GreenBomber",
+    "player_location": "us",
+    "time": 4449,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "NEC PC-98 series",
+    "emulated": true
+  },
+  {
+    "id": "8m7vv40m",
+    "game": "46 Okunen Monogatari: The Shinkaron",
+    "player": "Megami_infini",
+    "player_location": "pl",
+    "time": 20226,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "NEC PC-98 series",
+    "emulated": true
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "id": "z0en32em",
+    "game": "Fatal Fury 2 (SNES)",
+    "player": "fluffytoycoy",
+    "player_location": "us",
+    "time": 1747,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "z03j254z",
+    "game": "Fatal Fury 2 (SNES)",
+    "player": "Chronodd",
+    "player_location": "br",
+    "time": 1060,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "y92894kz",
+    "game": "Fatal Fury 2 (SNES)",
+    "player": "NerdyNester",
+    "player_location": "us",
+    "time": 1113,
+    "category": "Game Level 1",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "yv6jd7ez",
+    "game": "Fatal Fury 2 (SNES)",
+    "player": "ssdninja",
+    "player_location": "us",
+    "time": 1044,
+    "category": "Game Level 1",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "zp44vwrz",
+    "game": "Fatal Fury 2 (SNES)",
+    "player": "YoBGS",
+    "player_location": "us",
+    "time": 1207,
+    "category": "Game Level 1",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "yv3q646z",
+    "game": "Fatal Fury 2 (SNES)",
+    "player": "smartalec24",
+    "player_location": "us",
+    "time": 1294,
+    "category": "Game Level 1",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "yw4rx00z",
+    "game": "Fatal Fury 2 (SNES)",
+    "player": "Tavetendo",
+    "player_location": "us",
+    "time": 1048,
+    "category": "Game Level 1",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "zqrj989y",
+    "game": "Fatal Fury 2 (SNES)",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 1108,
+    "category": "Game Level 1",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "z1p279rz",
+    "game": "Fatal Fury 2 (SNES)",
+    "player": "ScoreJooJRun",
+    "player_location": "br",
+    "time": 939,
+    "category": "Game Level 1",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "mr4we67z",
+    "game": "Fatal Fury 2 (SNES)",
+    "player": "JINtwoJET",
+    "player_location": "jp",
+    "time": 1298,
+    "category": "",
+    "region": null,
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "z5r8oeey",
+    "game": "Fatal Fury 2 (SNES)",
+    "player": "freeHippie",
+    "player_location": "de",
+    "time": 1248,
+    "category": "Game Level 1",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "ywk6glny",
+    "game": "Fatal Fury 2 (SNES)",
+    "player": "Therunner1",
+    "player_location": "dz",
+    "time": 999,
+    "category": "Game Level 1",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "7z0e01om",
+    "game": "Gain Ground",
+    "player": "unusualcook",
+    "player_location": "us",
+    "time": 1116,
+    "category": "Genesis",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "1zqrxd8y",
+    "game": "Gain Ground",
+    "player": "bnz0",
+    "player_location": "de",
+    "time": 4252,
+    "category": "Genesis",
+    "region": "EUR / PAL",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "yw49130z",
+    "game": "Gain Ground",
+    "player": "Cypherin",
+    "player_location": "us",
+    "time": 3520,
+    "category": "Genesis",
+    "region": null,
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "ydrkkwjz",
+    "game": "Gain Ground",
+    "player": "Oreb7",
+    "player_location": "se",
+    "time": 182,
+    "category": "Genesis",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "y2vxeojz",
+    "game": "Gain Ground",
+    "player": "YellowGlass",
+    "player_location": "se",
+    "time": 1270,
+    "category": "Genesis",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "y9npovvz",
+    "game": "Gain Ground",
+    "player": "MrKTS",
+    "player_location": "us",
+    "time": 22,
+    "category": "Genesis",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "yv0k0vxz",
+    "game": "Gain Ground",
+    "player": "Arial55555",
+    "player_location": "us",
+    "time": 19,
+    "category": "Genesis",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "zgq2ogny",
+    "game": "Gain Ground",
+    "player": "J2_2",
+    "player_location": "us",
+    "time": 180,
+    "category": "Genesis",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "m7xvx90y",
+    "game": "Gain Ground",
+    "player": "PapyDadou",
+    "player_location": "fr",
+    "time": 775,
+    "category": "SMS",
+    "region": "USA / NTSC",
+    "platform": "Sega Master System",
+    "emulated": true
+  },
+  {
+    "id": "z5x47eey",
+    "game": "Gain Ground",
+    "player": "Tenka",
+    "player_location": "au",
+    "time": 1716,
+    "category": "Genesis",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  }
+]

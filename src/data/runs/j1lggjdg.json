@@ -1,0 +1,101 @@
+[
+  {
+    "id": "zn8rn58z",
+    "game": "Double Dragon (Genesis)",
+    "player": "The_Retro_Challenger",
+    "player_location": "ca/qc",
+    "time": 393,
+    "category": "Any %, 1 Player",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "mrqwn0dy",
+    "game": "Double Dragon (Genesis)",
+    "player": "Xx_RunnerJake1972_xX",
+    "player_location": null,
+    "time": 735,
+    "category": "Any %, 1 Player",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "y950goez",
+    "game": "Double Dragon (Genesis)",
+    "player": "Hugh2Hoob",
+    "player_location": "us",
+    "time": 353,
+    "category": "Any %, 1 Player",
+    "region": null,
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "meoxw09z",
+    "game": "Double Dragon (Genesis)",
+    "player": "LemmyBarnett",
+    "player_location": "gb/eng",
+    "time": 409,
+    "category": "Any %, 1 Player",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "m3go03qz",
+    "game": "Double Dragon (Genesis)",
+    "player": "frbnash",
+    "player_location": "br",
+    "time": 464,
+    "category": "Any %, 1 Player",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "yd9e76xz",
+    "game": "Double Dragon (Genesis)",
+    "player": "MasterCactaur",
+    "player_location": "us",
+    "time": 390,
+    "category": "Any %, 1 Player",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "m37qw04z",
+    "game": "Double Dragon (Genesis)",
+    "player": "Crunan",
+    "player_location": "us",
+    "time": 241,
+    "category": "Any %, 1 Player",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "yj5xnd7m",
+    "game": "Double Dragon (Genesis)",
+    "player": "Former WR Time",
+    "player_location": null,
+    "time": 333,
+    "category": "Any %, 1 Player",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "mk5v4rvm",
+    "game": "Double Dragon (Genesis)",
+    "player": "illdizzog",
+    "player_location": "gb/eng",
+    "time": 291,
+    "category": "Any %, 1 Player",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  }
+]

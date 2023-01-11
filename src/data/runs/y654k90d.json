@@ -1,0 +1,57 @@
+[
+  {
+    "id": "yd6d450z",
+    "game": "Azur Lane: Crosswave",
+    "player": "zfresh",
+    "player_location": "us",
+    "time": 6600,
+    "category": "",
+    "region": null,
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "y6l150py",
+    "game": "Azur Lane: Crosswave",
+    "player": "heikin_fan_club",
+    "player_location": "jp",
+    "time": 2650,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z1j0l5wz",
+    "game": "Azur Lane: Crosswave",
+    "player": "Ryuudachi",
+    "player_location": "th",
+    "time": 4022,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yj3vq3gz",
+    "game": "Azur Lane: Crosswave",
+    "player": "ryuugami74",
+    "player_location": "de",
+    "time": 3364,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mexrqd8z",
+    "game": "Azur Lane: Crosswave",
+    "player": "Abseudus",
+    "player_location": "at",
+    "time": 3010,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

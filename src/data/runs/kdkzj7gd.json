@@ -1,0 +1,123 @@
+[
+  {
+    "id": "m3oo0dgm",
+    "game": "Rise of the Robots",
+    "player": "Yamagata",
+    "player_location": "hr",
+    "time": 644,
+    "category": "Genesis",
+    "region": "EUR / PAL",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "zgrg0wem",
+    "game": "Rise of the Robots",
+    "player": "Tenka",
+    "player_location": "au",
+    "time": 608,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "MS-DOS",
+    "emulated": true
+  },
+  {
+    "id": "zq4n8j9m",
+    "game": "Rise of the Robots",
+    "player": "kinniebeats",
+    "player_location": "us",
+    "time": 627,
+    "category": "SNES",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "yjl4g3nz",
+    "game": "Rise of the Robots",
+    "player": "NerdyNester",
+    "player_location": "us",
+    "time": 453,
+    "category": "SNES",
+    "region": "EUR / PAL",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "m3o88rdm",
+    "game": "Rise of the Robots",
+    "player": "DodonKrevedko",
+    "player_location": "ru",
+    "time": 517,
+    "category": "SNES",
+    "region": "EUR / PAL",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "ylk972nz",
+    "game": "Rise of the Robots",
+    "player": "FionaKaenbyou",
+    "player_location": "gb/sct",
+    "time": 498,
+    "category": "SNES",
+    "region": "EUR / PAL",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "yo3k21jy",
+    "game": "Rise of the Robots",
+    "player": "DoomSoma",
+    "player_location": null,
+    "time": 485,
+    "category": "Genesis",
+    "region": "EUR / PAL",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "y48075dm",
+    "game": "Rise of the Robots",
+    "player": "GoingMenthol",
+    "player_location": "gb",
+    "time": 370,
+    "category": "SNES",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "y60520qy",
+    "game": "Rise of the Robots",
+    "player": "hamonhalil",
+    "player_location": "tr",
+    "time": 301,
+    "category": "Genesis",
+    "region": "EUR / PAL",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "z0p3rk9y",
+    "game": "Rise of the Robots",
+    "player": "zachary1021",
+    "player_location": "us",
+    "time": 357,
+    "category": "Genesis",
+    "region": "EUR / PAL",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "y4x0pp3z",
+    "game": "Rise of the Robots",
+    "player": "DWednesday",
+    "player_location": "gb",
+    "time": 996,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

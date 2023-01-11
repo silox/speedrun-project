@@ -1,0 +1,35 @@
+[
+  {
+    "id": "mrq55ngy",
+    "game": "Ridge Racer 7",
+    "player": "One_1",
+    "player_location": "us",
+    "time": 9798.3,
+    "category": "Ridge State Grand Prix - Any % Glitchless",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "y2588x9y",
+    "game": "Ridge Racer 7",
+    "player": "ViperUK",
+    "player_location": "gb/eng",
+    "time": 8601.24,
+    "category": "Ridge State Grand Prix - Any % Glitchless",
+    "region": null,
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "y663j2qy",
+    "game": "Ridge Racer 7",
+    "player": "ARMS08Yuki",
+    "player_location": "jp",
+    "time": 3238.44,
+    "category": "Ridge State Grand Prix - Any % Glitchless",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  }
+]

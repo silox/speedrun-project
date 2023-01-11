@@ -1,0 +1,90 @@
+[
+  {
+    "id": "9megkd2y",
+    "game": "Let's Tap",
+    "player": "skateman222",
+    "player_location": "ca/qc",
+    "time": 1023,
+    "category": "Tap Runner",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "9mr63xdm",
+    "game": "Let's Tap",
+    "player": "Christerious",
+    "player_location": "gb/eng",
+    "time": 10.04,
+    "category": "Tap Runner",
+    "region": "EUR / PAL",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "y2q5649y",
+    "game": "Let's Tap",
+    "player": "Scarrien",
+    "player_location": "us",
+    "time": 1116,
+    "category": "Tap Runner",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "mr84vk7y",
+    "game": "Let's Tap",
+    "player": "Cmdr",
+    "player_location": "us",
+    "time": 1140,
+    "category": "Tap Runner",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "zg7qk5dz",
+    "game": "Let's Tap",
+    "player": "CountGooby",
+    "player_location": "us",
+    "time": 1158,
+    "category": "Tap Runner",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "mk8rl1xm",
+    "game": "Let's Tap",
+    "player": "pazapaza",
+    "player_location": "us",
+    "time": 9.17,
+    "category": "Tap Runner",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "me455g2y",
+    "game": "Let's Tap",
+    "player": "fuso-wasedr09",
+    "player_location": "jp",
+    "time": 1111,
+    "category": "Tap Runner",
+    "region": "JPN / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "yjp3gk7y",
+    "game": "Let's Tap",
+    "player": "FinnMcCool",
+    "player_location": null,
+    "time": 196,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  }
+]

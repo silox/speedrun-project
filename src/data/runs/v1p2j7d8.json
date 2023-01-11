@@ -1,0 +1,167 @@
+[
+  {
+    "id": "m35v4qdy",
+    "game": "Ridge Racer V",
+    "player": "Qaotik",
+    "player_location": "us",
+    "time": 83.154,
+    "category": "Duel TA",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "zp46e4rz",
+    "game": "Ridge Racer V",
+    "player": "YT_Veritas0923",
+    "player_location": "ca",
+    "time": 153.835,
+    "category": "Extra (Extra Engine) TA",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "yv3d9p6z",
+    "game": "Ridge Racer V",
+    "player": "Hoxmetal",
+    "player_location": "fr",
+    "time": 143.776,
+    "category": "Extra (Extra Engine) TA",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "mrk4428y",
+    "game": "Ridge Racer V",
+    "player": "Caramon_Cane",
+    "player_location": "de",
+    "time": 122.991,
+    "category": "Extra (Extra Engine) TA",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "y4wxx2dm",
+    "game": "Ridge Racer V",
+    "player": "ALZERI28",
+    "player_location": "fi",
+    "time": 83.832,
+    "category": "Duel TA",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "yv679koz",
+    "game": "Ridge Racer V",
+    "player": "4kizan",
+    "player_location": "fr",
+    "time": 83.196,
+    "category": "Duel TA",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "y4wn6x2m",
+    "game": "Ridge Racer V",
+    "player": "kyuketsuneko",
+    "player_location": "jp",
+    "time": 110.844,
+    "category": "Extra (Oval Engine) TA",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "z150d5ry",
+    "game": "Ridge Racer V",
+    "player": "ARMS08Yuki",
+    "player_location": "jp",
+    "time": 82.969,
+    "category": "Duel TA",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "yo9oqldy",
+    "game": "Ridge Racer V",
+    "player": "N_president_N",
+    "player_location": "jp",
+    "time": 114.941,
+    "category": "Extra (Extra Engine) TA",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zp1prv8z",
+    "game": "Ridge Racer V",
+    "player": "boredman_03c9",
+    "player_location": "tw",
+    "time": 80.977,
+    "category": "Duel TA",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "m36vqkgm",
+    "game": "Ridge Racer V",
+    "player": "ThrasherDBS",
+    "player_location": "us",
+    "time": 4963,
+    "category": "Grand Prix",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "mker7wvm",
+    "game": "Ridge Racer V",
+    "player": "Luvs2BGlued",
+    "player_location": "ca",
+    "time": 5221,
+    "category": "Grand Prix",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zxl5poqz",
+    "game": "Ridge Racer V",
+    "player": "ViperUK",
+    "player_location": "gb/eng",
+    "time": 4787,
+    "category": "Grand Prix",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zq971jry",
+    "game": "Ridge Racer V",
+    "player": "Canadian_Gamer",
+    "player_location": "ca",
+    "time": 173.346,
+    "category": "Standard TA",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "z1g0en9z",
+    "game": "Ridge Racer V",
+    "player": "FlowBeat",
+    "player_location": "us",
+    "time": 129.69,
+    "category": "Duel TA",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  }
+]

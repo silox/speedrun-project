@@ -1,0 +1,57 @@
+[
+  {
+    "id": "z11p1jwz",
+    "game": "Maximo vs Army of Zin",
+    "player": "OutrageousJosh",
+    "player_location": "us",
+    "time": 5422,
+    "category": "",
+    "region": null,
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "yw03079m",
+    "game": "Maximo vs Army of Zin",
+    "player": "Ants_Beats99",
+    "player_location": "us",
+    "time": 4559,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zx68k8gz",
+    "game": "Maximo vs Army of Zin",
+    "player": "yamanaru",
+    "player_location": "jp",
+    "time": 5046,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zp2g76ry",
+    "game": "Maximo vs Army of Zin",
+    "player": "Patthiccness",
+    "player_location": "ca/qc",
+    "time": 4719,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "znq943vz",
+    "game": "Maximo vs Army of Zin",
+    "player": "SkullCrusher",
+    "player_location": "gb/eng",
+    "time": 5023,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": true
+  }
+]

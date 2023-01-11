@@ -1,0 +1,112 @@
+[
+  {
+    "id": "7z0xjdjz",
+    "game": "",
+    "player": "Yvaltris",
+    "player_location": "de",
+    "time": 40.049,
+    "category": "First \u00bd Million",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "0zn634ly",
+    "game": "",
+    "player": "Seaside",
+    "player_location": "ca",
+    "time": 77.57,
+    "category": "First Level%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yo46n51m",
+    "game": "",
+    "player": "Jarko",
+    "player_location": "us",
+    "time": 55.66,
+    "category": "First Level%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z5oq3njy",
+    "game": "",
+    "player": "Sofronas",
+    "player_location": "us",
+    "time": 12.63,
+    "category": "First \u00bd Million",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z5oll05y",
+    "game": "Temper Tantrum",
+    "player": "Steup",
+    "player_location": "us",
+    "time": 51.085,
+    "category": "First Level%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yvgeve6y",
+    "game": "Temper Tantrum",
+    "player": "LegitMcName",
+    "player_location": "us",
+    "time": 204,
+    "category": "First \u00bd Million",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m3dp6pgz",
+    "game": "Temper Tantrum",
+    "player": "Keltonium",
+    "player_location": "us",
+    "time": 294.77,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mk2d60vm",
+    "game": "Temper Tantrum",
+    "player": "Mellow_Online1",
+    "player_location": "gb",
+    "time": 10.6,
+    "category": "First \u00bd Million",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "znrg1l7y",
+    "game": "Temper Tantrum",
+    "player": "gliv",
+    "player_location": "gb/eng",
+    "time": 48.85,
+    "category": "First Level%",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y99200ny",
+    "game": "Temper Tantrum",
+    "player": "Nymah",
+    "player_location": "us",
+    "time": 5.79,
+    "category": "First \u00bd Million",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

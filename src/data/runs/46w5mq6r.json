@@ -1,0 +1,90 @@
+[
+  {
+    "id": "wzprw0rm",
+    "game": "Mortal Kombat vs. DC Universe",
+    "player": "SasukeUzumaki",
+    "player_location": null,
+    "time": 1186,
+    "category": "Arcade",
+    "region": null,
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "1zq82o8z",
+    "game": "Mortal Kombat vs. DC Universe",
+    "player": "Vain Rose",
+    "player_location": null,
+    "time": 1140,
+    "category": "Arcade",
+    "region": null,
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "y4wgk0qm",
+    "game": "Mortal Kombat vs. DC Universe",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 1021,
+    "category": "Arcade",
+    "region": null,
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "ywdox40z",
+    "game": "Mortal Kombat vs. DC Universe",
+    "player": "Kromer",
+    "player_location": "br",
+    "time": 828,
+    "category": "Arcade",
+    "region": null,
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "yo91owdy",
+    "game": "Mortal Kombat vs. DC Universe",
+    "player": "Peanutfan22",
+    "player_location": "us",
+    "time": 866,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "zq1kl65m",
+    "game": "Mortal Kombat vs. DC Universe",
+    "player": "elmagogamer",
+    "player_location": "ar",
+    "time": 938,
+    "category": "Arcade",
+    "region": null,
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "zggl8wvz",
+    "game": "Mortal Kombat vs. DC Universe",
+    "player": "ImAceOfSpades",
+    "player_location": "us",
+    "time": 729,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "yolj1k7y",
+    "game": "Mortal Kombat vs. DC Universe",
+    "player": "Shredmachine",
+    "player_location": "se",
+    "time": 1498,
+    "category": "Arcade",
+    "region": null,
+    "platform": "PlayStation 3",
+    "emulated": false
+  }
+]

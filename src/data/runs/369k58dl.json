@@ -1,0 +1,57 @@
+[
+  {
+    "id": "0y64466m",
+    "game": "",
+    "player": "BA",
+    "player_location": "us",
+    "time": 168,
+    "category": "Any Rank",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "y25k549y",
+    "game": "",
+    "player": "Mister_Castle27",
+    "player_location": "us",
+    "time": 202,
+    "category": "Any Rank",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "y91v5dnm",
+    "game": "",
+    "player": "r0nny",
+    "player_location": "us",
+    "time": 162,
+    "category": "Any Rank",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "me9pj80z",
+    "game": "Photo Dojo",
+    "player": "Coolms9",
+    "player_location": "us",
+    "time": 175,
+    "category": "Any Rank",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "mk5pr75m",
+    "game": "Photo Dojo",
+    "player": "iMathII",
+    "player_location": "ca",
+    "time": 155,
+    "category": "Any Rank",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "jy9l28ny",
+    "game": "Tweety and the Magic Gems",
+    "player": "Babyhuehnchen",
+    "player_location": "vh",
+    "time": 626,
+    "category": "1CPU",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "0y6dn11m",
+    "game": "Tweety and the Magic Gems",
+    "player": "Dugongue",
+    "player_location": "us",
+    "time": 803,
+    "category": "1CPU",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "z5vjl2dm",
+    "game": "Tweety and the Magic Gems",
+    "player": "MsTruffles",
+    "player_location": "fr",
+    "time": 565,
+    "category": "1CPU",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "zn74vw7m",
+    "game": "Tweety and the Magic Gems",
+    "player": "Laika_the_Spacedog",
+    "player_location": null,
+    "time": 550,
+    "category": "1CPU",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  }
+]

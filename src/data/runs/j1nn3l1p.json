@@ -1,0 +1,79 @@
+[
+  {
+    "id": "z1j496gz",
+    "game": "Hyper Street Fighter II",
+    "player": "NerdyNester",
+    "player_location": "us",
+    "time": 1654,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zn30748y",
+    "game": "Hyper Street Fighter II",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 921,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z1r006wm",
+    "game": "Hyper Street Fighter II",
+    "player": "Habble",
+    "player_location": "au",
+    "time": 289,
+    "category": "Arcade",
+    "region": "JPN / NTSC",
+    "platform": "MiSTer",
+    "emulated": false
+  },
+  {
+    "id": "m7doe80m",
+    "game": "Hyper Street Fighter II",
+    "player": "DWednesday",
+    "player_location": "gb",
+    "time": 351,
+    "category": "Arcade",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "ylqpe53z",
+    "game": "Hyper Street Fighter II",
+    "player": "Rakurai-UK",
+    "player_location": "gb/eng",
+    "time": 552,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yl1nx9xm",
+    "game": "Hyper Street Fighter II",
+    "player": "hamonhalil",
+    "player_location": "tr",
+    "time": 245,
+    "category": "Arcade",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zpgnpknz",
+    "game": "Hyper Street Fighter II",
+    "player": "TheAndyGamingNetwork",
+    "player_location": "us",
+    "time": 512,
+    "category": "Arcade",
+    "region": "JPN / NTSC",
+    "platform": "MiSTer",
+    "emulated": false
+  }
+]

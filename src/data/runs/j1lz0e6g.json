@@ -1,0 +1,57 @@
+[
+  {
+    "id": "nz1g6x9z",
+    "game": "Naruto: Ninja Council 2",
+    "player": "Scrub_Busta",
+    "player_location": "us",
+    "time": 2296,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": false
+  },
+  {
+    "id": "y276x26z",
+    "game": "Naruto: Ninja Council 2",
+    "player": "Seihon",
+    "player_location": "tw",
+    "time": 2015,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "m7qg88ez",
+    "game": "Naruto: Ninja Council 2",
+    "player": "arsennarutosonic",
+    "player_location": "ru",
+    "time": 4562,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "mrnp7p2y",
+    "game": "Naruto: Ninja Council 2",
+    "player": "LD_SPEEDRUNS",
+    "player_location": "br",
+    "time": 2097,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "mkk9393m",
+    "game": "Naruto: Ninja Council 2",
+    "player": "sr_fueg0",
+    "player_location": "mx",
+    "time": 3418,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  }
+]

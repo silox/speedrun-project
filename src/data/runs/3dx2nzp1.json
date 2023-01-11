@@ -1,0 +1,68 @@
+[
+  {
+    "id": "me6n953z",
+    "game": "",
+    "player": "Mutexx",
+    "player_location": "de",
+    "time": 61.17,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Wii U",
+    "emulated": true
+  },
+  {
+    "id": "z071n3oy",
+    "game": "",
+    "player": "Luca_49",
+    "player_location": "at",
+    "time": 820.93,
+    "category": "All Levels",
+    "region": "EUR / PAL",
+    "platform": "Wii U",
+    "emulated": true
+  },
+  {
+    "id": "y27e3d5z",
+    "game": "",
+    "player": "wakanameko",
+    "player_location": "jp",
+    "time": 566.93,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "y6nnwd0z",
+    "game": "Snowy Super Mario Bros. U",
+    "player": "movistar",
+    "player_location": "pe",
+    "time": 671.57,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Wii U",
+    "emulated": true
+  },
+  {
+    "id": "mro8w28m",
+    "game": "Snowy Super Mario Bros. U",
+    "player": "PufflePup",
+    "player_location": null,
+    "time": 519.62,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Wii U",
+    "emulated": true
+  },
+  {
+    "id": "yj8308dm",
+    "game": "Snowy Super Mario Bros. U",
+    "player": "slitzify",
+    "player_location": null,
+    "time": 504.7,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Wii U",
+    "emulated": true
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "z11ekjwz",
+    "game": "",
+    "player": "thiaguin",
+    "player_location": "br",
+    "time": 831,
+    "category": "Beat the game",
+    "region": "USA / NTSC",
+    "platform": "Sega Game Gear",
+    "emulated": true
+  },
+  {
+    "id": "y97wwk2m",
+    "game": "",
+    "player": "ad_prim",
+    "player_location": "ch",
+    "time": 1108,
+    "category": "Beat the game",
+    "region": "USA / NTSC",
+    "platform": "Sega Game Gear",
+    "emulated": true
+  },
+  {
+    "id": "ydqoxrvm",
+    "game": "",
+    "player": "btrim",
+    "player_location": "us",
+    "time": 855.155,
+    "category": "Beat the game",
+    "region": "USA / NTSC",
+    "platform": "Sega Game Gear",
+    "emulated": false
+  }
+]

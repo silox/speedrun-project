@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1zqw5r9z",
+    "game": "Disney's Hide and Sneak",
+    "player": "MomosLPs",
+    "player_location": "de",
+    "time": 1945.06,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "zqw8v99z",
+    "game": "Disney's Hide and Sneak",
+    "player": "RZero",
+    "player_location": "ca",
+    "time": 1527.62,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "m318egwz",
+    "game": "Disney's Hide and Sneak",
+    "player": "Hamhub7",
+    "player_location": "us",
+    "time": 1606.91,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "y214167z",
+    "game": "Disney's Hide and Sneak",
+    "player": "Meta",
+    "player_location": "ca",
+    "time": 1589.63,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "znrnj28y",
+    "game": "Disney's Hide and Sneak",
+    "player": "SSBBHax",
+    "player_location": "us",
+    "time": 1527.09,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "y27p649z",
+    "game": "Disney's Hide and Sneak",
+    "player": "Swordfish4649",
+    "player_location": "jp",
+    "time": 1721,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  }
+]

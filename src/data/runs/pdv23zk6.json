@@ -1,0 +1,24 @@
+[
+  {
+    "id": "z187307y",
+    "game": "Ready 2 Rumble Boxing: Round 2 [GBA]",
+    "player": "NintenLew",
+    "player_location": "gb/eng",
+    "time": 317,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "z1xw8n9m",
+    "game": "Ready 2 Rumble Boxing: Round 2 [GBA]",
+    "player": "FrozenFaygo",
+    "player_location": "us",
+    "time": 291,
+    "category": "Arcade Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  }
+]

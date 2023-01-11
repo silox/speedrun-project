@@ -1,0 +1,57 @@
+[
+  {
+    "id": "y654ek1z",
+    "game": "SkyGunner",
+    "player": "jquestionmark",
+    "player_location": null,
+    "time": 376,
+    "category": "Rival%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "y6pqdkpm",
+    "game": "SkyGunner",
+    "player": "Eldasor",
+    "player_location": "us",
+    "time": 1788,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "yjg614ny",
+    "game": "SkyGunner",
+    "player": "O_taka_san",
+    "player_location": "jp",
+    "time": 1885,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "z124po7y",
+    "game": "SkyGunner",
+    "player": "quino283",
+    "player_location": "jp",
+    "time": 259,
+    "category": "Rival%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "z0p9xvey",
+    "game": "SkyGunner",
+    "player": "hayoneho",
+    "player_location": "jp",
+    "time": 1511,
+    "category": "Femme%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  }
+]

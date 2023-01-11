@@ -1,0 +1,57 @@
+[
+  {
+    "id": "y921v6ez",
+    "game": "Whip! Whip!",
+    "player": "Murkus",
+    "player_location": "us",
+    "time": 1720,
+    "category": "Challenge Mode",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "zn43q27m",
+    "game": "Whip! Whip!",
+    "player": "LegitimateTed",
+    "player_location": null,
+    "time": 2458,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mk98kolz",
+    "game": "Whip! Whip!",
+    "player": "Bemusicality",
+    "player_location": "us",
+    "time": 1673,
+    "category": "Challenge Mode",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yo295j1z",
+    "game": "Whip! Whip!",
+    "player": "Jaqen",
+    "player_location": null,
+    "time": 2590,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zp4gn7xz",
+    "game": "Whip! Whip!",
+    "player": "Salero_Eon",
+    "player_location": "cl",
+    "time": 1690,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

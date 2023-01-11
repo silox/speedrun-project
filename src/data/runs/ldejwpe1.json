@@ -1,0 +1,112 @@
+[
+  {
+    "id": "z07wjx8y",
+    "game": "Monster Hunter Stories 2: Wings of Ruin",
+    "player": "OrionCC",
+    "player_location": "pt",
+    "time": 2376.72,
+    "category": "Demo%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yvo9wnez",
+    "game": "Monster Hunter Stories 2: Wings of Ruin",
+    "player": "BananaGuy",
+    "player_location": "pr",
+    "time": 2433.633,
+    "category": "Demo%",
+    "region": null,
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "zp205lxy",
+    "game": "Monster Hunter Stories 2: Wings of Ruin",
+    "player": "DragonMaster2107",
+    "player_location": "de",
+    "time": 2182.48,
+    "category": "Demo%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "ywk8qd9y",
+    "game": "Monster Hunter Stories 2: Wings of Ruin",
+    "player": "destroyer437",
+    "player_location": "us",
+    "time": 2373.003,
+    "category": "Demo%",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "y473e3qy",
+    "game": "Monster Hunter Stories 2: Wings of Ruin",
+    "player": "PeachTea",
+    "player_location": "us",
+    "time": 2448.36,
+    "category": "Demo%",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "zgrwo8nm",
+    "game": "Monster Hunter Stories 2: Wings of Ruin",
+    "player": "Reckatty",
+    "player_location": "de",
+    "time": 7239,
+    "category": "Hatch%",
+    "region": null,
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "zgqloqvy",
+    "game": "Monster Hunter Stories 2: Wings of Ruin",
+    "player": "JalBagel",
+    "player_location": "us",
+    "time": 6053.08,
+    "category": "Hatch%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zxod628z",
+    "game": "Monster Hunter Stories 2: Wings of Ruin",
+    "player": "Discordine",
+    "player_location": "jp",
+    "time": 6882.058,
+    "category": "Hatch%",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yjp6qngy",
+    "game": "Monster Hunter Stories 2: Wings of Ruin",
+    "player": "Armitroner",
+    "player_location": "ca",
+    "time": 2157.08,
+    "category": "Demo%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "ylrq6gxy",
+    "game": "Monster Hunter Stories 2: Wings of Ruin",
+    "player": "lost1002",
+    "player_location": "jp",
+    "time": 6382.59,
+    "category": "Hatch%",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "z05429em",
+    "game": "Growl (Genesis)",
+    "player": "Estacaco",
+    "player_location": "ca",
+    "time": 1858,
+    "category": "Gen Normal Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "zxogxrez",
+    "game": "Growl (Genesis)",
+    "player": "dwarvendynamite",
+    "player_location": "us",
+    "time": 1448,
+    "category": "Gen Normal Any%",
+    "region": null,
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "y4xj2x2z",
+    "game": "Growl (Genesis)",
+    "player": "poitspark",
+    "player_location": "au",
+    "time": 1739,
+    "category": "Gen Normal Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  }
+]

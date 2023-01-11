@@ -1,0 +1,123 @@
+[
+  {
+    "id": "1zx58rem",
+    "game": "Monster Truck Madness 2",
+    "player": "Wolexi",
+    "player_location": "fi",
+    "time": 197,
+    "category": "Default Laps",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yd330gvz",
+    "game": "Monster Truck Madness 2",
+    "player": "Likeable",
+    "player_location": "us",
+    "time": 142,
+    "category": "Default Laps",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yw450j9z",
+    "game": "Monster Truck Madness 2",
+    "player": "Niloqu\u00ec",
+    "player_location": "it",
+    "time": 128.86,
+    "category": "Default Laps",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yoj5o57m",
+    "game": "Monster Truck Madness 2",
+    "player": "Zaufkauf",
+    "player_location": "nl",
+    "time": 2284.8,
+    "category": "All Races in 1 Run with Loads",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z05rjkom",
+    "game": "Monster Truck Madness 2",
+    "player": "SantiiiRVM",
+    "player_location": "ar",
+    "time": 121.091,
+    "category": "Default Laps",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yv125goy",
+    "game": "Monster Truck Madness 2",
+    "player": "Difixed",
+    "player_location": "us",
+    "time": 106.62,
+    "category": "Default Laps",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": true
+  },
+  {
+    "id": "yw8on10y",
+    "game": "Monster Truck Madness 2",
+    "player": "MTF_DangerSupreme",
+    "player_location": "us",
+    "time": 2025,
+    "category": "All Races in 1 Run with Loads",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y6xjgg6y",
+    "game": "Monster Truck Madness 2",
+    "player": "SimonMV",
+    "player_location": "ca/qc",
+    "time": 101.85,
+    "category": "Default Laps",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m33rrrwm",
+    "game": "Monster Truck Madness 2",
+    "player": "PhFoxy",
+    "player_location": "dz",
+    "time": 126.92,
+    "category": "Default Laps",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y4e1j93m",
+    "game": "Monster Truck Madness 2",
+    "player": "Stirfink",
+    "player_location": "us",
+    "time": 198.092,
+    "category": "Default Laps",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": true
+  },
+  {
+    "id": "mr1rg98z",
+    "game": "Monster Truck Madness 2",
+    "player": "Troy_2110",
+    "player_location": "pa",
+    "time": 113.04,
+    "category": "Default Laps",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

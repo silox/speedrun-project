@@ -1,0 +1,90 @@
+[
+  {
+    "id": "zp10k3vz",
+    "game": "Mortal Kombat Trilogy Category Extensions",
+    "player": "ParallaxMKChile",
+    "player_location": "cl",
+    "time": 8.1,
+    "category": "Crash The Game",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "ydrr8xwz",
+    "game": "Mortal Kombat Trilogy Category Extensions",
+    "player": "Peanutfan22",
+    "player_location": "us",
+    "time": 409,
+    "category": "No Noobs",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": false
+  },
+  {
+    "id": "ydr92r0z",
+    "game": "Mortal Kombat Trilogy Category Extensions",
+    "player": "BadNewsNate",
+    "player_location": "us",
+    "time": 471,
+    "category": "Endurance Tower",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": false
+  },
+  {
+    "id": "z1xxqxgm",
+    "game": "Mortal Kombat Trilogy Category Extensions",
+    "player": "DethThePursuer",
+    "player_location": "us",
+    "time": 464,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mk5k4w5m",
+    "game": "Mortal Kombat Trilogy Category Extensions",
+    "player": "Tenka",
+    "player_location": "au",
+    "time": 503,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "MS-DOS",
+    "emulated": true
+  },
+  {
+    "id": "z1xpxg7m",
+    "game": "Mortal Kombat Trilogy Category Extensions",
+    "player": "DWednesday",
+    "player_location": "gb",
+    "time": 7,
+    "category": "Crash The Game",
+    "region": "USA / NTSC",
+    "platform": "MS-DOS",
+    "emulated": true
+  },
+  {
+    "id": "y6n9vdqz",
+    "game": "Mortal Kombat Trilogy Category Extensions",
+    "player": "NerdyNester",
+    "player_location": "us",
+    "time": 491,
+    "category": "Endurance Tower",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": false
+  },
+  {
+    "id": "yjpwvndy",
+    "game": "Mortal Kombat Trilogy Category Extensions",
+    "player": "Morshufan1",
+    "player_location": "us",
+    "time": 111,
+    "category": "Mega Endurance",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

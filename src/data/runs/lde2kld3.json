@@ -1,0 +1,24 @@
+[
+  {
+    "id": "7z07xv8y",
+    "game": "",
+    "player": "Hider",
+    "player_location": null,
+    "time": 1048,
+    "category": "True Ending%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "7z0o6e9z",
+    "game": "",
+    "player": "Cat_Tree",
+    "player_location": "us",
+    "time": 996,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "m36vq1wm",
+    "game": "Sakura Wars 4",
+    "player": "Xealous",
+    "player_location": null,
+    "time": 7441,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "yjxq2lgz",
+    "game": "Sakura Wars 4",
+    "player": "\u30d0\u30ab\u30f3\u30c0",
+    "player_location": null,
+    "time": 9935,
+    "category": "NG+ Any% (No Rapid)",
+    "region": "JPN / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "zgd6ewdz",
+    "game": "Sakura Wars 4",
+    "player": "\u6dbc\u307f",
+    "player_location": null,
+    "time": 10669,
+    "category": "NG+ Any% (No Rapid)",
+    "region": "JPN / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "zp2owrgy",
+    "game": "Sakura Wars 4",
+    "player": "\u30b9\u30ab\u30c8\u30ed\u30de\u30cb\u30a2J",
+    "player_location": null,
+    "time": 12302,
+    "category": "NG+ Any% (No Rapid)",
+    "region": "JPN / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  }
+]

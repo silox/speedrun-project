@@ -1,0 +1,35 @@
+[
+  {
+    "id": "0y69d8jy",
+    "game": "Soul Nomad & the World Eaters",
+    "player": "TheHDElder",
+    "player_location": "eg",
+    "time": 34628,
+    "category": "Any% Normal Ending",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "0y6vl5jm",
+    "game": "Soul Nomad & the World Eaters",
+    "player": "DragonMZ",
+    "player_location": "ca",
+    "time": 12327,
+    "category": "Any% Normal Ending",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "zq0oodry",
+    "game": "Soul Nomad & the World Eaters",
+    "player": "holyangelnyako",
+    "player_location": "jp",
+    "time": 9182,
+    "category": "Any% Normal Ending",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  }
+]

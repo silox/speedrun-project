@@ -1,0 +1,35 @@
+[
+  {
+    "id": "emk9w4lz",
+    "game": "Advance Wars: Days of Ruin/Dark Conflict",
+    "player": "Gippy",
+    "player_location": "ca",
+    "time": 3422,
+    "category": "Full Campaign",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "jy92en2z",
+    "game": "Advance Wars: Days of Ruin/Dark Conflict",
+    "player": "Deln",
+    "player_location": "ca/qc",
+    "time": 13225,
+    "category": "Full Campaign",
+    "region": "EUR / PAL",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "y6l4dvpy",
+    "game": "Advance Wars: Days of Ruin/Dark Conflict",
+    "player": "casinocoin",
+    "player_location": "ca",
+    "time": 4470,
+    "category": "Full Campaign",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  }
+]

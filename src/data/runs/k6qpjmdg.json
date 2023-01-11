@@ -1,0 +1,79 @@
+[
+  {
+    "id": "0zn130vm",
+    "game": "Advanced Dungeons & Dragons: Heroes of the Lance",
+    "player": "Megami_infini",
+    "player_location": "pl",
+    "time": 353,
+    "category": "Any% (SMS)",
+    "region": "USA / NTSC",
+    "platform": "Sega Master System",
+    "emulated": true
+  },
+  {
+    "id": "8y8kqqwy",
+    "game": "Advanced Dungeons & Dragons: Heroes of the Lance",
+    "player": "Rasmus_1990",
+    "player_location": "no",
+    "time": 315,
+    "category": "Any% (SMS)",
+    "region": "USA / NTSC",
+    "platform": "Sega Master System",
+    "emulated": false
+  },
+  {
+    "id": "zn8xlnlz",
+    "game": "Advanced Dungeons & Dragons: Heroes of the Lance",
+    "player": "arnpoly",
+    "player_location": "us",
+    "time": 1117,
+    "category": "Any% (NES)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zp42768z",
+    "game": "Advanced Dungeons & Dragons: Heroes of the Lance",
+    "player": "Vriaeliss",
+    "player_location": "us",
+    "time": 298,
+    "category": "Any% (SMS)",
+    "region": "USA / NTSC",
+    "platform": "Sega Master System",
+    "emulated": true
+  },
+  {
+    "id": "zg74l6vz",
+    "game": "Advanced Dungeons & Dragons: Heroes of the Lance",
+    "player": "Toad22484",
+    "player_location": "us",
+    "time": 323,
+    "category": "Any% (NES)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zp4n8wgz",
+    "game": "Advanced Dungeons & Dragons: Heroes of the Lance",
+    "player": "RadManFromMars",
+    "player_location": "us",
+    "time": 346,
+    "category": "Any% (SMS)",
+    "region": null,
+    "platform": "Sega Master System",
+    "emulated": true
+  },
+  {
+    "id": "y2xgp8jm",
+    "game": "Advanced Dungeons & Dragons: Heroes of the Lance",
+    "player": "Symm",
+    "player_location": "gb",
+    "time": 297,
+    "category": "Any% (NES)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  }
+]

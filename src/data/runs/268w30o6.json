@@ -1,0 +1,35 @@
+[
+  {
+    "id": "mr14vo2z",
+    "game": "Langrisser II",
+    "player": "suruiyingmu0",
+    "player_location": "cn",
+    "time": 95,
+    "category": "all levels",
+    "region": "JPN / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "yjgk95oy",
+    "game": "Langrisser II",
+    "player": "Harvester of Eyes",
+    "player_location": null,
+    "time": 161,
+    "category": "Any Code",
+    "region": null,
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "zxgv02ey",
+    "game": "Langrisser II",
+    "player": "Amamiya-Yuko",
+    "player_location": null,
+    "time": 49800,
+    "category": "All Levels",
+    "region": "JPN / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  }
+]

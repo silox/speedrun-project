@@ -1,0 +1,68 @@
+[
+  {
+    "id": "zq70p98m",
+    "game": "",
+    "player": "Act_",
+    "player_location": "us",
+    "time": 10,
+    "category": "In-Game Time",
+    "region": "USA / NTSC",
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "y4qqk43m",
+    "game": "Truck Loader 2",
+    "player": "p2rt",
+    "player_location": "ee",
+    "time": 81,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "zgpde4jz",
+    "game": "Truck Loader 2",
+    "player": "ItsCam",
+    "player_location": "us",
+    "time": 87,
+    "category": "Levels 1-5",
+    "region": "USA / NTSC",
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "y4q8nqqm",
+    "game": "Truck Loader 2",
+    "player": "DtriJ",
+    "player_location": "us",
+    "time": 5,
+    "category": "In-Game Time",
+    "region": "USA / NTSC",
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "znp7gplm",
+    "game": "Truck Loader 2",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 5,
+    "category": "In-Game Time",
+    "region": null,
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "yvrq70ez",
+    "game": "Truck Loader 2",
+    "player": "TRLittleToaster",
+    "player_location": "us",
+    "time": 7,
+    "category": "In-Game Time",
+    "region": "USA / NTSC",
+    "platform": "Web",
+    "emulated": false
+  }
+]

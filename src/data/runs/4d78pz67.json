@@ -1,0 +1,57 @@
+[
+  {
+    "id": "6yjwxkdm",
+    "game": "",
+    "player": "setz",
+    "player_location": "us",
+    "time": 1795,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "yl956xky",
+    "game": "",
+    "player": "GarbitheGlitcheress",
+    "player_location": "us",
+    "time": 305.57,
+    "category": "All time trials",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "yd0lw1qz",
+    "game": "",
+    "player": "MrDoublePlays",
+    "player_location": "au",
+    "time": 13.37,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "ylq0w9rz",
+    "game": "Socket",
+    "player": "wax_house",
+    "player_location": "us",
+    "time": 1691,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "zxo9qokz",
+    "game": "Socket",
+    "player": "Jimmy_Diamonds",
+    "player_location": "gb",
+    "time": 28.47,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "y6l41eqy",
+    "game": "Geom Cube",
+    "player": "PARTYMAN_X",
+    "player_location": "us",
+    "time": 1012,
+    "category": "VS. CPU",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "yv1w33ey",
+    "game": "Geom Cube",
+    "player": "SQR-Y3",
+    "player_location": "jp",
+    "time": 880,
+    "category": "VS. CPU",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "m379l0qz",
+    "game": "Geom Cube",
+    "player": "Koryan",
+    "player_location": "jp",
+    "time": 960,
+    "category": "VS. CPU",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  }
+]

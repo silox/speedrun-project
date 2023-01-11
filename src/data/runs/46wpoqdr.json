@@ -1,0 +1,46 @@
+[
+  {
+    "id": "zpqxg4xy",
+    "game": "Monster Rancher Battle Card GB",
+    "player": "MythicDeo",
+    "player_location": "us",
+    "time": 23132,
+    "category": "any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "y678xnqm",
+    "game": "Monster Rancher Battle Card GB",
+    "player": "CardsOfTheHeart",
+    "player_location": "us",
+    "time": 7675,
+    "category": "any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Player",
+    "emulated": false
+  },
+  {
+    "id": "y42lpodm",
+    "game": "Monster Rancher Battle Card GB",
+    "player": "news",
+    "player_location": "jp",
+    "time": 7144,
+    "category": "any%",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Player",
+    "emulated": false
+  },
+  {
+    "id": "mr7qgg4z",
+    "game": "Monster Rancher Battle Card GB",
+    "player": "AsneL",
+    "player_location": "jp",
+    "time": 6630,
+    "category": "any%",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Player",
+    "emulated": false
+  }
+]

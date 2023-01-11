@@ -1,0 +1,79 @@
+[
+  {
+    "id": "m7pv365m",
+    "game": "Multiple Metal Gear Games",
+    "player": "Pythonicus",
+    "player_location": "us",
+    "time": 34672,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "yd996k0z",
+    "game": "Multiple Metal Gear Games",
+    "player": "MetalGlennSolid",
+    "player_location": "us",
+    "time": 32623,
+    "category": "Metal Gear Solid Anthology",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m3rg44wm",
+    "game": "Multiple Metal Gear Games",
+    "player": "iLL_Pazzo",
+    "player_location": "fr",
+    "time": 11356,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y699pk1y",
+    "game": "Multiple Metal Gear Games",
+    "player": "PUZON",
+    "player_location": "gb/sct",
+    "time": 4597,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "yv099gxz",
+    "game": "Multiple Metal Gear Games",
+    "player": "Hau5test",
+    "player_location": "de",
+    "time": 4537,
+    "category": "Metal Gear Duology",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "yjpj24dy",
+    "game": "Multiple Metal Gear Games",
+    "player": "NickRPGreen",
+    "player_location": "gb/eng",
+    "time": 7187,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yvrdl7xz",
+    "game": "Multiple Metal Gear Games",
+    "player": "BlackyY1007",
+    "player_location": "jp",
+    "time": 38287,
+    "category": "Metal Gear Solid Anthology",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  }
+]

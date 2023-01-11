@@ -1,0 +1,46 @@
+[
+  {
+    "id": "yj5k6rom",
+    "game": "",
+    "player": "teapartycthulu",
+    "player_location": "us",
+    "time": 320,
+    "category": "1 Loop",
+    "region": "JPN / NTSC",
+    "platform": "SG-1000",
+    "emulated": true
+  },
+  {
+    "id": "y2027e7m",
+    "game": "",
+    "player": "squilibob",
+    "player_location": "au",
+    "time": 268,
+    "category": "1 Loop",
+    "region": "JPN / NTSC",
+    "platform": "SG-1000",
+    "emulated": false
+  },
+  {
+    "id": "mejl56qy",
+    "game": "",
+    "player": "SteveZero",
+    "player_location": "us",
+    "time": 319,
+    "category": "1 Loop",
+    "region": "JPN / NTSC",
+    "platform": "SG-1000",
+    "emulated": true
+  },
+  {
+    "id": "m7wre64z",
+    "game": "Hustle Chumy",
+    "player": "JoePulito",
+    "player_location": "us",
+    "time": 327,
+    "category": "1 Loop",
+    "region": "JPN / NTSC",
+    "platform": "SG-1000",
+    "emulated": true
+  }
+]

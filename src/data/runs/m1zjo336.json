@@ -1,0 +1,112 @@
+[
+  {
+    "id": "mrk22kdy",
+    "game": "Inazuma Eleven 2",
+    "player": "aadriano",
+    "player_location": "es",
+    "time": 24489,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "z0o66gjz",
+    "game": "Inazuma Eleven 2",
+    "player": "Milozaki",
+    "player_location": "de",
+    "time": 1186,
+    "category": "Player%",
+    "region": "JPN / NTSC",
+    "platform": "New Nintendo 3DS",
+    "emulated": true
+  },
+  {
+    "id": "ylv70vnm",
+    "game": "Inazuma Eleven 2",
+    "player": "BiaHikaru",
+    "player_location": "br",
+    "time": 24517,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "y93wxoky",
+    "game": "Inazuma Eleven 2",
+    "player": "NinjaPigman",
+    "player_location": "de",
+    "time": 1443,
+    "category": "Player%",
+    "region": "EUR / PAL",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "ydw36oxm",
+    "game": "Inazuma Eleven 2",
+    "player": "Elgoz",
+    "player_location": "fr",
+    "time": 1248,
+    "category": "Player%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": true
+  },
+  {
+    "id": "y9l3xnny",
+    "game": "Inazuma Eleven 2",
+    "player": "remmdd",
+    "player_location": "br",
+    "time": 20235,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "zx7v70qy",
+    "game": "Inazuma Eleven 2",
+    "player": "ScionOfLucifer",
+    "player_location": "gb",
+    "time": 1385,
+    "category": "Player%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "zx82v98m",
+    "game": "Inazuma Eleven 2",
+    "player": "ChromV2_",
+    "player_location": "fr",
+    "time": 1207,
+    "category": "Player%",
+    "region": "EUR / PAL",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "yddn4ljy",
+    "game": "Inazuma Eleven 2",
+    "player": "Zorxy",
+    "player_location": "fr",
+    "time": 1195,
+    "category": "Player%",
+    "region": "EUR / PAL",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "yjd82x3y",
+    "game": "Inazuma Eleven 2",
+    "player": "SaburouNakai",
+    "player_location": "jp",
+    "time": 21171,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "New Nintendo 3DS",
+    "emulated": false
+  }
+]

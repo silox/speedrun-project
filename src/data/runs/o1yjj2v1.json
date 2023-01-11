@@ -1,0 +1,145 @@
+[
+  {
+    "id": "y99xd6ky",
+    "game": "Super Mario All-Stars (NES)",
+    "player": "LooeeJee",
+    "player_location": null,
+    "time": 115.346,
+    "category": "Super Mario Bros. 3",
+    "region": null,
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "m36n5ldm",
+    "game": "Super Mario All-Stars (NES)",
+    "player": "JeremyMKW",
+    "player_location": "us",
+    "time": 297.843,
+    "category": "Super Mario Bros.",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "ylq1xpnz",
+    "game": "Super Mario All-Stars (NES)",
+    "player": "Rh4kor",
+    "player_location": "de",
+    "time": 79.216,
+    "category": "Super Mario Bros. 3",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "mr17xxdz",
+    "game": "Super Mario All-Stars (NES)",
+    "player": "Mars02",
+    "player_location": "us",
+    "time": 2098,
+    "category": "All 4 Games",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "m3rxnkgm",
+    "game": "Super Mario All-Stars (NES)",
+    "player": "Yoshiabel",
+    "player_location": "es/ct",
+    "time": 226,
+    "category": "Super Mario Bros. 3",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "me3j398z",
+    "game": "Super Mario All-Stars (NES)",
+    "player": "Niftski",
+    "player_location": "us",
+    "time": 295.68,
+    "category": "Super Mario Bros.",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "ywjn8g9z",
+    "game": "Super Mario All-Stars (NES)",
+    "player": "stewie_cartman",
+    "player_location": "us",
+    "time": 542.34,
+    "category": "Super Mario Bros. 2 USA",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y994w1ky",
+    "game": "Super Mario All-Stars (NES)",
+    "player": "CrabbyCrab101",
+    "player_location": "us",
+    "time": 298,
+    "category": "Super Mario Bros.",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "yjgn7xdy",
+    "game": "Super Mario All-Stars (NES)",
+    "player": "TMLink",
+    "player_location": "us",
+    "time": 326,
+    "category": "Mario Bros (Arcade)",
+    "region": null,
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "mrnng27y",
+    "game": "Super Mario All-Stars (NES)",
+    "player": "bhanxiao",
+    "player_location": "tw",
+    "time": 1959,
+    "category": "Super Mario Bros.",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "me37lp3z",
+    "game": "Super Mario All-Stars (NES)",
+    "player": "Nebula_Composer",
+    "player_location": "us",
+    "time": 295.796,
+    "category": "Super Mario Bros.",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "y47dprny",
+    "game": "Super Mario All-Stars (NES)",
+    "player": "Amqzinq",
+    "player_location": "us",
+    "time": 298,
+    "category": "Super Mario Bros.",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "yw6xll3m",
+    "game": "Super Mario All-Stars (NES)",
+    "player": "roopert83",
+    "player_location": "us",
+    "time": 7908,
+    "category": "All 4 Games",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1zx3nokz",
+    "game": "Phoenix Wright: Ace Attorney - Dual Destinies",
+    "player": "indykenobi",
+    "player_location": "us",
+    "time": 1999,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "6yjnvngm",
+    "game": "Phoenix Wright: Ace Attorney - Dual Destinies",
+    "player": "Ryuken",
+    "player_location": "us",
+    "time": 1997,
+    "category": "Finish the Case",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "yv98j74z",
+    "game": "Phoenix Wright: Ace Attorney - Dual Destinies",
+    "player": "TheScallySwag",
+    "player_location": "us",
+    "time": 1871,
+    "category": "Finish the Case",
+    "region": "USA / NTSC",
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "y8rg055m",
+    "game": "Phoenix Wright: Ace Attorney - Dual Destinies",
+    "player": "aimlessaxel",
+    "player_location": "us",
+    "time": 2095,
+    "category": "Finish the Case",
+    "region": "USA / NTSC",
+    "platform": "Android",
+    "emulated": false
+  }
+]

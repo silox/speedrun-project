@@ -1,0 +1,200 @@
+[
+  {
+    "id": "1zx2k6em",
+    "game": "Croc 2",
+    "player": "SwordofSeals",
+    "player_location": "gb",
+    "time": 9519,
+    "category": "100%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "pm37qdwz",
+    "game": "Croc 2",
+    "player": "Hypnoshark",
+    "player_location": "gb/eng",
+    "time": 13947,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zx6k07gz",
+    "game": "Croc 2",
+    "player": "Paulmall",
+    "player_location": "au",
+    "time": 25.23,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "7z0jnk4y",
+    "game": "Croc 2",
+    "player": "yp",
+    "player_location": "ca",
+    "time": 21583,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "9yonl87z",
+    "game": "Croc 2",
+    "player": "cantrick",
+    "player_location": "us",
+    "time": 25322,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "kz56wr5y",
+    "game": "Croc 2",
+    "player": "eggmanface",
+    "player_location": "au",
+    "time": 7692,
+    "category": "100%",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zpqwg8vy",
+    "game": "Croc 2",
+    "player": "PinkHusky",
+    "player_location": "us",
+    "time": 5095,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mk4px2vy",
+    "game": "Croc 2",
+    "player": "MasterLeoBlue",
+    "player_location": "us",
+    "time": 5962,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yd9qx2qz",
+    "game": "Croc 2",
+    "player": "Thermospore",
+    "player_location": "us",
+    "time": 26.66,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y97q5prm",
+    "game": "Croc 2",
+    "player": "Cyberdemon531",
+    "player_location": "us",
+    "time": 36975,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zgr328nm",
+    "game": "Croc 2",
+    "player": "Cheftoad",
+    "player_location": "au",
+    "time": 25.91,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y6pr5ppm",
+    "game": "Croc 2",
+    "player": "N/A",
+    "player_location": null,
+    "time": 1,
+    "category": "Max%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z513pxnm",
+    "game": "Croc 2",
+    "player": "KZ_FREW",
+    "player_location": "us",
+    "time": 4767,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y89relwm",
+    "game": "Croc 2",
+    "player": "Jayrude",
+    "player_location": "gb/eng",
+    "time": 5265,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yj48rdgy",
+    "game": "Croc 2",
+    "player": "CrypticJacknife",
+    "player_location": null,
+    "time": 43.6,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y817q7wz",
+    "game": "Croc 2",
+    "player": "AQLGamers",
+    "player_location": "it",
+    "time": 131.08,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mr9p5d4m",
+    "game": "Croc 2",
+    "player": "PeterDibble",
+    "player_location": "us",
+    "time": 5307,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zplj0ovm",
+    "game": "Croc 2",
+    "player": "Joshipgirl",
+    "player_location": "im",
+    "time": 10070,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  }
+]

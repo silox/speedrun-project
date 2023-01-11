@@ -1,0 +1,24 @@
+[
+  {
+    "id": "m3olldwm",
+    "game": "",
+    "player": "Sk1pBaSe",
+    "player_location": "ru",
+    "time": 375,
+    "category": "%any",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "zp33r2xm",
+    "game": "",
+    "player": "WillWagnerMusic",
+    "player_location": "us",
+    "time": 209,
+    "category": "%any",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  }
+]

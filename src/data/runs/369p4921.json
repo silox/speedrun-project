@@ -1,0 +1,24 @@
+[
+  {
+    "id": "zp4doxxz",
+    "game": "Metroid Revival",
+    "player": "Mazimov",
+    "player_location": "ca",
+    "time": 865,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "m7qxlo4z",
+    "game": "Metroid Revival",
+    "player": "BreadForBrunch",
+    "player_location": "us",
+    "time": 3545,
+    "category": "100%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  }
+]

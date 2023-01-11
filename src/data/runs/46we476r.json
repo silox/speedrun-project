@@ -1,0 +1,123 @@
+[
+  {
+    "id": "zgn85rvy",
+    "game": "Street Fighter III: 2nd Impact",
+    "player": "AyanamiRei0",
+    "player_location": "gb/eng",
+    "time": 499,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "m311d54z",
+    "game": "Street Fighter III: 2nd Impact",
+    "player": "MehmetSami",
+    "player_location": "tr",
+    "time": 731,
+    "category": "Hardest",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y8142rnz",
+    "game": "Street Fighter III: 2nd Impact",
+    "player": "NerdyNester",
+    "player_location": "us",
+    "time": 600,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z5jj4o5m",
+    "game": "Street Fighter III: 2nd Impact",
+    "player": "CriscoWild",
+    "player_location": "us",
+    "time": 3755,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "yv223rom",
+    "game": "Street Fighter III: 2nd Impact",
+    "player": "Vandagill",
+    "player_location": "jp",
+    "time": 373,
+    "category": "Normal",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zx2leqqm",
+    "game": "Street Fighter III: 2nd Impact",
+    "player": "JWonggg",
+    "player_location": null,
+    "time": 374,
+    "category": "Normal",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "meo3o3qz",
+    "game": "Street Fighter III: 2nd Impact",
+    "player": "DBcade",
+    "player_location": "jp",
+    "time": 794,
+    "category": "Normal",
+    "region": "JPN / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  },
+  {
+    "id": "ylk6rl2z",
+    "game": "Street Fighter III: 2nd Impact",
+    "player": "Everybody",
+    "player_location": "au",
+    "time": 427,
+    "category": "Normal",
+    "region": "CHN / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yjle56oz",
+    "game": "Street Fighter III: 2nd Impact",
+    "player": "DustyTokyo",
+    "player_location": "jp",
+    "time": 490,
+    "category": "Normal",
+    "region": "CHN / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zgr2nkem",
+    "game": "Street Fighter III: 2nd Impact",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 730,
+    "category": "Normal",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "me36jd0z",
+    "game": "Street Fighter III: 2nd Impact",
+    "player": "Kyo_97",
+    "player_location": "mx",
+    "time": 941,
+    "category": "Normal",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

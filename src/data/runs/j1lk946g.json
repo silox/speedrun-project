@@ -1,0 +1,145 @@
+[
+  {
+    "id": "9meew58m",
+    "game": "Pok\u00e9mon Dash",
+    "player": "The00berNoober",
+    "player_location": "gb/eng",
+    "time": 59.2,
+    "category": "Regular Rules",
+    "region": "EUR / PAL",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "oy2k57wy",
+    "game": "Pok\u00e9mon Dash",
+    "player": "Napoleon__1er",
+    "player_location": "fr",
+    "time": 330.19,
+    "category": "Green Cup",
+    "region": "EUR / PAL",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "1zqdrorm",
+    "game": "Pok\u00e9mon Dash",
+    "player": "Likeanoob100",
+    "player_location": "us",
+    "time": 340,
+    "category": "Green Cup",
+    "region": null,
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "y8946rxm",
+    "game": "Pok\u00e9mon Dash",
+    "player": "bluerapids12",
+    "player_location": "us",
+    "time": 31.52,
+    "category": "Regular Rules",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "m7w81w4z",
+    "game": "Pok\u00e9mon Dash",
+    "player": "Speedrunner0218",
+    "player_location": "us",
+    "time": 29.66,
+    "category": "Regular Rules",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "y41pgqky",
+    "game": "Pok\u00e9mon Dash",
+    "player": "Scipione1",
+    "player_location": "it",
+    "time": 33.06,
+    "category": "Regular Rules",
+    "region": "EUR / PAL",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "zgvx89ez",
+    "game": "Pok\u00e9mon Dash",
+    "player": "Vilxs13xd",
+    "player_location": "es/ct",
+    "time": 25.32,
+    "category": "Expert Rules",
+    "region": "EUR / PAL",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "m7gjx94m",
+    "game": "Pok\u00e9mon Dash",
+    "player": "TheMismatcher",
+    "player_location": "us",
+    "time": 361.082,
+    "category": "Green Cup",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "zq16061m",
+    "game": "Pok\u00e9mon Dash",
+    "player": "Arn255",
+    "player_location": "us",
+    "time": 29.73,
+    "category": "Regular Rules",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "yd97q00z",
+    "game": "Pok\u00e9mon Dash",
+    "player": "NibBlitz",
+    "player_location": "ca",
+    "time": 29.75,
+    "category": "Regular Rules",
+    "region": null,
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "zp11onxz",
+    "game": "Pok\u00e9mon Dash",
+    "player": "Wh0misDS",
+    "player_location": "us",
+    "time": 29.61,
+    "category": "Regular Rules",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "z5vngx5m",
+    "game": "Pok\u00e9mon Dash",
+    "player": "The4thGenGamer",
+    "player_location": "us",
+    "time": 29.75,
+    "category": "Regular Rules",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "y2ewlgwy",
+    "game": "Pok\u00e9mon Dash",
+    "player": "HappyDuckJJ",
+    "player_location": "us",
+    "time": 30.03,
+    "category": "Regular Rules",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  }
+]

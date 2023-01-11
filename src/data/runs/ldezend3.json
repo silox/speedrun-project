@@ -1,0 +1,68 @@
+[
+  {
+    "id": "zp405vgz",
+    "game": "Professor Layton and the Azran Legacy",
+    "player": "swordsmankirby",
+    "player_location": "us",
+    "time": 10301,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "New Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "yl0x2w2y",
+    "game": "Professor Layton and the Azran Legacy",
+    "player": "ikuyo",
+    "player_location": null,
+    "time": 10171,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "New Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "yd5lk4vm",
+    "game": "Professor Layton and the Azran Legacy",
+    "player": "tutelarfiber7",
+    "player_location": "us",
+    "time": 9890,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "New Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "mk2xk3lm",
+    "game": "Professor Layton and the Azran Legacy",
+    "player": "Kirino",
+    "player_location": null,
+    "time": 10039,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "z1j4odjz",
+    "game": "Professor Layton and the Azran Legacy",
+    "player": "Geshode",
+    "player_location": null,
+    "time": 11079,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": true
+  },
+  {
+    "id": "yv24kkem",
+    "game": "Professor Layton and the Azran Legacy",
+    "player": "JuegAriel",
+    "player_location": "es",
+    "time": 10087,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "New Nintendo 3DS",
+    "emulated": false
+  }
+]

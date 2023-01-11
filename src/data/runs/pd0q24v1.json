@@ -1,0 +1,46 @@
+[
+  {
+    "id": "y9l1k2ry",
+    "game": "Picross S Genesis & Master System Edition",
+    "player": "Shishkabeast",
+    "player_location": "us",
+    "time": 3,
+    "category": "1 Player",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "ywjk8k0z",
+    "game": "Picross S Genesis & Master System Edition",
+    "player": "stathx",
+    "player_location": "ao",
+    "time": 2,
+    "category": "1 Player",
+    "region": null,
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "zp2v6n8y",
+    "game": "Picross S Genesis & Master System Edition",
+    "player": "Specky",
+    "player_location": "it",
+    "time": 3,
+    "category": "1 Player",
+    "region": "EUR / PAL",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "znp55w9m",
+    "game": "Picross S Genesis & Master System Edition",
+    "player": "Seno721",
+    "player_location": "gb/eng",
+    "time": 11,
+    "category": "1 Player",
+    "region": "EUR / PAL",
+    "platform": "Switch",
+    "emulated": false
+  }
+]

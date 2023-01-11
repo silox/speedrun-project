@@ -1,0 +1,123 @@
+[
+  {
+    "id": "pzg76v0z",
+    "game": "Ghost in the Shell",
+    "player": "RetroMadnessZone",
+    "player_location": "fr",
+    "time": 1414,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "8y8g93nz",
+    "game": "Ghost in the Shell",
+    "player": "kirlimfaul",
+    "player_location": "ru",
+    "time": 222,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "zpq86dgy",
+    "game": "Ghost in the Shell",
+    "player": "Loki_Khan",
+    "player_location": "us",
+    "time": 216,
+    "category": "Training Mode Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y696eojy",
+    "game": "Ghost in the Shell",
+    "player": "Joester98",
+    "player_location": "us",
+    "time": 1327,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zx2ek3em",
+    "game": "Ghost in the Shell",
+    "player": "casinocoin",
+    "player_location": "ca",
+    "time": 1371,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y8r93ddm",
+    "game": "Ghost in the Shell",
+    "player": "Triple_Six",
+    "player_location": "us",
+    "time": 175,
+    "category": "Training Mode Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zqg2221m",
+    "game": "Ghost in the Shell",
+    "player": "Paintbrush_Samurai",
+    "player_location": "us",
+    "time": 1392,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "y8voxvdz",
+    "game": "Ghost in the Shell",
+    "player": "Vynnada",
+    "player_location": "ie",
+    "time": 1369,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "y8v437wz",
+    "game": "Ghost in the Shell",
+    "player": "Setyan_Chokdee",
+    "player_location": "jp",
+    "time": 1613,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y488k03m",
+    "game": "Ghost in the Shell",
+    "player": "Lite",
+    "player_location": null,
+    "time": 148,
+    "category": "Training Mode Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zp2rxpry",
+    "game": "Ghost in the Shell",
+    "player": "ysystem",
+    "player_location": "jp",
+    "time": 1297,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  }
+]

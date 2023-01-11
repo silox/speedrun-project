@@ -1,0 +1,57 @@
+[
+  {
+    "id": "yvj0l26y",
+    "game": "Paperboy (PC)",
+    "player": "Tenka",
+    "player_location": "au",
+    "time": 414.451,
+    "category": "Amiga",
+    "region": null,
+    "platform": "Amiga",
+    "emulated": true
+  },
+  {
+    "id": "y2qe7rwy",
+    "game": "Paperboy (PC)",
+    "player": "Reboot",
+    "player_location": "de",
+    "time": 412.91,
+    "category": "Amiga",
+    "region": "EUR / PAL",
+    "platform": "Amiga",
+    "emulated": true
+  },
+  {
+    "id": "z11gx7rz",
+    "game": "Paperboy (PC)",
+    "player": "Peanutfan22",
+    "player_location": "us",
+    "time": 422.033,
+    "category": "Amiga",
+    "region": "EUR / PAL",
+    "platform": "Amiga",
+    "emulated": true
+  },
+  {
+    "id": "y92j54rz",
+    "game": "Paperboy (PC)",
+    "player": "Arran",
+    "player_location": null,
+    "time": 412.35,
+    "category": "Amiga",
+    "region": "EUR / PAL",
+    "platform": "Amiga",
+    "emulated": true
+  },
+  {
+    "id": "y81lj9xz",
+    "game": "Paperboy (PC)",
+    "player": "MilkToast",
+    "player_location": "de",
+    "time": 419.08,
+    "category": "Amiga",
+    "region": "EUR / PAL",
+    "platform": "Amiga",
+    "emulated": true
+  }
+]

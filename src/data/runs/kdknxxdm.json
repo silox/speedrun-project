@@ -1,0 +1,57 @@
+[
+  {
+    "id": "yo44e8dm",
+    "game": "",
+    "player": "TheSeriousCacodemon",
+    "player_location": null,
+    "time": 3288,
+    "category": "Sacrifice Ending",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "y2qxlewy",
+    "game": "",
+    "player": "Rasha",
+    "player_location": "us",
+    "time": 2987,
+    "category": "Sacrifice Ending",
+    "region": "JPN / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "yvj0714y",
+    "game": "",
+    "player": "UltimateTrainer",
+    "player_location": "us",
+    "time": 2872,
+    "category": "Sacrifice Ending",
+    "region": "JPN / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "y415g8ky",
+    "game": "Maken X",
+    "player": "ArcTheLadder",
+    "player_location": "us",
+    "time": 2851,
+    "category": "Sacrifice Ending",
+    "region": "JPN / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "yle3g7rz",
+    "game": "Maken X",
+    "player": "Brobey",
+    "player_location": "ca",
+    "time": 2820,
+    "category": "Sacrifice Ending",
+    "region": "JPN / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  }
+]

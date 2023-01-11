@@ -1,0 +1,57 @@
+[
+  {
+    "id": "m31852dz",
+    "game": "Shock Troopers 2nd Squad",
+    "player": "ThatSerpentDude",
+    "player_location": "at",
+    "time": 1835,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zqrjw3ry",
+    "game": "Shock Troopers 2nd Squad",
+    "player": "RitaH",
+    "player_location": "br",
+    "time": 2152,
+    "category": "Any% Co-op Easy",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "mk2w9oxm",
+    "game": "Shock Troopers 2nd Squad",
+    "player": "GrampyBack",
+    "player_location": "us",
+    "time": 1843,
+    "category": "",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yd640pvz",
+    "game": "Shock Troopers 2nd Squad",
+    "player": "WearingFin",
+    "player_location": "gb",
+    "time": 1574,
+    "category": "",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "ydw93pqm",
+    "game": "Shock Troopers 2nd Squad",
+    "player": "Misumi",
+    "player_location": "jp",
+    "time": 1241,
+    "category": "Any% DP Normal",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": false
+  }
+]

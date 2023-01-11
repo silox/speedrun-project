@@ -1,0 +1,101 @@
+[
+  {
+    "id": "y2d8o56z",
+    "game": "Mario's Super Picross",
+    "player": "Abbacus",
+    "player_location": "us",
+    "time": 402,
+    "category": "Mario",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "z094929z",
+    "game": "Mario's Super Picross",
+    "player": "layladoesthing",
+    "player_location": "gb/eng",
+    "time": 290,
+    "category": "Mario",
+    "region": null,
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "zp3q298m",
+    "game": "Mario's Super Picross",
+    "player": "mxovd",
+    "player_location": "ca",
+    "time": 284,
+    "category": "Mario",
+    "region": null,
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "y2v1oo6z",
+    "game": "Mario's Super Picross",
+    "player": "halfyou",
+    "player_location": "us",
+    "time": 285,
+    "category": "Mario",
+    "region": null,
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "y8v8p1wz",
+    "game": "Mario's Super Picross",
+    "player": "Ydash",
+    "player_location": "jp",
+    "time": 256,
+    "category": "Mario",
+    "region": "JPN / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "zp3j3g8m",
+    "game": "Mario's Super Picross",
+    "player": "shirokirby",
+    "player_location": "jp",
+    "time": 9099,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "zqgqvo5m",
+    "game": "Mario's Super Picross",
+    "player": "N/A",
+    "player_location": null,
+    "time": 1,
+    "category": "Mario",
+    "region": null,
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y8vp5j5z",
+    "game": "Mario's Super Picross",
+    "player": "CeramicBlue",
+    "player_location": null,
+    "time": 236,
+    "category": "Mario",
+    "region": null,
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "ywqeo79y",
+    "game": "Mario's Super Picross",
+    "player": "UrsuraPingLearAzn",
+    "player_location": null,
+    "time": 12470,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  }
+]

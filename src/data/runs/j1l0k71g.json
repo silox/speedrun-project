@@ -1,0 +1,35 @@
+[
+  {
+    "id": "y2pj8j6z",
+    "game": "Tactics Ogre: The Knight of Lodis",
+    "player": "Jorf",
+    "player_location": "ca",
+    "time": 12314,
+    "category": "A Ending",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "2yw92v9m",
+    "game": "Tactics Ogre: The Knight of Lodis",
+    "player": "bml2422",
+    "player_location": null,
+    "time": 15810,
+    "category": "A Ending",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "zp4dnnvz",
+    "game": "Tactics Ogre: The Knight of Lodis",
+    "player": "Oldfashion",
+    "player_location": "jp",
+    "time": 12833,
+    "category": "A Ending",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": false
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "id": "nz1ld1jm",
+    "game": "",
+    "player": "RiskbreakerY",
+    "player_location": "us",
+    "time": 612,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "m79x8rey",
+    "game": "",
+    "player": "WhiteHat94",
+    "player_location": "us",
+    "time": 568,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "z13g94jm",
+    "game": "Fist of the North Star (NES)",
+    "player": "Retro_Omega",
+    "player_location": null,
+    "time": 676,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "mek50r0m",
+    "game": "Fist of the North Star (NES)",
+    "player": "HurricaneMixer",
+    "player_location": "us",
+    "time": 677,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zn4keklm",
+    "game": "Fist of the North Star (NES)",
+    "player": "k0zzx",
+    "player_location": "sr",
+    "time": 563,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "y4w3973m",
+    "game": "Fist of the North Star (NES)",
+    "player": "kenshireando",
+    "player_location": "ar",
+    "time": 495,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "y657720z",
+    "game": "Fist of the North Star (NES)",
+    "player": "Starwin",
+    "player_location": "us",
+    "time": 497,
+    "category": "Any%",
+    "region": null,
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "ylo3l9ny",
+    "game": "Fist of the North Star (NES)",
+    "player": "spyriel",
+    "player_location": "fi",
+    "time": 493,
+    "category": "Any%",
+    "region": null,
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "yo9p0jjy",
+    "game": "Fist of the North Star (NES)",
+    "player": "Lucha_Gym",
+    "player_location": "au",
+    "time": 513,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  }
+]

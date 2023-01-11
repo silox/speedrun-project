@@ -1,0 +1,57 @@
+[
+  {
+    "id": "m7d88e9m",
+    "game": "ParanormalHK",
+    "player": "Kasei_Jin_Honmono",
+    "player_location": "jp",
+    "time": 3707,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y8jnvqdz",
+    "game": "ParanormalHK",
+    "player": "crisdoile2",
+    "player_location": "mx",
+    "time": 3357,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mr73eggz",
+    "game": "ParanormalHK",
+    "player": "yishengjunox",
+    "player_location": "cn",
+    "time": 2812,
+    "category": "Any%",
+    "region": "CHN / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y605ddjy",
+    "game": "ParanormalHK",
+    "player": "lingxuanye",
+    "player_location": "cn",
+    "time": 2827,
+    "category": "Any%",
+    "region": "CHN / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z0n1l39m",
+    "game": "ParanormalHK",
+    "player": "Zclooi",
+    "player_location": "cn",
+    "time": 2956,
+    "category": "Any%",
+    "region": "CHN / PAL",
+    "platform": "PC",
+    "emulated": false
+  }
+]

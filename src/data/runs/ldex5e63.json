@@ -1,0 +1,156 @@
+[
+  {
+    "id": "jy9e352z",
+    "game": "Pit-Fighter",
+    "player": "sayan3",
+    "player_location": "br",
+    "time": 879,
+    "category": "Any% Sega Genesis",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "nz1w0w9y",
+    "game": "Pit-Fighter",
+    "player": "Emanuel",
+    "player_location": "br",
+    "time": 821,
+    "category": "Any% Sega Genesis",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "zn8rkllz",
+    "game": "Pit-Fighter",
+    "player": "The_Retro_Challenger",
+    "player_location": "ca/qc",
+    "time": 798,
+    "category": "Any% Sega Genesis",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "y6798ljm",
+    "game": "Pit-Fighter",
+    "player": "Picante",
+    "player_location": "us",
+    "time": 473,
+    "category": "Any% SNES",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "mk4e8nvy",
+    "game": "Pit-Fighter",
+    "player": "fluffytoycoy",
+    "player_location": "us",
+    "time": 583,
+    "category": "Any% SNES",
+    "region": null,
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "yl4wl2rm",
+    "game": "Pit-Fighter",
+    "player": "Wobby",
+    "player_location": "br",
+    "time": 388.08,
+    "category": "Any% SNES",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "mreegkgy",
+    "game": "Pit-Fighter",
+    "player": "Janet",
+    "player_location": null,
+    "time": 446.78,
+    "category": "Any% Arcade",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y91g51nm",
+    "game": "Pit-Fighter",
+    "player": "yurisalgadin",
+    "player_location": "br",
+    "time": 375.23,
+    "category": "Any% SNES",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "y8r7981m",
+    "game": "Pit-Fighter",
+    "player": "SaveState2",
+    "player_location": "br",
+    "time": 609.33,
+    "category": "Any% Sega Genesis",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "mkg2q1vy",
+    "game": "Pit-Fighter",
+    "player": "GetLostGames",
+    "player_location": null,
+    "time": 887,
+    "category": "Any% Sega Genesis",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "ydwq5xxm",
+    "game": "Pit-Fighter",
+    "player": "Jesus82050615",
+    "player_location": "ca/qc",
+    "time": 1003,
+    "category": "Any% Arcade",
+    "region": "USA / NTSC",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "yor5lwjy",
+    "game": "Pit-Fighter",
+    "player": "adrianus",
+    "player_location": "ch",
+    "time": 636,
+    "category": "Any% GB",
+    "region": null,
+    "platform": "Super Game Boy 2",
+    "emulated": false
+  },
+  {
+    "id": "y9vdk3km",
+    "game": "Pit-Fighter",
+    "player": "RadManFromMars",
+    "player_location": "us",
+    "time": 1005,
+    "category": "Any% SMS",
+    "region": "USA / NTSC",
+    "platform": "Sega Master System",
+    "emulated": true
+  },
+  {
+    "id": "yv0q466z",
+    "game": "Pit-Fighter",
+    "player": "Fioresa",
+    "player_location": "us",
+    "time": 584.6,
+    "category": "Any% GB",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  }
+]

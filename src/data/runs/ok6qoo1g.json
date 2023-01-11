@@ -1,0 +1,112 @@
+[
+  {
+    "id": "wzp860ry",
+    "game": "Crazy Taxi 2",
+    "player": "2dos",
+    "player_location": "us",
+    "time": 1097,
+    "category": "Crazy Pyramid",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "yd6xrdwz",
+    "game": "Crazy Taxi 2",
+    "player": "Chuckles825",
+    "player_location": "us",
+    "time": 1086,
+    "category": "Crazy Pyramid",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "0y6e060z",
+    "game": "Crazy Taxi 2",
+    "player": "The_Lizardon",
+    "player_location": "us",
+    "time": 17,
+    "category": "Car",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "yd38eewz",
+    "game": "Crazy Taxi 2",
+    "player": "Naegleria",
+    "player_location": "ca",
+    "time": 1357,
+    "category": "Crazy Pyramid",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "y81p701z",
+    "game": "Crazy Taxi 2",
+    "player": "Crocus",
+    "player_location": "jp",
+    "time": 1107,
+    "category": "Crazy Pyramid",
+    "region": "JPN / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "m7qkjlwz",
+    "game": "Crazy Taxi 2",
+    "player": "McRaren",
+    "player_location": "jp",
+    "time": 1101,
+    "category": "Crazy Pyramid",
+    "region": "JPN / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "ylk15ekz",
+    "game": "Crazy Taxi 2",
+    "player": "Scottobozo",
+    "player_location": "us",
+    "time": 20.35,
+    "category": "Bike",
+    "region": null,
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "znkx903z",
+    "game": "Crazy Taxi 2",
+    "player": "SighAhNide",
+    "player_location": "us",
+    "time": 14.02,
+    "category": "Car",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  },
+  {
+    "id": "z5xe7gdy",
+    "game": "Crazy Taxi 2",
+    "player": "NinjastarReviews",
+    "player_location": "aq",
+    "time": 10.65,
+    "category": "Car",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  },
+  {
+    "id": "z5xq7pgy",
+    "game": "Crazy Taxi 2",
+    "player": "Tailss55",
+    "player_location": "us",
+    "time": 25.29,
+    "category": "Car",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  }
+]

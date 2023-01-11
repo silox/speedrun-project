@@ -1,0 +1,46 @@
+[
+  {
+    "id": "z01e488y",
+    "game": "Somer Assault",
+    "player": "Toad22484",
+    "player_location": "us",
+    "time": 2019,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": false
+  },
+  {
+    "id": "z0o11gjz",
+    "game": "Somer Assault",
+    "player": "NullSprite",
+    "player_location": "no",
+    "time": 1505.9,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": true
+  },
+  {
+    "id": "mk8kxqvm",
+    "game": "Somer Assault",
+    "player": "LudwigVonKoopa",
+    "player_location": "de",
+    "time": 1512.16,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": true
+  },
+  {
+    "id": "yorwko7y",
+    "game": "Somer Assault",
+    "player": "Nardiko",
+    "player_location": "de",
+    "time": 1889.34,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": true
+  }
+]

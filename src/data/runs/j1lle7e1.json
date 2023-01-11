@@ -1,0 +1,35 @@
+[
+  {
+    "id": "zn3j383y",
+    "game": "Godfall",
+    "player": "Alldayanyday1",
+    "player_location": null,
+    "time": 40,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mr4oov8z",
+    "game": "Godfall",
+    "player": "Tailbetweenlegs",
+    "player_location": null,
+    "time": 69,
+    "category": "Hard",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 5",
+    "emulated": false
+  },
+  {
+    "id": "me4e369y",
+    "game": "Godfall",
+    "player": "elivhian",
+    "player_location": "es",
+    "time": 19,
+    "category": "Hard",
+    "region": null,
+    "platform": "PlayStation 5",
+    "emulated": false
+  }
+]

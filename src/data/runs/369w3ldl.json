@@ -1,0 +1,79 @@
+[
+  {
+    "id": "kz5og1jy",
+    "game": "Super Scribblenauts",
+    "player": "Dugongue",
+    "player_location": "us",
+    "time": 2848,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "yojr601m",
+    "game": "Super Scribblenauts",
+    "player": "Hagata",
+    "player_location": "jp",
+    "time": 2148,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "yokrvk5z",
+    "game": "Super Scribblenauts",
+    "player": "Nippo",
+    "player_location": "us",
+    "time": 2634,
+    "category": "Any%",
+    "region": null,
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "zn33n58y",
+    "game": "Super Scribblenauts",
+    "player": "DragonicKhaos",
+    "player_location": "ca",
+    "time": 23963,
+    "category": "All Levels",
+    "region": null,
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "z5rd6pey",
+    "game": "Super Scribblenauts",
+    "player": "Nosnos",
+    "player_location": "ie",
+    "time": 4114,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "zgd8d2jz",
+    "game": "Super Scribblenauts",
+    "player": "KitLemonfoot",
+    "player_location": "us",
+    "time": 2055,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "zx7evx5y",
+    "game": "Super Scribblenauts",
+    "player": "Euphrates9982",
+    "player_location": "us",
+    "time": 2277,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  }
+]

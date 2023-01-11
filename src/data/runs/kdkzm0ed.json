@@ -1,0 +1,79 @@
+[
+  {
+    "id": "y8qp3wdy",
+    "game": "Harvest Moon DS Cute",
+    "player": "InkDrop",
+    "player_location": null,
+    "time": 3129,
+    "category": "Marriage",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "meknjk2m",
+    "game": "Harvest Moon DS Cute",
+    "player": "Dat_Slime",
+    "player_location": "fr",
+    "time": 2225,
+    "category": "Marriage",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "yj41r17y",
+    "game": "Harvest Moon DS Cute",
+    "player": "Crrool",
+    "player_location": "nl",
+    "time": 22113,
+    "category": "Rescue Harvest Goddess",
+    "region": "EUR / PAL",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "yv93n1xz",
+    "game": "Harvest Moon DS Cute",
+    "player": "Retrogirl_2",
+    "player_location": "us",
+    "time": 828,
+    "category": "Marriage",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "yv99v5oz",
+    "game": "Harvest Moon DS Cute",
+    "player": "Demo",
+    "player_location": "us",
+    "time": 767,
+    "category": "Marriage",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "y2xgk67m",
+    "game": "Harvest Moon DS Cute",
+    "player": "Aoyama-kun",
+    "player_location": "us",
+    "time": 864,
+    "category": "Earth%",
+    "region": null,
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "zq01j95y",
+    "game": "Harvest Moon DS Cute",
+    "player": "Anthcny",
+    "player_location": "fr",
+    "time": 579,
+    "category": "Earth%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "1zxp095y",
+    "game": "Brain Lord",
+    "player": "AudacyousPhantasy",
+    "player_location": "us",
+    "time": 16424,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "z030174z",
+    "game": "Brain Lord",
+    "player": "Tweek1987",
+    "player_location": "ca/qc",
+    "time": 15402,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "z1jd649z",
+    "game": "Brain Lord",
+    "player": "Jiseed",
+    "player_location": "ca",
+    "time": 7007,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  }
+]

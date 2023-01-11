@@ -1,0 +1,79 @@
+[
+  {
+    "id": "oy2ok7jm",
+    "game": "Casper",
+    "player": "Arkild",
+    "player_location": "ca",
+    "time": 2762,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "7z0gx2ey",
+    "game": "Casper",
+    "player": "gcah2006",
+    "player_location": null,
+    "time": 58.2,
+    "category": "Cheats%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "yl17g3rm",
+    "game": "Casper",
+    "player": "Mc166",
+    "player_location": "fr",
+    "time": 96.9,
+    "category": "Cheats%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "mk77v85y",
+    "game": "Casper",
+    "player": "Admiral",
+    "player_location": null,
+    "time": 3483.064,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "z500e3ey",
+    "game": "Casper",
+    "player": "Dan Stretton",
+    "player_location": null,
+    "time": 5326,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "y9nn6nnz",
+    "game": "Casper",
+    "player": "sebmal",
+    "player_location": null,
+    "time": 172.008,
+    "category": "Cheats%",
+    "region": "USA / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "mk77v5vy",
+    "game": "Casper",
+    "player": "i don't have a nose games",
+    "player_location": null,
+    "time": 6670,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  }
+]

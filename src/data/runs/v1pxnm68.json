@@ -1,0 +1,90 @@
+[
+  {
+    "id": "pyd9g9jz",
+    "game": "Shining Force CD",
+    "player": "Nakuri",
+    "player_location": "de",
+    "time": 21447,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega CD",
+    "emulated": true
+  },
+  {
+    "id": "dy4re9dz",
+    "game": "Shining Force CD",
+    "player": "Pandolum",
+    "player_location": "ca",
+    "time": 7901,
+    "category": "Book 3:",
+    "region": "USA / NTSC",
+    "platform": "Sega CD",
+    "emulated": true
+  },
+  {
+    "id": "z51od7em",
+    "game": "Shining Force CD",
+    "player": "NoWorries",
+    "player_location": "us",
+    "time": 14266,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega CD",
+    "emulated": true
+  },
+  {
+    "id": "y67q076m",
+    "game": "Shining Force CD",
+    "player": "Heroine_Zephyr",
+    "player_location": "gb/eng",
+    "time": 15778,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega CD",
+    "emulated": true
+  },
+  {
+    "id": "z13ldewm",
+    "game": "Shining Force CD",
+    "player": "TheInsidious199",
+    "player_location": "au",
+    "time": 18693,
+    "category": "Book 2:",
+    "region": "USA / NTSC",
+    "platform": "Sega CD",
+    "emulated": true
+  },
+  {
+    "id": "yl1j6qrm",
+    "game": "Shining Force CD",
+    "player": "ty2358",
+    "player_location": "us",
+    "time": 5525,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega CD",
+    "emulated": true
+  },
+  {
+    "id": "y6p0186m",
+    "game": "Shining Force CD",
+    "player": "johnnyfive420",
+    "player_location": "ca",
+    "time": 22088,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega CD",
+    "emulated": true
+  },
+  {
+    "id": "znoodl8y",
+    "game": "Shining Force CD",
+    "player": "theRPGchick",
+    "player_location": "us",
+    "time": 16061,
+    "category": "Book 1:",
+    "region": "USA / NTSC",
+    "platform": "Sega CD",
+    "emulated": true
+  }
+]

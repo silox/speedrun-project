@@ -1,0 +1,101 @@
+[
+  {
+    "id": "yj47873y",
+    "game": "Dragon Ball: Raging Blast",
+    "player": "Zweird",
+    "player_location": "fr",
+    "time": 169.03,
+    "category": "Bardock",
+    "region": "USA / NTSC",
+    "platform": "Xbox 360",
+    "emulated": true
+  },
+  {
+    "id": "z1xjq1wm",
+    "game": "Dragon Ball: Raging Blast",
+    "player": "Corrie",
+    "player_location": "gb",
+    "time": 113.86,
+    "category": "Super Battle Trial",
+    "region": "EUR / PAL",
+    "platform": "Xbox 360",
+    "emulated": true
+  },
+  {
+    "id": "znkelp8z",
+    "game": "Dragon Ball: Raging Blast",
+    "player": "Dumber",
+    "player_location": "es",
+    "time": 132.28,
+    "category": "Bardock",
+    "region": "EUR / PAL",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "m7811x4z",
+    "game": "Dragon Ball: Raging Blast",
+    "player": "MarlonChavesMCR",
+    "player_location": "br",
+    "time": 1682.36,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": true
+  },
+  {
+    "id": "z539p9ny",
+    "game": "Dragon Ball: Raging Blast",
+    "player": "Mazin1432",
+    "player_location": "sa",
+    "time": 2065.07,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Xbox 360",
+    "emulated": true
+  },
+  {
+    "id": "zp83e2vy",
+    "game": "Dragon Ball: Raging Blast",
+    "player": "KeleXBR",
+    "player_location": "br",
+    "time": 101.97,
+    "category": "Bardock",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": true
+  },
+  {
+    "id": "z0o5kdjz",
+    "game": "Dragon Ball: Raging Blast",
+    "player": "Earl_Of_Io",
+    "player_location": "il",
+    "time": 44.43,
+    "category": "Super Battle Trial",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "zq787gxm",
+    "game": "Dragon Ball: Raging Blast",
+    "player": "xddbzfan869",
+    "player_location": "aq",
+    "time": 58.3,
+    "category": "Super Battle Trial",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "z1pk0ojz",
+    "game": "Dragon Ball: Raging Blast",
+    "player": "wowshane",
+    "player_location": "us",
+    "time": 69.37,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Xbox 360",
+    "emulated": false
+  }
+]

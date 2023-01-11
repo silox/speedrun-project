@@ -1,0 +1,24 @@
+[
+  {
+    "id": "mr60452m",
+    "game": "Tom Clancy's Ghost Recon 2 - 2007: First Contact",
+    "player": "SHUBODABA",
+    "player_location": "jp",
+    "time": 5724,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "z5ejqdnz",
+    "game": "Tom Clancy's Ghost Recon 2 - 2007: First Contact",
+    "player": "Andry66power",
+    "player_location": "it",
+    "time": 68,
+    "category": "Fire Fight Recruit",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": true
+  }
+]

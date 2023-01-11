@@ -1,0 +1,46 @@
+[
+  {
+    "id": "yv262kxm",
+    "game": "",
+    "player": "Gasu",
+    "player_location": "ch",
+    "time": 468,
+    "category": "Any% Demo",
+    "region": null,
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "z503vdgy",
+    "game": "",
+    "player": "Andydrew",
+    "player_location": "us",
+    "time": 367.4,
+    "category": "Any% Demo",
+    "region": null,
+    "platform": "New Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "y69p131y",
+    "game": "",
+    "player": "Red",
+    "player_location": "us",
+    "time": 18.962,
+    "category": "Levels",
+    "region": null,
+    "platform": "New Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "y609gwpy",
+    "game": "",
+    "player": "TheLampDude",
+    "player_location": "us",
+    "time": 166,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  }
+]

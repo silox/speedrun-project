@@ -1,0 +1,57 @@
+[
+  {
+    "id": "zq6eerxy",
+    "game": "",
+    "player": "MrMannyRodz",
+    "player_location": "us",
+    "time": 2275.52,
+    "category": "Level 1",
+    "region": "JPN / NTSC",
+    "platform": "Sega Master System",
+    "emulated": true
+  },
+  {
+    "id": "m3o10w4m",
+    "game": "",
+    "player": "btrim",
+    "player_location": "us",
+    "time": 2243.708,
+    "category": "Level 1",
+    "region": "JPN / NTSC",
+    "platform": "Sega Master System",
+    "emulated": false
+  },
+  {
+    "id": "mekejeqm",
+    "game": "",
+    "player": "icy_",
+    "player_location": "de",
+    "time": 2298,
+    "category": "Level 2",
+    "region": "JPN / NTSC",
+    "platform": "Sega Master System",
+    "emulated": true
+  },
+  {
+    "id": "zp4q34rz",
+    "game": "",
+    "player": "Tylgar",
+    "player_location": "fr",
+    "time": 2310.68,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Sega Master System",
+    "emulated": true
+  },
+  {
+    "id": "mrk1l58y",
+    "game": "Hang-On",
+    "player": "cainslove",
+    "player_location": "us",
+    "time": 2264.098,
+    "category": "Level 1",
+    "region": "JPN / NTSC",
+    "platform": "Sega Master System",
+    "emulated": true
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "id": "zqre111y",
+    "game": "The Ninja Warriors Once Again",
+    "player": "zaarock",
+    "player_location": "fi",
+    "time": 106.974,
+    "category": "Kunoichi",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "m7qndd9z",
+    "game": "The Ninja Warriors Once Again",
+    "player": "Zzz-ZO",
+    "player_location": "jp",
+    "time": 68.32,
+    "category": "Ninja",
+    "region": "JPN / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "zq46xk5m",
+    "game": "The Ninja Warriors Once Again",
+    "player": "rotorstorm331",
+    "player_location": "us",
+    "time": 2026,
+    "category": "Ninja",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "zxkprpgm",
+    "game": "The Ninja Warriors Once Again",
+    "player": "ArcTheLadder",
+    "player_location": "us",
+    "time": 81.75,
+    "category": "Kunoichi",
+    "region": "JPN / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "y4rr173z",
+    "game": "The Ninja Warriors Once Again",
+    "player": "zehyon",
+    "player_location": null,
+    "time": 1999.89,
+    "category": "Raiden",
+    "region": "JPN / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "zx2g2v5m",
+    "game": "The Ninja Warriors Once Again",
+    "player": "kronoschiarini",
+    "player_location": "br",
+    "time": 2884,
+    "category": "Ninja",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "m3g94w6z",
+    "game": "The Ninja Warriors Once Again",
+    "player": "SewerHusk",
+    "player_location": "ca",
+    "time": 3344,
+    "category": "Kunoichi",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "z1r1o8gm",
+    "game": "The Ninja Warriors Once Again",
+    "player": "Codych",
+    "player_location": "cn",
+    "time": 2078,
+    "category": "Multiplayer mode",
+    "region": "JPN / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "mk544k1m",
+    "game": "The Ninja Warriors Once Again",
+    "player": "mmg86",
+    "player_location": "uy",
+    "time": 2286,
+    "category": "Ninja",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "yl13r63m",
+    "game": "The Ninja Warriors Once Again",
+    "player": "Hans_Stockmann",
+    "player_location": "au",
+    "time": 2827,
+    "category": "Ninja",
+    "region": null,
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "z0nep84m",
+    "game": "The Ninja Warriors Once Again",
+    "player": "ShinkenX",
+    "player_location": "au",
+    "time": 2738,
+    "category": "Kamaitachi",
+    "region": null,
+    "platform": "PlayStation 4",
+    "emulated": false
+  }
+]

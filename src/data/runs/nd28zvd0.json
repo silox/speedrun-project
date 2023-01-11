@@ -1,0 +1,145 @@
+[
+  {
+    "id": "zq3n3dry",
+    "game": "Dig Dug (Namco)",
+    "player": "bluerapids12",
+    "player_location": "us",
+    "time": 21.02,
+    "category": "All Enemies",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": false
+  },
+  {
+    "id": "yw4ej6pz",
+    "game": "Dig Dug (Namco)",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 14.72,
+    "category": "All Enemies",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zxkjnlkm",
+    "game": "Dig Dug (Namco)",
+    "player": "Olavi",
+    "player_location": "kr",
+    "time": 357.19,
+    "category": "1 Loop",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y65wo60z",
+    "game": "Dig Dug (Namco)",
+    "player": "mynameisAndy",
+    "player_location": "us",
+    "time": 281,
+    "category": "1 Loop",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": false
+  },
+  {
+    "id": "zpl3w7vm",
+    "game": "Dig Dug (Namco)",
+    "player": "Silo_Simon",
+    "player_location": null,
+    "time": 339,
+    "category": "1 Loop",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": false
+  },
+  {
+    "id": "znodn88y",
+    "game": "Dig Dug (Namco)",
+    "player": "andresfgp13",
+    "player_location": "cl",
+    "time": 12.15,
+    "category": "All Enemies",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zn0j2q3y",
+    "game": "Dig Dug (Namco)",
+    "player": "ivanpaduano",
+    "player_location": "it",
+    "time": 228.83,
+    "category": "1 Loop",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "mr1q147z",
+    "game": "Dig Dug (Namco)",
+    "player": "Bloopix",
+    "player_location": "gb/eng",
+    "time": 11.73,
+    "category": "All Enemies",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": false
+  },
+  {
+    "id": "ywkx4k2y",
+    "game": "Dig Dug (Namco)",
+    "player": "evom",
+    "player_location": null,
+    "time": 11.7,
+    "category": "All Enemies",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y6xn246y",
+    "game": "Dig Dug (Namco)",
+    "player": "HIKARU",
+    "player_location": "kr",
+    "time": 298,
+    "category": "1 Loop",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y4gwjr3y",
+    "game": "Dig Dug (Namco)",
+    "player": "Rahvin2007",
+    "player_location": "au",
+    "time": 10.7,
+    "category": "All Enemies",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "znq6dolz",
+    "game": "Dig Dug (Namco)",
+    "player": "Lando_Blando",
+    "player_location": "mx",
+    "time": 11.8,
+    "category": "All Enemies",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": false
+  },
+  {
+    "id": "z0l82voz",
+    "game": "Dig Dug (Namco)",
+    "player": "DarthTyrael",
+    "player_location": "us",
+    "time": 11.584,
+    "category": "All Enemies",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

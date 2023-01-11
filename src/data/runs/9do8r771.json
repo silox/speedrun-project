@@ -1,0 +1,90 @@
+[
+  {
+    "id": "y8elo5ny",
+    "game": "Super Mario Galaxy 1 & 2 Randomizer",
+    "player": "Silver",
+    "player_location": "ca",
+    "time": 12508,
+    "category": "SMG2 Any%",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "mrnwpq7y",
+    "game": "Super Mario Galaxy 1 & 2 Randomizer",
+    "player": "Ginkgo",
+    "player_location": "at",
+    "time": 12477,
+    "category": "SMG2 Any%",
+    "region": "EUR / PAL",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "yl1eg0rm",
+    "game": "Super Mario Galaxy 1 & 2 Randomizer",
+    "player": "blipblo",
+    "player_location": "us",
+    "time": 12297,
+    "category": "SMG2 Any%",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "yde7w3vm",
+    "game": "Super Mario Galaxy 1 & 2 Randomizer",
+    "player": "keegansimyh",
+    "player_location": "hk",
+    "time": 11068,
+    "category": "SMG Any%",
+    "region": "JPN / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "yor84rjy",
+    "game": "Super Mario Galaxy 1 & 2 Randomizer",
+    "player": "Sailo",
+    "player_location": "de",
+    "time": 9169,
+    "category": "SMG Any%",
+    "region": "JPN / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "yo61g4jy",
+    "game": "Super Mario Galaxy 1 & 2 Randomizer",
+    "player": "xzRockin",
+    "player_location": "us",
+    "time": 9765,
+    "category": "SMG Any%",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "ydd8gpwy",
+    "game": "Super Mario Galaxy 1 & 2 Randomizer",
+    "player": "Jhay",
+    "player_location": "gb/wls",
+    "time": 8685,
+    "category": "SMG Any%",
+    "region": "EUR / PAL",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "zp27o2xy",
+    "game": "Super Mario Galaxy 1 & 2 Randomizer",
+    "player": "Rayleigh",
+    "player_location": "nz",
+    "time": 29690,
+    "category": "SMG 120 Stars",
+    "region": "USA / NTSC",
+    "platform": "Wii U",
+    "emulated": false
+  }
+]

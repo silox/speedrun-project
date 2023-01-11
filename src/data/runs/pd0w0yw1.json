@@ -1,0 +1,68 @@
+[
+  {
+    "id": "y4ev5rnm",
+    "game": "Wheel of Fortune (DS)",
+    "player": "Otterstone_Gamer",
+    "player_location": "us",
+    "time": 778,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "mr4q2n4z",
+    "game": "Wheel of Fortune (DS)",
+    "player": "Yiply",
+    "player_location": "us",
+    "time": 386,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "y9n282rz",
+    "game": "Wheel of Fortune (DS)",
+    "player": "Qazwet",
+    "player_location": "gb/eng",
+    "time": 296,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "zx6nnxkz",
+    "game": "Wheel of Fortune (DS)",
+    "player": "Glitchman24",
+    "player_location": null,
+    "time": 219,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "zqgee21m",
+    "game": "Wheel of Fortune (DS)",
+    "player": "Cakemate",
+    "player_location": "us",
+    "time": 211,
+    "category": "Any%",
+    "region": null,
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "mr18pg2z",
+    "game": "Wheel of Fortune (DS)",
+    "player": "ShesChardcore",
+    "player_location": "us",
+    "time": 566,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  }
+]

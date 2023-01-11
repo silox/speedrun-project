@@ -1,0 +1,101 @@
+[
+  {
+    "id": "9yo96r0y",
+    "game": "Omega Boost",
+    "player": "Naircol",
+    "player_location": "nz",
+    "time": 1461.13,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "pyd3qxwz",
+    "game": "Omega Boost",
+    "player": "Jareds129",
+    "player_location": "nz",
+    "time": 49.53,
+    "category": "Max Boost",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "7yl44rxm",
+    "game": "Omega Boost",
+    "player": "Emeraldsniper",
+    "player_location": "us",
+    "time": 1651.76,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "m358kd4y",
+    "game": "Omega Boost",
+    "player": "the_jugglernaut",
+    "player_location": "cl",
+    "time": 1408.23,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "y4w2qrnm",
+    "game": "Omega Boost",
+    "player": "Evertrn",
+    "player_location": "se",
+    "time": 1639.66,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y8vv17nz",
+    "game": "Omega Boost",
+    "player": "Joester98",
+    "player_location": "us",
+    "time": 1397.13,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "z1o2rdgm",
+    "game": "Omega Boost",
+    "player": "MASH",
+    "player_location": "ca",
+    "time": 1907.13,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "yj13gj7y",
+    "game": "Omega Boost",
+    "player": "Triple_Six",
+    "player_location": "us",
+    "time": 75.46,
+    "category": "Max Boost",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "znodw18y",
+    "game": "Omega Boost",
+    "player": "Te Suto",
+    "player_location": null,
+    "time": 1534.16,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  }
+]

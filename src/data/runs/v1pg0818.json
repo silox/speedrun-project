@@ -1,0 +1,57 @@
+[
+  {
+    "id": "8y803ldm",
+    "game": "",
+    "player": "Silent_Excalibr",
+    "player_location": "us",
+    "time": 14030,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "zgn386dy",
+    "game": "",
+    "player": "Osey889",
+    "player_location": "us",
+    "time": 6990,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "yl949kny",
+    "game": "Drill Dozer",
+    "player": "MeowMix",
+    "player_location": "us",
+    "time": 8269,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": false
+  },
+  {
+    "id": "m7g5x49m",
+    "game": "Drill Dozer",
+    "player": "RimuSpp",
+    "player_location": "co",
+    "time": 9161,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "y8en1jny",
+    "game": "Drill Dozer",
+    "player": "BeaRType",
+    "player_location": "br",
+    "time": 7876,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Wii U Virtual Console",
+    "emulated": false
+  }
+]

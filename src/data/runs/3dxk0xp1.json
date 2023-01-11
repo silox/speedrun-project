@@ -1,0 +1,35 @@
+[
+  {
+    "id": "yod9k97m",
+    "game": "Tokyo Xtreme Racer Zero: Time Attack",
+    "player": "ThrasherDBS",
+    "player_location": "us",
+    "time": 7.96,
+    "category": "QUEST CAR: CLASS A",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "m36d6w4m",
+    "game": "Tokyo Xtreme Racer Zero: Time Attack",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 13.497,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "y48glrkm",
+    "game": "Tokyo Xtreme Racer Zero: Time Attack",
+    "player": "Proper",
+    "player_location": "us",
+    "time": 11.59,
+    "category": "QUEST CAR: CLASS A",
+    "region": null,
+    "platform": "PlayStation 2",
+    "emulated": true
+  }
+]

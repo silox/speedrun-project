@@ -1,0 +1,24 @@
+[
+  {
+    "id": "y9lr662y",
+    "game": "Yu-Gi-Oh! World Championship 2008",
+    "player": "delcaMX",
+    "player_location": "mx",
+    "time": 118,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "y4q52ndm",
+    "game": "Yu-Gi-Oh! World Championship 2008",
+    "player": "survivalMichi",
+    "player_location": "de",
+    "time": 110,
+    "category": "Time Trial",
+    "region": null,
+    "platform": "Nintendo DS",
+    "emulated": true
+  }
+]

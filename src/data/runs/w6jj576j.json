@@ -1,0 +1,79 @@
+[
+  {
+    "id": "mk31d15z",
+    "game": "Midnight Club : Los Angeles",
+    "player": "DJAtomika",
+    "player_location": "ch",
+    "time": 26.006,
+    "category": "any%",
+    "region": "EUR / PAL",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "z5j83wgm",
+    "game": "Midnight Club : Los Angeles",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 87.36,
+    "category": "any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "zq43x89m",
+    "game": "Midnight Club : Los Angeles",
+    "player": "whocares",
+    "player_location": null,
+    "time": 63677,
+    "category": "any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "y8v2v3nz",
+    "game": "Midnight Club : Los Angeles",
+    "player": "J0nny0",
+    "player_location": null,
+    "time": 142.76,
+    "category": "any%",
+    "region": "EUR / PAL",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "z0rwo1oz",
+    "game": "Midnight Club : Los Angeles",
+    "player": "Lokoya",
+    "player_location": "de",
+    "time": 21360,
+    "category": "any%",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "yjxk0xdz",
+    "game": "Midnight Club : Los Angeles",
+    "player": "GeorgeMHall",
+    "player_location": "ca",
+    "time": 51.88,
+    "category": "any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "ywj92nnz",
+    "game": "Midnight Club : Los Angeles",
+    "player": "PumpkinPatchLeader",
+    "player_location": "za",
+    "time": 29.33,
+    "category": "any%",
+    "region": "EUR / PAL",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  }
+]

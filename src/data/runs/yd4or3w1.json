@@ -1,0 +1,46 @@
+[
+  {
+    "id": "zxv571ey",
+    "game": "Bonanza Bros.",
+    "player": "ShVAK_Ome",
+    "player_location": "jp",
+    "time": 860,
+    "category": "Normal (TG-16 edition,single)",
+    "region": "JPN / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": false
+  },
+  {
+    "id": "yw4x313z",
+    "game": "Bonanza Bros.",
+    "player": "DodonKrevedko",
+    "player_location": "ru",
+    "time": 1362,
+    "category": "SMS",
+    "region": "EUR / PAL",
+    "platform": "Sega Master System",
+    "emulated": false
+  },
+  {
+    "id": "m35rl1qy",
+    "game": "Bonanza Bros.",
+    "player": "Tvloka",
+    "player_location": null,
+    "time": 1207,
+    "category": "SMS",
+    "region": "BRA / PAL",
+    "platform": "Sega Master System",
+    "emulated": true
+  },
+  {
+    "id": "y82p93xy",
+    "game": "Bonanza Bros.",
+    "player": "Dumple",
+    "player_location": "us",
+    "time": 1581,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

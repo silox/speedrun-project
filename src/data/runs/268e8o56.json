@@ -1,0 +1,46 @@
+[
+  {
+    "id": "zx43loky",
+    "game": "Valis II",
+    "player": "The_Retro_Challenger",
+    "player_location": "ca/qc",
+    "time": 1856,
+    "category": "Any%",
+    "region": null,
+    "platform": "TurboGrafx-16 CD-ROM",
+    "emulated": false
+  },
+  {
+    "id": "yo9lqkjy",
+    "game": "Valis II",
+    "player": "norinori74",
+    "player_location": "jp",
+    "time": 2447,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "TurboGrafx-16 CD-ROM",
+    "emulated": false
+  },
+  {
+    "id": "y88rlrdy",
+    "game": "Valis II",
+    "player": "diamine",
+    "player_location": "jp",
+    "time": 1547,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "TurboGrafx-16 CD-ROM",
+    "emulated": false
+  },
+  {
+    "id": "y4q80nnm",
+    "game": "Valis II",
+    "player": "Inubito",
+    "player_location": "us",
+    "time": 1596,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16 CD-ROM",
+    "emulated": false
+  }
+]

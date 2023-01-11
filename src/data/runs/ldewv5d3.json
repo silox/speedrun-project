@@ -1,0 +1,101 @@
+[
+  {
+    "id": "1zxkp05m",
+    "game": "Metroid Prime Hunters",
+    "player": "yahfo",
+    "player_location": "us",
+    "time": 4862,
+    "category": "All Items",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "zqvero5m",
+    "game": "Metroid Prime Hunters",
+    "player": "Mr_Shasta",
+    "player_location": "us",
+    "time": 4452,
+    "category": "All Items",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "kz52g6dz",
+    "game": "Metroid Prime Hunters",
+    "player": "JaggerG",
+    "player_location": "us",
+    "time": 7605,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "yd5rpg0m",
+    "game": "Metroid Prime Hunters",
+    "player": "Dann_1",
+    "player_location": "be",
+    "time": 91,
+    "category": "First Hunt",
+    "region": "EUR / PAL",
+    "platform": "New Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "y657p4jz",
+    "game": "Metroid Prime Hunters",
+    "player": "Dyceron",
+    "player_location": "us",
+    "time": 6718,
+    "category": "All Items",
+    "region": "USA / NTSC",
+    "platform": "New Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "y93pr8ky",
+    "game": "Metroid Prime Hunters",
+    "player": "Verallix",
+    "player_location": "ca",
+    "time": 4195,
+    "category": "All Items",
+    "region": "USA / NTSC",
+    "platform": "New Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "y20qw07m",
+    "game": "Metroid Prime Hunters",
+    "player": "AlexisGoesMoo",
+    "player_location": "us",
+    "time": 251,
+    "category": "First Hunt",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "ywj6oe3z",
+    "game": "Metroid Prime Hunters",
+    "player": "sen_ju",
+    "player_location": "jp",
+    "time": 6769,
+    "category": "100%",
+    "region": "JPN / NTSC",
+    "platform": "New Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "y6xdk11y",
+    "game": "Metroid Prime Hunters",
+    "player": "WanderingMeow",
+    "player_location": null,
+    "time": 4185,
+    "category": "All Items",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  }
+]

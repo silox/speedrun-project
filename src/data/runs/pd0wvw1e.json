@@ -1,0 +1,68 @@
+[
+  {
+    "id": "y97ljdrm",
+    "game": "",
+    "player": "Shaaf",
+    "player_location": "jp",
+    "time": 5101,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": false
+  },
+  {
+    "id": "zn89dv7z",
+    "game": "",
+    "player": "ZAR",
+    "player_location": "us",
+    "time": 5435,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": false
+  },
+  {
+    "id": "y67xdoqm",
+    "game": "",
+    "player": "REFPSI",
+    "player_location": null,
+    "time": 6645,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": false
+  },
+  {
+    "id": "z13qe97m",
+    "game": "Goemon's Great Adventure",
+    "player": "Trineas",
+    "player_location": "de",
+    "time": 5897,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": false
+  },
+  {
+    "id": "mke173xm",
+    "game": "Goemon's Great Adventure",
+    "player": "koryuta_dayo",
+    "player_location": "jp",
+    "time": 5274,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": false
+  },
+  {
+    "id": "zq02o75y",
+    "game": "Goemon's Great Adventure",
+    "player": "mikapyon",
+    "player_location": null,
+    "time": 5979,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": false
+  }
+]

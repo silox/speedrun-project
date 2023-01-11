@@ -1,0 +1,46 @@
+[
+  {
+    "id": "yj31g43z",
+    "game": "Sorcerer\u2019s Kingdom",
+    "player": "PeteDorr",
+    "player_location": "us",
+    "time": 8643,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "z1ppjr7z",
+    "game": "Sorcerer\u2019s Kingdom",
+    "player": "Reven",
+    "player_location": "us",
+    "time": 4136,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "y8d1e01z",
+    "game": "Sorcerer\u2019s Kingdom",
+    "player": "septictank5",
+    "player_location": "us",
+    "time": 6395,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "yv0773ez",
+    "game": "Sorcerer\u2019s Kingdom",
+    "player": "Quarbit",
+    "player_location": "ca",
+    "time": 3872,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  }
+]

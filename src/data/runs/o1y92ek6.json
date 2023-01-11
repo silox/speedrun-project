@@ -1,0 +1,24 @@
+[
+  {
+    "id": "ydq17gjm",
+    "game": "Newer Super Luigi Wii: Dark Moon",
+    "player": "ILoveSMB",
+    "player_location": null,
+    "time": 913.35,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": true
+  },
+  {
+    "id": "yj3rpkoz",
+    "game": "Newer Super Luigi Wii: Dark Moon",
+    "player": "JadenSpeedrun",
+    "player_location": "kr",
+    "time": 2201,
+    "category": "Any%",
+    "region": null,
+    "platform": "Wii",
+    "emulated": false
+  }
+]

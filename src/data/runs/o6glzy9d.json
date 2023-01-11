@@ -1,0 +1,211 @@
+[
+  {
+    "id": "y8qpprdy",
+    "game": "Darkstalkers 3",
+    "player": "AquaBlake",
+    "player_location": "ca",
+    "time": 423,
+    "category": "Arcade Mode",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "mrqrdq7y",
+    "game": "Darkstalkers 3",
+    "player": "misterscoot",
+    "player_location": "us",
+    "time": 668,
+    "category": "Arcade Mode",
+    "region": "JPN / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "ywp8n12z",
+    "game": "Darkstalkers 3",
+    "player": "IzzyBells",
+    "player_location": "us",
+    "time": 469,
+    "category": "Arcade Mode",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y8d6vrdz",
+    "game": "Darkstalkers 3",
+    "player": "Krayzar",
+    "player_location": "us",
+    "time": 268,
+    "category": "Arcade Mode",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "yjlw9l3z",
+    "game": "Darkstalkers 3",
+    "player": "camero56",
+    "player_location": "gb/eng",
+    "time": 282,
+    "category": "Arcade Mode",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zgwp76vy",
+    "game": "Darkstalkers 3",
+    "player": "ShinkenX",
+    "player_location": "au",
+    "time": 325,
+    "category": "Arcade Mode",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yok82odz",
+    "game": "Darkstalkers 3",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 633,
+    "category": "Arcade Mode",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "ylk21oxz",
+    "game": "Darkstalkers 3",
+    "player": "MortimerNova",
+    "player_location": "us",
+    "time": 418,
+    "category": "Arcade Mode",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "y8rv4dwm",
+    "game": "Darkstalkers 3",
+    "player": "Tenka",
+    "player_location": "au",
+    "time": 342,
+    "category": "Arcade Mode",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z1rwqe9m",
+    "game": "Darkstalkers 3",
+    "player": "NerdyNester",
+    "player_location": "us",
+    "time": 302,
+    "category": "Arcade Mode",
+    "region": "JPN / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "ylvq462m",
+    "game": "Darkstalkers 3",
+    "player": "Regyszord_BR",
+    "player_location": "br",
+    "time": 243,
+    "category": "Arcade Mode",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z1rg0xrm",
+    "game": "Darkstalkers 3",
+    "player": "DustyTokyo",
+    "player_location": "jp",
+    "time": 276,
+    "category": "Arcade Mode",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y8rje21m",
+    "game": "Darkstalkers 3",
+    "player": "gheb",
+    "player_location": null,
+    "time": 631,
+    "category": "Arcade Mode",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zn3e398y",
+    "game": "Darkstalkers 3",
+    "player": "monkeyfreak230",
+    "player_location": "es/ct",
+    "time": 674,
+    "category": "Arcade Mode",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y6dod96m",
+    "game": "Darkstalkers 3",
+    "player": "Habble",
+    "player_location": "au",
+    "time": 369,
+    "category": "Arcade Mode",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yvqjpn4m",
+    "game": "Darkstalkers 3",
+    "player": "Kuerten",
+    "player_location": "mx",
+    "time": 346,
+    "category": "Arcade Mode",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zn77l3vm",
+    "game": "Darkstalkers 3",
+    "player": "NeetSuhiro",
+    "player_location": "jp",
+    "time": 378,
+    "category": "Arcade Mode",
+    "region": "JPN / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "y4xd6edz",
+    "game": "Darkstalkers 3",
+    "player": "Shredmachine",
+    "player_location": "se",
+    "time": 590,
+    "category": "Arcade Mode",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y4g21gdy",
+    "game": "Darkstalkers 3",
+    "player": "OG_BOSSCAT",
+    "player_location": "us",
+    "time": 1021,
+    "category": "Arcade Mode",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": false
+  }
+]

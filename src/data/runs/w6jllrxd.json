@@ -1,0 +1,123 @@
+[
+  {
+    "id": "z5o95d5y",
+    "game": "Rolan's Curse",
+    "player": "tuinj",
+    "player_location": "nl",
+    "time": 323,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "zq36w35y",
+    "game": "Rolan's Curse",
+    "player": "WolfMerrik",
+    "player_location": "us",
+    "time": 313,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "y8904odm",
+    "game": "Rolan's Curse",
+    "player": "ebloodycandy",
+    "player_location": "us",
+    "time": 364,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": false
+  },
+  {
+    "id": "y8252lxy",
+    "game": "Rolan's Curse",
+    "player": "AirAngel",
+    "player_location": "us",
+    "time": 330,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": false
+  },
+  {
+    "id": "mr92jggm",
+    "game": "Rolan's Curse",
+    "player": "Atroz",
+    "player_location": "us",
+    "time": 1340,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "z0rrlr4z",
+    "game": "Rolan's Curse",
+    "player": "JuegAriel",
+    "player_location": "es",
+    "time": 348,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "zxdoevey",
+    "game": "Rolan's Curse",
+    "player": "adrianus",
+    "player_location": "ch",
+    "time": 2190,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "mk8ewjlm",
+    "game": "Rolan's Curse",
+    "player": "smartalec24",
+    "player_location": "us",
+    "time": 1498,
+    "category": "Glitchless",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": false
+  },
+  {
+    "id": "me6qj18z",
+    "game": "Rolan's Curse",
+    "player": "k0zzx",
+    "player_location": "sr",
+    "time": 297,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "zgrxvojm",
+    "game": "Rolan's Curse",
+    "player": "Rayeo",
+    "player_location": "us",
+    "time": 383,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": false
+  },
+  {
+    "id": "zx831ogm",
+    "game": "Rolan's Curse",
+    "player": "JkLoser",
+    "player_location": "se",
+    "time": 299,
+    "category": "Any%",
+    "region": null,
+    "platform": "Game Boy",
+    "emulated": true
+  }
+]

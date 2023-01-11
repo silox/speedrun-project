@@ -1,0 +1,68 @@
+[
+  {
+    "id": "zn0oq23y",
+    "game": "",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 292.58,
+    "category": "Arcade Mode",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "zgrd29jm",
+    "game": "",
+    "player": "War_d",
+    "player_location": "gb/eng",
+    "time": 176.11,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": true
+  },
+  {
+    "id": "mr6gld7m",
+    "game": "Fighting Vipers",
+    "player": "ReepAndTar",
+    "player_location": "us",
+    "time": 253.053,
+    "category": "Arcade Mode",
+    "region": null,
+    "platform": "Xbox One",
+    "emulated": false
+  },
+  {
+    "id": "y88p73xy",
+    "game": "Fighting Vipers",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 173.7,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": true
+  },
+  {
+    "id": "y6o3xw1y",
+    "game": "Fighting Vipers",
+    "player": "Teru",
+    "player_location": "jp",
+    "time": 212.42,
+    "category": "Arcade Mode",
+    "region": "JPN / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "ywv11v0z",
+    "game": "Fighting Vipers",
+    "player": "DBcade",
+    "player_location": "jp",
+    "time": 210.081,
+    "category": "Arcade Mode",
+    "region": "JPN / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  }
+]

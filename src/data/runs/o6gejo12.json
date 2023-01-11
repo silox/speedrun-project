@@ -1,0 +1,24 @@
+[
+  {
+    "id": "jy9wjl2z",
+    "game": "SNK vs. Capcom: Card Fighters' Clash",
+    "player": "JakatoXtra",
+    "player_location": "us",
+    "time": 13864,
+    "category": "Main Game - Capcom Edition",
+    "region": "USA / NTSC",
+    "platform": "Neo Geo Pocket Color",
+    "emulated": true
+  },
+  {
+    "id": "znoejp7y",
+    "game": "SNK vs. Capcom: Card Fighters' Clash",
+    "player": "src543",
+    "player_location": "us",
+    "time": 4520,
+    "category": "ANY - SNK Edition",
+    "region": null,
+    "platform": "Neo Geo Pocket Color",
+    "emulated": false
+  }
+]

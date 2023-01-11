@@ -1,0 +1,123 @@
+[
+  {
+    "id": "yde517vm",
+    "game": "Resident Evil: Code: Veronica",
+    "player": "Sjotyme",
+    "player_location": "us",
+    "time": 6759,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "y8exgo1y",
+    "game": "Resident Evil: Code: Veronica",
+    "player": "Mogul",
+    "player_location": "us",
+    "time": 297.073,
+    "category": "Battle Game",
+    "region": "JPN / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  },
+  {
+    "id": "y69vlnqy",
+    "game": "Resident Evil: Code: Veronica",
+    "player": "Liammc90",
+    "player_location": "gb/eng",
+    "time": 272.05,
+    "category": "Battle Game",
+    "region": "JPN / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  },
+  {
+    "id": "z1xgl97m",
+    "game": "Resident Evil: Code: Veronica",
+    "player": "HinakoShijou",
+    "player_location": null,
+    "time": 308.046,
+    "category": "Battle Game",
+    "region": "JPN / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  },
+  {
+    "id": "z1xqq4jm",
+    "game": "Resident Evil: Code: Veronica",
+    "player": "MegaTallica97",
+    "player_location": "gb",
+    "time": 285.033,
+    "category": "Battle Game",
+    "region": "JPN / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  },
+  {
+    "id": "zqv86r1m",
+    "game": "Resident Evil: Code: Veronica",
+    "player": "jakubloveshorror",
+    "player_location": "pl",
+    "time": 274.041,
+    "category": "Battle Game",
+    "region": "JPN / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  },
+  {
+    "id": "y27r8v6z",
+    "game": "Resident Evil: Code: Veronica",
+    "player": "Poppo",
+    "player_location": "jp",
+    "time": 6341,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "z5d915dm",
+    "game": "Resident Evil: Code: Veronica",
+    "player": "browsegames",
+    "player_location": null,
+    "time": 535.48,
+    "category": "Battle Game",
+    "region": "JPN / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "yle77erz",
+    "game": "Resident Evil: Code: Veronica",
+    "player": "tonyy",
+    "player_location": "br",
+    "time": 281.023,
+    "category": "Battle Game",
+    "region": "JPN / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  },
+  {
+    "id": "zx7l74gy",
+    "game": "Resident Evil: Code: Veronica",
+    "player": "boomstick1981",
+    "player_location": "us",
+    "time": 275.01,
+    "category": "Battle Game",
+    "region": "JPN / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  },
+  {
+    "id": "znq1en7z",
+    "game": "Resident Evil: Code: Veronica",
+    "player": "Huntern0rt",
+    "player_location": "gb/eng",
+    "time": 331.6,
+    "category": "Battle Game",
+    "region": "JPN / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  }
+]

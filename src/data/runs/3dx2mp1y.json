@@ -1,0 +1,79 @@
+[
+  {
+    "id": "mreol54y",
+    "game": "",
+    "player": "Yogidamonk",
+    "player_location": "us",
+    "time": 1467,
+    "category": "Any% (NES)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "z1j8qvwz",
+    "game": "",
+    "player": "squibbons",
+    "player_location": "se",
+    "time": 1510,
+    "category": "Any% (NES)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zn8or83z",
+    "game": "",
+    "player": "Toad22484",
+    "player_location": "us",
+    "time": 1585,
+    "category": "Any% (NES)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "z06p359z",
+    "game": "Ultima III: Exodus",
+    "player": "Lucha_Gym",
+    "player_location": "au",
+    "time": 1780,
+    "category": "Any% (NES)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "yo9lnw1y",
+    "game": "Ultima III: Exodus",
+    "player": "m4r51p4n",
+    "player_location": "us",
+    "time": 2482,
+    "category": "Any% (NES)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "zp2konny",
+    "game": "Ultima III: Exodus",
+    "player": "organMike",
+    "player_location": "ca",
+    "time": 1949,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "MS-DOS",
+    "emulated": true
+  },
+  {
+    "id": "z128dgwy",
+    "game": "Ultima III: Exodus",
+    "player": "NLeseul",
+    "player_location": "us",
+    "time": 1698,
+    "category": "Any% (MSX2 Cartridge)",
+    "region": "JPN / NTSC",
+    "platform": "MSX2",
+    "emulated": false
+  }
+]

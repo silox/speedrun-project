@@ -1,0 +1,35 @@
+[
+  {
+    "id": "y95ldgrz",
+    "game": "Hokuto no Ken: Raoh Gaiden - Ten no Haoh",
+    "player": "kenshireando",
+    "player_location": "ar",
+    "time": 273,
+    "category": "Story Mode (NG)",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "zgw8wjvy",
+    "game": "Hokuto no Ken: Raoh Gaiden - Ten no Haoh",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 229,
+    "category": "Story Mode (NG)",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "yjdd45dy",
+    "game": "Hokuto no Ken: Raoh Gaiden - Ten no Haoh",
+    "player": "Kaz0uya",
+    "player_location": "fr",
+    "time": 271,
+    "category": "Story Mode (NG)",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  }
+]

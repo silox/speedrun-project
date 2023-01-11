@@ -1,0 +1,24 @@
+[
+  {
+    "id": "yw0p9epm",
+    "game": "",
+    "player": "Efomac",
+    "player_location": "gb/sct",
+    "time": 14974,
+    "category": "Any%",
+    "region": null,
+    "platform": "Wii",
+    "emulated": true
+  },
+  {
+    "id": "y8vde81z",
+    "game": "",
+    "player": "BlueWill",
+    "player_location": "gb",
+    "time": 12401,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Wii",
+    "emulated": false
+  }
+]

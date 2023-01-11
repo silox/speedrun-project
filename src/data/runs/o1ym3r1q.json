@@ -1,0 +1,123 @@
+[
+  {
+    "id": "0y688ppz",
+    "game": "SNK vs. Capcom: SVC Chaos",
+    "player": "JakatoXtra",
+    "player_location": "us",
+    "time": 852.01,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zgnqr3dy",
+    "game": "SNK vs. Capcom: SVC Chaos",
+    "player": "Sanjihimura",
+    "player_location": "us",
+    "time": 669.31,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yj45jloy",
+    "game": "SNK vs. Capcom: SVC Chaos",
+    "player": "fulgore",
+    "player_location": "br",
+    "time": 593.44,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zx4rlvky",
+    "game": "SNK vs. Capcom: SVC Chaos",
+    "player": "marco_battousai",
+    "player_location": "br",
+    "time": 298.54,
+    "category": "Arcade",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zq3nge5y",
+    "game": "SNK vs. Capcom: SVC Chaos",
+    "player": "Tenka",
+    "player_location": "au",
+    "time": 478.55,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y6pw6o1m",
+    "game": "SNK vs. Capcom: SVC Chaos",
+    "player": "Rox_Artur",
+    "player_location": "br",
+    "time": 237.54,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y92qojrz",
+    "game": "SNK vs. Capcom: SVC Chaos",
+    "player": "NerdyNester",
+    "player_location": "us",
+    "time": 311.31,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zx4rkk8y",
+    "game": "SNK vs. Capcom: SVC Chaos",
+    "player": "Chronodd",
+    "player_location": "br",
+    "time": 325.57,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z1143q7z",
+    "game": "SNK vs. Capcom: SVC Chaos",
+    "player": "Krayzar",
+    "player_location": "us",
+    "time": 667.03,
+    "category": "Arcade",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "yl7qkokm",
+    "game": "SNK vs. Capcom: SVC Chaos",
+    "player": "packnerz",
+    "player_location": "ph",
+    "time": 253.11,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "mrr21l8m",
+    "game": "SNK vs. Capcom: SVC Chaos",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 217.31,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

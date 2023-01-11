@@ -1,0 +1,24 @@
+[
+  {
+    "id": "zn8d1q3z",
+    "game": "",
+    "player": "Matildred",
+    "player_location": "ca",
+    "time": 4059,
+    "category": "1P Any%",
+    "region": "USA / NTSC",
+    "platform": "Wii Virtual Console",
+    "emulated": false
+  },
+  {
+    "id": "z1jlrpjz",
+    "game": "",
+    "player": "Xealous",
+    "player_location": null,
+    "time": 2944,
+    "category": "1P Any%",
+    "region": "JPN / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": false
+  }
+]

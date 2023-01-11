@@ -1,0 +1,123 @@
+[
+  {
+    "id": "pzgnl3jy",
+    "game": "Phoenix Wright: Ace Attorney - Trials and Tribulations",
+    "player": "Tiki09",
+    "player_location": "mx",
+    "time": 21036,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "0y65kl0z",
+    "game": "Phoenix Wright: Ace Attorney - Trials and Tribulations",
+    "player": "indykenobi",
+    "player_location": "us",
+    "time": 1599,
+    "category": "NG+",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "8m7n2ewz",
+    "game": "Phoenix Wright: Ace Attorney - Trials and Tribulations",
+    "player": "KayeXP",
+    "player_location": "us",
+    "time": 1609,
+    "category": "NG+",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "pzgj8vjz",
+    "game": "Phoenix Wright: Ace Attorney - Trials and Tribulations",
+    "player": "Ashja",
+    "player_location": "gb/eng",
+    "time": 1660,
+    "category": "NG+",
+    "region": "EUR / PAL",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "zp484e8z",
+    "game": "Phoenix Wright: Ace Attorney - Trials and Tribulations",
+    "player": "Crrool",
+    "player_location": "nl",
+    "time": 1367,
+    "category": "NG+",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zp489q8z",
+    "game": "Phoenix Wright: Ace Attorney - Trials and Tribulations",
+    "player": "TheBarinade",
+    "player_location": "au",
+    "time": 1196,
+    "category": "NG+",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m751qg0z",
+    "game": "Phoenix Wright: Ace Attorney - Trials and Tribulations",
+    "player": "Nacho",
+    "player_location": "au",
+    "time": 14580,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "y8vek5xz",
+    "game": "Phoenix Wright: Ace Attorney - Trials and Tribulations",
+    "player": "SamuelSD7",
+    "player_location": "us",
+    "time": 1393,
+    "category": "NG+",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "z1895d7y",
+    "game": "Phoenix Wright: Ace Attorney - Trials and Tribulations",
+    "player": "JakeFox",
+    "player_location": "us",
+    "time": 3196,
+    "category": "NG+",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mk7o3r1y",
+    "game": "Phoenix Wright: Ace Attorney - Trials and Tribulations",
+    "player": "WaitlistedJay",
+    "player_location": "us",
+    "time": 1596,
+    "category": "NG+",
+    "region": null,
+    "platform": "Wii",
+    "emulated": true
+  },
+  {
+    "id": "mkk7wwvm",
+    "game": "Phoenix Wright: Ace Attorney - Trials and Tribulations",
+    "player": "aisks",
+    "player_location": "us",
+    "time": 1190,
+    "category": "NG+",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

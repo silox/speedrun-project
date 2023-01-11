@@ -1,0 +1,57 @@
+[
+  {
+    "id": "ywjv4v2z",
+    "game": "",
+    "player": "Reni",
+    "player_location": "pl",
+    "time": 20,
+    "category": "Accept Bank Dealer",
+    "region": null,
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "y9l609ey",
+    "game": "",
+    "player": "TRLittleToaster",
+    "player_location": "us",
+    "time": 20,
+    "category": "Accept Bank Dealer",
+    "region": "USA / NTSC",
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "mr6lo7dm",
+    "game": "",
+    "player": "Jacob1",
+    "player_location": "ca",
+    "time": 17,
+    "category": "Accept Bank Dealer",
+    "region": null,
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "z0ok7d8z",
+    "game": "Deal or Risk ",
+    "player": "Act_",
+    "player_location": "us",
+    "time": 20,
+    "category": "Accept Bank Dealer",
+    "region": "USA / NTSC",
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "m36414dm",
+    "game": "Deal or Risk ",
+    "player": "Zambrini",
+    "player_location": "us",
+    "time": 16,
+    "category": "Accept Bank Dealer",
+    "region": "USA / NTSC",
+    "platform": "iOS",
+    "emulated": false
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "m7dovxem",
+    "game": "DERE EXE: Rebirth of Horror",
+    "player": "TRLittleToaster",
+    "player_location": "us",
+    "time": 10.467,
+    "category": "any%",
+    "region": "USA / NTSC",
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "mkg1jkvy",
+    "game": "DERE EXE: Rebirth of Horror",
+    "player": "shawdy",
+    "player_location": null,
+    "time": 10.583,
+    "category": "any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y6de8j6m",
+    "game": "DERE EXE: Rebirth of Horror",
+    "player": "Sonicastle",
+    "player_location": "de",
+    "time": 669.533,
+    "category": "any%",
+    "region": "EUR / PAL",
+    "platform": "iOS",
+    "emulated": false
+  }
+]

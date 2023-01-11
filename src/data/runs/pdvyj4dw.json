@@ -1,0 +1,46 @@
+[
+  {
+    "id": "z1315njm",
+    "game": "",
+    "player": "Smartball",
+    "player_location": "us",
+    "time": 673,
+    "category": "Bad Ending",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "y60kx11y",
+    "game": "",
+    "player": "JkLoser",
+    "player_location": "se",
+    "time": 625,
+    "category": "Bad Ending",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "y95qge2z",
+    "game": "Rolo to the Rescue",
+    "player": "lenamek",
+    "player_location": "fr",
+    "time": 980,
+    "category": "Bad Ending",
+    "region": null,
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "yjg871ny",
+    "game": "Rolo to the Rescue",
+    "player": "CianiBr",
+    "player_location": "br",
+    "time": 649,
+    "category": "Bad Ending",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  }
+]

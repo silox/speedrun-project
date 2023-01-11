@@ -1,0 +1,167 @@
+[
+  {
+    "id": "zxvwdl8y",
+    "game": "G-Darius",
+    "player": "Sebastian1623",
+    "player_location": "cl",
+    "time": 88.75,
+    "category": "Single",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "y90o3wey",
+    "game": "G-Darius",
+    "player": "Maniatikiller",
+    "player_location": "cl",
+    "time": 1209.73,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "mk9l63xz",
+    "game": "G-Darius",
+    "player": "IWannabetheSmithy",
+    "player_location": "cl",
+    "time": 1351.5,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "y891p2wm",
+    "game": "G-Darius",
+    "player": "sabidao",
+    "player_location": "br",
+    "time": 1302.66,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "m7p6769m",
+    "game": "G-Darius",
+    "player": "Defanged_Develon",
+    "player_location": "gi",
+    "time": 1225.85,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "yvrgplez",
+    "game": "G-Darius",
+    "player": "NeetSuhiro",
+    "player_location": "jp",
+    "time": 83.59,
+    "category": "Single",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "yv67v6oz",
+    "game": "G-Darius",
+    "player": "RitaH",
+    "player_location": "br",
+    "time": 1437.24,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "y667j66y",
+    "game": "G-Darius",
+    "player": "JaqkOfHearts",
+    "player_location": "us",
+    "time": 61.8,
+    "category": "Single",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "m3nd2q6y",
+    "game": "G-Darius",
+    "player": "QueenOfCards",
+    "player_location": "us",
+    "time": 1128.54,
+    "category": "Arcade",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "mkv3w7xy",
+    "game": "G-Darius",
+    "player": "Gluon",
+    "player_location": "jp",
+    "time": 1236,
+    "category": "Arcade",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "zn7g4w7m",
+    "game": "G-Darius",
+    "player": "lucluc16",
+    "player_location": "br",
+    "time": 66.37,
+    "category": "Single",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "y88d97ny",
+    "game": "G-Darius",
+    "player": "Thaide",
+    "player_location": "br",
+    "time": 1696.92,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "mrr5o04m",
+    "game": "G-Darius",
+    "player": "WearingFin",
+    "player_location": "gb",
+    "time": 1287,
+    "category": "Arcade",
+    "region": "EUR / PAL",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "znq95x3z",
+    "game": "G-Darius",
+    "player": "Famitwo2",
+    "player_location": null,
+    "time": 1043.96,
+    "category": "Arcade",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "ylnor02z",
+    "game": "G-Darius",
+    "player": "nioshi_noai",
+    "player_location": null,
+    "time": 1181,
+    "category": "Arcade",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  }
+]

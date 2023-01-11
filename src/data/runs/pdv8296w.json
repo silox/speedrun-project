@@ -1,0 +1,145 @@
+[
+  {
+    "id": "zpq8q4vy",
+    "game": "LocoRoco",
+    "player": "TheGroupOfStick",
+    "player_location": "dk",
+    "time": 75,
+    "category": "Invidual Levels",
+    "region": "EUR / PAL",
+    "platform": "Playstation TV",
+    "emulated": false
+  },
+  {
+    "id": "mk4pkk3y",
+    "game": "LocoRoco",
+    "player": "Sebastian1623",
+    "player_location": "cl",
+    "time": 70,
+    "category": "Invidual Levels",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": false
+  },
+  {
+    "id": "yjkod2nm",
+    "game": "LocoRoco",
+    "player": "p-p-j",
+    "player_location": "fi",
+    "time": 56,
+    "category": "Invidual Levels",
+    "region": "EUR / PAL",
+    "platform": "Playstation TV",
+    "emulated": false
+  },
+  {
+    "id": "ylq7kx2z",
+    "game": "LocoRoco",
+    "player": "Eddward",
+    "player_location": "pl",
+    "time": 6444,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "y2qpo45y",
+    "game": "LocoRoco",
+    "player": "Speed4TE",
+    "player_location": "kz",
+    "time": 1388,
+    "category": "",
+    "region": null,
+    "platform": "PlayStation Vita",
+    "emulated": false
+  },
+  {
+    "id": "zn4jdq8m",
+    "game": "LocoRoco",
+    "player": "TheOcto",
+    "player_location": "fr",
+    "time": 7057,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "ywpxx03z",
+    "game": "LocoRoco",
+    "player": "PiccadillyBlue",
+    "player_location": "us",
+    "time": 6957,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "z57gn4dm",
+    "game": "LocoRoco",
+    "player": "Steveartista",
+    "player_location": "pt",
+    "time": 62,
+    "category": "Invidual Levels",
+    "region": "EUR / PAL",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "yd0360wz",
+    "game": "LocoRoco",
+    "player": "kamil2050",
+    "player_location": "pl",
+    "time": 64,
+    "category": "Invidual Levels",
+    "region": "EUR / PAL",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "y6ddd0pm",
+    "game": "LocoRoco",
+    "player": "DjSup",
+    "player_location": "cz",
+    "time": 54,
+    "category": "Invidual Levels",
+    "region": "EUR / PAL",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "zp1dln8z",
+    "game": "LocoRoco",
+    "player": "MTDLWB",
+    "player_location": "jp",
+    "time": 101,
+    "category": "Invidual Levels",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": false
+  },
+  {
+    "id": "zqvpdp9m",
+    "game": "LocoRoco",
+    "player": "Edsz",
+    "player_location": "es",
+    "time": 53,
+    "category": "Invidual Levels",
+    "region": "EUR / PAL",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "z1g2wj9z",
+    "game": "LocoRoco",
+    "player": "Joosuu1",
+    "player_location": "fi",
+    "time": 209,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  }
+]

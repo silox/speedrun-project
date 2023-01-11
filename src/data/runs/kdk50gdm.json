@@ -1,0 +1,57 @@
+[
+  {
+    "id": "9mrp202z",
+    "game": "Mendel Palace",
+    "player": "Switch_Z",
+    "player_location": "br",
+    "time": 4861,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "yvg7494y",
+    "game": "Mendel Palace",
+    "player": "Amanogawa_San",
+    "player_location": "us",
+    "time": 1409,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zxvjv28y",
+    "game": "Mendel Palace",
+    "player": "Sunny.",
+    "player_location": "jp",
+    "time": 1292,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y21ovl7z",
+    "game": "Mendel Palace",
+    "player": "TheTerrificTracy",
+    "player_location": "us",
+    "time": 1317,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "yl187x3m",
+    "game": "Mendel Palace",
+    "player": "PastorCam",
+    "player_location": "us",
+    "time": 3681,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  }
+]

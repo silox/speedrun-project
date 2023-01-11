@@ -1,0 +1,167 @@
+[
+  {
+    "id": "zn34e4vy",
+    "game": "Super Street Fighter IV",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 72,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yv93k8xz",
+    "game": "Super Street Fighter IV",
+    "player": "andresfgp13",
+    "player_location": "cl",
+    "time": 134,
+    "category": "Arcade (3DS)",
+    "region": "EUR / PAL",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "y91nl9vm",
+    "game": "Super Street Fighter IV",
+    "player": "Hoovert",
+    "player_location": "gb/sct",
+    "time": 203,
+    "category": "Arcade (3DS)",
+    "region": "EUR / PAL",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "yv9oglez",
+    "game": "Super Street Fighter IV",
+    "player": "Kennedy_kd0",
+    "player_location": "br",
+    "time": 244,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "y91kld2m",
+    "game": "Super Street Fighter IV",
+    "player": "diude7",
+    "player_location": "de",
+    "time": 161,
+    "category": "Arcade (3DS)",
+    "region": "EUR / PAL",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "y4ed0lqm",
+    "game": "Super Street Fighter IV",
+    "player": "AceTrainerSparkle",
+    "player_location": "us",
+    "time": 184,
+    "category": "Arcade (3DS)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "yjgq2rny",
+    "game": "Super Street Fighter IV",
+    "player": "Peanutfan22",
+    "player_location": "us",
+    "time": 25,
+    "category": "Car Crusher",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "ywkgp69y",
+    "game": "Super Street Fighter IV",
+    "player": "GrandMasterMario5000",
+    "player_location": "ca",
+    "time": 25,
+    "category": "Car Crusher",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "ydr4vjvz",
+    "game": "Super Street Fighter IV",
+    "player": "N/A",
+    "player_location": null,
+    "time": 1,
+    "category": "Trials",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": false
+  },
+  {
+    "id": "zgr5550m",
+    "game": "Super Street Fighter IV",
+    "player": "Habble",
+    "player_location": "au",
+    "time": 18,
+    "category": "Car Crusher",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z07d39oy",
+    "game": "Super Street Fighter IV",
+    "player": "DWednesday",
+    "player_location": "gb",
+    "time": 10,
+    "category": "Car Crusher",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "ydrxnevz",
+    "game": "Super Street Fighter IV",
+    "player": "Orange_Tier",
+    "player_location": "us",
+    "time": 17,
+    "category": "Car Crusher",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y4qe71qm",
+    "game": "Super Street Fighter IV",
+    "player": "GutturalSlug",
+    "player_location": "tr",
+    "time": 76,
+    "category": "Arcade (3DS)",
+    "region": "EUR / PAL",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "y2e33v6y",
+    "game": "Super Street Fighter IV",
+    "player": "BERKA",
+    "player_location": "au",
+    "time": 63,
+    "category": "Arcade (3DS)",
+    "region": "EUR / PAL",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "mrrl8qdm",
+    "game": "Super Street Fighter IV",
+    "player": "Platinuminious",
+    "player_location": "cz",
+    "time": 412,
+    "category": "Arcade",
+    "region": "EUR / PAL",
+    "platform": "Xbox 360",
+    "emulated": false
+  }
+]

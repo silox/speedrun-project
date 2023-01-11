@@ -1,0 +1,79 @@
+[
+  {
+    "id": "zp8ke5xy",
+    "game": "Sonic Jam",
+    "player": "Brandino",
+    "player_location": "us",
+    "time": 3.24,
+    "category": "Full Mission",
+    "region": "USA / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "zn0g6q3y",
+    "game": "Sonic Jam",
+    "player": "KingRhodesTn",
+    "player_location": "us",
+    "time": 2.99,
+    "category": "Full Mission",
+    "region": "USA / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "y69g46jy",
+    "game": "Sonic Jam",
+    "player": "rmondello",
+    "player_location": "us",
+    "time": 430,
+    "category": "All Missions",
+    "region": "USA / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "yde445wm",
+    "game": "Sonic Jam",
+    "player": "S-TWO",
+    "player_location": "us",
+    "time": 15.8,
+    "category": "Full Mission",
+    "region": "JPN / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "yde405xm",
+    "game": "Sonic Jam",
+    "player": "Mastakirby",
+    "player_location": "us",
+    "time": 1.55,
+    "category": "Full Mission",
+    "region": "USA / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "y48dg0km",
+    "game": "Sonic Jam",
+    "player": "KinzoHoriki",
+    "player_location": "us",
+    "time": 440,
+    "category": "All Missions",
+    "region": "USA / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "zgpk84dz",
+    "game": "Sonic Jam",
+    "player": "FinnMcCool",
+    "player_location": null,
+    "time": 640,
+    "category": "All Missions",
+    "region": "USA / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  }
+]

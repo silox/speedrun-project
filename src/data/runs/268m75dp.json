@@ -1,0 +1,79 @@
+[
+  {
+    "id": "m7q11v5z",
+    "game": "Future Cop: LAPD",
+    "player": "LudwigVonKoopa",
+    "player_location": "de",
+    "time": 585,
+    "category": "Crime War",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "y4323pdz",
+    "game": "Future Cop: LAPD",
+    "player": "honorableJay",
+    "player_location": "us",
+    "time": 620,
+    "category": "Crime War",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m77no50m",
+    "game": "Future Cop: LAPD",
+    "player": "PTO",
+    "player_location": "us",
+    "time": 27.59,
+    "category": "Any Weapons",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "yj1l4e7y",
+    "game": "Future Cop: LAPD",
+    "player": "Plushy_",
+    "player_location": "gb/eng",
+    "time": 8824,
+    "category": "Precinct Assault",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "z5droogm",
+    "game": "Future Cop: LAPD",
+    "player": "Laezar",
+    "player_location": "fr",
+    "time": 732,
+    "category": "Crime War",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "yo6qo47y",
+    "game": "Future Cop: LAPD",
+    "player": "MacCloud",
+    "player_location": "gb/eng",
+    "time": 2154,
+    "category": "Crime War",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "me11vx3y",
+    "game": "Future Cop: LAPD",
+    "player": "Finalflame",
+    "player_location": "us",
+    "time": 741,
+    "category": "Crime War",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  }
+]

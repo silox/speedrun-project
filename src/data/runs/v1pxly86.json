@@ -1,0 +1,79 @@
+[
+  {
+    "id": "zp1732rz",
+    "game": "The Lord of the Rings Online",
+    "player": "sutterismine",
+    "player_location": "ca",
+    "time": 471,
+    "category": "Intro%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zqv0qe5m",
+    "game": "The Lord of the Rings Online",
+    "player": "Intharth",
+    "player_location": "gb/sct",
+    "time": 3076,
+    "category": "Levels 1-10",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zqvd4d9m",
+    "game": "The Lord of the Rings Online",
+    "player": "kubo_3000",
+    "player_location": "sk",
+    "time": 2845,
+    "category": "Levels 1-10",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y93weony",
+    "game": "The Lord of the Rings Online",
+    "player": "KoalaRuns",
+    "player_location": "de",
+    "time": 1710,
+    "category": "Intro%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y48j393m",
+    "game": "The Lord of the Rings Online",
+    "player": "WhoIsSkard",
+    "player_location": "gb/eng",
+    "time": 2522,
+    "category": "Levels 1-10",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zp9nekvm",
+    "game": "The Lord of the Rings Online",
+    "player": "buli",
+    "player_location": "us",
+    "time": 2739,
+    "category": "Levels 1-10",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "znpn3x8m",
+    "game": "The Lord of the Rings Online",
+    "player": "EpsteindintKilimzelf",
+    "player_location": null,
+    "time": 1684,
+    "category": "Intro%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

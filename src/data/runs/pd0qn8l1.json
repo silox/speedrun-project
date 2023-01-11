@@ -1,0 +1,46 @@
+[
+  {
+    "id": "z073798y",
+    "game": "",
+    "player": "Cookieman_Gaming",
+    "player_location": "us",
+    "time": 529.05,
+    "category": "Win a game",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "y200919m",
+    "game": "",
+    "player": "Thehammerman987",
+    "player_location": "au",
+    "time": 39.66,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "y6nn35pz",
+    "game": "Dick Vitale's \"Awesome Baby\" College Hoops",
+    "player": "NotNinjaJason",
+    "player_location": "au",
+    "time": 11,
+    "category": "",
+    "region": null,
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "z52jvwnz",
+    "game": "Dick Vitale's \"Awesome Baby\" College Hoops",
+    "player": "JoePulito",
+    "player_location": "us",
+    "time": 9.59,
+    "category": "Make a Basket",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  }
+]

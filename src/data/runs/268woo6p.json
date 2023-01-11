@@ -1,0 +1,90 @@
+[
+  {
+    "id": "pzgngjjy",
+    "game": "Etrian Odyssey III: The Drowned City",
+    "player": "Krimmydoodle",
+    "player_location": "us",
+    "time": 15715,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "9mek7n2m",
+    "game": "Etrian Odyssey III: The Drowned City",
+    "player": "plum",
+    "player_location": null,
+    "time": 16517,
+    "category": "Deep City Ending",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "9yo47q5m",
+    "game": "Etrian Odyssey III: The Drowned City",
+    "player": "Etoile0221",
+    "player_location": null,
+    "time": 11425,
+    "category": "Deep City Ending",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "8yvjwgoy",
+    "game": "Etrian Odyssey III: The Drowned City",
+    "player": "Rosael",
+    "player_location": "us",
+    "time": 5230,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "jy901ney",
+    "game": "Etrian Odyssey III: The Drowned City",
+    "player": "DhrGR",
+    "player_location": "nl",
+    "time": 6375,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "mr8jx5dy",
+    "game": "Etrian Odyssey III: The Drowned City",
+    "player": "maple",
+    "player_location": null,
+    "time": 6084,
+    "category": "Deep City Ending",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "zp08jnvm",
+    "game": "Etrian Odyssey III: The Drowned City",
+    "player": "Electra13x7777",
+    "player_location": "us",
+    "time": 3626,
+    "category": "NG+",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "y4g5o0ky",
+    "game": "Etrian Odyssey III: The Drowned City",
+    "player": "As_Trolo_Gy",
+    "player_location": "jp",
+    "time": 3200,
+    "category": "NG+",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "id": "emk7v63y",
+    "game": "",
+    "player": "Pathirizu",
+    "player_location": "br",
+    "time": 865,
+    "category": "Team Play",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zgn7p8ey",
+    "game": "",
+    "player": "MLOPES",
+    "player_location": "br",
+    "time": 650.66,
+    "category": "Team Play",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y8qdl4dy",
+    "game": "",
+    "player": "Trisepmaster",
+    "player_location": "mx",
+    "time": 604,
+    "category": "Team Play",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z110e1gz",
+    "game": "The King Of Fighters 2000",
+    "player": "INUQQ",
+    "player_location": "tw",
+    "time": 415.63,
+    "category": "Team Play",
+    "region": "JPN / NTSC",
+    "platform": "Neo Geo AES",
+    "emulated": true
+  },
+  {
+    "id": "zg793pdz",
+    "game": "The King Of Fighters 2000",
+    "player": "Fox-omegasurfer",
+    "player_location": "mx",
+    "time": 688,
+    "category": "Team Play",
+    "region": "USA / NTSC",
+    "platform": "PSN Download",
+    "emulated": false
+  },
+  {
+    "id": "m31q0g4z",
+    "game": "The King Of Fighters 2000",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 639.4,
+    "category": "Team Play",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "mk8w121m",
+    "game": "The King Of Fighters 2000",
+    "player": "Arkanun",
+    "player_location": "br",
+    "time": 448,
+    "category": "",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

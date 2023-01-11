@@ -1,0 +1,145 @@
+[
+  {
+    "id": "yj47n43y",
+    "game": "The Last Blade 2",
+    "player": "marco_battousai",
+    "player_location": "br",
+    "time": 435,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yj3q5xnz",
+    "game": "The Last Blade 2",
+    "player": "kenshireando",
+    "player_location": "ar",
+    "time": 325,
+    "category": "Level 4 Difficulty",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zxk08gkm",
+    "game": "The Last Blade 2",
+    "player": "Regyszord_BR",
+    "player_location": "br",
+    "time": 316,
+    "category": "Level 4 Difficulty",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y6rrj50y",
+    "game": "The Last Blade 2",
+    "player": "Maatheus_Pessoa",
+    "player_location": "br",
+    "time": 286,
+    "category": "",
+    "region": null,
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "y2x6gnwm",
+    "game": "The Last Blade 2",
+    "player": "Kaz0uya",
+    "player_location": "fr",
+    "time": 383,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y69o336y",
+    "game": "The Last Blade 2",
+    "player": "Kureina",
+    "player_location": "fr",
+    "time": 282,
+    "category": "Level 1 Difficulty",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y99lo7ky",
+    "game": "The Last Blade 2",
+    "player": "MLOPES",
+    "player_location": "br",
+    "time": 555,
+    "category": "",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "ylqjdkrz",
+    "game": "The Last Blade 2",
+    "player": "53done",
+    "player_location": "jp",
+    "time": 418,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yv1kp6oy",
+    "game": "The Last Blade 2",
+    "player": "Aggron",
+    "player_location": "co",
+    "time": 334,
+    "category": "Level 1 Difficulty",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zgg11xvz",
+    "game": "The Last Blade 2",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 423,
+    "category": "Level 1 Difficulty",
+    "region": "USA / NTSC",
+    "platform": "Neo Geo AES",
+    "emulated": true
+  },
+  {
+    "id": "zqv573xm",
+    "game": "The Last Blade 2",
+    "player": "roku_",
+    "player_location": null,
+    "time": 276,
+    "category": "Level 1 Difficulty",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z1px5l7z",
+    "game": "The Last Blade 2",
+    "player": "corlist",
+    "player_location": null,
+    "time": 397,
+    "category": "Level 8 Difficulty",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y8xp8pxm",
+    "game": "The Last Blade 2",
+    "player": "dnamen",
+    "player_location": "jp",
+    "time": 271,
+    "category": "Level 1 Difficulty",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

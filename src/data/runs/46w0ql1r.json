@@ -1,0 +1,178 @@
+[
+  {
+    "id": "yo44510m",
+    "game": "Yoshi's Cookie (GB)",
+    "player": "GreenZSaber",
+    "player_location": null,
+    "time": 2802,
+    "category": "10 Rounds",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "mk4kllly",
+    "game": "Yoshi's Cookie (GB)",
+    "player": "JoshKeys",
+    "player_location": null,
+    "time": 119.375,
+    "category": "Round 1",
+    "region": "JPN / NTSC",
+    "platform": "Super Game Boy 2",
+    "emulated": false
+  },
+  {
+    "id": "yl4nlw3m",
+    "game": "Yoshi's Cookie (GB)",
+    "player": "LoveBot",
+    "player_location": "dk",
+    "time": 175,
+    "category": "Round 1",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": false
+  },
+  {
+    "id": "z5o2rwey",
+    "game": "Yoshi's Cookie (GB)",
+    "player": "Dugongue",
+    "player_location": "us",
+    "time": 152,
+    "category": "Round 1",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "meke8v2m",
+    "game": "Yoshi's Cookie (GB)",
+    "player": "Celestial_pizza",
+    "player_location": "at",
+    "time": 155,
+    "category": "Round 1",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "zxv5vl5y",
+    "game": "Yoshi's Cookie (GB)",
+    "player": "SickMyDuck",
+    "player_location": "fr",
+    "time": 328,
+    "category": "Round 1",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "yvgwp48y",
+    "game": "Yoshi's Cookie (GB)",
+    "player": "DarQ",
+    "player_location": "ca",
+    "time": 180,
+    "category": "Round 1",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "yv34v1xz",
+    "game": "Yoshi's Cookie (GB)",
+    "player": "smartalec24",
+    "player_location": "us",
+    "time": 125.621,
+    "category": "Round 1",
+    "region": "USA / NTSC",
+    "platform": "Super Game Boy 2",
+    "emulated": false
+  },
+  {
+    "id": "z09ek99z",
+    "game": "Yoshi's Cookie (GB)",
+    "player": "petracide",
+    "player_location": null,
+    "time": 151,
+    "category": "Round 1",
+    "region": null,
+    "platform": "Super Game Boy 2",
+    "emulated": false
+  },
+  {
+    "id": "zp40gkxz",
+    "game": "Yoshi's Cookie (GB)",
+    "player": "YoBGS",
+    "player_location": "us",
+    "time": 209,
+    "category": "Round 1",
+    "region": "USA / NTSC",
+    "platform": "Super Game Boy 2",
+    "emulated": false
+  },
+  {
+    "id": "y9132rvm",
+    "game": "Yoshi's Cookie (GB)",
+    "player": "HazPlay",
+    "player_location": "ru",
+    "time": 185,
+    "category": "Round 1",
+    "region": null,
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "ylevv5xz",
+    "game": "Yoshi's Cookie (GB)",
+    "player": "konkuu",
+    "player_location": "jp",
+    "time": 103.788,
+    "category": "Round 1",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Player",
+    "emulated": false
+  },
+  {
+    "id": "y9n7jv2z",
+    "game": "Yoshi's Cookie (GB)",
+    "player": "Uncoolguy6",
+    "player_location": "us",
+    "time": 159,
+    "category": "Round 1",
+    "region": "USA / NTSC",
+    "platform": "Super Game Boy 2",
+    "emulated": true
+  },
+  {
+    "id": "zn744wlm",
+    "game": "Yoshi's Cookie (GB)",
+    "player": "pk_lag",
+    "player_location": "ca",
+    "time": 183,
+    "category": "Round 1",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Player",
+    "emulated": false
+  },
+  {
+    "id": "yd1lojwy",
+    "game": "Yoshi's Cookie (GB)",
+    "player": "Mingura666",
+    "player_location": "mx",
+    "time": 251,
+    "category": "Round 1",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "m72p6nwz",
+    "game": "Yoshi's Cookie (GB)",
+    "player": "JkLoser",
+    "player_location": "se",
+    "time": 110.619,
+    "category": "Round 1",
+    "region": null,
+    "platform": "Game Boy Color",
+    "emulated": true
+  }
+]

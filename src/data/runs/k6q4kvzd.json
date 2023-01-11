@@ -1,0 +1,46 @@
+[
+  {
+    "id": "yojk9j7m",
+    "game": "Malice",
+    "player": "Ninjasifi",
+    "player_location": null,
+    "time": 549,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Xbox",
+    "emulated": false
+  },
+  {
+    "id": "z0od9g4z",
+    "game": "Malice",
+    "player": "starlight94",
+    "player_location": "ca",
+    "time": 413,
+    "category": "Souls% (First Visit)",
+    "region": null,
+    "platform": "Xbox",
+    "emulated": false
+  },
+  {
+    "id": "mkd5vrxy",
+    "game": "Malice",
+    "player": "VG_JUNKY",
+    "player_location": "ca",
+    "time": 139,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "m3l5wpwm",
+    "game": "Malice",
+    "player": "NiceGuyDomm",
+    "player_location": "au",
+    "time": 4539,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  }
+]

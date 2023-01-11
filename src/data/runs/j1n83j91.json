@@ -1,0 +1,24 @@
+[
+  {
+    "id": "z0pl3qjy",
+    "game": "A Way To Die",
+    "player": "awaytodiestudio",
+    "player_location": "fr",
+    "time": 327,
+    "category": "Cold",
+    "region": "EUR / PAL",
+    "platform": null,
+    "emulated": false
+  },
+  {
+    "id": "zx782d5y",
+    "game": "A Way To Die",
+    "player": "GoldZook",
+    "player_location": "us",
+    "time": 400,
+    "category": "Cold",
+    "region": "USA / NTSC",
+    "platform": null,
+    "emulated": false
+  }
+]

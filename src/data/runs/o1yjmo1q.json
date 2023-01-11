@@ -1,0 +1,101 @@
+[
+  {
+    "id": "6yj5eqom",
+    "game": "inFAMOUS",
+    "player": "Tohmane",
+    "player_location": "se",
+    "time": 12415,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "yw36k4pm",
+    "game": "inFAMOUS",
+    "player": "SerSanju",
+    "player_location": "es",
+    "time": 10142,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "wzpq8xvy",
+    "game": "inFAMOUS",
+    "player": "slayerkid13",
+    "player_location": "ca",
+    "time": 23956,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "dy41123y",
+    "game": "inFAMOUS",
+    "player": "Ukebae",
+    "player_location": "us",
+    "time": 16761,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "9mr61w2m",
+    "game": "inFAMOUS",
+    "player": "SROVRSTRM",
+    "player_location": "us",
+    "time": 13483,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "emkq7qvm",
+    "game": "inFAMOUS",
+    "player": "EmeraldAly",
+    "player_location": "us",
+    "time": 12390,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "dy48npqm",
+    "game": "inFAMOUS",
+    "player": "DPadGamer",
+    "player_location": "us",
+    "time": 11591,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "ywkxvj3y",
+    "game": "inFAMOUS",
+    "player": "GooseTheMovie",
+    "player_location": "us",
+    "time": 16551,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "yop373jm",
+    "game": "inFAMOUS",
+    "player": "spookmatic",
+    "player_location": "us",
+    "time": 10898,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "yw4l3p2z",
+    "game": "Milon's Secret Castle (GB)",
+    "player": "JayFromNowhere",
+    "player_location": "us",
+    "time": 678,
+    "category": "Any%",
+    "region": null,
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "z579xkgm",
+    "game": "Milon's Secret Castle (GB)",
+    "player": "DJToneRI",
+    "player_location": "us",
+    "time": 1066,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Player",
+    "emulated": false
+  }
+]

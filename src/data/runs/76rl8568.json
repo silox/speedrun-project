@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1zq989ry",
+    "game": "",
+    "player": "Knight_of_Hylia",
+    "player_location": "us",
+    "time": 21408,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "z016wnjy",
+    "game": "",
+    "player": "dynomation4",
+    "player_location": "us",
+    "time": 13846,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "yo2pqrdz",
+    "game": "Freshly-Picked: Tingle's Rosy Rupeeland",
+    "player": "Gohma11",
+    "player_location": "de",
+    "time": 15874,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "y6llo5jy",
+    "game": "Freshly-Picked: Tingle's Rosy Rupeeland",
+    "player": "Locke",
+    "player_location": "us",
+    "time": 14173,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  }
+]

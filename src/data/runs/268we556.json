@@ -1,0 +1,90 @@
+[
+  {
+    "id": "z5rrneey",
+    "game": "Super Mario 3D World + Bowser's Fury ROM Hacks",
+    "player": "Puffffyyyy",
+    "player_location": "us",
+    "time": 49,
+    "category": "Normal",
+    "region": null,
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "mr12k18z",
+    "game": "Super Mario 3D World + Bowser's Fury ROM Hacks",
+    "player": "QRL_Storm",
+    "player_location": "gb/eng",
+    "time": 1623,
+    "category": "",
+    "region": null,
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "zp22ddgy",
+    "game": "Super Mario 3D World + Bowser's Fury ROM Hacks",
+    "player": "YoShi4",
+    "player_location": "kr",
+    "time": 43,
+    "category": "Normal",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": true
+  },
+  {
+    "id": "m7wqvlwz",
+    "game": "Super Mario 3D World + Bowser's Fury ROM Hacks",
+    "player": "josuray",
+    "player_location": "us",
+    "time": 7160,
+    "category": "Randomizer",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": true
+  },
+  {
+    "id": "yler5kxz",
+    "game": "Super Mario 3D World + Bowser's Fury ROM Hacks",
+    "player": "Nintensive",
+    "player_location": "ae",
+    "time": 45,
+    "category": "Normal",
+    "region": "EUR / PAL",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "zq7730rm",
+    "game": "Super Mario 3D World + Bowser's Fury ROM Hacks",
+    "player": "peroxidedrinker71",
+    "player_location": "no",
+    "time": 4935,
+    "category": "Any% Starless",
+    "region": null,
+    "platform": "Switch",
+    "emulated": true
+  },
+  {
+    "id": "y4x18xkz",
+    "game": "Super Mario 3D World + Bowser's Fury ROM Hacks",
+    "player": "Mizumaririn",
+    "player_location": "hk",
+    "time": 6200,
+    "category": "Randomizer",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": true
+  },
+  {
+    "id": "ydg39jwy",
+    "game": "Super Mario 3D World + Bowser's Fury ROM Hacks",
+    "player": "Glennjamin",
+    "player_location": "us",
+    "time": 4450,
+    "category": "Any% Starless",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": true
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "6yjknx7m",
+    "game": "",
+    "player": "Etoile0221",
+    "player_location": null,
+    "time": 14383,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "2ywp1qnz",
+    "game": "",
+    "player": "\u30a4\u30ed\u30a4",
+    "player_location": null,
+    "time": 13018,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "yvj7ol4y",
+    "game": "",
+    "player": "PinkPajamas",
+    "player_location": "us",
+    "time": 17034,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  }
+]

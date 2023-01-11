@@ -1,0 +1,24 @@
+[
+  {
+    "id": "zgx2jrvm",
+    "game": "",
+    "player": "WaffleFoxBrie",
+    "player_location": "us",
+    "time": 1218,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": true
+  },
+  {
+    "id": "y9620vvy",
+    "game": "",
+    "player": "JasonM79",
+    "player_location": "us",
+    "time": 1728,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  }
+]

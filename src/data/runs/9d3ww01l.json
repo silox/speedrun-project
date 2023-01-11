@@ -1,0 +1,46 @@
+[
+  {
+    "id": "6yjk2wgm",
+    "game": "Adventures of Lolo 2",
+    "player": "rdrunner",
+    "player_location": null,
+    "time": 1754,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "z11n3djz",
+    "game": "Adventures of Lolo 2",
+    "player": "bentglasstube",
+    "player_location": "us",
+    "time": 1980,
+    "category": "Any%",
+    "region": null,
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zxd094gy",
+    "game": "Adventures of Lolo 2",
+    "player": "Rayeo",
+    "player_location": "us",
+    "time": 1437,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "znqpnv9z",
+    "game": "Adventures of Lolo 2",
+    "player": "ArkanoidAddict",
+    "player_location": "fi",
+    "time": 55781,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  }
+]

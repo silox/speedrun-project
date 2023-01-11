@@ -1,0 +1,123 @@
+[
+  {
+    "id": "yvg2jxey",
+    "game": "Side Pocket",
+    "player": "JimothyJimJam",
+    "player_location": null,
+    "time": 402.21,
+    "category": "Trick Pool [SNES]",
+    "region": null,
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "zxv6p5ey",
+    "game": "Side Pocket",
+    "player": "PacnyTHuk",
+    "player_location": "ru",
+    "time": 228.89,
+    "category": "",
+    "region": null,
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "znr9pjly",
+    "game": "Side Pocket",
+    "player": "Laww",
+    "player_location": "br",
+    "time": 369,
+    "category": "Trick Pool [SNES]",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "z1j7wnwz",
+    "game": "Side Pocket",
+    "player": "leandrom90",
+    "player_location": "br",
+    "time": 644,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "yw4oow2z",
+    "game": "Side Pocket",
+    "player": "Triple_Kill",
+    "player_location": "br",
+    "time": 363.038,
+    "category": "Trick Pool [SNES]",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "mrepdkgy",
+    "game": "Side Pocket",
+    "player": "LucasFidelis1",
+    "player_location": "br",
+    "time": 303.013,
+    "category": "Trick Pool [SNES]",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "z1rqdxjm",
+    "game": "Side Pocket",
+    "player": "Adriel_Isaque",
+    "player_location": "br",
+    "time": 254.1,
+    "category": "Trick Pool [SNES]",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "mexq1g9z",
+    "game": "Side Pocket",
+    "player": "SerGameTV",
+    "player_location": "ru",
+    "time": 445.69,
+    "category": "Trick Pool [Genesis]",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "mk84njvm",
+    "game": "Side Pocket",
+    "player": "Taverna66",
+    "player_location": "br",
+    "time": 401.008,
+    "category": "Trick Pool [SNES]",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "me76k2qy",
+    "game": "Side Pocket",
+    "player": "dj4ircss",
+    "player_location": "br",
+    "time": 265.068,
+    "category": "Trick Pool [SNES]",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "yor5141y",
+    "game": "Side Pocket",
+    "player": "Charlie9631",
+    "player_location": "us",
+    "time": 574.13,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  }
+]

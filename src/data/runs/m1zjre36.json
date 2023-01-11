@@ -1,0 +1,57 @@
+[
+  {
+    "id": "mr7wj22z",
+    "game": "Monopoly: Spongebob Squarepants Edition",
+    "player": "Cas_A",
+    "player_location": "us",
+    "time": 293,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mr4619dz",
+    "game": "Monopoly: Spongebob Squarepants Edition",
+    "player": "Joshton22",
+    "player_location": "us",
+    "time": 886,
+    "category": "Monopoly Rules",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z1p0d47z",
+    "game": "Monopoly: Spongebob Squarepants Edition",
+    "player": "Tac0",
+    "player_location": "aq",
+    "time": 270,
+    "category": "Monopoly Rules",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y9v71vvm",
+    "game": "Monopoly: Spongebob Squarepants Edition",
+    "player": "TheLaggingGamer",
+    "player_location": "us",
+    "time": 1992,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yvr7d7oz",
+    "game": "Monopoly: Spongebob Squarepants Edition",
+    "player": "yoke_",
+    "player_location": null,
+    "time": 359,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

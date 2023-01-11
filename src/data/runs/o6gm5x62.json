@@ -1,0 +1,46 @@
+[
+  {
+    "id": "zx7xq5ky",
+    "game": "Block Story",
+    "player": "Audiokillers",
+    "player_location": "us",
+    "time": 12.36,
+    "category": "Kill Dragon Lord Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yw38nxpm",
+    "game": "Block Story",
+    "player": "julian_gamer",
+    "player_location": "us",
+    "time": 51.058,
+    "category": "Kill Dragon Lord Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zgpo2ddz",
+    "game": "Block Story",
+    "player": "VladMegaPlay",
+    "player_location": "ru",
+    "time": 27.39,
+    "category": "Kill Dragon Lord Any%",
+    "region": null,
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "y9x7rdry",
+    "game": "Block Story",
+    "player": "Lumpology",
+    "player_location": "ca",
+    "time": 6,
+    "category": "Death ASAP",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

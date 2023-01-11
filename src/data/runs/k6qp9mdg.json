@@ -1,0 +1,101 @@
+[
+  {
+    "id": "y6p51kpm",
+    "game": "Cars (GBA)",
+    "player": "Jerk",
+    "player_location": "it",
+    "time": 1,
+    "category": "Glitched / Credits Warp",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "6yjk0kdm",
+    "game": "Cars (GBA)",
+    "player": "Dugongue",
+    "player_location": "us",
+    "time": 109.1,
+    "category": "Vehicle: Chick",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "yw474r0z",
+    "game": "Cars (GBA)",
+    "player": "emrald",
+    "player_location": "gb/eng",
+    "time": 112.6,
+    "category": "Vehicle: Chick",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Advance",
+    "emulated": false
+  },
+  {
+    "id": "1zx1e25y",
+    "game": "Cars (GBA)",
+    "player": "NicoPlaysThings",
+    "player_location": "ca/qc",
+    "time": 107.9,
+    "category": "Vehicle: Chick",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": false
+  },
+  {
+    "id": "y8qn9qny",
+    "game": "Cars (GBA)",
+    "player": "SickMyDuck",
+    "player_location": "fr",
+    "time": 157,
+    "category": "Vehicle: Other",
+    "region": null,
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "m7qp63ez",
+    "game": "Cars (GBA)",
+    "player": "angodotcpp",
+    "player_location": null,
+    "time": 2332,
+    "category": "All Races%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "yd5jr6vm",
+    "game": "Cars (GBA)",
+    "player": "Seppe",
+    "player_location": "be",
+    "time": 50.4,
+    "category": "Vehicle: Chick",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Advance",
+    "emulated": false
+  },
+  {
+    "id": "meo1pr2z",
+    "game": "Cars (GBA)",
+    "player": "Daniel_1RD",
+    "player_location": "dk",
+    "time": 2194,
+    "category": "Chick%",
+    "region": null,
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "mej04r8y",
+    "game": "Cars (GBA)",
+    "player": "yedi",
+    "player_location": null,
+    "time": 109.6,
+    "category": "Vehicle: Chick",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  }
+]

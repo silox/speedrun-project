@@ -1,0 +1,101 @@
+[
+  {
+    "id": "zgnjdkjy",
+    "game": "",
+    "player": "Moelle",
+    "player_location": "be",
+    "time": 476,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": false
+  },
+  {
+    "id": "mekqlw9m",
+    "game": "",
+    "player": "grannen_hiro",
+    "player_location": "se",
+    "time": 463,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": false
+  },
+  {
+    "id": "mr8dl27y",
+    "game": "",
+    "player": "infinitemystery",
+    "player_location": null,
+    "time": 1577,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Game Boy 2",
+    "emulated": false
+  },
+  {
+    "id": "y2q8k8wy",
+    "game": "Battle Unit Zeoth",
+    "player": "Atroz",
+    "player_location": "us",
+    "time": 455,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "z034w4jz",
+    "game": "Battle Unit Zeoth",
+    "player": "smartalec24",
+    "player_location": "us",
+    "time": 458,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Game Boy 2",
+    "emulated": false
+  },
+  {
+    "id": "y4w83oqm",
+    "game": "Battle Unit Zeoth",
+    "player": "SerSanju",
+    "player_location": "es",
+    "time": 456,
+    "category": "Any%",
+    "region": null,
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "z05o5rom",
+    "game": "Battle Unit Zeoth",
+    "player": "Maiguels",
+    "player_location": "es",
+    "time": 471,
+    "category": "Any%",
+    "region": null,
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "zgxkqxnm",
+    "game": "Battle Unit Zeoth",
+    "player": "JuegAriel",
+    "player_location": "es",
+    "time": 463,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "ywkveg9y",
+    "game": "Battle Unit Zeoth",
+    "player": "beerfullofbelly",
+    "player_location": "us",
+    "time": 459,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Game Boy 2",
+    "emulated": false
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "z51kk5gm",
+    "game": "",
+    "player": "Peanutfan22",
+    "player_location": "us",
+    "time": 2012,
+    "category": "Tournament Play",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "m31gdrdz",
+    "game": "",
+    "player": "NihilistComedyHour",
+    "player_location": "eo",
+    "time": 1813,
+    "category": "Tournament Play",
+    "region": "JPN / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "m354grqy",
+    "game": "",
+    "player": "Nwright",
+    "player_location": "us",
+    "time": 1978,
+    "category": "Tournament Play",
+    "region": null,
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "mk53d11m",
+    "game": "True Golf Classics: Waialae Country Club",
+    "player": "webz80",
+    "player_location": "au",
+    "time": 1252,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "zn1d2pvm",
+    "game": "True Golf Classics: Waialae Country Club",
+    "player": "NESAtlas",
+    "player_location": "us",
+    "time": 1279,
+    "category": "Stroke Play",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  }
+]

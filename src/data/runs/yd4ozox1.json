@@ -1,0 +1,46 @@
+[
+  {
+    "id": "y89874dm",
+    "game": "Titeuf Mega Compet",
+    "player": "BellumZeldaDS",
+    "player_location": "jp",
+    "time": 0.015,
+    "category": "Mini games Highscore",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zprw4wrm",
+    "game": "Titeuf Mega Compet",
+    "player": "Hexaspray",
+    "player_location": "fr",
+    "time": 945,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "yoke1pdz",
+    "game": "Titeuf Mega Compet",
+    "player": "SuperGiangio",
+    "player_location": "fr",
+    "time": 25.34,
+    "category": "Easy",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "z5v19wdm",
+    "game": "Titeuf Mega Compet",
+    "player": "GCSTAR",
+    "player_location": "fr",
+    "time": 0.1,
+    "category": "Mini games Highscore",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  }
+]

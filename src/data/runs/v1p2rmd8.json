@@ -1,0 +1,101 @@
+[
+  {
+    "id": "zn80x18z",
+    "game": "",
+    "player": "Moelle",
+    "player_location": "be",
+    "time": 777,
+    "category": "Easy Mode",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": false
+  },
+  {
+    "id": "z0ek269m",
+    "game": "",
+    "player": "Retro_Omega",
+    "player_location": null,
+    "time": 1000,
+    "category": "Easy Mode",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "y81x2o5z",
+    "game": "",
+    "player": "Atroz",
+    "player_location": "us",
+    "time": 669,
+    "category": "Easy Mode",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "y956rqrz",
+    "game": "R-Type II (GB)",
+    "player": "smartalec24",
+    "player_location": "us",
+    "time": 684,
+    "category": "Easy Mode",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": false
+  },
+  {
+    "id": "y810e8xz",
+    "game": "R-Type II (GB)",
+    "player": "giygasblues",
+    "player_location": null,
+    "time": 791,
+    "category": "Easy Mode",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": false
+  },
+  {
+    "id": "y6l1vj1y",
+    "game": "R-Type II (GB)",
+    "player": "infinitemystery",
+    "player_location": null,
+    "time": 1215,
+    "category": "Easy Mode",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": false
+  },
+  {
+    "id": "mk3041vz",
+    "game": "R-Type II (GB)",
+    "player": "NeetSuhiro",
+    "player_location": "jp",
+    "time": 666,
+    "category": "Easy Mode",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy",
+    "emulated": false
+  },
+  {
+    "id": "mr124o4z",
+    "game": "R-Type II (GB)",
+    "player": "JuegAriel",
+    "player_location": "es",
+    "time": 669,
+    "category": "Easy Mode",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "y4q8xrkm",
+    "game": "R-Type II (GB)",
+    "player": "chiteiro1",
+    "player_location": "br",
+    "time": 666,
+    "category": "Easy Mode",
+    "region": null,
+    "platform": "Game Boy",
+    "emulated": true
+  }
+]

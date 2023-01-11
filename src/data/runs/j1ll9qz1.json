@@ -1,0 +1,134 @@
+[
+  {
+    "id": "y435vddz",
+    "game": "The New Chessmaster (GB)",
+    "player": "WolfMerrik",
+    "player_location": "us",
+    "time": 13.29,
+    "category": "Newcomer 1",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "m7p9e0wm",
+    "game": "The New Chessmaster (GB)",
+    "player": "smartalec24",
+    "player_location": "us",
+    "time": 13.37,
+    "category": "Newcomer 1",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": false
+  },
+  {
+    "id": "zx4q565y",
+    "game": "The New Chessmaster (GB)",
+    "player": "NihilistComedyHour",
+    "player_location": "eo",
+    "time": 58.17,
+    "category": "Newcomer 1",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "y21qj85z",
+    "game": "The New Chessmaster (GB)",
+    "player": "YoBGS",
+    "player_location": "us",
+    "time": 29.352,
+    "category": "Newcomer 1",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": false
+  },
+  {
+    "id": "yd6d460z",
+    "game": "The New Chessmaster (GB)",
+    "player": "ShesChardcore",
+    "player_location": "us",
+    "time": 13.133,
+    "category": "Newcomer 1",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "m35256qy",
+    "game": "The New Chessmaster (GB)",
+    "player": "MortimerNova",
+    "player_location": "us",
+    "time": 15.133,
+    "category": "Newcomer 1",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "z5r7plny",
+    "game": "The New Chessmaster (GB)",
+    "player": "eat28",
+    "player_location": "kr",
+    "time": 12.833,
+    "category": "Newcomer 1",
+    "region": null,
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "m7drxg9m",
+    "game": "The New Chessmaster (GB)",
+    "player": "elijah",
+    "player_location": "us",
+    "time": 12.7,
+    "category": "Newcomer 1",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "yorl6p0y",
+    "game": "The New Chessmaster (GB)",
+    "player": "Vu16",
+    "player_location": "ca/qc",
+    "time": 15.7,
+    "category": "Newcomer 1",
+    "region": null,
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "zxlrx0gz",
+    "game": "The New Chessmaster (GB)",
+    "player": "ShinDigPig",
+    "player_location": "us",
+    "time": 14.683,
+    "category": "Newcomer 1",
+    "region": null,
+    "platform": "Game Boy",
+    "emulated": false
+  },
+  {
+    "id": "yv8j32em",
+    "game": "The New Chessmaster (GB)",
+    "player": "DarthTyrael",
+    "player_location": "us",
+    "time": 12.85,
+    "category": "Newcomer 1",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "m3ln37qm",
+    "game": "The New Chessmaster (GB)",
+    "player": "JoePulito",
+    "player_location": "us",
+    "time": 13.784,
+    "category": "Newcomer 1",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  }
+]

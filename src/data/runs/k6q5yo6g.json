@@ -1,0 +1,35 @@
+[
+  {
+    "id": "yvgwpp4y",
+    "game": "Poy Poy 2",
+    "player": "KarhuTheBear",
+    "player_location": "fi",
+    "time": 1582,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "zn4wq3lm",
+    "game": "Poy Poy 2",
+    "player": "theurnator",
+    "player_location": "br",
+    "time": 1620,
+    "category": "Poy Poy Champion Any %",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zp873g8y",
+    "game": "Poy Poy 2",
+    "player": "TheOldGreyWistleTest",
+    "player_location": "gb",
+    "time": 1871,
+    "category": "Poy Poy Champion Any %",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  }
+]

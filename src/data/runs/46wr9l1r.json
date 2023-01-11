@@ -1,0 +1,24 @@
+[
+  {
+    "id": "meox5jqz",
+    "game": "Combat of Giants: Dinosaurs",
+    "player": "Tarsinge",
+    "player_location": "fr",
+    "time": 5808,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "m7d8lkem",
+    "game": "Combat of Giants: Dinosaurs",
+    "player": "Polonxy",
+    "player_location": "ca",
+    "time": 5135,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  }
+]

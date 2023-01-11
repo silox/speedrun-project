@@ -1,0 +1,90 @@
+[
+  {
+    "id": "zxvqnlky",
+    "game": "Metroid: Rogue Dawn",
+    "player": "SacredHooves",
+    "player_location": null,
+    "time": 1385.027,
+    "category": "All Bosses: NMG",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "ywpwnqnz",
+    "game": "Metroid: Rogue Dawn",
+    "player": "Frozencup",
+    "player_location": "us",
+    "time": 1197,
+    "category": "Save n Quit",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "zp4envnz",
+    "game": "Metroid: Rogue Dawn",
+    "player": "SpiderWaffle",
+    "player_location": null,
+    "time": 532,
+    "category": "Any%",
+    "region": null,
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "zgv8n6dz",
+    "game": "Metroid: Rogue Dawn",
+    "player": "Sapphron",
+    "player_location": "us",
+    "time": 1317,
+    "category": "All Bosses: NMG",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "m3513d6y",
+    "game": "Metroid: Rogue Dawn",
+    "player": "TheGreatPikminZX789",
+    "player_location": "us",
+    "time": 1441.014,
+    "category": "All Bosses: NMG",
+    "region": null,
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "y66gd36y",
+    "game": "Metroid: Rogue Dawn",
+    "player": "MetroidMst",
+    "player_location": "us",
+    "time": 1138.55,
+    "category": "All Bosses: NMG",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "z1pnqogz",
+    "game": "Metroid: Rogue Dawn",
+    "player": "Dragondarch",
+    "player_location": "us",
+    "time": 2445,
+    "category": "100%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zp9ek6vm",
+    "game": "Metroid: Rogue Dawn",
+    "player": "Stunt_MK",
+    "player_location": "us",
+    "time": 1256,
+    "category": "All Bosses: NMG",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  }
+]

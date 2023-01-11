@@ -1,0 +1,167 @@
+[
+  {
+    "id": "7z0kr78m",
+    "game": "Donkey Kong Country 2 (GBA)",
+    "player": "Avanor_",
+    "player_location": "de",
+    "time": 673,
+    "category": "True Ending",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "emkn543m",
+    "game": "Donkey Kong Country 2 (GBA)",
+    "player": "Joe_",
+    "player_location": "us",
+    "time": 63,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "oy2kejjy",
+    "game": "Donkey Kong Country 2 (GBA)",
+    "player": "SirPudge",
+    "player_location": "us",
+    "time": 4637,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "6yjv4pdy",
+    "game": "Donkey Kong Country 2 (GBA)",
+    "player": "Sir_Zylo",
+    "player_location": "de",
+    "time": 68,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "m799gj5y",
+    "game": "Donkey Kong Country 2 (GBA)",
+    "player": "Thanatoast01",
+    "player_location": "us",
+    "time": 49.4,
+    "category": "Any% Warpless",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "yv34pqez",
+    "game": "Donkey Kong Country 2 (GBA)",
+    "player": "Snodeca",
+    "player_location": "be",
+    "time": 10.47,
+    "category": "Diddy's Dash",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "yok4427z",
+    "game": "Donkey Kong Country 2 (GBA)",
+    "player": "joedoesthehula",
+    "player_location": "ca/qc",
+    "time": 44.83,
+    "category": "Diddy's Dash",
+    "region": null,
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "yv270k4m",
+    "game": "Donkey Kong Country 2 (GBA)",
+    "player": "SDM1896",
+    "player_location": "ca",
+    "time": 8.43,
+    "category": "Diddy's Dash",
+    "region": null,
+    "platform": "Game Boy Advance",
+    "emulated": false
+  },
+  {
+    "id": "y66q5kpy",
+    "game": "Donkey Kong Country 2 (GBA)",
+    "player": "stoic_rose",
+    "player_location": "us",
+    "time": 19.783,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "m3rx9kqm",
+    "game": "Donkey Kong Country 2 (GBA)",
+    "player": "shikuhaku005",
+    "player_location": "jp",
+    "time": 58.749,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": false
+  },
+  {
+    "id": "z0rlg6jz",
+    "game": "Donkey Kong Country 2 (GBA)",
+    "player": "Yoshiabel",
+    "player_location": "es/ct",
+    "time": 21.389,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "z0ox65ez",
+    "game": "Donkey Kong Country 2 (GBA)",
+    "player": "thenesmaster",
+    "player_location": "mx",
+    "time": 15333,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Interface",
+    "emulated": false
+  },
+  {
+    "id": "zgpxelvz",
+    "game": "Donkey Kong Country 2 (GBA)",
+    "player": "MozzarellaCheez",
+    "player_location": "us",
+    "time": 3345,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "m76wld5y",
+    "game": "Donkey Kong Country 2 (GBA)",
+    "player": "Niamek",
+    "player_location": "ca",
+    "time": 7745,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "y4gwopdy",
+    "game": "Donkey Kong Country 2 (GBA)",
+    "player": "Andry66power",
+    "player_location": "it",
+    "time": 4860,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  }
+]

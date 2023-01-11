@@ -1,0 +1,46 @@
+[
+  {
+    "id": "zp4lenxz",
+    "game": "Chi Chi's Pro Challenge Golf",
+    "player": "NihilistComedyHour",
+    "player_location": "eo",
+    "time": 1394,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "zx2g8qem",
+    "game": "Chi Chi's Pro Challenge Golf",
+    "player": "Peanutfan22",
+    "player_location": "us",
+    "time": 1943,
+    "category": "Stroke",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "m7x51e9y",
+    "game": "Chi Chi's Pro Challenge Golf",
+    "player": "Fioresa",
+    "player_location": "us",
+    "time": 1018,
+    "category": "Stroke",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "yj8j6l7m",
+    "game": "Chi Chi's Pro Challenge Golf",
+    "player": "NESAtlas",
+    "player_location": "us",
+    "time": 915,
+    "category": "Stroke",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  }
+]

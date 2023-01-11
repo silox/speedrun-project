@@ -1,0 +1,24 @@
+[
+  {
+    "id": "y2qqjxwy",
+    "game": "Revenge of the Titans",
+    "player": "Babouney",
+    "player_location": "fr",
+    "time": 424.96,
+    "category": "Planets",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y42gg2dm",
+    "game": "Revenge of the Titans",
+    "player": "Cybird0099",
+    "player_location": "us",
+    "time": 359.07,
+    "category": "Planets",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "z11dv37z",
+    "game": "Phantom Fighter",
+    "player": "99er",
+    "player_location": "ca",
+    "time": 3108,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "yjl08o3z",
+    "game": "Phantom Fighter",
+    "player": "crashingbang",
+    "player_location": "us",
+    "time": 2973,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "me4xqnqy",
+    "game": "Phantom Fighter",
+    "player": "BUGHONEY",
+    "player_location": "jp",
+    "time": 2208,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "yv1drgoy",
+    "game": "Phantom Fighter",
+    "player": "Reabs",
+    "player_location": "us",
+    "time": 2297,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "id": "wzpplqvz",
+    "game": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "player": "Eiterial",
+    "player_location": "us",
+    "time": 90,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "wzpogvgm",
+    "game": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "player": "eG-",
+    "player_location": null,
+    "time": 150,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "y6702jqm",
+    "game": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "player": "Scarrien",
+    "player_location": "us",
+    "time": 6927,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "y97j30rm",
+    "game": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "player": "gamingguy63",
+    "player_location": "us",
+    "time": 78,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "zp4n2nnz",
+    "game": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "player": "BertSasquatch",
+    "player_location": "us",
+    "time": 209,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "yvjxp7ey",
+    "game": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "player": "karionyte",
+    "player_location": null,
+    "time": 17848,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "zg70nwvz",
+    "game": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "player": "Y@",
+    "player_location": null,
+    "time": 614,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "z01w2d8y",
+    "game": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "player": "Timebones",
+    "player_location": null,
+    "time": 13177,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "zgr0e20m",
+    "game": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "player": "KaeZee",
+    "player_location": "us",
+    "time": 4937,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "z05o8r8m",
+    "game": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 127,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "zn3xd49y",
+    "game": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "player": "Medmed",
+    "player_location": "ru",
+    "time": 65,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mr1og3gz",
+    "game": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "player": "DM_A",
+    "player_location": "it",
+    "time": 8878,
+    "category": "100%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zn0xg4ly",
+    "game": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "player": "Ri2dlox",
+    "player_location": "fr",
+    "time": 5894,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "GameCube",
+    "emulated": true
+  }
+]

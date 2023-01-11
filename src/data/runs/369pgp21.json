@@ -1,0 +1,101 @@
+[
+  {
+    "id": "zn47opvm",
+    "game": "Assault Spy",
+    "player": "PvtCb",
+    "player_location": "us",
+    "time": 7471,
+    "category": "Asaru",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zn4729vm",
+    "game": "Assault Spy",
+    "player": "madlib",
+    "player_location": null,
+    "time": 3496,
+    "category": "Asaru",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z03n3woz",
+    "game": "Assault Spy",
+    "player": "Tetsuo9999",
+    "player_location": "us",
+    "time": 4026,
+    "category": "",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y21kol7z",
+    "game": "Assault Spy",
+    "player": "DECosmic",
+    "player_location": "us",
+    "time": 785,
+    "category": "",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z15rj0ry",
+    "game": "Assault Spy",
+    "player": "DJ-YMH",
+    "player_location": "cn",
+    "time": 4097,
+    "category": "Asaru",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z0o792jz",
+    "game": "Assault Spy",
+    "player": "HiST",
+    "player_location": "jp",
+    "time": 2936,
+    "category": "Asaru",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zp8q02gy",
+    "game": "Assault Spy",
+    "player": "240ccky",
+    "player_location": "jp",
+    "time": 3240,
+    "category": "Asaru",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yo6o3qjy",
+    "game": "Assault Spy",
+    "player": "yos4",
+    "player_location": "jp",
+    "time": 2947,
+    "category": "Asaru",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m76xnoey",
+    "game": "Assault Spy",
+    "player": "YAK0306",
+    "player_location": "jp",
+    "time": 2637,
+    "category": "Amelia",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

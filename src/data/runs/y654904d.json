@@ -1,0 +1,57 @@
+[
+  {
+    "id": "zq0ed48y",
+    "game": "Story of Seasons: Pioneers of Olive Town",
+    "player": "Demo",
+    "player_location": "us",
+    "time": 3778,
+    "category": "Marriage",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "ydro480z",
+    "game": "Story of Seasons: Pioneers of Olive Town",
+    "player": "dreamermrcds",
+    "player_location": "ie",
+    "time": 5148,
+    "category": "Marriage",
+    "region": "EUR / PAL",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "y4r281kz",
+    "game": "Story of Seasons: Pioneers of Olive Town",
+    "player": "Sam_Van_Dam",
+    "player_location": "us",
+    "time": 5207,
+    "category": "Marriage",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "m37w0kdz",
+    "game": "Story of Seasons: Pioneers of Olive Town",
+    "player": "MisterStealYourGil",
+    "player_location": "us",
+    "time": 4023,
+    "category": "Marriage",
+    "region": "CHN / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y4qj443m",
+    "game": "Story of Seasons: Pioneers of Olive Town",
+    "player": "Cordulius",
+    "player_location": "fr",
+    "time": 7620,
+    "category": "Marriage",
+    "region": "EUR / PAL",
+    "platform": "Switch",
+    "emulated": false
+  }
+]

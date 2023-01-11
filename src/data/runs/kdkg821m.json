@@ -1,0 +1,35 @@
+[
+  {
+    "id": "dy4kkpnm",
+    "game": "",
+    "player": "Riverwind",
+    "player_location": "es",
+    "time": 979.87,
+    "category": "Any %",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "y239vq6m",
+    "game": "",
+    "player": "Jorf",
+    "player_location": "ca",
+    "time": 837,
+    "category": "Any %",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "zx6dl75z",
+    "game": "",
+    "player": "smartalec24",
+    "player_location": "us",
+    "time": 1004,
+    "category": "Any %",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  }
+]

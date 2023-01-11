@@ -1,0 +1,156 @@
+[
+  {
+    "id": "zq3xwjry",
+    "game": "Sword of the Berserk: Guts' Rage",
+    "player": "WMJ",
+    "player_location": "nl",
+    "time": 1281,
+    "category": "Very Easy",
+    "region": "JPN / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "7z02nv9m",
+    "game": "Sword of the Berserk: Guts' Rage",
+    "player": "Naegleria",
+    "player_location": "ca",
+    "time": 1768,
+    "category": "Very Easy",
+    "region": "JPN / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "jy9rex2y",
+    "game": "Sword of the Berserk: Guts' Rage",
+    "player": "joncwl",
+    "player_location": "gb/eng",
+    "time": 1473,
+    "category": "Very Easy",
+    "region": "JPN / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  },
+  {
+    "id": "y8q12jdy",
+    "game": "Sword of the Berserk: Guts' Rage",
+    "player": "KaitoJinn",
+    "player_location": "gb/sct",
+    "time": 1530,
+    "category": "Very Easy",
+    "region": "JPN / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  },
+  {
+    "id": "zgneoo0y",
+    "game": "Sword of the Berserk: Guts' Rage",
+    "player": "Aggrojag",
+    "player_location": "us",
+    "time": 1399,
+    "category": "Very Easy",
+    "region": "JPN / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  },
+  {
+    "id": "zn89w6vz",
+    "game": "Sword of the Berserk: Guts' Rage",
+    "player": "Nordanix",
+    "player_location": "se",
+    "time": 1111,
+    "category": "Very Easy",
+    "region": "JPN / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  },
+  {
+    "id": "m31ng06z",
+    "game": "Sword of the Berserk: Guts' Rage",
+    "player": "RuSyxx",
+    "player_location": "us",
+    "time": 1449,
+    "category": "Very Easy",
+    "region": "JPN / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  },
+  {
+    "id": "yjp3kody",
+    "game": "Sword of the Berserk: Guts' Rage",
+    "player": "josueuler",
+    "player_location": "mx",
+    "time": 1386,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  },
+  {
+    "id": "y8r98x5m",
+    "game": "Sword of the Berserk: Guts' Rage",
+    "player": "Rossinberg",
+    "player_location": "us",
+    "time": 955,
+    "category": "Very Easy",
+    "region": "JPN / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  },
+  {
+    "id": "yo9lxo0y",
+    "game": "Sword of the Berserk: Guts' Rage",
+    "player": "royalistkaw",
+    "player_location": "gb/eng",
+    "time": 11073,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  },
+  {
+    "id": "zgdn820z",
+    "game": "Sword of the Berserk: Guts' Rage",
+    "player": "nubzombie",
+    "player_location": "us",
+    "time": 2282,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  },
+  {
+    "id": "z0ov048z",
+    "game": "Sword of the Berserk: Guts' Rage",
+    "player": "CenarioParente",
+    "player_location": "br",
+    "time": 1968,
+    "category": "Easy",
+    "region": null,
+    "platform": "Dreamcast",
+    "emulated": true
+  },
+  {
+    "id": "zx8nv08m",
+    "game": "Sword of the Berserk: Guts' Rage",
+    "player": "Kaz0uya",
+    "player_location": "fr",
+    "time": 1702,
+    "category": "Very Easy",
+    "region": "JPN / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  },
+  {
+    "id": "me1dw43y",
+    "game": "Sword of the Berserk: Guts' Rage",
+    "player": "MustardBeef",
+    "player_location": "us",
+    "time": 1569,
+    "category": "Normal",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  }
+]

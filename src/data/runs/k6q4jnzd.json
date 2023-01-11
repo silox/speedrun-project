@@ -1,0 +1,68 @@
+[
+  {
+    "id": "z1jjqwwz",
+    "game": "Minecraft: Story Mode - Season Two",
+    "player": "JHolleworth",
+    "player_location": "gb/eng",
+    "time": 4051,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yd60o4jz",
+    "game": "Minecraft: Story Mode - Season Two",
+    "player": "TheRedstoneMM",
+    "player_location": "cn",
+    "time": 4268,
+    "category": "Any%",
+    "region": "CHN / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y2dnk05z",
+    "game": "Minecraft: Story Mode - Season Two",
+    "player": "EastCoastVandal",
+    "player_location": "us",
+    "time": 3826,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y6n9pv0z",
+    "game": "Minecraft: Story Mode - Season Two",
+    "player": "FrostySR",
+    "player_location": null,
+    "time": 4445,
+    "category": "Any%",
+    "region": null,
+    "platform": "Xbox One",
+    "emulated": false
+  },
+  {
+    "id": "m7wl8nwz",
+    "game": "Minecraft: Story Mode - Season Two",
+    "player": "SkittlesCat83",
+    "player_location": "us",
+    "time": 4702,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Xbox One",
+    "emulated": false
+  },
+  {
+    "id": "y6n4nejz",
+    "game": "Minecraft: Story Mode - Season Two",
+    "player": "Lehcats",
+    "player_location": "de",
+    "time": 3815,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  }
+]

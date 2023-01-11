@@ -1,0 +1,145 @@
+[
+  {
+    "id": "9mek1p2m",
+    "game": "Beyond Oasis",
+    "player": "kanon",
+    "player_location": null,
+    "time": 3893,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "1zxnlq8m",
+    "game": "Beyond Oasis",
+    "player": "bertin",
+    "player_location": null,
+    "time": 3372,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Wii Virtual Console",
+    "emulated": false
+  },
+  {
+    "id": "wzp4n6rz",
+    "game": "Beyond Oasis",
+    "player": "NeoAlex94",
+    "player_location": null,
+    "time": 5762,
+    "category": "Any%",
+    "region": null,
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "z0lv0e4z",
+    "game": "Beyond Oasis",
+    "player": "Delekates",
+    "player_location": "ee",
+    "time": 1921,
+    "category": "FireSword%",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "kz5p3rdm",
+    "game": "Beyond Oasis",
+    "player": "Mikebloke",
+    "player_location": "gb/eng",
+    "time": 21340,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "8yvpqk6y",
+    "game": "Beyond Oasis",
+    "player": "nestorc5143",
+    "player_location": "us",
+    "time": 3536,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Wii Virtual Console",
+    "emulated": false
+  },
+  {
+    "id": "yvgev74y",
+    "game": "Beyond Oasis",
+    "player": "PacnyTHuk",
+    "player_location": "ru",
+    "time": 2388,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": true
+  },
+  {
+    "id": "y67x1pqm",
+    "game": "Beyond Oasis",
+    "player": "Anko",
+    "player_location": "ru",
+    "time": 2496,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "y8vgg6dz",
+    "game": "Beyond Oasis",
+    "player": "Dshana",
+    "player_location": "us",
+    "time": 2986,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "yd6kw2jz",
+    "game": "Beyond Oasis",
+    "player": "brainfixer",
+    "player_location": "ru",
+    "time": 15030,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": true
+  },
+  {
+    "id": "yj1n3j7y",
+    "game": "Beyond Oasis",
+    "player": "kururusama",
+    "player_location": "kr",
+    "time": 5381,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": true
+  },
+  {
+    "id": "m77vg0wm",
+    "game": "Beyond Oasis",
+    "player": "PapyDadou",
+    "player_location": "fr",
+    "time": 4256,
+    "category": "Glitchless Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "zpgqw0gz",
+    "game": "Beyond Oasis",
+    "player": "PCRyoKo",
+    "player_location": null,
+    "time": 2539,
+    "category": "FireSword%",
+    "region": null,
+    "platform": "Sega Genesis",
+    "emulated": false
+  }
+]

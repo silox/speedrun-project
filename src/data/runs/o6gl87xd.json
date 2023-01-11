@@ -1,0 +1,24 @@
+[
+  {
+    "id": "y89nnkwm",
+    "game": "",
+    "player": "Symm",
+    "player_location": "gb",
+    "time": 2127,
+    "category": "Duphaston's Tale",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "yl0xe12y",
+    "game": "",
+    "player": "paramiri",
+    "player_location": null,
+    "time": 1609,
+    "category": "Duphaston's Tale",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  }
+]

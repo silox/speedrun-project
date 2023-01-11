@@ -1,0 +1,156 @@
+[
+  {
+    "id": "kz5oxjey",
+    "game": "Mole Mania",
+    "player": "dada",
+    "player_location": null,
+    "time": 596,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Super Game Boy 2",
+    "emulated": false
+  },
+  {
+    "id": "pm3dx5qz",
+    "game": "Mole Mania",
+    "player": "vlackSR",
+    "player_location": "hn",
+    "time": 651,
+    "category": "Beat the Game",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "y673061m",
+    "game": "Mole Mania",
+    "player": "Atroz",
+    "player_location": "us",
+    "time": 593,
+    "category": "Beat the Game",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "zpqo2kgy",
+    "game": "Mole Mania",
+    "player": "Legs",
+    "player_location": "ca",
+    "time": 638,
+    "category": "Beat the Game",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "mk4de91y",
+    "game": "Mole Mania",
+    "player": "YumeTsubasaCH",
+    "player_location": "ch",
+    "time": 600,
+    "category": "Beat the Game",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "mrq70lgy",
+    "game": "Mole Mania",
+    "player": "ShuriBear",
+    "player_location": "nl",
+    "time": 658,
+    "category": "Beat the Game",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "z0e0gn9m",
+    "game": "Mole Mania",
+    "player": "ruunix2",
+    "player_location": "us",
+    "time": 556,
+    "category": "Beat the Game",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Player",
+    "emulated": false
+  },
+  {
+    "id": "y8qxj8xy",
+    "game": "Mole Mania",
+    "player": "Delekates",
+    "player_location": "ee",
+    "time": 605,
+    "category": "Beat the Game",
+    "region": null,
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "y23eenjm",
+    "game": "Mole Mania",
+    "player": "HowDenKing",
+    "player_location": "eu",
+    "time": 680,
+    "category": "Beat the Game",
+    "region": "EUR / PAL",
+    "platform": "Nintendo 3DS Virtual Console",
+    "emulated": false
+  },
+  {
+    "id": "zgnqqxey",
+    "game": "Mole Mania",
+    "player": "Megami_infini",
+    "player_location": "pl",
+    "time": 893,
+    "category": "Beat the Game",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "zp1nq0rz",
+    "game": "Mole Mania",
+    "player": "DarQ",
+    "player_location": "ca",
+    "time": 632,
+    "category": "Beat the Game",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "y27qo27z",
+    "game": "Mole Mania",
+    "player": "negurusii",
+    "player_location": "jp",
+    "time": 677,
+    "category": "Beat the Game",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Player",
+    "emulated": false
+  },
+  {
+    "id": "yw813n0y",
+    "game": "Mole Mania",
+    "player": "beco",
+    "player_location": "jp",
+    "time": 594,
+    "category": "Beat the Game",
+    "region": "JPN / NTSC",
+    "platform": "Super Game Boy 2",
+    "emulated": false
+  },
+  {
+    "id": "m3n7kxwy",
+    "game": "Mole Mania",
+    "player": "dinozach",
+    "player_location": "us",
+    "time": 733,
+    "category": "Beat the Game",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  }
+]

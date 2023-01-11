@@ -1,0 +1,35 @@
+[
+  {
+    "id": "kz57k4jm",
+    "game": "Aaru's Awakening",
+    "player": "Shade667",
+    "player_location": "au",
+    "time": 30.4,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "mek835qm",
+    "game": "Aaru's Awakening",
+    "player": "Ya-GG",
+    "player_location": "fr",
+    "time": 2440,
+    "category": "NG+",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y89643wm",
+    "game": "Aaru's Awakening",
+    "player": "Pingouin23",
+    "player_location": "fr",
+    "time": 1874,
+    "category": "NG+",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  }
+]

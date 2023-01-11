@@ -1,0 +1,35 @@
+[
+  {
+    "id": "z11k9lwz",
+    "game": "",
+    "player": "Cmdr",
+    "player_location": "us",
+    "time": 257,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "y6lw7pjy",
+    "game": "",
+    "player": "RadiantGamer",
+    "player_location": "ca",
+    "time": 5472,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "mr98992m",
+    "game": "Mercenaries Saga 3: Gray Wolves of War",
+    "player": "RazielNoraa",
+    "player_location": "au",
+    "time": 224,
+    "category": "Any%",
+    "region": null,
+    "platform": "Switch",
+    "emulated": false
+  }
+]

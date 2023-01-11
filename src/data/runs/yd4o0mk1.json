@@ -1,0 +1,145 @@
+[
+  {
+    "id": "zxgxl58y",
+    "game": "Game & Watch Gallery",
+    "player": "GhostSenpai",
+    "player_location": "mx",
+    "time": 633,
+    "category": "100 Points / Easy / Modern",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS Virtual Console",
+    "emulated": false
+  },
+  {
+    "id": "zg77ox0z",
+    "game": "Game & Watch Gallery",
+    "player": "GigaOtomia",
+    "player_location": "ca",
+    "time": 591,
+    "category": "100 Points / Easy / Modern",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "me83r8qm",
+    "game": "Game & Watch Gallery",
+    "player": "terkylol12",
+    "player_location": "cl",
+    "time": 409,
+    "category": "100 Points / Hard / Modern",
+    "region": null,
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "ywpwj02z",
+    "game": "Game & Watch Gallery",
+    "player": "Stick_Luigi",
+    "player_location": "br",
+    "time": 694,
+    "category": "100 Points / Easy / Modern",
+    "region": null,
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "zx4r91gy",
+    "game": "Game & Watch Gallery",
+    "player": "NihilistComedyHour",
+    "player_location": "eo",
+    "time": 627,
+    "category": "100 Points / Easy / Modern",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "yd6wlqqz",
+    "game": "Game & Watch Gallery",
+    "player": "smartalec24",
+    "player_location": "us",
+    "time": 644,
+    "category": "100 Points / Easy / Modern",
+    "region": "USA / NTSC",
+    "platform": "Super Game Boy 2",
+    "emulated": false
+  },
+  {
+    "id": "y6rlo30y",
+    "game": "Game & Watch Gallery",
+    "player": "spins",
+    "player_location": null,
+    "time": 371,
+    "category": "100 Points / Hard / Modern",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "z53x5vdy",
+    "game": "Game & Watch Gallery",
+    "player": "stoic_rose",
+    "player_location": "us",
+    "time": 684,
+    "category": "100 Points / Easy / Modern",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "y42k0n3m",
+    "game": "Game & Watch Gallery",
+    "player": "TradeMarked",
+    "player_location": "us",
+    "time": 567,
+    "category": "100 Points / Easy / Modern",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "zq19vp9m",
+    "game": "Game & Watch Gallery",
+    "player": "MalditeLoki",
+    "player_location": "mx",
+    "time": 369,
+    "category": "100 Points / Hard / Modern",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "me38978z",
+    "game": "Game & Watch Gallery",
+    "player": "Optic_Rainfall",
+    "player_location": "au",
+    "time": 353,
+    "category": "100 Points / Hard / Modern",
+    "region": null,
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "zx72g4gy",
+    "game": "Game & Watch Gallery",
+    "player": "ravspect",
+    "player_location": "us",
+    "time": 655,
+    "category": "100 Points / Easy / Modern",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "zgp8q2ez",
+    "game": "Game & Watch Gallery",
+    "player": "JimB",
+    "player_location": "de",
+    "time": 460,
+    "category": "100 Points / Hard / Modern",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Interface",
+    "emulated": false
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "yjg4p1ny",
+    "game": "WWE WrestleMania X8",
+    "player": "Drake_Shadow",
+    "player_location": "us",
+    "time": 46,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "yod9v6dm",
+    "game": "WWE WrestleMania X8",
+    "player": "GrandMasterMario5000",
+    "player_location": "ca",
+    "time": 20,
+    "category": "Exhibition",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "zgq6pnvy",
+    "game": "WWE WrestleMania X8",
+    "player": "GibboJr",
+    "player_location": null,
+    "time": 39,
+    "category": "Exhibition",
+    "region": "EUR / PAL",
+    "platform": "GameCube",
+    "emulated": true
+  }
+]

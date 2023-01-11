@@ -1,0 +1,156 @@
+[
+  {
+    "id": "8m7v2p9m",
+    "game": "Mega Man Star Force",
+    "player": "MHFsilver",
+    "player_location": "us",
+    "time": 11065,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "kz56e1jy",
+    "game": "Mega Man Star Force",
+    "player": "Kilios",
+    "player_location": "us",
+    "time": 11847,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "pm32logy",
+    "game": "Mega Man Star Force",
+    "player": "zazuro",
+    "player_location": null,
+    "time": 12109,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "zn8r639z",
+    "game": "Mega Man Star Force",
+    "player": "Erothaur",
+    "player_location": "ca",
+    "time": 12548,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "yl9vkj3y",
+    "game": "Mega Man Star Force",
+    "player": "nopan",
+    "player_location": "jp",
+    "time": 10757,
+    "category": "Any%",
+    "region": null,
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "z035r14z",
+    "game": "Mega Man Star Force",
+    "player": "Risch",
+    "player_location": "us",
+    "time": 10065,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "z5og60ny",
+    "game": "Mega Man Star Force",
+    "player": "lilfatkid",
+    "player_location": "gb/eng",
+    "time": 16797,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "z0eqg14m",
+    "game": "Mega Man Star Force",
+    "player": "eurasia_m",
+    "player_location": "us",
+    "time": 10723,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "zxvjn5qy",
+    "game": "Mega Man Star Force",
+    "player": "plum",
+    "player_location": null,
+    "time": 10271,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "ydd6kpqy",
+    "game": "Mega Man Star Force",
+    "player": "GhostScit",
+    "player_location": null,
+    "time": 2638,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "y8991v1m",
+    "game": "Mega Man Star Force",
+    "player": "Kei_silic",
+    "player_location": "jp",
+    "time": 11320,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "y66xgqpy",
+    "game": "Mega Man Star Force",
+    "player": "cosalt",
+    "player_location": "jp",
+    "time": 9853,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "me9gkw9z",
+    "game": "Mega Man Star Force",
+    "player": "Future34",
+    "player_location": "gb/eng",
+    "time": 16873,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "zx7kww8y",
+    "game": "Mega Man Star Force",
+    "player": "ChaoticDX",
+    "player_location": "us",
+    "time": 2835,
+    "category": "Delete Cygnus Wing",
+    "region": "EUR / PAL",
+    "platform": "Nintendo DS",
+    "emulated": true
+  }
+]

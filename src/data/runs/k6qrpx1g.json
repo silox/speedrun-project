@@ -1,0 +1,134 @@
+[
+  {
+    "id": "8m7wlk5z",
+    "game": "Chibi-Robo!",
+    "player": "GlitchPhD",
+    "player_location": "us",
+    "time": 9047,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "ylk87e3z",
+    "game": "Chibi-Robo!",
+    "player": "SingleScoop",
+    "player_location": "us",
+    "time": 8595,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "1zq4205m",
+    "game": "Chibi-Robo!",
+    "player": "BlackChaos322",
+    "player_location": "ca",
+    "time": 10080,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "zpqnl5ny",
+    "game": "Chibi-Robo!",
+    "player": "Sonickrazy",
+    "player_location": "us",
+    "time": 9003,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "yj47dx7y",
+    "game": "Chibi-Robo!",
+    "player": "xNose",
+    "player_location": "ca",
+    "time": 9346,
+    "category": "Any%",
+    "region": null,
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "yoj7w61m",
+    "game": "Chibi-Robo!",
+    "player": "Jaxler",
+    "player_location": "us",
+    "time": 7631,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "m31ol56z",
+    "game": "Chibi-Robo!",
+    "player": "Kobazco",
+    "player_location": "us",
+    "time": 8100,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "yj31wedz",
+    "game": "Chibi-Robo!",
+    "player": "Dyceron",
+    "player_location": "us",
+    "time": 13385,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "y41jk82y",
+    "game": "Chibi-Robo!",
+    "player": "Tkugane353",
+    "player_location": "jp",
+    "time": 7899,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "m3523vwy",
+    "game": "Chibi-Robo!",
+    "player": "Adamo",
+    "player_location": "us",
+    "time": 10690,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "mkv347vy",
+    "game": "Chibi-Robo!",
+    "player": "Loriocalypse",
+    "player_location": "us",
+    "time": 13525,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "y42x052m",
+    "game": "Chibi-Robo!",
+    "player": "LilGamerzz",
+    "player_location": "ca",
+    "time": 30107,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "GameCube",
+    "emulated": true
+  }
+]

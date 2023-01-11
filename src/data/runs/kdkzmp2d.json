@@ -1,0 +1,134 @@
+[
+  {
+    "id": "yvgx2oey",
+    "game": "The Legend of Heroes: Trails of Cold Steel II",
+    "player": "\u30bd\u30a2",
+    "player_location": null,
+    "time": 23471,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "zn8xo0lz",
+    "game": "The Legend of Heroes: Trails of Cold Steel II",
+    "player": "mki4n",
+    "player_location": "jp",
+    "time": 23677,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "z06qv98z",
+    "game": "The Legend of Heroes: Trails of Cold Steel II",
+    "player": "ChampionBeef",
+    "player_location": "us",
+    "time": 15525,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zgn07qey",
+    "game": "The Legend of Heroes: Trails of Cold Steel II",
+    "player": "chibizer0",
+    "player_location": "au",
+    "time": 35443,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "yw48plpz",
+    "game": "The Legend of Heroes: Trails of Cold Steel II",
+    "player": "TheEndd",
+    "player_location": "lt",
+    "time": 9132,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "ylq24nkz",
+    "game": "The Legend of Heroes: Trails of Cold Steel II",
+    "player": "buddy_bison",
+    "player_location": "us",
+    "time": 6269,
+    "category": "",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yo21jw1z",
+    "game": "The Legend of Heroes: Trails of Cold Steel II",
+    "player": "AcridStingray3",
+    "player_location": "es",
+    "time": 9550,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zxk2115m",
+    "game": "The Legend of Heroes: Trails of Cold Steel II",
+    "player": "megaslayer321a",
+    "player_location": "au",
+    "time": 10734,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yl0qd2xy",
+    "game": "The Legend of Heroes: Trails of Cold Steel II",
+    "player": "shyleasia",
+    "player_location": "nl",
+    "time": 21545,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "y4w8k02m",
+    "game": "The Legend of Heroes: Trails of Cold Steel II",
+    "player": "EpicFigler",
+    "player_location": "us",
+    "time": 8214,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "y27grxwz",
+    "game": "The Legend of Heroes: Trails of Cold Steel II",
+    "player": "sonicmega",
+    "player_location": null,
+    "time": 12190,
+    "category": "NG+",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "znp7o73m",
+    "game": "The Legend of Heroes: Trails of Cold Steel II",
+    "player": "huellenoperator",
+    "player_location": "de",
+    "time": 7110,
+    "category": "NG+",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  }
+]

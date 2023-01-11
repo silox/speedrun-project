@@ -1,0 +1,101 @@
+[
+  {
+    "id": "9me6463z",
+    "game": "Enduro Racer",
+    "player": "btrim",
+    "player_location": "us",
+    "time": 357.14,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Master System",
+    "emulated": false
+  },
+  {
+    "id": "jy92jqrz",
+    "game": "Enduro Racer",
+    "player": "talbot1939",
+    "player_location": null,
+    "time": 353.51,
+    "category": "Beat the game (SMS U/E/B)",
+    "region": "USA / NTSC",
+    "platform": "Sega Master System",
+    "emulated": true
+  },
+  {
+    "id": "9yok2j0z",
+    "game": "Enduro Racer",
+    "player": "louiskanak",
+    "player_location": "fr",
+    "time": 381.64,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Sega Master System",
+    "emulated": true
+  },
+  {
+    "id": "8yv2398m",
+    "game": "Enduro Racer",
+    "player": "funky_warrior",
+    "player_location": "fr",
+    "time": 360.81,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Sega Master System",
+    "emulated": true
+  },
+  {
+    "id": "0y620p6z",
+    "game": "Enduro Racer",
+    "player": "Maman",
+    "player_location": "fr",
+    "time": 342.34,
+    "category": "Beat the game (SMS U/E/B)",
+    "region": "USA / NTSC",
+    "platform": "Sega Master System",
+    "emulated": true
+  },
+  {
+    "id": "0znldjvy",
+    "game": "Enduro Racer",
+    "player": "Galaxsinger",
+    "player_location": "de",
+    "time": 363.99,
+    "category": "Beat the game (SMS U/E/B)",
+    "region": "USA / NTSC",
+    "platform": "Sega Master System",
+    "emulated": true
+  },
+  {
+    "id": "z50vq0jy",
+    "game": "Enduro Racer",
+    "player": "LohanKain",
+    "player_location": "br",
+    "time": 356.01,
+    "category": "Beat the game (SMS U/E/B)",
+    "region": "USA / NTSC",
+    "platform": "Sega Master System",
+    "emulated": true
+  },
+  {
+    "id": "z0pj78oy",
+    "game": "Enduro Racer",
+    "player": "Rog_pf",
+    "player_location": "br",
+    "time": 249.024,
+    "category": "Beat the game (Arcade)",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y2erlvwy",
+    "game": "Enduro Racer",
+    "player": "Nimn_One",
+    "player_location": "se",
+    "time": 337.21,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Sega Master System",
+    "emulated": true
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "m76gpl9y",
+    "game": "",
+    "player": "mrsancini",
+    "player_location": "br",
+    "time": 519,
+    "category": "Team Play Easy",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": false
+  },
+  {
+    "id": "y4qw3n2m",
+    "game": "",
+    "player": "DBcade",
+    "player_location": "jp",
+    "time": 519,
+    "category": "Team Play Easy",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "yw3ved3m",
+    "game": "",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 489,
+    "category": "Team Play Normal",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "m33x8kqm",
+    "game": "",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 559,
+    "category": "Team Play Normal",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  }
+]

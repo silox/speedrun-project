@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1zqedo8z",
+    "game": "Tombs & Treasure",
+    "player": "RantronBomb",
+    "player_location": null,
+    "time": 1574,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zqw3jv8z",
+    "game": "Tombs & Treasure",
+    "player": "NESCardinality",
+    "player_location": "ca",
+    "time": 1024,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "yoj5570m",
+    "game": "Tombs & Treasure",
+    "player": "Pixel_Kronicle",
+    "player_location": "ca/qc",
+    "time": 1061,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "yddqpqwy",
+    "game": "Tombs & Treasure",
+    "player": "Sathdresh",
+    "player_location": "us",
+    "time": 1170,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  }
+]

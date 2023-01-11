@@ -1,0 +1,24 @@
+[
+  {
+    "id": "m7g7xx4m",
+    "game": "Tricky Kick",
+    "player": "vanni_van",
+    "player_location": "us",
+    "time": 405,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": false
+  },
+  {
+    "id": "yokkl3jz",
+    "game": "Tricky Kick",
+    "player": "baldnate",
+    "player_location": null,
+    "time": 364,
+    "category": "Oberon",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": false
+  }
+]

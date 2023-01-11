@@ -1,0 +1,90 @@
+[
+  {
+    "id": "m3dq8oqz",
+    "game": "Disney Sports Motocross",
+    "player": "ChillCat",
+    "player_location": null,
+    "time": 197,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "mrqlw12y",
+    "game": "Disney Sports Motocross",
+    "player": "Melwing17",
+    "player_location": "us",
+    "time": 206,
+    "category": "Beginner Cup",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "yv6kpgoz",
+    "game": "Disney Sports Motocross",
+    "player": "MortimerNova",
+    "player_location": "us",
+    "time": 205,
+    "category": "Beginner Cup",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "y665d40y",
+    "game": "Disney Sports Motocross",
+    "player": "Otterstone_Gamer",
+    "player_location": "us",
+    "time": 204,
+    "category": "Beginner Cup",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "yvq1d8xm",
+    "game": "Disney Sports Motocross",
+    "player": "Vu16",
+    "player_location": "ca/qc",
+    "time": 221,
+    "category": "Beginner Cup",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "y2pge56z",
+    "game": "Disney Sports Motocross",
+    "player": "Noice",
+    "player_location": "es",
+    "time": 213,
+    "category": "Beginner Cup",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "mrr4ej7m",
+    "game": "Disney Sports Motocross",
+    "player": "JoePulito",
+    "player_location": "us",
+    "time": 212,
+    "category": "Beginner Cup",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "z1g6v7wz",
+    "game": "Disney Sports Motocross",
+    "player": "Kabula04",
+    "player_location": "br",
+    "time": 201,
+    "category": "Beginner Cup",
+    "region": "BRA / PAL",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  }
+]

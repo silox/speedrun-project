@@ -1,0 +1,57 @@
+[
+  {
+    "id": "9mrxg4dm",
+    "game": "",
+    "player": "ShinKensou",
+    "player_location": "us",
+    "time": 3417,
+    "category": "Any %",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "8y85xj5y",
+    "game": "",
+    "player": "ZealotJohn",
+    "player_location": "us",
+    "time": 5159,
+    "category": "Any %",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z5x6kndy",
+    "game": "",
+    "player": "Metalsnake27",
+    "player_location": "us",
+    "time": 2626,
+    "category": "Any %",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m759e3wz",
+    "game": "Guilty Gear 2: Overture",
+    "player": "kaza",
+    "player_location": "jp",
+    "time": 2648,
+    "category": "Any %",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z5x6vr5y",
+    "game": "Guilty Gear 2: Overture",
+    "player": "DECosmic",
+    "player_location": "us",
+    "time": 4430,
+    "category": "Any %",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

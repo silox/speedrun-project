@@ -1,0 +1,24 @@
+[
+  {
+    "id": "8m73nx9y",
+    "game": "Octomania",
+    "player": "DarkTerrex",
+    "player_location": "us",
+    "time": 415,
+    "category": "Arcade Advanced Any%",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "m77v9k4m",
+    "game": "Octomania",
+    "player": "Otaku-2",
+    "player_location": "us",
+    "time": 410,
+    "category": "Arcade Advanced Any%",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": true
+  }
+]

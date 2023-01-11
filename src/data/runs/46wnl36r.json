@@ -1,0 +1,222 @@
+[
+  {
+    "id": "1zqxq41y",
+    "game": "Magical Drop 3",
+    "player": "Jambon",
+    "player_location": "fr",
+    "time": 86,
+    "category": "Versus",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "wzpjjrxz",
+    "game": "Magical Drop 3",
+    "player": "len-spdrun",
+    "player_location": null,
+    "time": 121,
+    "category": "Versus",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "8yvw0nom",
+    "game": "Magical Drop 3",
+    "player": "frostburn",
+    "player_location": "fi",
+    "time": 101,
+    "category": "Versus",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yo4klq5m",
+    "game": "Magical Drop 3",
+    "player": "KiAliens",
+    "player_location": "cl",
+    "time": 82,
+    "category": "Versus",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yl9qd7ry",
+    "game": "Magical Drop 3",
+    "player": "loginner",
+    "player_location": "be",
+    "time": 659,
+    "category": "Versus",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y922d7rz",
+    "game": "Magical Drop 3",
+    "player": "FFRPro21",
+    "player_location": "ca",
+    "time": 678,
+    "category": "Versus",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "mk97r9lz",
+    "game": "Magical Drop 3",
+    "player": "Arris_Tier",
+    "player_location": "us",
+    "time": 80,
+    "category": "Versus",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z11we39z",
+    "game": "Magical Drop 3",
+    "player": "Upodo",
+    "player_location": "mx",
+    "time": 91,
+    "category": "Versus",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yjl01j7z",
+    "game": "Magical Drop 3",
+    "player": "maruta",
+    "player_location": "jp",
+    "time": 73,
+    "category": "Versus",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": false
+  },
+  {
+    "id": "mrk501gy",
+    "game": "Magical Drop 3",
+    "player": "birdup",
+    "player_location": "us",
+    "time": 77,
+    "category": "Versus",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "m7g64v4m",
+    "game": "Magical Drop 3",
+    "player": "jasper_rm",
+    "player_location": "us",
+    "time": 95,
+    "category": "Versus",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "znkgr93z",
+    "game": "Magical Drop 3",
+    "player": "zipmon",
+    "player_location": "us",
+    "time": 84,
+    "category": "Versus",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "m35kgggy",
+    "game": "Magical Drop 3",
+    "player": "TABYDACAT",
+    "player_location": null,
+    "time": 77,
+    "category": "Versus",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z15kv3ry",
+    "game": "Magical Drop 3",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 117,
+    "category": "Versus",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zgxgxpem",
+    "game": "Magical Drop 3",
+    "player": "Unreal704",
+    "player_location": "us",
+    "time": 71,
+    "category": "Versus",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": false
+  },
+  {
+    "id": "m75lrqwz",
+    "game": "Magical Drop 3",
+    "player": "Skuttie",
+    "player_location": "us",
+    "time": 113,
+    "category": "Versus",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zx601egz",
+    "game": "Magical Drop 3",
+    "player": "NerdyNester",
+    "player_location": "us",
+    "time": 98,
+    "category": "Versus",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": false
+  },
+  {
+    "id": "m36w5ddm",
+    "game": "Magical Drop 3",
+    "player": "Finn_World",
+    "player_location": null,
+    "time": 111,
+    "category": "Versus",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yodwpxjm",
+    "game": "Magical Drop 3",
+    "player": "Lekupaz",
+    "player_location": "es",
+    "time": 165,
+    "category": "Versus (easy)",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "mrrw822m",
+    "game": "Magical Drop 3",
+    "player": "nasu_2bplus",
+    "player_location": "jp",
+    "time": 297,
+    "category": "Magical Journey (Neogeo)",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  }
+]

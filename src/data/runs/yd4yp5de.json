@@ -1,0 +1,35 @@
+[
+  {
+    "id": "emk5x85m",
+    "game": "Ghostbusters 2",
+    "player": "Toad22484",
+    "player_location": "us",
+    "time": 992,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "yl905gny",
+    "game": "Ghostbusters 2",
+    "player": "Trysdyn",
+    "player_location": null,
+    "time": 885,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "z03r8nez",
+    "game": "Ghostbusters 2",
+    "player": "MadMegaX381",
+    "player_location": "us",
+    "time": 776,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  }
+]

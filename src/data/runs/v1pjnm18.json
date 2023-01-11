@@ -1,0 +1,24 @@
+[
+  {
+    "id": "y6lw5epy",
+    "game": "",
+    "player": "PinkPajamas",
+    "player_location": "us",
+    "time": 12582,
+    "category": "DX",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y88rrj5y",
+    "game": "",
+    "player": "Griotte_At",
+    "player_location": "jp",
+    "time": 11097,
+    "category": "DX",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  }
+]

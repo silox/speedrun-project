@@ -1,0 +1,35 @@
+[
+  {
+    "id": "yj3rexoz",
+    "game": "Covert Ops: Nuclear Dawn (Chase the Express)",
+    "player": "ResiDrache",
+    "player_location": "us",
+    "time": 3643,
+    "category": "Any %",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "ylr2e0ny",
+    "game": "Covert Ops: Nuclear Dawn (Chase the Express)",
+    "player": "Rashok",
+    "player_location": "pl",
+    "time": 3357,
+    "category": "Any %",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "yjprwk3y",
+    "game": "Covert Ops: Nuclear Dawn (Chase the Express)",
+    "player": "Kranky",
+    "player_location": "de",
+    "time": 3678,
+    "category": "Any %",
+    "region": "EUR / PAL",
+    "platform": "PlayStation",
+    "emulated": true
+  }
+]

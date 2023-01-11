@@ -1,0 +1,35 @@
+[
+  {
+    "id": "mrrkej4m",
+    "game": "Mega Man Legends Category Extensions",
+    "player": "PrincessEev",
+    "player_location": "us",
+    "time": 165,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "z5xjj2gy",
+    "game": "Mega Man Legends Category Extensions",
+    "player": "Propulsious",
+    "player_location": "us",
+    "time": 151,
+    "category": "Can%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "yl10g6nm",
+    "game": "Mega Man Legends Category Extensions",
+    "player": "BeastlyWhale",
+    "player_location": "us",
+    "time": 155,
+    "category": "Can%",
+    "region": null,
+    "platform": "PlayStation",
+    "emulated": false
+  }
+]

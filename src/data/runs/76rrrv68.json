@@ -1,0 +1,112 @@
+[
+  {
+    "id": "z57wqgjm",
+    "game": "Magic Sword: Heroic Fantasy",
+    "player": "yelsraek",
+    "player_location": "us",
+    "time": 404,
+    "category": "Normal 33 (Arcade)",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "9me0l28z",
+    "game": "Magic Sword: Heroic Fantasy",
+    "player": "beeanyew",
+    "player_location": "se",
+    "time": 1697,
+    "category": "Normal Beginning (SNES)",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "dy4vkoky",
+    "game": "Magic Sword: Heroic Fantasy",
+    "player": "Pro_JN",
+    "player_location": "se",
+    "time": 1308,
+    "category": "Normal Beginning (SNES)",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "mk4vq4vy",
+    "game": "Magic Sword: Heroic Fantasy",
+    "player": "ShadowPanda",
+    "player_location": "se",
+    "time": 816,
+    "category": "Normal 33 (SNES)",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "z0pw8g8y",
+    "game": "Magic Sword: Heroic Fantasy",
+    "player": "manticor5",
+    "player_location": "cl",
+    "time": 360,
+    "category": "Normal 33 (Arcade)",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z098peez",
+    "game": "Magic Sword: Heroic Fantasy",
+    "player": "TaiyOoO",
+    "player_location": "jp",
+    "time": 340,
+    "category": "Normal 33 (Arcade)",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "mr6xw0gm",
+    "game": "Magic Sword: Heroic Fantasy",
+    "player": "sYn",
+    "player_location": "us",
+    "time": 672,
+    "category": "Normal 33 (SNES)",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "ydg3v9vy",
+    "game": "Magic Sword: Heroic Fantasy",
+    "player": "Fetti_Touretti",
+    "player_location": "de",
+    "time": 2098,
+    "category": "Normal Beginning (SNES)",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "ylno3lxz",
+    "game": "Magic Sword: Heroic Fantasy",
+    "player": "Traviktox",
+    "player_location": "de",
+    "time": 1477,
+    "category": "Normal Beginning (SNES)",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "yol9pl7y",
+    "game": "Magic Sword: Heroic Fantasy",
+    "player": "NewKingJames",
+    "player_location": null,
+    "time": 355,
+    "category": "Normal 33 (Arcade)",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

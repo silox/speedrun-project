@@ -1,0 +1,57 @@
+[
+  {
+    "id": "y2qge66y",
+    "game": "Spawn: In the Demon's Hand",
+    "player": "square_wave",
+    "player_location": "us",
+    "time": 64.026,
+    "category": "Boss Attack Mode",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "z03nw6jz",
+    "game": "Spawn: In the Demon's Hand",
+    "player": "FoxPaws",
+    "player_location": "us",
+    "time": 142,
+    "category": "Boss Attack Mode",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "yo2l740z",
+    "game": "Spawn: In the Demon's Hand",
+    "player": "Agent-G",
+    "player_location": "us",
+    "time": 72.88,
+    "category": "Boss Attack Mode",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "yv6ovr6z",
+    "game": "Spawn: In the Demon's Hand",
+    "player": "DBcade",
+    "player_location": "jp",
+    "time": 643.51,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  },
+  {
+    "id": "y66lj36y",
+    "game": "Spawn: In the Demon's Hand",
+    "player": "MarcBrightside",
+    "player_location": "gb",
+    "time": 279.098,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Dreamcast",
+    "emulated": false
+  }
+]

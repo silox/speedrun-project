@@ -1,0 +1,233 @@
+[
+  {
+    "id": "y6dr4vjm",
+    "game": "Auto Modellista",
+    "player": "epsilene",
+    "player_location": "us",
+    "time": 48.801,
+    "category": "Fastest Lap",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "yw4e6w0z",
+    "game": "Auto Modellista",
+    "player": "Kacey",
+    "player_location": "us",
+    "time": 5297,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Xbox",
+    "emulated": false
+  },
+  {
+    "id": "m7qe3n5z",
+    "game": "Auto Modellista",
+    "player": "IBunta",
+    "player_location": "gb/eng",
+    "time": 4854,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "meovo69z",
+    "game": "Auto Modellista",
+    "player": "Dugna",
+    "player_location": "it",
+    "time": 4837,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "z15okory",
+    "game": "Auto Modellista",
+    "player": "imkobra",
+    "player_location": "es",
+    "time": 4114,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "zqwl1j5z",
+    "game": "Auto Modellista",
+    "player": "pitpo",
+    "player_location": "pl",
+    "time": 4358,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y827101y",
+    "game": "Auto Modellista",
+    "player": "Mr_Mary",
+    "player_location": "pl",
+    "time": 4443,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "mk8dowxm",
+    "game": "Auto Modellista",
+    "player": "tehfogo",
+    "player_location": "us",
+    "time": 92.923,
+    "category": "Fastest Lap",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "y91gep2m",
+    "game": "Auto Modellista",
+    "player": "lnavis765",
+    "player_location": "jp",
+    "time": 47.968,
+    "category": "Fastest Lap",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "yjpjg93y",
+    "game": "Auto Modellista",
+    "player": "ViperUK",
+    "player_location": "gb/eng",
+    "time": 4028,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "mr11dr7z",
+    "game": "Auto Modellista",
+    "player": "tdp2612",
+    "player_location": "gb/eng",
+    "time": 4717,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y6dddv0m",
+    "game": "Auto Modellista",
+    "player": "J0nny0",
+    "player_location": null,
+    "time": 4420.03,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "z071jeoy",
+    "game": "Auto Modellista",
+    "player": "SilentGiraffe",
+    "player_location": "ca",
+    "time": 124.834,
+    "category": "Fastest Lap",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "y931grvy",
+    "game": "Auto Modellista",
+    "player": "srume1nu",
+    "player_location": "jp",
+    "time": 74.955,
+    "category": "Fastest Lap",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "yj5e6ngm",
+    "game": "Auto Modellista",
+    "player": "Fare",
+    "player_location": "us",
+    "time": 4008.086,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "y201nkwm",
+    "game": "Auto Modellista",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 66.657,
+    "category": "Fastest Lap",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "z1p152gz",
+    "game": "Auto Modellista",
+    "player": "PaperAoemba",
+    "player_location": "us",
+    "time": 89.951,
+    "category": "Fastest Lap",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y2edwjjy",
+    "game": "Auto Modellista",
+    "player": "whocares",
+    "player_location": null,
+    "time": 11026,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "yw6krw0m",
+    "game": "Auto Modellista",
+    "player": "Toku",
+    "player_location": "fi",
+    "time": 119.493,
+    "category": "Fastest Lap",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "ydg38vvy",
+    "game": "Auto Modellista",
+    "player": "dame",
+    "player_location": "us",
+    "time": 57.165,
+    "category": "Fastest Lap",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "m3looegm",
+    "game": "Auto Modellista",
+    "player": "_N1GHTMAR3_",
+    "player_location": "us",
+    "time": 47.844,
+    "category": "Fastest Lap",
+    "region": "USA / NTSC",
+    "platform": "Xbox",
+    "emulated": false
+  }
+]

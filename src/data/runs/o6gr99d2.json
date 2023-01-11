@@ -1,0 +1,46 @@
+[
+  {
+    "id": "mr95e17m",
+    "game": "Runabout",
+    "player": "meauxdal",
+    "player_location": "us",
+    "time": 47.33,
+    "category": "Time Trial",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "ylolx82y",
+    "game": "Runabout",
+    "player": "SerSanju",
+    "player_location": "es",
+    "time": 592,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y2vj7l6z",
+    "game": "Runabout",
+    "player": "Maiguels",
+    "player_location": "es",
+    "time": 838,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "z1xnvq9m",
+    "game": "Runabout",
+    "player": "FUMI_C35",
+    "player_location": "jp",
+    "time": 600,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  }
+]

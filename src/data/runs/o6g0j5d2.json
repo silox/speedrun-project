@@ -1,0 +1,112 @@
+[
+  {
+    "id": "8m76e9wy",
+    "game": "Ninja Senki DX",
+    "player": "AwesomeNick94",
+    "player_location": "us",
+    "time": 144,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "dy4odxdz",
+    "game": "Ninja Senki DX",
+    "player": "messenger",
+    "player_location": "us",
+    "time": 100,
+    "category": "Boss Rush",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "7yl13drm",
+    "game": "Ninja Senki DX",
+    "player": "Syena",
+    "player_location": "de",
+    "time": 133,
+    "category": "Boss Rush",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zp48l4gz",
+    "game": "Ninja Senki DX",
+    "player": "PMniac",
+    "player_location": "pt",
+    "time": 97,
+    "category": "Boss Rush",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zp4j95gz",
+    "game": "Ninja Senki DX",
+    "player": "SuperBigKMart",
+    "player_location": "ca/qc",
+    "time": 1496,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yo47j20m",
+    "game": "Ninja Senki DX",
+    "player": "Groove_Wizard",
+    "player_location": "fr",
+    "time": 1362.72,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m3dj3kqz",
+    "game": "Ninja Senki DX",
+    "player": "Veigard",
+    "player_location": "ca",
+    "time": 1640.23,
+    "category": "Glitchless Any% (Hayate)",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "zqr31g5y",
+    "game": "Ninja Senki DX",
+    "player": "Pokemonmaster888",
+    "player_location": "us",
+    "time": 95,
+    "category": "Boss Rush",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z5vd46gm",
+    "game": "Ninja Senki DX",
+    "player": "MortimerNova",
+    "player_location": "us",
+    "time": 116,
+    "category": "Boss Rush",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m761vw4y",
+    "game": "Ninja Senki DX",
+    "player": "GameT1tan",
+    "player_location": "ua",
+    "time": 123,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 4",
+    "emulated": false
+  }
+]

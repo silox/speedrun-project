@@ -1,0 +1,46 @@
+[
+  {
+    "id": "yvqqovom",
+    "game": "",
+    "player": "Sluggy",
+    "player_location": "gb",
+    "time": 15.009,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "zgpxw3nz",
+    "game": "",
+    "player": "JeremyMKW",
+    "player_location": "us",
+    "time": 117.523,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "z52x80ez",
+    "game": "",
+    "player": "elijah",
+    "player_location": "us",
+    "time": 118.289,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "yd1vo7xy",
+    "game": "",
+    "player": "VeganSlayerGaming",
+    "player_location": "us",
+    "time": 15.009,
+    "category": "Any%",
+    "region": null,
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "7z0q4kjm",
+    "game": "Micro Maniacs",
+    "player": "Cheeezets",
+    "player_location": "ua",
+    "time": 901,
+    "category": "Challenge",
+    "region": "EUR / PAL",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "zqrk02ry",
+    "game": "Micro Maniacs",
+    "player": "SebaOutbreak",
+    "player_location": "ar",
+    "time": 17.68,
+    "category": "1 lap",
+    "region": null,
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "zgwj5pdy",
+    "game": "Micro Maniacs",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 11.16,
+    "category": "1 lap",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "z1oj1p7m",
+    "game": "Micro Maniacs",
+    "player": "FreezeChamp",
+    "player_location": "pt",
+    "time": 10.84,
+    "category": "1 lap",
+    "region": "EUR / PAL",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "y6dw25pm",
+    "game": "Micro Maniacs",
+    "player": "GooglyEyes12",
+    "player_location": "gb/eng",
+    "time": 11.04,
+    "category": "1 lap",
+    "region": "EUR / PAL",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "mrnq3ndy",
+    "game": "Micro Maniacs",
+    "player": "AcroxShadow",
+    "player_location": "gb/eng",
+    "time": 4672,
+    "category": "All Challenge Tracks",
+    "region": "EUR / PAL",
+    "platform": "PlayStation",
+    "emulated": true
+  }
+]

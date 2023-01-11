@@ -1,0 +1,46 @@
+[
+  {
+    "id": "z0e35k8m",
+    "game": "Artifact Adventure",
+    "player": "Champloo",
+    "player_location": "us",
+    "time": 4827,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z0llew4z",
+    "game": "Artifact Adventure",
+    "player": "seri",
+    "player_location": "jp",
+    "time": 1848,
+    "category": "any% Winged King",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zprkqkxm",
+    "game": "Artifact Adventure",
+    "player": "Endarire",
+    "player_location": "us",
+    "time": 11134,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yl1nrnnm",
+    "game": "Artifact Adventure",
+    "player": "aaron2u2",
+    "player_location": "us",
+    "time": 6023,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

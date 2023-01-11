@@ -1,0 +1,211 @@
+[
+  {
+    "id": "8yv9498z",
+    "game": "Kirby: Canvas Curse",
+    "player": "kirbymastah",
+    "player_location": "us",
+    "time": 4576,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "dy42qpkm",
+    "game": "Kirby: Canvas Curse",
+    "player": "Broedgeman",
+    "player_location": "de",
+    "time": 5386,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "1zqejxzl",
+    "game": "Kirby: Canvas Curse",
+    "player": "Jumpyluff",
+    "player_location": "us",
+    "time": 6447,
+    "category": "Any%",
+    "region": null,
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "7z0993ez",
+    "game": "Kirby: Canvas Curse",
+    "player": "thelvl99charmander",
+    "player_location": "us",
+    "time": 5148,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "pm373qgz",
+    "game": "Kirby: Canvas Curse",
+    "player": "Lyrae",
+    "player_location": "fr",
+    "time": 6436,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "jy9r44vy",
+    "game": "Kirby: Canvas Curse",
+    "player": "Veiyr",
+    "player_location": "us",
+    "time": 3942,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Wii U Virtual Console",
+    "emulated": false
+  },
+  {
+    "id": "oy2e6g9y",
+    "game": "Kirby: Canvas Curse",
+    "player": "00greenbean00",
+    "player_location": "ca",
+    "time": 4792,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "1zq98n9y",
+    "game": "Kirby: Canvas Curse",
+    "player": "swordsmankirby",
+    "player_location": "us",
+    "time": 5248,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "7z04q7jy",
+    "game": "Kirby: Canvas Curse",
+    "player": "GloriousLiar",
+    "player_location": "us",
+    "time": 3988,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "8yve1q4m",
+    "game": "Kirby: Canvas Curse",
+    "player": "OnyxFao",
+    "player_location": "us",
+    "time": 5717,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "y971lvem",
+    "game": "Kirby: Canvas Curse",
+    "player": "AP777",
+    "player_location": "ca",
+    "time": 4334,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Wii U Virtual Console",
+    "emulated": false
+  },
+  {
+    "id": "yd9gp6qz",
+    "game": "Kirby: Canvas Curse",
+    "player": "Wakaza",
+    "player_location": "jp",
+    "time": 3372,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Wii U Virtual Console",
+    "emulated": false
+  },
+  {
+    "id": "z5rvdrny",
+    "game": "Kirby: Canvas Curse",
+    "player": "Spork",
+    "player_location": "us",
+    "time": 4019,
+    "category": "Any%",
+    "region": null,
+    "platform": "Wii U Virtual Console",
+    "emulated": false
+  },
+  {
+    "id": "yo3ved1y",
+    "game": "Kirby: Canvas Curse",
+    "player": "evergreengreen",
+    "player_location": null,
+    "time": 6292,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "zx6p8pqz",
+    "game": "Kirby: Canvas Curse",
+    "player": "AidanMse",
+    "player_location": "ca",
+    "time": 4177,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Wii U Virtual Console",
+    "emulated": false
+  },
+  {
+    "id": "zx6gdwkz",
+    "game": "Kirby: Canvas Curse",
+    "player": "7C",
+    "player_location": "jp",
+    "time": 4689,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "mkg78ply",
+    "game": "Kirby: Canvas Curse",
+    "player": "Mr_Shasta",
+    "player_location": "us",
+    "time": 4659,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Wii U Virtual Console",
+    "emulated": false
+  },
+  {
+    "id": "y93p25ry",
+    "game": "Kirby: Canvas Curse",
+    "player": "AbelSR",
+    "player_location": "pr",
+    "time": 4260,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Wii U Virtual Console",
+    "emulated": false
+  },
+  {
+    "id": "zgp4ngnz",
+    "game": "Kirby: Canvas Curse",
+    "player": "Shadeheart",
+    "player_location": "ca",
+    "time": 5738,
+    "category": "Any%",
+    "region": null,
+    "platform": "Nintendo DS",
+    "emulated": false
+  }
+]

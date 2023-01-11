@@ -1,0 +1,134 @@
+[
+  {
+    "id": "z058g0om",
+    "game": "Ninjala",
+    "player": "RampantEpsilon",
+    "player_location": "us",
+    "time": 187.12,
+    "category": "Prologue",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "m358o7wy",
+    "game": "Ninjala",
+    "player": "Mileve",
+    "player_location": "ca",
+    "time": 2013.92,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "yo3v63jy",
+    "game": "Ninjala",
+    "player": "Oh_Snap",
+    "player_location": "us",
+    "time": 1819,
+    "category": "\u58f1\u306e\u5dfb\uff0fChapter 1",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "mk8l5xxm",
+    "game": "Ninjala",
+    "player": "GDnowaR",
+    "player_location": "us",
+    "time": 206.049,
+    "category": "Prologue",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "y8v0ndnz",
+    "game": "Ninjala",
+    "player": "JustKillingaming",
+    "player_location": "fr",
+    "time": 122.19,
+    "category": "Prologue",
+    "region": "EUR / PAL",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "m3nlplwy",
+    "game": "Ninjala",
+    "player": "Calebcoolguy5",
+    "player_location": "us",
+    "time": 1648.041,
+    "category": "\u58f1\u306e\u5dfb\uff0fChapter 1",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "yddr2rqy",
+    "game": "Ninjala",
+    "player": "DeDeDeadly",
+    "player_location": "us",
+    "time": 1025.02,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "ywjw4dnz",
+    "game": "Ninjala",
+    "player": "juunannoruchia",
+    "player_location": "jp",
+    "time": 475,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "y9ldoxny",
+    "game": "Ninjala",
+    "player": "Doesn't Exist",
+    "player_location": null,
+    "time": 0.001,
+    "category": "\u521d\u3081\u3066\u306e\u30cb\u30f3\u30b8\u30e3\u30e9\u306e\u5dfb\uff0fTale for Ninjala Beginners",
+    "region": null,
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "zx7j0d8y",
+    "game": "Ninjala",
+    "player": "MerylTheBat",
+    "player_location": "us",
+    "time": 2170,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "ydg8n6jy",
+    "game": "Ninjala",
+    "player": "Fuuto",
+    "player_location": "jp",
+    "time": 659,
+    "category": "\u521d\u3081\u3066\u306e\u30cb\u30f3\u30b8\u30e3\u30e9\u306e\u5dfb\uff0fTale for Ninjala Beginners",
+    "region": "JPN / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "y2elj75y",
+    "game": "Ninjala",
+    "player": "jokin0126",
+    "player_location": "jp",
+    "time": 499.025,
+    "category": "\u521d\u3081\u3066\u306e\u30cb\u30f3\u30b8\u30e3\u30e9\u306e\u5dfb\uff0fTale for Ninjala Beginners",
+    "region": "JPN / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "yj1wo5gy",
+    "game": "Vulgus",
+    "player": "manticor5",
+    "player_location": "cl",
+    "time": 518,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z072n3ey",
+    "game": "Vulgus",
+    "player": "saulonpb",
+    "player_location": "br",
+    "time": 511,
+    "category": "Any% 1 Loop",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "ylnv1pkz",
+    "game": "Vulgus",
+    "player": "Dumple",
+    "player_location": "us",
+    "time": 510,
+    "category": "Any% 1 Loop",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "ydqe9xwm",
+    "game": "",
+    "player": "Megami_infini",
+    "player_location": "pl",
+    "time": 909,
+    "category": "any%(NES)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "yo4p06dm",
+    "game": "",
+    "player": "authorblues",
+    "player_location": "us",
+    "time": 880,
+    "category": "any%(NES)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zxv7xg5y",
+    "game": "",
+    "player": "Covert_Madness",
+    "player_location": "au",
+    "time": 798,
+    "category": "any%(DOS)",
+    "region": null,
+    "platform": "PC",
+    "emulated": true
+  },
+  {
+    "id": "me1q2qqy",
+    "game": "",
+    "player": "NESCardinality",
+    "player_location": "ca",
+    "time": 831,
+    "category": "any%(NES)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y91vr4em",
+    "game": "",
+    "player": "akiyabo",
+    "player_location": "jp",
+    "time": 847,
+    "category": "any%(NES)",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  }
+]

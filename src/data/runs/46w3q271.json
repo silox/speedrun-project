@@ -1,0 +1,35 @@
+[
+  {
+    "id": "m78ldjez",
+    "game": "Fire Pro Wrestling World",
+    "player": "Jaggybabs",
+    "player_location": "gb/eng",
+    "time": 7.42,
+    "category": "Exhibition",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "yw09jl3m",
+    "game": "Fire Pro Wrestling World",
+    "player": "Pikisluk",
+    "player_location": "fr",
+    "time": 5.36,
+    "category": "Exhibition",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yvqrxw8m",
+    "game": "Fire Pro Wrestling World",
+    "player": "Morshufan1",
+    "player_location": "us",
+    "time": 12,
+    "category": "Exhibition",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

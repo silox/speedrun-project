@@ -1,0 +1,101 @@
+[
+  {
+    "id": "7yl8o7rz",
+    "game": "Legend of Hero Tonma",
+    "player": "FCst1",
+    "player_location": null,
+    "time": 659,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": false
+  },
+  {
+    "id": "yl033lxy",
+    "game": "Legend of Hero Tonma",
+    "player": "NME",
+    "player_location": "us",
+    "time": 375,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": false
+  },
+  {
+    "id": "znrp84vy",
+    "game": "Legend of Hero Tonma",
+    "player": "LattMackey",
+    "player_location": "us",
+    "time": 354,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": false
+  },
+  {
+    "id": "yvjqpv8y",
+    "game": "Legend of Hero Tonma",
+    "player": "XashTheStampede",
+    "player_location": "us",
+    "time": 377,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": true
+  },
+  {
+    "id": "m3olon6m",
+    "game": "Legend of Hero Tonma",
+    "player": "CoolHandMike",
+    "player_location": "us",
+    "time": 372,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": true
+  },
+  {
+    "id": "mk32jp3z",
+    "game": "Legend of Hero Tonma",
+    "player": "EpicNeonNinjaMonkey",
+    "player_location": "us",
+    "time": 324,
+    "category": "Any%",
+    "region": null,
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": false
+  },
+  {
+    "id": "y8d651xz",
+    "game": "Legend of Hero Tonma",
+    "player": "Dogveloper",
+    "player_location": "br",
+    "time": 351,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Wii Virtual Console",
+    "emulated": false
+  },
+  {
+    "id": "m7godg9m",
+    "game": "Legend of Hero Tonma",
+    "player": "Dumple",
+    "player_location": "us",
+    "time": 620,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z5r2lgny",
+    "game": "Legend of Hero Tonma",
+    "player": "baldnate",
+    "player_location": null,
+    "time": 348,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": false
+  }
+]

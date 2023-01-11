@@ -1,0 +1,35 @@
+[
+  {
+    "id": "yv3qk6xz",
+    "game": "Battle Arena Toshinden 2",
+    "player": "DBcade",
+    "player_location": "jp",
+    "time": 375,
+    "category": "Arcade",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "mk26rvlm",
+    "game": "Battle Arena Toshinden 2",
+    "player": "Full8Master",
+    "player_location": "zm",
+    "time": 625,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "zpdo7w8z",
+    "game": "Battle Arena Toshinden 2",
+    "player": "MoogiMagi",
+    "player_location": "us",
+    "time": 386,
+    "category": "Arcade",
+    "region": null,
+    "platform": "PlayStation",
+    "emulated": true
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "z135j57m",
+    "game": "Counterspy",
+    "player": "BrofessorScales",
+    "player_location": "ca",
+    "time": 1966,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "zxkn548m",
+    "game": "Counterspy",
+    "player": "Kekkonen",
+    "player_location": "fi",
+    "time": 1150,
+    "category": "Any%",
+    "region": null,
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "y8q1n9xy",
+    "game": "Counterspy",
+    "player": "Dracobat10",
+    "player_location": "us",
+    "time": 3011.36,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "m7q16nez",
+    "game": "Counterspy",
+    "player": "hurtgamer",
+    "player_location": "ua",
+    "time": 1638,
+    "category": "Any% (No Formulas)",
+    "region": "EUR / PAL",
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "zx6p2rez",
+    "game": "Counterspy",
+    "player": "Apolo_Gamer",
+    "player_location": "pe",
+    "time": 3277,
+    "category": "Any%",
+    "region": null,
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "z5xr11gy",
+    "game": "Counterspy",
+    "player": "STRANGER_TV",
+    "player_location": null,
+    "time": 1375,
+    "category": "Any%",
+    "region": null,
+    "platform": "Android",
+    "emulated": false
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "ylkn6orz",
+    "game": "Transformers: Beast Wars Transmetals",
+    "player": "heyguysitsshea",
+    "player_location": "us",
+    "time": 634,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": false
+  },
+  {
+    "id": "m3njvgwy",
+    "game": "Transformers: Beast Wars Transmetals",
+    "player": "LOKI_QC",
+    "player_location": "ca/qc",
+    "time": 882,
+    "category": "Arcade Mode",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": true
+  },
+  {
+    "id": "z07kewoy",
+    "game": "Transformers: Beast Wars Transmetals",
+    "player": "GetLow",
+    "player_location": "us",
+    "time": 574,
+    "category": "Arcade Mode",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": false
+  },
+  {
+    "id": "y8x32n1m",
+    "game": "Transformers: Beast Wars Transmetals",
+    "player": "cdnmrpr",
+    "player_location": "us",
+    "time": 514,
+    "category": "Arcade Mode",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": true
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "id": "znk1qk8z",
+    "game": "Soulcalibur II JPAL",
+    "player": "Baja646",
+    "player_location": "us",
+    "time": 24.85,
+    "category": "Extra Arcade",
+    "region": "JPN / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "y4wwwx3m",
+    "game": "Soulcalibur II JPAL",
+    "player": "Shikitin",
+    "player_location": "es",
+    "time": 325.94,
+    "category": "Arcade",
+    "region": "EUR / PAL",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "yjlll8oz",
+    "game": "Soulcalibur II JPAL",
+    "player": "EldoranV9",
+    "player_location": "fr",
+    "time": 101.02,
+    "category": "Arcade",
+    "region": "EUR / PAL",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "meoooe2z",
+    "game": "Soulcalibur II JPAL",
+    "player": "Maiguels",
+    "player_location": "es",
+    "time": 78.42,
+    "category": "Arcade",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "z1555lwy",
+    "game": "Soulcalibur II JPAL",
+    "player": "RickyBoy_EA96",
+    "player_location": "ca/qc",
+    "time": 46.95,
+    "category": "Arcade",
+    "region": "JPN / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "zgwwwj0y",
+    "game": "Soulcalibur II JPAL",
+    "player": "TripppAU",
+    "player_location": "au",
+    "time": 122.12,
+    "category": "Extra Time Attack",
+    "region": "EUR / PAL",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "zgwwwo0y",
+    "game": "Soulcalibur II JPAL",
+    "player": "seasoner13_2",
+    "player_location": "gb",
+    "time": 2618,
+    "category": "Weapon Master",
+    "region": "EUR / PAL",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "yjlllvnz",
+    "game": "Soulcalibur II JPAL",
+    "player": "Stac",
+    "player_location": "fr",
+    "time": 52.48,
+    "category": "Arcade",
+    "region": "JPN / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "y662r90y",
+    "game": "Soulcalibur II JPAL",
+    "player": "Setyan_Chokdee",
+    "player_location": "jp",
+    "time": 45.21,
+    "category": "Arcade",
+    "region": "JPN / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "y6drnpjm",
+    "game": "Soulcalibur II JPAL",
+    "player": "Bubzia",
+    "player_location": "de",
+    "time": 80.85,
+    "category": "Arcade",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "me4n680y",
+    "game": "Soulcalibur II JPAL",
+    "player": "FrozenFaygo",
+    "player_location": "us",
+    "time": 52.8,
+    "category": "Arcade Emulator",
+    "region": "JPN / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "y6nxwv1z",
+    "game": "Soulcalibur II JPAL",
+    "player": "Platinuminious",
+    "player_location": "cz",
+    "time": 89.7,
+    "category": "Arcade",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "id": "me6kqp8z",
+    "game": "ATV: Quad Power Racing 2",
+    "player": "BrentlyTV",
+    "player_location": "us",
+    "time": 78,
+    "category": "1 Lap",
+    "region": "USA / NTSC",
+    "platform": "Xbox",
+    "emulated": false
+  },
+  {
+    "id": "m7p1jkem",
+    "game": "ATV: Quad Power Racing 2",
+    "player": "dubdidudidu",
+    "player_location": "de",
+    "time": 1263,
+    "category": "Amateur%",
+    "region": "EUR / PAL",
+    "platform": "Xbox",
+    "emulated": false
+  },
+  {
+    "id": "y82e28xy",
+    "game": "ATV: Quad Power Racing 2",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 80,
+    "category": "1 Lap",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "yw8woe9y",
+    "game": "ATV: Quad Power Racing 2",
+    "player": "TardyTina",
+    "player_location": "us",
+    "time": 80,
+    "category": "1 Lap",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "z53863gy",
+    "game": "ATV: Quad Power Racing 2",
+    "player": "Z_Harris1999",
+    "player_location": "us",
+    "time": 48,
+    "category": "1 Lap",
+    "region": "USA / NTSC",
+    "platform": "Xbox",
+    "emulated": false
+  },
+  {
+    "id": "me78l09y",
+    "game": "ATV: Quad Power Racing 2",
+    "player": "phillanthropist",
+    "player_location": "us",
+    "time": 47,
+    "category": "1 Lap",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "y4x35n3z",
+    "game": "ATV: Quad Power Racing 2",
+    "player": "Sweggles",
+    "player_location": "au",
+    "time": 47,
+    "category": "1 Lap",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "y8d5v2wz",
+    "game": "ATV: Quad Power Racing 2",
+    "player": "streamingjunk",
+    "player_location": "us",
+    "time": 180,
+    "category": "Freestyle 3 minutes",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "ydw8jpwm",
+    "game": "ATV: Quad Power Racing 2",
+    "player": "ChrisKauffman",
+    "player_location": "us",
+    "time": 71,
+    "category": "Freestyle 1 minute",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "y2e5owjy",
+    "game": "ATV: Quad Power Racing 2",
+    "player": "Mixxed",
+    "player_location": "us",
+    "time": 58,
+    "category": "Individual Levels",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "y2j35l5z",
+    "game": "ATV: Quad Power Racing 2",
+    "player": "mildly",
+    "player_location": null,
+    "time": 68,
+    "category": "1 Lap",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  }
+]

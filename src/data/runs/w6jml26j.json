@@ -1,0 +1,79 @@
+[
+  {
+    "id": "y8qv5rxy",
+    "game": "Point Blank",
+    "player": "puri_puri",
+    "player_location": "us",
+    "time": 536,
+    "category": "Very Hard",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "zgn266jy",
+    "game": "Point Blank",
+    "player": "Naegleria",
+    "player_location": "ca",
+    "time": 326,
+    "category": "Very Hard",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "zn8odx8z",
+    "game": "Point Blank",
+    "player": "WouJy",
+    "player_location": null,
+    "time": 66,
+    "category": "Training",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "m3dlx14z",
+    "game": "Point Blank",
+    "player": "MagmaW0LF",
+    "player_location": "us",
+    "time": 318,
+    "category": "Very Hard",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "y6lwwk1y",
+    "game": "Point Blank",
+    "player": "Cykette",
+    "player_location": "us",
+    "time": 65,
+    "category": "Training",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "z15v0l7y",
+    "game": "Point Blank",
+    "player": "FxTourmaline41",
+    "player_location": "us",
+    "time": 56,
+    "category": "Training",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "z12vg0ry",
+    "game": "Point Blank",
+    "player": "Symm",
+    "player_location": "gb",
+    "time": 53,
+    "category": "Training",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

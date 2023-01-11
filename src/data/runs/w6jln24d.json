@@ -1,0 +1,46 @@
+[
+  {
+    "id": "zp091j8m",
+    "game": "",
+    "player": "JkLoser",
+    "player_location": "se",
+    "time": 1403,
+    "category": "Easy%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "z11g8qjz",
+    "game": "",
+    "player": "Pikachu",
+    "player_location": "ua",
+    "time": 1281,
+    "category": "Easy%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "zxo4koqz",
+    "game": "",
+    "player": "FlyingFides",
+    "player_location": "ca",
+    "time": 2777,
+    "category": "Normal%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "z0p6j1oy",
+    "game": "",
+    "player": "haruma",
+    "player_location": "jp",
+    "time": 1797,
+    "category": "Normal%",
+    "region": "JPN / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  }
+]

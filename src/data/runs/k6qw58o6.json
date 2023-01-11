@@ -1,0 +1,24 @@
+[
+  {
+    "id": "y2j177wz",
+    "game": "Twin Cobra (Arcade)",
+    "player": "Ellimist",
+    "player_location": "us",
+    "time": 2388,
+    "category": "2P",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z0n178em",
+    "game": "Twin Cobra (Arcade)",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 2427,
+    "category": "2P",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

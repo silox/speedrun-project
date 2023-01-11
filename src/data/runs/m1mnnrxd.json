@@ -1,0 +1,123 @@
+[
+  {
+    "id": "z5rw6xny",
+    "game": "Star Wars Racer Category Extensions",
+    "player": "acE_sr",
+    "player_location": "de",
+    "time": 13.735,
+    "category": "First Lap",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "me476pqy",
+    "game": "Star Wars Racer Category Extensions",
+    "player": "Gamedraco",
+    "player_location": "us",
+    "time": 11.664,
+    "category": "First Lap",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": false
+  },
+  {
+    "id": "z52v62dz",
+    "game": "Star Wars Racer Category Extensions",
+    "player": "DomiraeSSB",
+    "player_location": "us",
+    "time": 12.672,
+    "category": "Backwards 1 Lap",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y6dj1rjm",
+    "game": "Star Wars Racer Category Extensions",
+    "player": "NachoBrado",
+    "player_location": "us",
+    "time": 882.076,
+    "category": "5 Lap",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yj5g30nm",
+    "game": "Star Wars Racer Category Extensions",
+    "player": "goofbrush",
+    "player_location": "gb",
+    "time": 5.651,
+    "category": "Backwards 1 Lap",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yo75qp0m",
+    "game": "Star Wars Racer Category Extensions",
+    "player": "kingbeandip",
+    "player_location": "us",
+    "time": 96.661,
+    "category": "Backwards 3 Lap",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y4q80qqm",
+    "game": "Star Wars Racer Category Extensions",
+    "player": "Minx",
+    "player_location": "sg",
+    "time": 13.745,
+    "category": "First Lap",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m3362vwm",
+    "game": "Star Wars Racer Category Extensions",
+    "player": "MJS",
+    "player_location": null,
+    "time": 13.955,
+    "category": "First Lap",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "me3g5q0z",
+    "game": "Star Wars Racer Category Extensions",
+    "player": "dragondagger",
+    "player_location": "us",
+    "time": 84.89,
+    "category": "Backwards 3 Lap",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y2jqw6wz",
+    "game": "Star Wars Racer Category Extensions",
+    "player": "zakdude100",
+    "player_location": null,
+    "time": 29.699,
+    "category": "2 Player 1 Lap",
+    "region": null,
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "yln0pj3z",
+    "game": "Star Wars Racer Category Extensions",
+    "player": "CatSharked",
+    "player_location": "us",
+    "time": 132.727,
+    "category": "5 Lap",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  }
+]

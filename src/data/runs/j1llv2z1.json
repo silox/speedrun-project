@@ -1,0 +1,90 @@
+[
+  {
+    "id": "zpr1wnnm",
+    "game": "Exerion",
+    "player": "manticor5",
+    "player_location": "cl",
+    "time": 452,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zq4wn6rm",
+    "game": "Exerion",
+    "player": "GonzaloRunner",
+    "player_location": "ar",
+    "time": 278,
+    "category": "Any% 1 Loop",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "me624e8z",
+    "game": "Exerion",
+    "player": "Charlie9631",
+    "player_location": "us",
+    "time": 214,
+    "category": "Any% 1 Loop",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "y9nog1ez",
+    "game": "Exerion",
+    "player": "HosteL",
+    "player_location": "ru",
+    "time": 113,
+    "category": "Any% 1 Loop",
+    "region": "JPN / NTSC",
+    "platform": "MSX",
+    "emulated": true
+  },
+  {
+    "id": "zq1rko8m",
+    "game": "Exerion",
+    "player": "Zericc",
+    "player_location": "ca",
+    "time": 293,
+    "category": "Any% 1 Loop",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "mr12xn2z",
+    "game": "Exerion",
+    "player": "DarthTyrael",
+    "player_location": "us",
+    "time": 294,
+    "category": "Any% 1 Loop",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "zn15drlm",
+    "game": "Exerion",
+    "player": "ivanpaduano",
+    "player_location": "it",
+    "time": 145,
+    "category": "Any% 1 Loop",
+    "region": null,
+    "platform": "MSX",
+    "emulated": true
+  },
+  {
+    "id": "y27l39jz",
+    "game": "Exerion",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 339,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "MSX",
+    "emulated": true
+  }
+]

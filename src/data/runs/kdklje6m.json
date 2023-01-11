@@ -1,0 +1,35 @@
+[
+  {
+    "id": "1zxerkem",
+    "game": "Faria",
+    "player": "Captain Saver",
+    "player_location": null,
+    "time": 12588,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y67o140m",
+    "game": "Faria",
+    "player": "catklaw",
+    "player_location": null,
+    "time": 5087,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zxler2qz",
+    "game": "Faria",
+    "player": "NESCardinality",
+    "player_location": "ca",
+    "time": 4146,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  }
+]

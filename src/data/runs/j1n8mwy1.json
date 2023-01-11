@@ -1,0 +1,46 @@
+[
+  {
+    "id": "zp21dxgy",
+    "game": "Super Savage Bros.",
+    "player": "MrSavageKitty",
+    "player_location": "us",
+    "time": 12.479,
+    "category": "1-1 as Star Mario",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "y6ndee1z",
+    "game": "Super Savage Bros.",
+    "player": "BlamingSkill",
+    "player_location": "us",
+    "time": 12.363,
+    "category": "1-1 as Star Mario",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "zq01885y",
+    "game": "Super Savage Bros.",
+    "player": "korsu",
+    "player_location": "de",
+    "time": 284.947,
+    "category": "Both Worlds",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "z0o25o8z",
+    "game": "Super Savage Bros.",
+    "player": "Ninguart",
+    "player_location": null,
+    "time": 238.883,
+    "category": "AISSON",
+    "region": null,
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  }
+]

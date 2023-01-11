@@ -1,0 +1,79 @@
+[
+  {
+    "id": "zp8ek8xy",
+    "game": "",
+    "player": "Yuyukichi",
+    "player_location": "jp",
+    "time": 186.6,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Player",
+    "emulated": false
+  },
+  {
+    "id": "mrnp37dy",
+    "game": "Game Boy Camera",
+    "player": "\u30a2\u30df\u30d1\u30bd",
+    "player_location": null,
+    "time": 238.433,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Super Game Boy",
+    "emulated": false
+  },
+  {
+    "id": "mrng8j8y",
+    "game": "Game Boy Camera",
+    "player": "JoePulito",
+    "player_location": "us",
+    "time": 18.92,
+    "category": "RUN! RUN! RUN!",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "y47d3rky",
+    "game": "Game Boy Camera",
+    "player": "pile",
+    "player_location": "us",
+    "time": 18.28,
+    "category": "RUN! RUN! RUN!",
+    "region": "USA / NTSC",
+    "platform": "Super Game Boy 2",
+    "emulated": false
+  },
+  {
+    "id": "yw34lxnm",
+    "game": "Game Boy Camera",
+    "player": "CubbyCat",
+    "player_location": "us",
+    "time": 188.28,
+    "category": "Any%",
+    "region": null,
+    "platform": "Super Game Boy",
+    "emulated": false
+  },
+  {
+    "id": "z52xr6dz",
+    "game": "Game Boy Camera",
+    "player": "DarthTyrael",
+    "player_location": "us",
+    "time": 17.91,
+    "category": "RUN! RUN! RUN!",
+    "region": "USA / NTSC",
+    "platform": "Super Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "ylno79xz",
+    "game": "Game Boy Camera",
+    "player": "Gky93",
+    "player_location": "fr",
+    "time": 16.83,
+    "category": "RUN! RUN! RUN!",
+    "region": "EUR / PAL",
+    "platform": "Game Boy",
+    "emulated": false
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "id": "z5dpo8em",
+    "game": "",
+    "player": "Karma",
+    "player_location": null,
+    "time": 1238,
+    "category": "Infinite Olives%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y671010m",
+    "game": "",
+    "player": "ZBR",
+    "player_location": "us",
+    "time": 7740,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "ywpkgonz",
+    "game": "The Battle of Olympus",
+    "player": "Saver",
+    "player_location": "us",
+    "time": 1834,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "z12v65ry",
+    "game": "The Battle of Olympus",
+    "player": "goth4goth",
+    "player_location": "be",
+    "time": 1334,
+    "category": "Infinite Olives%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "ydejpd0m",
+    "game": "The Battle of Olympus",
+    "player": "Retrogaming2084",
+    "player_location": "us",
+    "time": 1760,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "m77n4p5m",
+    "game": "The Battle of Olympus",
+    "player": "ZeroFerret",
+    "player_location": null,
+    "time": 1430,
+    "category": "Infinite Olives%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "zq9l5o9y",
+    "game": "The Battle of Olympus",
+    "player": "sascha-gaming",
+    "player_location": "de",
+    "time": 1610,
+    "category": "Infinite Olives%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  }
+]

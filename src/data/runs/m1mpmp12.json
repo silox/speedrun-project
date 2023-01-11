@@ -1,0 +1,57 @@
+[
+  {
+    "id": "emkw6w3m",
+    "game": "Universal Studios Theme Park Adventure",
+    "player": "BeefWellington",
+    "player_location": "us",
+    "time": 2638,
+    "category": "All Blue Stamps",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "zn37o17y",
+    "game": "Universal Studios Theme Park Adventure",
+    "player": "Moogle",
+    "player_location": "us",
+    "time": 2442,
+    "category": "All Blue Stamps",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "y90n3pry",
+    "game": "Universal Studios Theme Park Adventure",
+    "player": "Megalan7",
+    "player_location": "us",
+    "time": 2513,
+    "category": "All Blue Stamps",
+    "region": null,
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "z1ok5d7m",
+    "game": "Universal Studios Theme Park Adventure",
+    "player": "Yawaragi_Light44",
+    "player_location": "jp",
+    "time": 2249,
+    "category": "All Blue Stamps",
+    "region": "JPN / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "mr93qogm",
+    "game": "Universal Studios Theme Park Adventure",
+    "player": "nero_takenoko",
+    "player_location": "jp",
+    "time": 2266,
+    "category": "All Blue Stamps",
+    "region": "JPN / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  }
+]

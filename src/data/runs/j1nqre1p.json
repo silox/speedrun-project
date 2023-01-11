@@ -1,0 +1,189 @@
+[
+  {
+    "id": "9me71l2y",
+    "game": "Legacy of the Wizard",
+    "player": "feasel",
+    "player_location": "us",
+    "time": 1732,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "2yw6g33m",
+    "game": "Legacy of the Wizard",
+    "player": "Dragondarch",
+    "player_location": "us",
+    "time": 1424,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zxgwvp5y",
+    "game": "Legacy of the Wizard",
+    "player": "LadyStarbird",
+    "player_location": "us",
+    "time": 1841,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zgn341vy",
+    "game": "Legacy of the Wizard",
+    "player": "Angrylarry",
+    "player_location": "us",
+    "time": 2232,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "zn8jvvvz",
+    "game": "Legacy of the Wizard",
+    "player": "Arcus",
+    "player_location": "us",
+    "time": 12102,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y238nwwm",
+    "game": "Legacy of the Wizard",
+    "player": "ihopTV",
+    "player_location": "us",
+    "time": 1975,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "y23ld09m",
+    "game": "Legacy of the Wizard",
+    "player": "Eunos",
+    "player_location": null,
+    "time": 2705,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y928noez",
+    "game": "Legacy of the Wizard",
+    "player": "Xarnax42",
+    "player_location": "us",
+    "time": 1756,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "znk6w4lz",
+    "game": "Legacy of the Wizard",
+    "player": "DarkTerrex",
+    "player_location": "us",
+    "time": 1619,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y2qv81jy",
+    "game": "Legacy of the Wizard",
+    "player": "Vidtendo",
+    "player_location": "ca/qc",
+    "time": 2845,
+    "category": "Any% No Pause-Jump (NES)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y6nox3jz",
+    "game": "Legacy of the Wizard",
+    "player": "Retrogaming2084",
+    "player_location": "us",
+    "time": 2139,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zx43205y",
+    "game": "Legacy of the Wizard",
+    "player": "bentglasstube",
+    "player_location": "us",
+    "time": 2133,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y2e49djy",
+    "game": "Legacy of the Wizard",
+    "player": "jimjamboory",
+    "player_location": "us",
+    "time": 1298,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "z527e55z",
+    "game": "Legacy of the Wizard",
+    "player": "NLeseul",
+    "player_location": "us",
+    "time": 1816,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "MSX2",
+    "emulated": false
+  },
+  {
+    "id": "zn3eok7y",
+    "game": "Legacy of the Wizard",
+    "player": "KumaKhan22",
+    "player_location": "us",
+    "time": 3454,
+    "category": "Any%",
+    "region": null,
+    "platform": "MSX",
+    "emulated": true
+  },
+  {
+    "id": "mkgvg31y",
+    "game": "Legacy of the Wizard",
+    "player": "tommy_ibrk",
+    "player_location": "jp",
+    "time": 1954,
+    "category": "Any% No Pause-Jump (NES)",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "y60wq71y",
+    "game": "Legacy of the Wizard",
+    "player": "mettea55",
+    "player_location": "jp",
+    "time": 1337,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

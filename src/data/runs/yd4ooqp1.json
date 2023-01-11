@@ -1,0 +1,24 @@
+[
+  {
+    "id": "y23k5n9m",
+    "game": "Korosu Mario World 2",
+    "player": "ChrisG_Games",
+    "player_location": "gb/eng",
+    "time": 3459,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "m3dj30qz",
+    "game": "Korosu Mario World 2",
+    "player": "Spudd_4343",
+    "player_location": "us",
+    "time": 2476,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  }
+]

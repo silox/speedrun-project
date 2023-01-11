@@ -1,0 +1,134 @@
+[
+  {
+    "id": "8y8oqgxm",
+    "game": "Hoops",
+    "player": "RantronBomb",
+    "player_location": null,
+    "time": 165,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zq6dx7xy",
+    "game": "Hoops",
+    "player": "NihilistComedyHour",
+    "player_location": "eo",
+    "time": 217,
+    "category": "1-On-1 Victory",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "m3d0pvgz",
+    "game": "Hoops",
+    "player": "z_tox",
+    "player_location": "us",
+    "time": 122,
+    "category": "1-On-1 Victory",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "z030oeoz",
+    "game": "Hoops",
+    "player": "baldnate",
+    "player_location": null,
+    "time": 156,
+    "category": "1-On-1 Victory",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y95l9nez",
+    "game": "Hoops",
+    "player": "smartalec24",
+    "player_location": "us",
+    "time": 116,
+    "category": "1-On-1 Victory",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "yv3l274z",
+    "game": "Hoops",
+    "player": "consoleplayercentury",
+    "player_location": "us",
+    "time": 89,
+    "category": "1-On-1 Victory",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "mexwep8z",
+    "game": "Hoops",
+    "player": "YoBGS",
+    "player_location": "us",
+    "time": 320,
+    "category": "1-On-1 Victory",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "yv2rddom",
+    "game": "Hoops",
+    "player": "ShesChardcore",
+    "player_location": "us",
+    "time": 251,
+    "category": "1-On-1 Victory",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "y8d6plxz",
+    "game": "Hoops",
+    "player": "bgrich419",
+    "player_location": "us",
+    "time": 114,
+    "category": "1-On-1 Victory",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "yjxep3gz",
+    "game": "Hoops",
+    "player": "QwertyQyx",
+    "player_location": "us",
+    "time": 84,
+    "category": "1-On-1 Victory",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "mrrr00dm",
+    "game": "Hoops",
+    "player": "RyanVideoGamer",
+    "player_location": "us",
+    "time": 101,
+    "category": "1-On-1 Victory",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y2ewkw5y",
+    "game": "Hoops",
+    "player": "lackattack",
+    "player_location": "us",
+    "time": 75,
+    "category": "1-On-1 Victory",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  }
+]

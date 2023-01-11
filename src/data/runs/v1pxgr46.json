@@ -1,0 +1,57 @@
+[
+  {
+    "id": "ylr8eq2y",
+    "game": "EarthX",
+    "player": "Octonath",
+    "player_location": "fr",
+    "time": 5242.71,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y8e76n5y",
+    "game": "EarthX",
+    "player": "bendier",
+    "player_location": null,
+    "time": 3575.87,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y9lrpw2y",
+    "game": "EarthX",
+    "player": "VABG",
+    "player_location": null,
+    "time": 2560.26,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z0pkxe4y",
+    "game": "EarthX",
+    "player": "Ducky987",
+    "player_location": null,
+    "time": 7193.69,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y8xj3q5m",
+    "game": "EarthX",
+    "player": "Benjordy2",
+    "player_location": null,
+    "time": 2454.064,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  }
+]

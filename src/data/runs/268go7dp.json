@@ -1,0 +1,35 @@
+[
+  {
+    "id": "yvggojey",
+    "game": "EverWing",
+    "player": "Jaychalke",
+    "player_location": "us",
+    "time": 16.27,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zn80l0lz",
+    "game": "EverWing",
+    "player": "MystZER0",
+    "player_location": "us",
+    "time": 15,
+    "category": "50 Coins",
+    "region": "USA / NTSC",
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "m79n0lwy",
+    "game": "EverWing",
+    "player": "JayWaaking",
+    "player_location": "us",
+    "time": 4.865,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

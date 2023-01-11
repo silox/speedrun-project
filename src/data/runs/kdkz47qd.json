@@ -1,0 +1,24 @@
+[
+  {
+    "id": "zx2p7dkm",
+    "game": "",
+    "player": "Krayzar",
+    "player_location": "us",
+    "time": 68,
+    "category": "Training Missions",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "zxdprney",
+    "game": "",
+    "player": "doyen",
+    "player_location": null,
+    "time": 41,
+    "category": "Training Missions",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  }
+]

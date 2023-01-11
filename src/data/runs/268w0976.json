@@ -1,0 +1,24 @@
+[
+  {
+    "id": "mkkr4g3m",
+    "game": "Safari Race",
+    "player": "Schaaa",
+    "player_location": "no",
+    "time": 180,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "SG-1000",
+    "emulated": true
+  },
+  {
+    "id": "znqowevz",
+    "game": "Safari Race",
+    "player": "JoePulito",
+    "player_location": "us",
+    "time": 235,
+    "category": "1st section",
+    "region": "JPN / NTSC",
+    "platform": "SG-1000",
+    "emulated": true
+  }
+]

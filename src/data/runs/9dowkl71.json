@@ -1,0 +1,46 @@
+[
+  {
+    "id": "zxd05g5y",
+    "game": "Pocket Monster (SNES/Genesis)",
+    "player": "Piko10e",
+    "player_location": "us",
+    "time": 588,
+    "category": "Genesis",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "y2v0q46z",
+    "game": "Pocket Monster (SNES/Genesis)",
+    "player": "Funny_Animal_Gamer",
+    "player_location": "us",
+    "time": 610,
+    "category": "Genesis",
+    "region": null,
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "y6n722jz",
+    "game": "Pocket Monster (SNES/Genesis)",
+    "player": "_SNES_",
+    "player_location": "br",
+    "time": 1776,
+    "category": "SNES",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y9vp9wnm",
+    "game": "Pocket Monster (SNES/Genesis)",
+    "player": "ElBobbin",
+    "player_location": "ar",
+    "time": 572,
+    "category": "Genesis",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "y95gn6vz",
+    "game": "",
+    "player": "Mandy64",
+    "player_location": "us",
+    "time": 48.8,
+    "category": "CBX",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "zxg0pwey",
+    "game": "",
+    "player": "joe64bit",
+    "player_location": "gb/eng",
+    "time": 715.62,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "y6d837qm",
+    "game": "Cool Boarders 4",
+    "player": "jermoblaa",
+    "player_location": "us",
+    "time": 661.039,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  }
+]

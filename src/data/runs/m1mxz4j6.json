@@ -1,0 +1,101 @@
+[
+  {
+    "id": "yl4d6wkm",
+    "game": "Kung Zhu",
+    "player": "Madop67",
+    "player_location": "us",
+    "time": 15,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "y436qe3z",
+    "game": "Kung Zhu",
+    "player": "PoZitron",
+    "player_location": "us",
+    "time": 7.63,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "y92dp1kz",
+    "game": "Kung Zhu",
+    "player": "supermashermixgaming",
+    "player_location": "us",
+    "time": 1620,
+    "category": "All Rescues",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "yl00l6ky",
+    "game": "Kung Zhu",
+    "player": "n/a",
+    "player_location": null,
+    "time": 0.001,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "yv35xr8z",
+    "game": "Kung Zhu",
+    "player": "Cuemedge",
+    "player_location": "us",
+    "time": 1641.73,
+    "category": "All Rescues",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "mk208ovm",
+    "game": "Kung Zhu",
+    "player": "7H3",
+    "player_location": "ca",
+    "time": 38.62,
+    "category": "Any%",
+    "region": null,
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "y8r733nm",
+    "game": "Kung Zhu",
+    "player": "edichiriac123",
+    "player_location": "ca",
+    "time": 27.32,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "zq4l68rm",
+    "game": "Kung Zhu",
+    "player": "EvaTheWingdale",
+    "player_location": "us",
+    "time": 7.7,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "y6nr8qqz",
+    "game": "Kung Zhu",
+    "player": "Vu16",
+    "player_location": "ca/qc",
+    "time": 33.84,
+    "category": "Any%",
+    "region": null,
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  }
+]

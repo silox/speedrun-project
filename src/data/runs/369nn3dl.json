@@ -1,0 +1,24 @@
+[
+  {
+    "id": "mk426rvy",
+    "game": "Dragon's Lair (3DO)",
+    "player": "The_Retro_Challenger",
+    "player_location": "ca/qc",
+    "time": 622,
+    "category": "Any %",
+    "region": "USA / NTSC",
+    "platform": "3DO Interactive Multiplayer",
+    "emulated": false
+  },
+  {
+    "id": "z5oll8dy",
+    "game": "Dragon's Lair (3DO)",
+    "player": "Fio",
+    "player_location": "fr",
+    "time": 574,
+    "category": "Any % Emulated",
+    "region": "USA / NTSC",
+    "platform": "3DO Interactive Multiplayer",
+    "emulated": true
+  }
+]

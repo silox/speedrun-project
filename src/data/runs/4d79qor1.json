@@ -1,0 +1,57 @@
+[
+  {
+    "id": "y25j83jy",
+    "game": "",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 1281,
+    "category": "1P - Any%",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y2dr5r5z",
+    "game": "",
+    "player": "YMG-C",
+    "player_location": "jp",
+    "time": 1083,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "zq45qj1m",
+    "game": "ESP Ra.De.",
+    "player": "Commodore64Brannigan",
+    "player_location": "gb/sct",
+    "time": 1140,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z06n8koz",
+    "game": "ESP Ra.De.",
+    "player": "RitaH",
+    "player_location": "br",
+    "time": 1216,
+    "category": "2P Coop - Any%",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z0lk2qez",
+    "game": "ESP Ra.De.",
+    "player": "HosteL",
+    "player_location": "ru",
+    "time": 1218,
+    "category": "1P - Any%",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

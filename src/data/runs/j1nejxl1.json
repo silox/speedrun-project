@@ -1,0 +1,46 @@
+[
+  {
+    "id": "y4eod3qm",
+    "game": "Economical 2",
+    "player": "Titeiiko",
+    "player_location": "us",
+    "time": 404,
+    "category": "",
+    "region": null,
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "yv24x6om",
+    "game": "Economical 2",
+    "player": "Maggitz",
+    "player_location": "us",
+    "time": 326.333,
+    "category": "Beat The Game",
+    "region": null,
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "yw0d41pm",
+    "game": "Economical 2",
+    "player": "RaiseMC_",
+    "player_location": "us",
+    "time": 312.667,
+    "category": "Beat The Game",
+    "region": "USA / NTSC",
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "z18254ry",
+    "game": "Economical 2",
+    "player": "Parmalei",
+    "player_location": "ee",
+    "time": 281.774,
+    "category": "Beat The Game",
+    "region": null,
+    "platform": "Web",
+    "emulated": false
+  }
+]

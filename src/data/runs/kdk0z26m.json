@@ -1,0 +1,145 @@
+[
+  {
+    "id": "zgnqkwjy",
+    "game": "Ninja Gaiden 3: Razor's Edge",
+    "player": "ShinKensou",
+    "player_location": "us",
+    "time": 7000,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "yd57gg0m",
+    "game": "Ninja Gaiden 3: Razor's Edge",
+    "player": "Grayson1048",
+    "player_location": "mx",
+    "time": 6709,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "m3rlnlgm",
+    "game": "Ninja Gaiden 3: Razor's Edge",
+    "player": "casinocoin",
+    "player_location": "ca",
+    "time": 9473,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "yjg8g6gy",
+    "game": "Ninja Gaiden 3: Razor's Edge",
+    "player": "FatalPARK",
+    "player_location": "us",
+    "time": 25594,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "ylqnqvrz",
+    "game": "Ninja Gaiden 3: Razor's Edge",
+    "player": "MrThankYouGoHaveFun",
+    "player_location": null,
+    "time": 13814,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "mkgr3pvy",
+    "game": "Ninja Gaiden 3: Razor's Edge",
+    "player": "DECosmic",
+    "player_location": "us",
+    "time": 12328,
+    "category": "New Game",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 5",
+    "emulated": false
+  },
+  {
+    "id": "me7r03qy",
+    "game": "Ninja Gaiden 3: Razor's Edge",
+    "player": "BLUERIBBON93",
+    "player_location": "gb/eng",
+    "time": 8293,
+    "category": "Any% CC",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z5d3keem",
+    "game": "Ninja Gaiden 3: Razor's Edge",
+    "player": "Demild",
+    "player_location": "cn",
+    "time": 13102,
+    "category": "New Game",
+    "region": "CHN / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m7797eem",
+    "game": "Ninja Gaiden 3: Razor's Edge",
+    "player": "Setyan_Chokdee",
+    "player_location": "jp",
+    "time": 8663,
+    "category": "Any% CC",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mk5wdn5m",
+    "game": "Ninja Gaiden 3: Razor's Edge",
+    "player": "LonerHero",
+    "player_location": "qa",
+    "time": 6359,
+    "category": "Any% CC",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y93nx1ny",
+    "game": "Ninja Gaiden 3: Razor's Edge",
+    "player": "AAA0000",
+    "player_location": "kr",
+    "time": 8766,
+    "category": "New Game",
+    "region": "KOR / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zp8533vy",
+    "game": "Ninja Gaiden 3: Razor's Edge",
+    "player": "RyuHAYABUSA19",
+    "player_location": "ma",
+    "time": 8231,
+    "category": "Any% CC",
+    "region": null,
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "z0lxxr4z",
+    "game": "Ninja Gaiden 3: Razor's Edge",
+    "player": "GTNima",
+    "player_location": "ca",
+    "time": 6349,
+    "category": "Any% CC",
+    "region": null,
+    "platform": "PlayStation 4",
+    "emulated": false
+  }
+]

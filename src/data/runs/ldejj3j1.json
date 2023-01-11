@@ -1,0 +1,35 @@
+[
+  {
+    "id": "z1x72w9m",
+    "game": "Smash Tennis",
+    "player": "ND606",
+    "player_location": "jp",
+    "time": 2595,
+    "category": "Story Mode",
+    "region": "JPN / NTSC",
+    "platform": "Switch Virtual Console",
+    "emulated": false
+  },
+  {
+    "id": "y99jwjey",
+    "game": "Smash Tennis",
+    "player": "Buyaqub",
+    "player_location": "bh",
+    "time": 5776,
+    "category": "Tournament Mode",
+    "region": null,
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "yj530qnm",
+    "game": "Smash Tennis",
+    "player": "SLDC",
+    "player_location": "jp",
+    "time": 2698,
+    "category": "Story Mode",
+    "region": "JPN / NTSC",
+    "platform": "Switch Virtual Console",
+    "emulated": false
+  }
+]

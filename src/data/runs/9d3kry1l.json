@@ -1,0 +1,79 @@
+[
+  {
+    "id": "0znr8p9y",
+    "game": "Breath of Fire: Dragon Quarter",
+    "player": "Wingilbert",
+    "player_location": null,
+    "time": 4395,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "yo48lljm",
+    "game": "Breath of Fire: Dragon Quarter",
+    "player": "Dyne_Nuitari",
+    "player_location": "ca",
+    "time": 3751,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "yo94qj0y",
+    "game": "Breath of Fire: Dragon Quarter",
+    "player": "Rexdawn",
+    "player_location": "us",
+    "time": 3565,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zn4w19vm",
+    "game": "Breath of Fire: Dragon Quarter",
+    "player": "pnt_Nanaireo",
+    "player_location": "jp",
+    "time": 9884,
+    "category": "1/4 D-Ratio",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "zq36xp8y",
+    "game": "Breath of Fire: Dragon Quarter",
+    "player": "moka",
+    "player_location": "jp",
+    "time": 4086,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "y822d3ny",
+    "game": "Breath of Fire: Dragon Quarter",
+    "player": "ethanasiatv",
+    "player_location": null,
+    "time": 3982,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "y9x26l2y",
+    "game": "Breath of Fire: Dragon Quarter",
+    "player": "aircleaner",
+    "player_location": null,
+    "time": 3749,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  }
+]

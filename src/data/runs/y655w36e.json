@@ -1,0 +1,90 @@
+[
+  {
+    "id": "y23v7k7m",
+    "game": "inFAMOUS 2",
+    "player": "SROVRSTRM",
+    "player_location": "us",
+    "time": 12285,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "y4q5pg3m",
+    "game": "inFAMOUS 2",
+    "player": "SerSanju",
+    "player_location": "es",
+    "time": 8893,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "y6769q0m",
+    "game": "inFAMOUS 2",
+    "player": "kingdomjoeyy",
+    "player_location": "us",
+    "time": 12922,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "zqwk775z",
+    "game": "inFAMOUS 2",
+    "player": "Mickspad",
+    "player_location": "us",
+    "time": 9944,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "y2d6o87z",
+    "game": "inFAMOUS 2",
+    "player": "magnet_sphere55",
+    "player_location": "us",
+    "time": 9726,
+    "category": "Any%",
+    "region": null,
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "y66k49py",
+    "game": "inFAMOUS 2",
+    "player": "HTS",
+    "player_location": "us",
+    "time": 11189,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "zgxp9odm",
+    "game": "inFAMOUS 2",
+    "player": "Tiggles145",
+    "player_location": "us",
+    "time": 11560,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "yo9wlwdy",
+    "game": "inFAMOUS 2",
+    "player": "PALMMA",
+    "player_location": "pt",
+    "time": 11124,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 3",
+    "emulated": false
+  }
+]

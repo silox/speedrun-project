@@ -1,0 +1,101 @@
+[
+  {
+    "id": "y8x7n81m",
+    "game": "Touhou Thousand Night Anamnesis",
+    "player": "Akira_RP",
+    "player_location": "es",
+    "time": 35.53,
+    "category": "BOSS PRACTICE",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yv0ko28z",
+    "game": "Touhou Thousand Night Anamnesis",
+    "player": "Lebkuchen",
+    "player_location": "kz",
+    "time": 38.356,
+    "category": "BOSS PRACTICE",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mkdn5gly",
+    "game": "Touhou Thousand Night Anamnesis",
+    "player": "pestosz",
+    "player_location": "pl",
+    "time": 34.65,
+    "category": "BOSS PRACTICE",
+    "region": "EUR / PAL",
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "z52n7eez",
+    "game": "Touhou Thousand Night Anamnesis",
+    "player": "urfuture_girl",
+    "player_location": "kz",
+    "time": 622.463,
+    "category": "Wonder Mysterious Country [EXTRA]",
+    "region": "EUR / PAL",
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "me13d80y",
+    "game": "Touhou Thousand Night Anamnesis",
+    "player": "Sawashima",
+    "player_location": null,
+    "time": 395,
+    "category": "The Embodiment of Scarlet Devil",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": true
+  },
+  {
+    "id": "z0l0jkjz",
+    "game": "Touhou Thousand Night Anamnesis",
+    "player": "Baking_cOokie",
+    "player_location": "hr",
+    "time": 14,
+    "category": "Boss Rush (Infinite)",
+    "region": "USA / NTSC",
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "me1q94qy",
+    "game": "Touhou Thousand Night Anamnesis",
+    "player": "SanaeKochiya",
+    "player_location": "sv",
+    "time": 41.75,
+    "category": "BOSS PRACTICE",
+    "region": "USA / NTSC",
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "m3x4r8wm",
+    "game": "Touhou Thousand Night Anamnesis",
+    "player": "Shroomi2137",
+    "player_location": "pl",
+    "time": 48.69,
+    "category": "BOSS PRACTICE",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": true
+  },
+  {
+    "id": "yolv851y",
+    "game": "Touhou Thousand Night Anamnesis",
+    "player": "Nguyenquocdinh123D",
+    "player_location": null,
+    "time": 493,
+    "category": "The Embodiment of Scarlet Devil",
+    "region": "CHN / PAL",
+    "platform": "Android",
+    "emulated": false
+  }
+]

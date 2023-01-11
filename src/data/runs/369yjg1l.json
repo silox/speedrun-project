@@ -1,0 +1,35 @@
+[
+  {
+    "id": "8yvj234y",
+    "game": "",
+    "player": "lagmastr",
+    "player_location": "us",
+    "time": 7086,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "zq61jp1y",
+    "game": "",
+    "player": "dagronSR",
+    "player_location": "ca",
+    "time": 5647,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "z0e1ngom",
+    "game": "",
+    "player": "PJDiCesare",
+    "player_location": null,
+    "time": 6205,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  }
+]

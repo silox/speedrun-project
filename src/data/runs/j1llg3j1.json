@@ -1,0 +1,35 @@
+[
+  {
+    "id": "m7876wez",
+    "game": "Martial Masters",
+    "player": "DBcade",
+    "player_location": "jp",
+    "time": 823,
+    "category": "Arcade",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yo7nvk5m",
+    "game": "Martial Masters",
+    "player": "gheb",
+    "player_location": null,
+    "time": 1015,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yl7jxkkm",
+    "game": "Martial Masters",
+    "player": "theadictt",
+    "player_location": "cl",
+    "time": 658,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

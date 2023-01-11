@@ -1,0 +1,35 @@
+[
+  {
+    "id": "yjk5d5dm",
+    "game": "Battle: Los Angeles",
+    "player": "Dr_Njitram",
+    "player_location": "nl",
+    "time": 2153,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zxkn858m",
+    "game": "Battle: Los Angeles",
+    "player": "Darkhate",
+    "player_location": "us",
+    "time": 1426,
+    "category": "Any% Easy",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m35n1d4y",
+    "game": "Battle: Los Angeles",
+    "player": "Meozinho",
+    "player_location": "br",
+    "time": 1820,
+    "category": "Any% Easy",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

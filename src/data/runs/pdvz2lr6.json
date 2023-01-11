@@ -1,0 +1,46 @@
+[
+  {
+    "id": "m7gpq1wm",
+    "game": "Monster Rancher Advance 2",
+    "player": "Cypress",
+    "player_location": "us",
+    "time": 7259,
+    "category": "any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Player",
+    "emulated": false
+  },
+  {
+    "id": "z0ol4vez",
+    "game": "Monster Rancher Advance 2",
+    "player": "bedegeln",
+    "player_location": null,
+    "time": 6212,
+    "category": "any%",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "zxgke25y",
+    "game": "Monster Rancher Advance 2",
+    "player": "runasoru",
+    "player_location": "jp",
+    "time": 5538,
+    "category": "any%",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Player",
+    "emulated": false
+  },
+  {
+    "id": "yvqvql8m",
+    "game": "Monster Rancher Advance 2",
+    "player": "megacannon9",
+    "player_location": "us",
+    "time": 7348,
+    "category": "any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  }
+]

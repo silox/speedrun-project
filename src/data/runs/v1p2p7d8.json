@@ -1,0 +1,35 @@
+[
+  {
+    "id": "y979jkem",
+    "game": "Ace Combat 6: Fires of Liberation",
+    "player": "Maxisonfire",
+    "player_location": "gb/eng",
+    "time": 7004,
+    "category": "Special new game",
+    "region": "EUR / PAL",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "yjkqvddm",
+    "game": "Ace Combat 6: Fires of Liberation",
+    "player": "dridgesnapoleon",
+    "player_location": "us",
+    "time": 6940,
+    "category": "Special new game",
+    "region": "USA / NTSC",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "znrrd83y",
+    "game": "Ace Combat 6: Fires of Liberation",
+    "player": "StarPilot87",
+    "player_location": "us",
+    "time": 5648,
+    "category": "Special new game",
+    "region": "USA / NTSC",
+    "platform": "Xbox 360",
+    "emulated": false
+  }
+]

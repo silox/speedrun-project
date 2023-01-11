@@ -1,0 +1,35 @@
+[
+  {
+    "id": "znq27q7z",
+    "game": "Sol Divide",
+    "player": "zhutousan123",
+    "player_location": "cn",
+    "time": 373,
+    "category": "Arcade 1P Any%",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yol4pv0y",
+    "game": "Sol Divide",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 417,
+    "category": "Arcade 2P Any%",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yv89wl8m",
+    "game": "Sol Divide",
+    "player": "Shredmachine",
+    "player_location": "se",
+    "time": 603,
+    "category": "Console Ports 1P Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  }
+]

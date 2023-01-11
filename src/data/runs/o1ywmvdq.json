@@ -1,0 +1,123 @@
+[
+  {
+    "id": "9mewlj2m",
+    "game": "Golf (GB)",
+    "player": "RottDawg",
+    "player_location": null,
+    "time": 953,
+    "category": "U.S.A. 18",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": false
+  },
+  {
+    "id": "1zx5jkem",
+    "game": "Golf (GB)",
+    "player": "Aphotic_Ktulu",
+    "player_location": "us",
+    "time": 855,
+    "category": "Japan 18",
+    "region": null,
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "zq73719m",
+    "game": "Golf (GB)",
+    "player": "PXL8Calypso",
+    "player_location": "us",
+    "time": 732,
+    "category": "U.S.A. 18",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "z134oq9m",
+    "game": "Golf (GB)",
+    "player": "josef733",
+    "player_location": "ca",
+    "time": 853,
+    "category": "Japan 18",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "m3o0j7dm",
+    "game": "Golf (GB)",
+    "player": "NihilistComedyHour",
+    "player_location": "eo",
+    "time": 914,
+    "category": "Japan 18",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "y95149rz",
+    "game": "Golf (GB)",
+    "player": "smartalec24",
+    "player_location": "us",
+    "time": 895,
+    "category": "U.S.A. 18",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": false
+  },
+  {
+    "id": "yojwpk1m",
+    "game": "Golf (GB)",
+    "player": "JPlay",
+    "player_location": "gb/eng",
+    "time": 829,
+    "category": "Japan 18",
+    "region": null,
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "zqw06wrz",
+    "game": "Golf (GB)",
+    "player": "adrianus",
+    "player_location": "ch",
+    "time": 961,
+    "category": "Japan 18",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Player",
+    "emulated": false
+  },
+  {
+    "id": "z5jeqpgm",
+    "game": "Golf (GB)",
+    "player": "BambooRequest",
+    "player_location": "us",
+    "time": 692,
+    "category": "Japan 18",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "m75d66ez",
+    "game": "Golf (GB)",
+    "player": "Jordanar18",
+    "player_location": "us",
+    "time": 594,
+    "category": "Japan 18",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "z0op5w4z",
+    "game": "Golf (GB)",
+    "player": "z_tox",
+    "player_location": "us",
+    "time": 826,
+    "category": "Japan 18",
+    "region": "USA / NTSC",
+    "platform": "Super Game Boy",
+    "emulated": false
+  }
+]

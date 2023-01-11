@@ -1,0 +1,134 @@
+[
+  {
+    "id": "yj1j8rgy",
+    "game": "Nintendogs",
+    "player": "Mook",
+    "player_location": "us",
+    "time": 675,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "2yw2449y",
+    "game": "Nintendogs",
+    "player": "Arnold0",
+    "player_location": "fr",
+    "time": 688,
+    "category": "All Beginner Contest Golds",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "zxg1vlqy",
+    "game": "Nintendogs",
+    "player": "ZooKetra",
+    "player_location": "gb/wls",
+    "time": 672,
+    "category": "All Beginner Contest Golds",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "m3n9w7gy",
+    "game": "Nintendogs",
+    "player": "AlpacaCharlie",
+    "player_location": "es/pv",
+    "time": 727,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "zx6g2nkz",
+    "game": "Nintendogs",
+    "player": "Bat",
+    "player_location": "us",
+    "time": 1315,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "mejqlr9y",
+    "game": "Nintendogs",
+    "player": "chestchestjp",
+    "player_location": "jp",
+    "time": 703,
+    "category": "All Beginner Contest Golds",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "m37ee46z",
+    "game": "Nintendogs",
+    "player": "QYOUK",
+    "player_location": "fr",
+    "time": 756,
+    "category": "All Beginner Contest Golds",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "z1pxrdjz",
+    "game": "Nintendogs",
+    "player": "GappyV",
+    "player_location": "us",
+    "time": 666,
+    "category": "Emulator Beginner Contest golds",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "y4q753nm",
+    "game": "Nintendogs",
+    "player": "CYNKO",
+    "player_location": "us",
+    "time": 709,
+    "category": "Emulator Beginner Contest golds",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "yw3k8q0m",
+    "game": "Nintendogs",
+    "player": "Poobious",
+    "player_location": "us",
+    "time": 799,
+    "category": "Emulator Beginner Contest golds",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "yl7p2wxm",
+    "game": "Nintendogs",
+    "player": "gcorgia",
+    "player_location": null,
+    "time": 745,
+    "category": "All Beginner Contest Golds",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "yodp080m",
+    "game": "Nintendogs",
+    "player": "AlphaDolphin",
+    "player_location": "ca/qc",
+    "time": 663,
+    "category": "Emulator Beginner Contest golds",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  }
+]

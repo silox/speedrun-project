@@ -1,0 +1,35 @@
+[
+  {
+    "id": "y9ll4nry",
+    "game": "The Real Ghostbusters Arcade",
+    "player": "Dr_Ubershadow_MD",
+    "player_location": "us",
+    "time": 39,
+    "category": "",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y200l77m",
+    "game": "The Real Ghostbusters Arcade",
+    "player": "RitaH",
+    "player_location": "br",
+    "time": 41,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y8jj5dxz",
+    "game": "The Real Ghostbusters Arcade",
+    "player": "Dumple",
+    "player_location": "us",
+    "time": 58,
+    "category": "1 Player",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

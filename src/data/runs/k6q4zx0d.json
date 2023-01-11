@@ -1,0 +1,123 @@
+[
+  {
+    "id": "y213d6jz",
+    "game": "Ninja Gaiden (Arcade)",
+    "player": "MarthSR",
+    "player_location": "ca/qc",
+    "time": 1286,
+    "category": "any%",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "mexvn29z",
+    "game": "Ninja Gaiden (Arcade)",
+    "player": "DTysonator",
+    "player_location": "ca",
+    "time": 1536,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Wii Virtual Console",
+    "emulated": false
+  },
+  {
+    "id": "m7qn13ez",
+    "game": "Ninja Gaiden (Arcade)",
+    "player": "Moo_Moony",
+    "player_location": "ca/qc",
+    "time": 1164,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z015rj9y",
+    "game": "Ninja Gaiden (Arcade)",
+    "player": "No Damage Retro",
+    "player_location": null,
+    "time": 1546,
+    "category": "1cc%",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "znrk1v7y",
+    "game": "Ninja Gaiden (Arcade)",
+    "player": "GreatShiningOne",
+    "player_location": null,
+    "time": 2039,
+    "category": "any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "y95098ez",
+    "game": "Ninja Gaiden (Arcade)",
+    "player": "Bryan Schillo",
+    "player_location": null,
+    "time": 1975,
+    "category": "1cc%",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": false
+  },
+  {
+    "id": "znrjdk9y",
+    "game": "Ninja Gaiden (Arcade)",
+    "player": "_Mark_",
+    "player_location": null,
+    "time": 1347,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zxk387km",
+    "game": "Ninja Gaiden (Arcade)",
+    "player": "RitaH",
+    "player_location": "br",
+    "time": 1903,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yojg1d0m",
+    "game": "Ninja Gaiden (Arcade)",
+    "player": "Janet",
+    "player_location": null,
+    "time": 1555,
+    "category": "1cc%",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": false
+  },
+  {
+    "id": "zxlx04gz",
+    "game": "Ninja Gaiden (Arcade)",
+    "player": "Farnham_The_Drunk",
+    "player_location": "de",
+    "time": 1368,
+    "category": "any%",
+    "region": "EUR / PAL",
+    "platform": "Xbox",
+    "emulated": false
+  },
+  {
+    "id": "yw3krrpm",
+    "game": "Ninja Gaiden (Arcade)",
+    "player": "Hoover",
+    "player_location": "kr",
+    "time": 1205,
+    "category": "1cc%",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "y416x23y",
+    "game": "",
+    "player": "Dani\u00eblHarteveld",
+    "player_location": "nl",
+    "time": 1228,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "z57880nm",
+    "game": "",
+    "player": "R0main",
+    "player_location": "fr",
+    "time": 1145,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "y81w5rnz",
+    "game": "",
+    "player": "aboood40091",
+    "player_location": "sd",
+    "time": 1113,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Wii U",
+    "emulated": true
+  },
+  {
+    "id": "y4wr66dm",
+    "game": "Volcanic Super Mario Bros. U",
+    "player": "Mutexx",
+    "player_location": "de",
+    "time": 1092,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Wii U",
+    "emulated": true
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "m3dd3l4z",
+    "game": "X-Men: Children of the Atom",
+    "player": "Salero_Eon",
+    "player_location": "cl",
+    "time": 485,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yw4137nz",
+    "game": "X-Men: Children of the Atom",
+    "player": "kenshireando",
+    "player_location": "ar",
+    "time": 593,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yok9n11z",
+    "game": "X-Men: Children of the Atom",
+    "player": "Jesus82050615",
+    "player_location": "ca/qc",
+    "time": 616,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "yd02r8jz",
+    "game": "X-Men: Children of the Atom",
+    "player": "DeadlyRaveNeo",
+    "player_location": "us",
+    "time": 587,
+    "category": "Arcade",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z1r8n9gm",
+    "game": "X-Men: Children of the Atom",
+    "player": "Blazedd0nuts",
+    "player_location": "us",
+    "time": 340,
+    "category": "Arcade",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

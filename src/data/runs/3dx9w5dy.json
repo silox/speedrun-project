@@ -1,0 +1,35 @@
+[
+  {
+    "id": "y6nqn20z",
+    "game": "WWE Smackdown Vs Raw 2010 (DS)",
+    "player": "Drake_Shadow",
+    "player_location": "us",
+    "time": 10735,
+    "category": "Story Mode Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "zxgjo95y",
+    "game": "WWE Smackdown Vs Raw 2010 (DS)",
+    "player": "LegitLogan",
+    "player_location": "us",
+    "time": 11449,
+    "category": "Story Mode Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "zq0g8d5y",
+    "game": "WWE Smackdown Vs Raw 2010 (DS)",
+    "player": "4ND1",
+    "player_location": "de",
+    "time": 12261,
+    "category": "Story Mode Any%",
+    "region": "EUR / PAL",
+    "platform": "Nintendo DS",
+    "emulated": true
+  }
+]

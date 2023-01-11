@@ -1,0 +1,57 @@
+[
+  {
+    "id": "y696v36y",
+    "game": "12 Labours of Hercules XI: Painted Adventure",
+    "player": "AslanTZ",
+    "player_location": "tr",
+    "time": 5,
+    "category": "Any%",
+    "region": null,
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "m77xn3em",
+    "game": "12 Labours of Hercules XI: Painted Adventure",
+    "player": "Jacob1",
+    "player_location": "ca",
+    "time": 5,
+    "category": "Any%",
+    "region": null,
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "z0o9qx8z",
+    "game": "12 Labours of Hercules XI: Painted Adventure",
+    "player": "TRLittleToaster",
+    "player_location": "us",
+    "time": 5,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "yl75xnnm",
+    "game": "12 Labours of Hercules XI: Painted Adventure",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 5,
+    "category": "Any%",
+    "region": null,
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "me1p299y",
+    "game": "12 Labours of Hercules XI: Painted Adventure",
+    "player": "c0ckatoo",
+    "player_location": "ph",
+    "time": 4,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  }
+]

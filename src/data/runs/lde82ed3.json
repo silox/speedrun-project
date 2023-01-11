@@ -1,0 +1,68 @@
+[
+  {
+    "id": "ywpek0pz",
+    "game": "Armed with Wings",
+    "player": "dracozod",
+    "player_location": "us",
+    "time": 1459.5,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "y922lkez",
+    "game": "Armed with Wings",
+    "player": "TwiNaga",
+    "player_location": null,
+    "time": 587.11,
+    "category": "Story Mode",
+    "region": "USA / NTSC",
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "yo2qjq0z",
+    "game": "Armed with Wings",
+    "player": "Cytruss",
+    "player_location": "gr",
+    "time": 110,
+    "category": "",
+    "region": null,
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "y41571ky",
+    "game": "Armed with Wings",
+    "player": "FastFolks",
+    "player_location": "nl",
+    "time": 553,
+    "category": "Story Mode",
+    "region": null,
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "yd5236xm",
+    "game": "Armed with Wings",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 31.44,
+    "category": "",
+    "region": null,
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "z0rxd2oz",
+    "game": "Armed with Wings",
+    "player": "TRLittleToaster",
+    "player_location": "us",
+    "time": 62.1,
+    "category": "Tutorial",
+    "region": "USA / NTSC",
+    "platform": "Web",
+    "emulated": false
+  }
+]

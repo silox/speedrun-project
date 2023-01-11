@@ -1,0 +1,178 @@
+[
+  {
+    "id": "6yj86o3m",
+    "game": "Persona 4 Arena: Ultimax",
+    "player": "Darkbboyred",
+    "player_location": "us",
+    "time": 166.95,
+    "category": "Arcade Mode",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "z13gw2gm",
+    "game": "Persona 4 Arena: Ultimax",
+    "player": "Gold",
+    "player_location": "gb/wls",
+    "time": 543.866,
+    "category": "Arcade Mode",
+    "region": "EUR / PAL",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "zq6d2k5y",
+    "game": "Persona 4 Arena: Ultimax",
+    "player": "Lewdenburg",
+    "player_location": "us",
+    "time": 2868.21,
+    "category": "Golden Arena",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "y89x3n1m",
+    "game": "Persona 4 Arena: Ultimax",
+    "player": "UltimateTrainer",
+    "player_location": "us",
+    "time": 209.533,
+    "category": "Arcade Mode",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "z57320gm",
+    "game": "Persona 4 Arena: Ultimax",
+    "player": "AvengedWerehog",
+    "player_location": "au",
+    "time": 2280,
+    "category": "P4 Side Story",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "yj6rnodz",
+    "game": "Persona 4 Arena: Ultimax",
+    "player": "Sytaro",
+    "player_location": "us",
+    "time": 99.3,
+    "category": "Arcade Mode",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "yd0x0gwz",
+    "game": "Persona 4 Arena: Ultimax",
+    "player": "StarkillerShane",
+    "player_location": "gb/eng",
+    "time": 82.983,
+    "category": "Arcade Mode",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "yo998v0y",
+    "game": "Persona 4 Arena: Ultimax",
+    "player": "Loking",
+    "player_location": "pe",
+    "time": 141.733,
+    "category": "Arcade Mode",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "y478l8ky",
+    "game": "Persona 4 Arena: Ultimax",
+    "player": "BALFINDOR",
+    "player_location": "ca",
+    "time": 79.633,
+    "category": "Arcade Mode",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "me3kw0qz",
+    "game": "Persona 4 Arena: Ultimax",
+    "player": "ShingledClown",
+    "player_location": "gb/eng",
+    "time": 113.183,
+    "category": "Arcade Mode",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "yop40w7m",
+    "game": "Persona 4 Arena: Ultimax",
+    "player": "RebelDragon95",
+    "player_location": "gb/eng",
+    "time": 97.666,
+    "category": "Arcade Mode",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zgp79vdz",
+    "game": "Persona 4 Arena: Ultimax",
+    "player": "mightyjoey",
+    "player_location": "us",
+    "time": 135.316,
+    "category": "Arcade Mode",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z1p4v3rz",
+    "game": "Persona 4 Arena: Ultimax",
+    "player": "ziodyne",
+    "player_location": "gr",
+    "time": 108.883,
+    "category": "Arcade Mode",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yd115k0y",
+    "game": "Persona 4 Arena: Ultimax",
+    "player": "Brunsie",
+    "player_location": "us",
+    "time": 98.266,
+    "category": "Arcade Mode",
+    "region": "USA / NTSC",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "y2eo43jy",
+    "game": "Persona 4 Arena: Ultimax",
+    "player": "Art_Izon",
+    "player_location": "us",
+    "time": 87.533,
+    "category": "Arcade Mode",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "m72qv10z",
+    "game": "Persona 4 Arena: Ultimax",
+    "player": "Lattice",
+    "player_location": null,
+    "time": 125.583,
+    "category": "Arcade Mode",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

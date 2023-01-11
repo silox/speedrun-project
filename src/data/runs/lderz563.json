@@ -1,0 +1,57 @@
+[
+  {
+    "id": "8m7xx1ey",
+    "game": "Mobile Suit Gundam: Extreme VS Full Boost",
+    "player": "Bossjoe",
+    "player_location": "us",
+    "time": 841.17,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "oy2jex7z",
+    "game": "Mobile Suit Gundam: Extreme VS Full Boost",
+    "player": "mudkipman98",
+    "player_location": "us",
+    "time": 801,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "9yonno1z",
+    "game": "Mobile Suit Gundam: Extreme VS Full Boost",
+    "player": "Jeannotbdf",
+    "player_location": "fr",
+    "time": 890.29,
+    "category": "Arcade",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "pydpq80y",
+    "game": "Mobile Suit Gundam: Extreme VS Full Boost",
+    "player": "gmcustom",
+    "player_location": "us",
+    "time": 799.52,
+    "category": "Arcade",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "m3d6xv6z",
+    "game": "Mobile Suit Gundam: Extreme VS Full Boost",
+    "player": "ikaruga6458",
+    "player_location": "jp",
+    "time": 761.028,
+    "category": "Arcade",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  }
+]

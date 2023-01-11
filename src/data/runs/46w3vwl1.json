@@ -1,0 +1,46 @@
+[
+  {
+    "id": "y213516z",
+    "game": "Shin Megami Tensei: Strange Journey Redux",
+    "player": "Koolzo",
+    "player_location": "us",
+    "time": 62637,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "mex1g00z",
+    "game": "Shin Megami Tensei: Strange Journey Redux",
+    "player": "PinkPajamas",
+    "player_location": "us",
+    "time": 42567,
+    "category": "Expert, Neutral, Shekinah",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "ydrgg2vz",
+    "game": "Shin Megami Tensei: Strange Journey Redux",
+    "player": "nkjm",
+    "player_location": "jp",
+    "time": 26858,
+    "category": "Expert, Neutral, Shekinah",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "z5dx4ggm",
+    "game": "Shin Megami Tensei: Strange Journey Redux",
+    "player": "Freedom_Pulse",
+    "player_location": "us",
+    "time": 37984,
+    "category": "Expert, Neutral, Shekinah",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  }
+]

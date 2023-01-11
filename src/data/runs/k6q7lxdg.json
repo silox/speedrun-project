@@ -1,0 +1,90 @@
+[
+  {
+    "id": "yl9en9ky",
+    "game": "Batman Forever",
+    "player": "Loki_Khan",
+    "player_location": "us",
+    "time": 5554,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "mr8k22dy",
+    "game": "Batman Forever",
+    "player": "Cy60r",
+    "player_location": "ru",
+    "time": 2143,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "z03pqe8z",
+    "game": "Batman Forever",
+    "player": "solidesnakk",
+    "player_location": null,
+    "time": 1973,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "me7v450y",
+    "game": "Batman Forever",
+    "player": "Faust4712",
+    "player_location": "us",
+    "time": 2048,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "z5rxk3ey",
+    "game": "Batman Forever",
+    "player": "facundomounes",
+    "player_location": "ar",
+    "time": 1522,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": false
+  },
+  {
+    "id": "yjgxjd7y",
+    "game": "Batman Forever",
+    "player": "rabbitDumpling",
+    "player_location": "us",
+    "time": 1703,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "me171r2y",
+    "game": "Batman Forever",
+    "player": "Moo_Moony",
+    "player_location": "ca/qc",
+    "time": 4510,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "yjdoej7y",
+    "game": "Batman Forever",
+    "player": "sascha-gaming",
+    "player_location": "de",
+    "time": 1432,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "yw12pe2z",
+    "game": "Ristar (Game Gear)",
+    "player": "Lizstar",
+    "player_location": "us",
+    "time": 1724,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Game Gear",
+    "emulated": true
+  },
+  {
+    "id": "y452wjkm",
+    "game": "Ristar (Game Gear)",
+    "player": "Chubbus",
+    "player_location": "us",
+    "time": 1437,
+    "category": "NA Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Game Gear",
+    "emulated": true
+  },
+  {
+    "id": "mrqd7o7y",
+    "game": "Ristar (Game Gear)",
+    "player": "GarbitheGlitcheress",
+    "player_location": "us",
+    "time": 1646,
+    "category": "NA Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Game Gear",
+    "emulated": true
+  },
+  {
+    "id": "y6780e1m",
+    "game": "Ristar (Game Gear)",
+    "player": "suddenlycassie",
+    "player_location": null,
+    "time": 1612,
+    "category": "NA Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Game Gear",
+    "emulated": true
+  },
+  {
+    "id": "yorq410y",
+    "game": "Ristar (Game Gear)",
+    "player": "Bepisoft",
+    "player_location": "us",
+    "time": 1421,
+    "category": "NA Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Game Gear",
+    "emulated": true
+  },
+  {
+    "id": "ylr7nv3y",
+    "game": "Ristar (Game Gear)",
+    "player": "chronoon",
+    "player_location": "us",
+    "time": 1583,
+    "category": "NA Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Game Gear",
+    "emulated": true
+  }
+]

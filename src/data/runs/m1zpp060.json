@@ -1,0 +1,46 @@
+[
+  {
+    "id": "z11g0jrz",
+    "game": "JumpStart Pet Rescue",
+    "player": "Switchmaster64",
+    "player_location": "us",
+    "time": 539,
+    "category": "First Storybook",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "zx4006ey",
+    "game": "JumpStart Pet Rescue",
+    "player": "Funbucket",
+    "player_location": "us",
+    "time": 536,
+    "category": "First Storybook",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": true
+  },
+  {
+    "id": "yl0ln7xy",
+    "game": "JumpStart Pet Rescue",
+    "player": "NinjastarReviews",
+    "player_location": "aq",
+    "time": 542,
+    "category": "First Storybook",
+    "region": "USA / NTSC",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "y89n3v5m",
+    "game": "JumpStart Pet Rescue",
+    "player": "Super",
+    "player_location": "us",
+    "time": 583,
+    "category": "First Storybook",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  }
+]

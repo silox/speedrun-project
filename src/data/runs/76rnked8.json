@@ -1,0 +1,68 @@
+[
+  {
+    "id": "z11047jz",
+    "game": "",
+    "player": "pocketpablo64",
+    "player_location": "no",
+    "time": 263.63,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y21j1l9z",
+    "game": "",
+    "player": "jzf",
+    "player_location": "us",
+    "time": 259.24,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yj42wvny",
+    "game": "",
+    "player": "Gazza",
+    "player_location": "au",
+    "time": 377.79,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zqr9k5xy",
+    "game": "Karoshi: Suicide Salaryman",
+    "player": "Wurtweakle",
+    "player_location": "us",
+    "time": 340.74,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "ywdopp2z",
+    "game": "Karoshi: Suicide Salaryman",
+    "player": "Kelborn",
+    "player_location": "us",
+    "time": 249.57,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zq4x9d5m",
+    "game": "Karoshi: Suicide Salaryman",
+    "player": "MrMonsh",
+    "player_location": "ar",
+    "time": 299.999,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

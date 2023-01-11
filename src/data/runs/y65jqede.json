@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1zqqd6xz",
+    "game": "Adventures of Dino Riki",
+    "player": "Heroes of Xanadu",
+    "player_location": null,
+    "time": 1387,
+    "category": "Beat the Game",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "mk4d4lly",
+    "game": "Adventures of Dino Riki",
+    "player": "NESCardinality",
+    "player_location": "ca",
+    "time": 1220,
+    "category": "Beat the Game",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zn4v5q3m",
+    "game": "Adventures of Dino Riki",
+    "player": "Vidtendo",
+    "player_location": "ca/qc",
+    "time": 1738,
+    "category": "Beat the Game",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y92g2vkz",
+    "game": "Adventures of Dino Riki",
+    "player": "nxps_",
+    "player_location": "us",
+    "time": 1239,
+    "category": "Beat the Game",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "z5389n5y",
+    "game": "Adventures of Dino Riki",
+    "player": "ArkanoidAddict",
+    "player_location": "fi",
+    "time": 2492,
+    "category": "Beat the Game",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  }
+]

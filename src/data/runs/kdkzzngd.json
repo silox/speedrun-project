@@ -1,0 +1,35 @@
+[
+  {
+    "id": "y45knl2m",
+    "game": "Great Greed",
+    "player": "FlashTheorie",
+    "player_location": "fr",
+    "time": 40517,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "y2qq67jy",
+    "game": "Great Greed",
+    "player": "PPLToast",
+    "player_location": "fi",
+    "time": 14177,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "ywd1pppz",
+    "game": "Great Greed",
+    "player": "aoilog928",
+    "player_location": "jp",
+    "time": 16495,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy",
+    "emulated": false
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "mr9r8n8m",
+    "game": "",
+    "player": "SystemRestart",
+    "player_location": "us",
+    "time": 2084,
+    "category": "Normal Ending",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yo3pnddy",
+    "game": "",
+    "player": "notmanz",
+    "player_location": "id",
+    "time": 2215,
+    "category": "Normal Ending",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zqvr08xm",
+    "game": "",
+    "player": "Tembusa",
+    "player_location": "jp",
+    "time": 2069,
+    "category": "Normal Ending",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

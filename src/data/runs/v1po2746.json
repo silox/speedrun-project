@@ -1,0 +1,68 @@
+[
+  {
+    "id": "z50kkp5y",
+    "game": "Demonoire",
+    "player": "Skitchybois",
+    "player_location": "us",
+    "time": 537,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "yj17gpny",
+    "game": "Demonoire",
+    "player": "Parkour_Ninja_Kitty",
+    "player_location": "us",
+    "time": 873,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "z5v8xqem",
+    "game": "Demonoire",
+    "player": "HoloKnight",
+    "player_location": "us",
+    "time": 322.567,
+    "category": "Any%",
+    "region": null,
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "yj5peqgm",
+    "game": "Demonoire",
+    "player": "Camo_Galaxy",
+    "player_location": "gb/eng",
+    "time": 622.058,
+    "category": "Any%",
+    "region": null,
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "yv00q4ez",
+    "game": "Demonoire",
+    "player": "SomeGuy37",
+    "player_location": "us",
+    "time": 313.95,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m76x9k0y",
+    "game": "Demonoire",
+    "player": "BamBam325",
+    "player_location": "gb",
+    "time": 529.8,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Web",
+    "emulated": false
+  }
+]

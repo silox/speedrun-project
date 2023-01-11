@@ -1,0 +1,90 @@
+[
+  {
+    "id": "zgnvjxny",
+    "game": "Under Night In-Birth Exe:Late",
+    "player": "JakatoXtra",
+    "player_location": "us",
+    "time": 1225,
+    "category": "Arcade - Normal",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m796559y",
+    "game": "Under Night In-Birth Exe:Late",
+    "player": "RealSonicKings",
+    "player_location": "us",
+    "time": 795,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "yd3nxwjz",
+    "game": "Under Night In-Birth Exe:Late",
+    "player": "Zekro",
+    "player_location": null,
+    "time": 294,
+    "category": "",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z1j83w9z",
+    "game": "Under Night In-Birth Exe:Late",
+    "player": "syunichi",
+    "player_location": "jp",
+    "time": 427,
+    "category": "Arcade - Easiest",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mex6vd9z",
+    "game": "Under Night In-Birth Exe:Late",
+    "player": "Hagen",
+    "player_location": "fr",
+    "time": 612,
+    "category": "Arcade - Normal",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y65qn66z",
+    "game": "Under Night In-Birth Exe:Late",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 530,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "yd05l6xz",
+    "game": "Under Night In-Birth Exe:Late",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 287,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y8jnwr1z",
+    "game": "Under Night In-Birth Exe:Late",
+    "player": "Jubilee",
+    "player_location": "us",
+    "time": 336,
+    "category": "Arcade - Console",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": true
+  }
+]

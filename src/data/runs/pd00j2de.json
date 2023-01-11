@@ -1,0 +1,101 @@
+[
+  {
+    "id": "zpq2dony",
+    "game": "Tobal No. 1",
+    "player": "Aerlien",
+    "player_location": "us",
+    "time": 47.7,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "yjkxlonm",
+    "game": "Tobal No. 1",
+    "player": "Furry2",
+    "player_location": "us",
+    "time": 48.76,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "mk4egl1y",
+    "game": "Tobal No. 1",
+    "player": "Auchgard",
+    "player_location": "us",
+    "time": 66.01,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "zgn8ll0y",
+    "game": "Tobal No. 1",
+    "player": "SuperTOBALMan",
+    "player_location": "jp",
+    "time": 2037,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "m31grldz",
+    "game": "Tobal No. 1",
+    "player": "Despera",
+    "player_location": "be",
+    "time": 47.043,
+    "category": "Tournament Mode",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "zp48l1xz",
+    "game": "Tobal No. 1",
+    "player": "Maiguels",
+    "player_location": "es",
+    "time": 168.17,
+    "category": "Tournament Mode",
+    "region": null,
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "yv3r9w6z",
+    "game": "Tobal No. 1",
+    "player": "DBcade",
+    "player_location": "jp",
+    "time": 82,
+    "category": "Tournament Mode",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "z150l4gy",
+    "game": "Tobal No. 1",
+    "player": "MortimerNova",
+    "player_location": "us",
+    "time": 146.067,
+    "category": "Tournament Mode",
+    "region": null,
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "yw6vvd9m",
+    "game": "Tobal No. 1",
+    "player": "LuxStein",
+    "player_location": "us",
+    "time": 60.25,
+    "category": "Tournament Mode",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  }
+]

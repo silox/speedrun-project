@@ -1,0 +1,35 @@
+[
+  {
+    "id": "zgngk3dy",
+    "game": "Burnout Legends (DS)",
+    "player": "CertifiedPyro",
+    "player_location": "us",
+    "time": 12239,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "z0rpol9z",
+    "game": "Burnout Legends (DS)",
+    "player": "itBunHop",
+    "player_location": null,
+    "time": 8576,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "zpd3dvxz",
+    "game": "Burnout Legends (DS)",
+    "player": "yanounai",
+    "player_location": "fr",
+    "time": 8294,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Nintendo DS",
+    "emulated": true
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "m78dw45z",
+    "game": "Mega Man: Dr. Wily's Revenge",
+    "player": "xenkaroshi",
+    "player_location": "se",
+    "time": 1137,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "m367dqgm",
+    "game": "Mega Man: Dr. Wily's Revenge",
+    "player": "TerrainfirStudios",
+    "player_location": "us",
+    "time": 2739,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Game Boy",
+    "emulated": false
+  },
+  {
+    "id": "ywj9p23z",
+    "game": "Mega Man: Dr. Wily's Revenge",
+    "player": "AceStar9",
+    "player_location": "ca",
+    "time": 1405,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "yvrqw8xz",
+    "game": "Mega Man: Dr. Wily's Revenge",
+    "player": "Spooky_Mulder",
+    "player_location": null,
+    "time": 1635,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Game Boy",
+    "emulated": true
+  }
+]

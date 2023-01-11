@@ -1,0 +1,90 @@
+[
+  {
+    "id": "y899ldwm",
+    "game": "",
+    "player": "Carter44",
+    "player_location": "ca",
+    "time": 89,
+    "category": "1 loop",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "mr8p484y",
+    "game": "",
+    "player": "sullyrox",
+    "player_location": "us",
+    "time": 95,
+    "category": "1 loop",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "yw8l6pny",
+    "game": "",
+    "player": "Tishero",
+    "player_location": "us",
+    "time": 88.005,
+    "category": "1 loop",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y8ed7q1y",
+    "game": "VS. Duck Hunt",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 100,
+    "category": "1 loop",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "m3gow9dz",
+    "game": "VS. Duck Hunt",
+    "player": "Oldschoolmcfly",
+    "player_location": "us",
+    "time": 85,
+    "category": "1 loop",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "m3rwo24m",
+    "game": "VS. Duck Hunt",
+    "player": "ShesChardcore",
+    "player_location": "us",
+    "time": 102.91,
+    "category": "1 loop",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "yde3rkxm",
+    "game": "VS. Duck Hunt",
+    "player": "JoePulito",
+    "player_location": "us",
+    "time": 87,
+    "category": "1 loop",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y6nd12qz",
+    "game": "VS. Duck Hunt",
+    "player": "Peanutfan22",
+    "player_location": "us",
+    "time": 99.85,
+    "category": "1 loop",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  }
+]

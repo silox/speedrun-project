@@ -1,0 +1,35 @@
+[
+  {
+    "id": "yv26j96m",
+    "game": "Super Rub 'a' Dub",
+    "player": "twe2001",
+    "player_location": "eu",
+    "time": 17.56,
+    "category": "Tub 11",
+    "region": null,
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "me9x9p2z",
+    "game": "Super Rub 'a' Dub",
+    "player": "SeductiveSpatula",
+    "player_location": "no",
+    "time": 662,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "z062wwjz",
+    "game": "Super Rub 'a' Dub",
+    "player": "Kaffe",
+    "player_location": null,
+    "time": 1756.72,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": true
+  }
+]

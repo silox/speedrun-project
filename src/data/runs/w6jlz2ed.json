@@ -1,0 +1,46 @@
+[
+  {
+    "id": "z5741k5m",
+    "game": "",
+    "player": "chronoon",
+    "player_location": "us",
+    "time": 825,
+    "category": "Game Gear",
+    "region": "JPN / NTSC",
+    "platform": "Sega Game Gear",
+    "emulated": false
+  },
+  {
+    "id": "zqr0px1y",
+    "game": "",
+    "player": "chaos42666",
+    "player_location": "us",
+    "time": 922,
+    "category": "Game Gear",
+    "region": null,
+    "platform": "Sega Game Gear",
+    "emulated": true
+  },
+  {
+    "id": "zqr2j3xy",
+    "game": "",
+    "player": "Rasmus_1990",
+    "player_location": "no",
+    "time": 1115,
+    "category": "Master System",
+    "region": "BRA / PAL",
+    "platform": "Sega Master System",
+    "emulated": false
+  },
+  {
+    "id": "yw81863y",
+    "game": "",
+    "player": "icekitsune",
+    "player_location": "us",
+    "time": 814,
+    "category": "Game Gear",
+    "region": "JPN / NTSC",
+    "platform": "Sega Game Gear",
+    "emulated": true
+  }
+]

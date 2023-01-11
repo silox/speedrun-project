@@ -1,0 +1,46 @@
+[
+  {
+    "id": "0y60x31y",
+    "game": "Odin Sphere",
+    "player": "Shikitin",
+    "player_location": "es",
+    "time": 9360,
+    "category": "Any% Gwendolyn",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "yl9998ky",
+    "game": "Odin Sphere",
+    "player": "SailorMercury",
+    "player_location": null,
+    "time": 3681,
+    "category": "Any% Gwendolyn",
+    "region": "USA / NTSC",
+    "platform": "PSN Download",
+    "emulated": false
+  },
+  {
+    "id": "mek20n8m",
+    "game": "Odin Sphere",
+    "player": "KaiserKreuz",
+    "player_location": "fr",
+    "time": 2322,
+    "category": "Any% Mercedes",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "m3nd036y",
+    "game": "Odin Sphere",
+    "player": "JackPotato",
+    "player_location": "my",
+    "time": 3249,
+    "category": "Any% Mercedes",
+    "region": null,
+    "platform": "PlayStation 2",
+    "emulated": true
+  }
+]

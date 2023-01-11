@@ -1,0 +1,35 @@
+[
+  {
+    "id": "z0pp7n9y",
+    "game": "Mega Man Xtreme 2",
+    "player": "TempestMask1000",
+    "player_location": "us",
+    "time": 1277.76,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "y6097x6y",
+    "game": "Mega Man Xtreme 2",
+    "player": "Geno2006",
+    "player_location": "us",
+    "time": 244,
+    "category": "Boss Attack",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS Virtual Console",
+    "emulated": false
+  },
+  {
+    "id": "y8x6o85m",
+    "game": "Mega Man Xtreme 2",
+    "player": "Rose_Xorn",
+    "player_location": "us",
+    "time": 194,
+    "category": "Boss Attack",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  }
+]

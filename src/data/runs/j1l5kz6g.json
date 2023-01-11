@@ -1,0 +1,35 @@
+[
+  {
+    "id": "kz5n8xdz",
+    "game": "Nicktoons Racing (PC)",
+    "player": "CuteJosie",
+    "player_location": "us",
+    "time": 1488,
+    "category": "All Cups",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y2ql2r9y",
+    "game": "Nicktoons Racing (PC)",
+    "player": "VHSGamer99",
+    "player_location": null,
+    "time": 30.83,
+    "category": "1 Lap",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y47x7x3y",
+    "game": "Nicktoons Racing (PC)",
+    "player": "kiol",
+    "player_location": null,
+    "time": 30.08,
+    "category": "1 Lap",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "id": "ywjggg3z",
+    "game": "Adventure Time: Fangs for the Memories",
+    "player": "Act_",
+    "player_location": "us",
+    "time": 7,
+    "category": "Easy",
+    "region": null,
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "yvqle2em",
+    "game": "Adventure Time: Fangs for the Memories",
+    "player": "funado",
+    "player_location": "ar",
+    "time": 6,
+    "category": "Easy",
+    "region": null,
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "zxl15dqz",
+    "game": "Adventure Time: Fangs for the Memories",
+    "player": "Zambrini",
+    "player_location": "us",
+    "time": 4,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "y20l51jm",
+    "game": "Adventure Time: Fangs for the Memories",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 4,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "y2pg265z",
+    "game": "Adventure Time: Fangs for the Memories",
+    "player": "TRLittleToaster",
+    "player_location": "us",
+    "time": 5,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "y6xoplpy",
+    "game": "Adventure Time: Fangs for the Memories",
+    "player": "CallSaul",
+    "player_location": "us",
+    "time": 3,
+    "category": "Easy",
+    "region": null,
+    "platform": "Web",
+    "emulated": true
+  },
+  {
+    "id": "z1q3pe9y",
+    "game": "Adventure Time: Fangs for the Memories",
+    "player": "Daxzz",
+    "player_location": "es",
+    "time": 2,
+    "category": "Easy",
+    "region": "EUR / PAL",
+    "platform": "Web",
+    "emulated": false
+  }
+]

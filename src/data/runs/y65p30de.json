@@ -1,0 +1,24 @@
+[
+  {
+    "id": "m3d37jqz",
+    "game": ".hack//Outbreak",
+    "player": "irisukyoko",
+    "player_location": "jp",
+    "time": 7816,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "mex9l33z",
+    "game": ".hack//Outbreak",
+    "player": "Royzoga",
+    "player_location": "us",
+    "time": 7439,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  }
+]

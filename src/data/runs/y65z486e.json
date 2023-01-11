@@ -1,0 +1,222 @@
+[
+  {
+    "id": "y8q9q6wy",
+    "game": "Donkey Kong '94",
+    "player": "Tropicallo",
+    "player_location": null,
+    "time": 4071.871,
+    "category": "All Stages",
+    "region": null,
+    "platform": "Super Game Boy",
+    "emulated": false
+  },
+  {
+    "id": "zn848v9z",
+    "game": "Donkey Kong '94",
+    "player": "MHFsilver",
+    "player_location": "us",
+    "time": 11167,
+    "category": "All Stages",
+    "region": null,
+    "platform": "Super Game Boy",
+    "emulated": false
+  },
+  {
+    "id": "yl94962y",
+    "game": "Donkey Kong '94",
+    "player": "yp",
+    "player_location": "ca",
+    "time": 11700,
+    "category": "All Stages",
+    "region": null,
+    "platform": null,
+    "emulated": true
+  },
+  {
+    "id": "mek8klqm",
+    "game": "Donkey Kong '94",
+    "player": "Saidin93",
+    "player_location": "de",
+    "time": 7334,
+    "category": "All Items",
+    "region": null,
+    "platform": null,
+    "emulated": true
+  },
+  {
+    "id": "m3do4ggz",
+    "game": "Donkey Kong '94",
+    "player": "Moltov",
+    "player_location": "us",
+    "time": 5041.598,
+    "category": "All Stages",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Interface",
+    "emulated": false
+  },
+  {
+    "id": "zx2j6n8m",
+    "game": "Donkey Kong '94",
+    "player": "SparkCity",
+    "player_location": "ca",
+    "time": 3886.266,
+    "category": "All Stages",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "y82p5vny",
+    "game": "Donkey Kong '94",
+    "player": "NullSprite",
+    "player_location": "no",
+    "time": 3888.316,
+    "category": "All Stages",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "y4577wdm",
+    "game": "Donkey Kong '94",
+    "player": "Viperisk",
+    "player_location": "ca",
+    "time": 9972,
+    "category": "All Stages",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Player",
+    "emulated": false
+  },
+  {
+    "id": "yd31e6vz",
+    "game": "Donkey Kong '94",
+    "player": "LudwigVonKoopa",
+    "player_location": "de",
+    "time": 2172.84,
+    "category": "Beat the Game (Glitched)",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "m3d8j2wz",
+    "game": "Donkey Kong '94",
+    "player": "serchival",
+    "player_location": "mx",
+    "time": 7532.929,
+    "category": "All Stages",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "mrojnn4m",
+    "game": "Donkey Kong '94",
+    "player": "PTO",
+    "player_location": "us",
+    "time": 2063.18,
+    "category": "Beat the Game (Glitched)",
+    "region": null,
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "yw17v50z",
+    "game": "Donkey Kong '94",
+    "player": "infinitemystery",
+    "player_location": null,
+    "time": 33910.4,
+    "category": "All Stages",
+    "region": "USA / NTSC",
+    "platform": "Super Game Boy 2",
+    "emulated": false
+  },
+  {
+    "id": "yw19830z",
+    "game": "Donkey Kong '94",
+    "player": "doicm",
+    "player_location": "us",
+    "time": 5674.203,
+    "category": "All Stages",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Player",
+    "emulated": false
+  },
+  {
+    "id": "yw43883z",
+    "game": "Donkey Kong '94",
+    "player": "Civel",
+    "player_location": "fr",
+    "time": 5131.63,
+    "category": "All Stages",
+    "region": "EUR / PAL",
+    "platform": "Game Boy",
+    "emulated": false
+  },
+  {
+    "id": "y90699ry",
+    "game": "Donkey Kong '94",
+    "player": "Raknoran",
+    "player_location": "de",
+    "time": 2914.95,
+    "category": "Beat the Game (Glitched)",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "zqwj71rz",
+    "game": "Donkey Kong '94",
+    "player": "Nardiko",
+    "player_location": "de",
+    "time": 5206.1,
+    "category": "All Stages",
+    "region": null,
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "y4eekxnm",
+    "game": "Donkey Kong '94",
+    "player": "Zer0_ssbm",
+    "player_location": "jp",
+    "time": 4685.75,
+    "category": "All Items",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Interface",
+    "emulated": false
+  },
+  {
+    "id": "mr64v88m",
+    "game": "Donkey Kong '94",
+    "player": "SomieStuff",
+    "player_location": "ca",
+    "time": 6480.79,
+    "category": "All Stages",
+    "region": null,
+    "platform": "Super Game Boy 2",
+    "emulated": true
+  },
+  {
+    "id": "zq0dr01y",
+    "game": "Donkey Kong '94",
+    "player": "baldnate",
+    "player_location": null,
+    "time": 15433.184,
+    "category": "All Stages",
+    "region": "USA / NTSC",
+    "platform": "Super Game Boy 2",
+    "emulated": true
+  },
+  {
+    "id": "y6o71d1y",
+    "game": "Donkey Kong '94",
+    "player": "jammininmypjs",
+    "player_location": "us",
+    "time": 4990.061,
+    "category": "All Stages",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "y9582qez",
+    "game": "Dedede's Drum Dash Deluxe",
+    "player": "Demolition14",
+    "player_location": "gb/eng",
+    "time": 411,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "New Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "y67lxr1m",
+    "game": "Dedede's Drum Dash Deluxe",
+    "player": "shirokirby",
+    "player_location": "jp",
+    "time": 1121,
+    "category": "All Platinum Trophies",
+    "region": "JPN / NTSC",
+    "platform": "New Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "zp0w8v8m",
+    "game": "Dedede's Drum Dash Deluxe",
+    "player": "swordsmankirby",
+    "player_location": "us",
+    "time": 408,
+    "category": "Normal Ending",
+    "region": "USA / NTSC",
+    "platform": "New Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "mrk63pdy",
+    "game": "Dedede's Drum Dash Deluxe",
+    "player": "Shiro785",
+    "player_location": "jp",
+    "time": 410,
+    "category": "Normal Ending",
+    "region": "JPN / NTSC",
+    "platform": "New Nintendo 3DS",
+    "emulated": false
+  }
+]

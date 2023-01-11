@@ -1,0 +1,79 @@
+[
+  {
+    "id": "mr98n72m",
+    "game": "FlingSmash",
+    "player": "Prnced",
+    "player_location": "us",
+    "time": 6661,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "m3nvlndy",
+    "game": "FlingSmash",
+    "player": "Watermelonezz",
+    "player_location": "us",
+    "time": 1574,
+    "category": "Boss Rush",
+    "region": null,
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "y4edd4qm",
+    "game": "FlingSmash",
+    "player": "Mr._Gamer",
+    "player_location": "us",
+    "time": 7352,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "mkglk2ly",
+    "game": "FlingSmash",
+    "player": "NActualLoser",
+    "player_location": "us",
+    "time": 7223,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "m3lorw4m",
+    "game": "FlingSmash",
+    "player": "maksimry",
+    "player_location": "us",
+    "time": 1265,
+    "category": "Boss Rush",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "zx7wxvgy",
+    "game": "FlingSmash",
+    "player": "HatBoy",
+    "player_location": "us",
+    "time": 1724,
+    "category": "Boss Rush",
+    "region": null,
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "y6op0r0y",
+    "game": "FlingSmash",
+    "player": "SuperStarStudiosYT",
+    "player_location": "us",
+    "time": 1232,
+    "category": "Boss Rush",
+    "region": null,
+    "platform": "Wii",
+    "emulated": false
+  }
+]

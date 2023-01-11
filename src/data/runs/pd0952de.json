@@ -1,0 +1,68 @@
+[
+  {
+    "id": "dy4886qm",
+    "game": "Knight Squad",
+    "player": "Titonic IV",
+    "player_location": null,
+    "time": 5959,
+    "category": "Insane Challenge",
+    "region": "EUR / PAL",
+    "platform": "Xbox One",
+    "emulated": false
+  },
+  {
+    "id": "7z0op3ez",
+    "game": "Knight Squad",
+    "player": "Perish",
+    "player_location": null,
+    "time": 9209,
+    "category": "Insane Challenge",
+    "region": "EUR / PAL",
+    "platform": "Xbox One",
+    "emulated": false
+  },
+  {
+    "id": "y8q2j0dy",
+    "game": "Knight Squad",
+    "player": "OurAfflictions",
+    "player_location": "us",
+    "time": 584,
+    "category": "Challenge",
+    "region": "USA / NTSC",
+    "platform": "Xbox One",
+    "emulated": false
+  },
+  {
+    "id": "z1352kwm",
+    "game": "Knight Squad",
+    "player": "Ellie",
+    "player_location": "gb/eng",
+    "time": 3164,
+    "category": "Insane Challenge",
+    "region": "EUR / PAL",
+    "platform": "Xbox One",
+    "emulated": false
+  },
+  {
+    "id": "mk94d43z",
+    "game": "Knight Squad",
+    "player": "DarQ",
+    "player_location": "ca",
+    "time": 6.723,
+    "category": "Easy Mode",
+    "region": "USA / NTSC",
+    "platform": "Xbox One",
+    "emulated": false
+  },
+  {
+    "id": "z01wrxey",
+    "game": "Knight Squad",
+    "player": "17k",
+    "player_location": "us",
+    "time": 21.07,
+    "category": "Easy Mode",
+    "region": null,
+    "platform": "Xbox One",
+    "emulated": false
+  }
+]

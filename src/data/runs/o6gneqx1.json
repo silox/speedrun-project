@@ -1,0 +1,35 @@
+[
+  {
+    "id": "zpde6lgz",
+    "game": "Final Star Force",
+    "player": "HosteL",
+    "player_location": "ru",
+    "time": 1661,
+    "category": "1P",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "mkdn171y",
+    "game": "Final Star Force",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 1764,
+    "category": "2P",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yln90jnz",
+    "game": "Final Star Force",
+    "player": "Ellimist",
+    "player_location": "us",
+    "time": 1594,
+    "category": "2P",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "id": "8m764xey",
+    "game": "Shin Megami Tensei: Persona",
+    "player": "Symm",
+    "player_location": "gb",
+    "time": 5450,
+    "category": "Snow Queen Quest",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "7z0pg4oy",
+    "game": "Shin Megami Tensei: Persona",
+    "player": "escargoon",
+    "player_location": null,
+    "time": 7014,
+    "category": "Snow Queen Quest",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation Vita",
+    "emulated": false
+  },
+  {
+    "id": "zpq0l6vy",
+    "game": "Shin Megami Tensei: Persona",
+    "player": "Liv",
+    "player_location": "gb",
+    "time": 21933,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "PlayStation Vita",
+    "emulated": false
+  },
+  {
+    "id": "zgnv94jy",
+    "game": "Shin Megami Tensei: Persona",
+    "player": "Pell_",
+    "player_location": "us",
+    "time": 10106,
+    "category": "Snow Queen Quest",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Vita",
+    "emulated": false
+  },
+  {
+    "id": "zn815g7z",
+    "game": "Shin Megami Tensei: Persona",
+    "player": "Mulsqi",
+    "player_location": "fi",
+    "time": 5269,
+    "category": "Snow Queen Quest",
+    "region": "EUR / PAL",
+    "platform": "PlayStation Vita",
+    "emulated": false
+  },
+  {
+    "id": "zp0jo2vm",
+    "game": "Shin Megami Tensei: Persona",
+    "player": "AtleyS",
+    "player_location": "us",
+    "time": 5653,
+    "category": "Snow Queen Quest",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "m31dpewz",
+    "game": "Shin Megami Tensei: Persona",
+    "player": "Tick_Show",
+    "player_location": "jp",
+    "time": 4469,
+    "category": "Snow Queen Quest",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation Vita",
+    "emulated": false
+  },
+  {
+    "id": "m315gv6z",
+    "game": "Shin Megami Tensei: Persona",
+    "player": "2K_Kief",
+    "player_location": null,
+    "time": 5447,
+    "category": "Snow Queen Quest",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "y4e0gq2m",
+    "game": "Shin Megami Tensei: Persona",
+    "player": "Lonne",
+    "player_location": "gb/sct",
+    "time": 7072,
+    "category": "Snow Queen Quest",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "zp10olxz",
+    "game": "Shin Megami Tensei: Persona",
+    "player": "Worldie",
+    "player_location": "it",
+    "time": 14179,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "y8evqd1y",
+    "game": "Shin Megami Tensei: Persona",
+    "player": "GhostScit",
+    "player_location": null,
+    "time": 6713,
+    "category": "Snow Queen Quest",
+    "region": "USA / NTSC",
+    "platform": "Playstation TV",
+    "emulated": false
+  },
+  {
+    "id": "y8jw3rxz",
+    "game": "Shin Megami Tensei: Persona",
+    "player": "ToxicTT",
+    "player_location": "ru",
+    "time": 4877,
+    "category": "Snow Queen Quest",
+    "region": "USA / NTSC",
+    "platform": "Playstation TV",
+    "emulated": false
+  }
+]

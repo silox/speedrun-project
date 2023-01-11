@@ -1,0 +1,79 @@
+[
+  {
+    "id": "y6l26kpy",
+    "game": "Spot: The Video Game (GB)",
+    "player": "Logan_Sacrey",
+    "player_location": "ca",
+    "time": 266,
+    "category": "100%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": false
+  },
+  {
+    "id": "yd6nxdjz",
+    "game": "Spot: The Video Game (GB)",
+    "player": "adrianus",
+    "player_location": "ch",
+    "time": 43,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Player",
+    "emulated": false
+  },
+  {
+    "id": "zprl65xm",
+    "game": "Spot: The Video Game (GB)",
+    "player": "baldnate",
+    "player_location": null,
+    "time": 43,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Game Boy 2",
+    "emulated": false
+  },
+  {
+    "id": "meong63z",
+    "game": "Spot: The Video Game (GB)",
+    "player": "TheStrahl",
+    "player_location": "us",
+    "time": 22,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Player",
+    "emulated": false
+  },
+  {
+    "id": "y82op11y",
+    "game": "Spot: The Video Game (GB)",
+    "player": "Rayquaza911",
+    "player_location": "ca",
+    "time": 28,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "zx2pr0gm",
+    "game": "Spot: The Video Game (GB)",
+    "player": "MortimerNova",
+    "player_location": "us",
+    "time": 35,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "ylv3p5km",
+    "game": "Spot: The Video Game (GB)",
+    "player": "repuSoiraM",
+    "player_location": "us",
+    "time": 22,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "id": "z1x9v4wm",
+    "game": "Kubinashi Recollection",
+    "player": "Naro",
+    "player_location": "no",
+    "time": 21.43,
+    "category": "Jelly Attack!",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y8epeq1y",
+    "game": "Kubinashi Recollection",
+    "player": "mirukuro",
+    "player_location": "jp",
+    "time": 1903.7,
+    "category": "Normal Mode",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m37p8eqz",
+    "game": "Kubinashi Recollection",
+    "player": "PineappleDerp",
+    "player_location": "us",
+    "time": 3394.81,
+    "category": "All Puzzle Pieces",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m365nq4m",
+    "game": "Kubinashi Recollection",
+    "player": "SAS_rta",
+    "player_location": "jp",
+    "time": 21.23,
+    "category": "Jelly Attack!",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z5v6wjgm",
+    "game": "Kubinashi Recollection",
+    "player": "MegaMia",
+    "player_location": "ca",
+    "time": 4.9,
+    "category": "Normal Mode",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y8j8qrdz",
+    "game": "Kubinashi Recollection",
+    "player": "Smaxes",
+    "player_location": "de",
+    "time": 2233.8,
+    "category": "Normal Mode",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zp2v1dny",
+    "game": "Kubinashi Recollection",
+    "player": "renisaclus",
+    "player_location": null,
+    "time": 5.38,
+    "category": "Normal Mode",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "yv0eo6oz",
+    "game": "Kubinashi Recollection",
+    "player": "tofonfirefire",
+    "player_location": "jp",
+    "time": 1226,
+    "category": "9 Heads",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yv014l8z",
+    "game": "Kubinashi Recollection",
+    "player": "AsneL",
+    "player_location": "jp",
+    "time": 1876,
+    "category": "9 Heads",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

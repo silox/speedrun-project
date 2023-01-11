@@ -1,0 +1,46 @@
+[
+  {
+    "id": "mk9kg41z",
+    "game": "Gate of Doom",
+    "player": "turbogilman",
+    "player_location": "us",
+    "time": 1016,
+    "category": "Any% Wizard",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "yv25j2em",
+    "game": "Gate of Doom",
+    "player": "andresfgp13",
+    "player_location": "cl",
+    "time": 1504,
+    "category": "Any% Ninja",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "zgrv1ndm",
+    "game": "Gate of Doom",
+    "player": "Spawnstalker",
+    "player_location": "us",
+    "time": 1150,
+    "category": "Any% Wizard",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "yjdw9rdy",
+    "game": "Gate of Doom",
+    "player": "Ellimist",
+    "player_location": "us",
+    "time": 1257,
+    "category": "Any% 2P",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

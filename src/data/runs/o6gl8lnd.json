@@ -1,0 +1,24 @@
+[
+  {
+    "id": "zp0oeq8m",
+    "game": "Newest Super Mario Bros. Wii",
+    "player": "R0main",
+    "player_location": "fr",
+    "time": 3664,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "z5d914jm",
+    "game": "Newest Super Mario Bros. Wii",
+    "player": "Toad4Smash",
+    "player_location": "us",
+    "time": 3255,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  }
+]

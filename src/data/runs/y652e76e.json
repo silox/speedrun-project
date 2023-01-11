@@ -1,0 +1,123 @@
+[
+  {
+    "id": "emkgdkxy",
+    "game": "Deadly Towers",
+    "player": "feasel",
+    "player_location": "us",
+    "time": 1902,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "pm3vxjwz",
+    "game": "Deadly Towers",
+    "player": "Dragondarch",
+    "player_location": "us",
+    "time": 1647,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y9539lez",
+    "game": "Deadly Towers",
+    "player": "Chimp",
+    "player_location": "us",
+    "time": 2102,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "z01g778y",
+    "game": "Deadly Towers",
+    "player": "Retrogaming2084",
+    "player_location": "us",
+    "time": 2485,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "yd04e9xz",
+    "game": "Deadly Towers",
+    "player": "JSR_",
+    "player_location": "us",
+    "time": 2586,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "yd0p77qz",
+    "game": "Deadly Towers",
+    "player": "JAMESvsGAMES",
+    "player_location": "us",
+    "time": 5340,
+    "category": "Any%",
+    "region": null,
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zp10p7xz",
+    "game": "Deadly Towers",
+    "player": "yotsuba_cat",
+    "player_location": "jp",
+    "time": 1581,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "z5d88p5m",
+    "game": "Deadly Towers",
+    "player": "jooniejoone",
+    "player_location": "us",
+    "time": 2747,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "y8elrewy",
+    "game": "Deadly Towers",
+    "player": "ironrusty",
+    "player_location": "us",
+    "time": 2995,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "y69w1xpy",
+    "game": "Deadly Towers",
+    "player": "Apollo22237",
+    "player_location": "us",
+    "time": 2702,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "z52d7qez",
+    "game": "Deadly Towers",
+    "player": "nescapeplan",
+    "player_location": "us",
+    "time": 2659,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "z13746jm",
+    "game": "World Heroes 2 JET",
+    "player": "NerdyNester",
+    "player_location": "us",
+    "time": 929,
+    "category": "Neo Geo (MVS)",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "mr9892gm",
+    "game": "World Heroes 2 JET",
+    "player": "DBcade",
+    "player_location": "jp",
+    "time": 607,
+    "category": "Gameboy",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  }
+]

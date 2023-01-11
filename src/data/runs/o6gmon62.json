@@ -1,0 +1,145 @@
+[
+  {
+    "id": "y6712e1m",
+    "game": "Deathsmiles",
+    "player": "SnuggleTimeKitty",
+    "player_location": "us",
+    "time": 1249,
+    "category": "Mega Black Label",
+    "region": "USA / NTSC",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "me8dp28m",
+    "game": "Deathsmiles",
+    "player": "kronoschiarini",
+    "player_location": "br",
+    "time": 1594,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z1rg38wm",
+    "game": "Deathsmiles",
+    "player": "NeetSuhiro",
+    "player_location": "jp",
+    "time": 1137,
+    "category": "Mega Black Label",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m785gdez",
+    "game": "Deathsmiles",
+    "player": "Jum-Kernel_in",
+    "player_location": "jp",
+    "time": 1161.73,
+    "category": "Mega Black Label",
+    "region": "JPN / NTSC",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "y2xe617m",
+    "game": "Deathsmiles",
+    "player": "UnforgivenStranger",
+    "player_location": "jp",
+    "time": 1132.75,
+    "category": "Mega Black Label",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yw0d9l0m",
+    "game": "Deathsmiles",
+    "player": "SingularAndrew",
+    "player_location": "ca",
+    "time": 1228.68,
+    "category": "Mega Black Label",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yv2ojo8m",
+    "game": "Deathsmiles",
+    "player": "Juanman",
+    "player_location": null,
+    "time": 1587,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yv2v3gom",
+    "game": "Deathsmiles",
+    "player": "RitaH",
+    "player_location": "br",
+    "time": 1310,
+    "category": "2P Cooperative",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y9npl2ez",
+    "game": "Deathsmiles",
+    "player": "shutterguy925",
+    "player_location": "jp",
+    "time": 1242,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zn7we68m",
+    "game": "Deathsmiles",
+    "player": "JorgeReevs_ix",
+    "player_location": "br",
+    "time": 1285,
+    "category": "",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "znp0797m",
+    "game": "Deathsmiles",
+    "player": "WearingFin",
+    "player_location": "gb",
+    "time": 1462,
+    "category": "Original",
+    "region": null,
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "zx8qevem",
+    "game": "Deathsmiles",
+    "player": "Ellimist",
+    "player_location": "us",
+    "time": 1296,
+    "category": "2P Cooperative",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "znqx4g8z",
+    "game": "Deathsmiles",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 1947,
+    "category": "2P Cooperative",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

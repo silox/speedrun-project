@@ -1,0 +1,35 @@
+[
+  {
+    "id": "pydp2xjy",
+    "game": "BBQ quest",
+    "player": "Garrettp375",
+    "player_location": "us",
+    "time": 234,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "7yl25wkz",
+    "game": "BBQ quest",
+    "player": "Lothjon",
+    "player_location": "dk",
+    "time": 227,
+    "category": "Any% With Walk-Thru walls abuse",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m7q5839z",
+    "game": "BBQ quest",
+    "player": "deadkingwalking",
+    "player_location": "ee",
+    "time": 223,
+    "category": "Any% With Walk-Thru walls abuse",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  }
+]

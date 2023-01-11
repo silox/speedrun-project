@@ -1,0 +1,57 @@
+[
+  {
+    "id": "m332wrwm",
+    "game": "Maximus 2",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 118,
+    "category": "1P",
+    "region": "BRA / PAL",
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "zq7on38m",
+    "game": "Maximus 2",
+    "player": "daff",
+    "player_location": "ru",
+    "time": 182,
+    "category": "1P",
+    "region": null,
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "z5xowkjy",
+    "game": "Maximus 2",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 137,
+    "category": "1P",
+    "region": null,
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "y8xvnkwm",
+    "game": "Maximus 2",
+    "player": "reck_loses",
+    "player_location": null,
+    "time": 53,
+    "category": "1P",
+    "region": null,
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "y6xd1eqy",
+    "game": "Maximus 2",
+    "player": "lilryan",
+    "player_location": null,
+    "time": 45,
+    "category": "1P",
+    "region": "USA / NTSC",
+    "platform": "iOS",
+    "emulated": false
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "y6lol50y",
+    "game": "Radiant Historia: Perfect Chronology",
+    "player": "Zinfogel",
+    "player_location": "ec",
+    "time": 21582,
+    "category": "Any% (Friendly)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "y6l26xqy",
+    "game": "Radiant Historia: Perfect Chronology",
+    "player": "Ghostwheel",
+    "player_location": "us",
+    "time": 39375,
+    "category": "Any% (Normal)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  }
+]

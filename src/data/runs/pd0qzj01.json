@@ -1,0 +1,24 @@
+[
+  {
+    "id": "m36lo7gm",
+    "game": "Kyle Petty's No Fear Racing",
+    "player": "BMac_Attack_64",
+    "player_location": "us",
+    "time": 8271.55,
+    "category": "Win Season",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y9lww1vy",
+    "game": "Kyle Petty's No Fear Racing",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 90.5,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "id": "7z0r34z5",
+    "game": "Crash of the Titans (GBA)",
+    "player": "alexmandi",
+    "player_location": "gr",
+    "time": 6283,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "8y8d95z1",
+    "game": "Crash of the Titans (GBA)",
+    "player": "PeteThePlayer",
+    "player_location": "de",
+    "time": 10933,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "2ywxwlpm",
+    "game": "Crash of the Titans (GBA)",
+    "player": "BetaM",
+    "player_location": "pl",
+    "time": 3337,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "z13r9n7m",
+    "game": "Crash of the Titans (GBA)",
+    "player": "FedePG52",
+    "player_location": "pe",
+    "time": 3546,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "m799vo0y",
+    "game": "Crash of the Titans (GBA)",
+    "player": "CDRomatron",
+    "player_location": "gb/sct",
+    "time": 3118,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Player",
+    "emulated": false
+  },
+  {
+    "id": "y89r741m",
+    "game": "Crash of the Titans (GBA)",
+    "player": "New999",
+    "player_location": "au",
+    "time": 2838,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "mk9don3z",
+    "game": "Crash of the Titans (GBA)",
+    "player": "noahsimcox",
+    "player_location": "us",
+    "time": 2087,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  }
+]

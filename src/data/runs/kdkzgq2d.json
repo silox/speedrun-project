@@ -1,0 +1,35 @@
+[
+  {
+    "id": "yjlepkdz",
+    "game": "Gota.io Scrimmage",
+    "player": "rishabhgghosh",
+    "player_location": null,
+    "time": 54.19,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "meo22j0z",
+    "game": "Gota.io Scrimmage",
+    "player": "Vixios",
+    "player_location": "gb",
+    "time": 20.013,
+    "category": "",
+    "region": null,
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "mk76nw3y",
+    "game": "Gota.io Scrimmage",
+    "player": "mamo34",
+    "player_location": "fr",
+    "time": 10.096,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "id": "y92r79kz",
+    "game": "Road to World Cup: 98",
+    "player": "CHEESENATER",
+    "player_location": "gb/eng",
+    "time": 7.42,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Nintendo 64",
+    "emulated": true
+  },
+  {
+    "id": "me8qxj3m",
+    "game": "Road to World Cup: 98",
+    "player": "Monster_Flip",
+    "player_location": "us",
+    "time": 4.38,
+    "category": "Goal%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "z51q785m",
+    "game": "Road to World Cup: 98",
+    "player": "superbaca",
+    "player_location": "pt",
+    "time": 6.02,
+    "category": "Goal%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": true
+  },
+  {
+    "id": "zp4nwp8z",
+    "game": "Road to World Cup: 98",
+    "player": "Cavallos99",
+    "player_location": "tn",
+    "time": 3.65,
+    "category": "Goal%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "m7qn1q5z",
+    "game": "Road to World Cup: 98",
+    "player": "GuiToTTi10",
+    "player_location": "br",
+    "time": 4,
+    "category": "Goal%",
+    "region": null,
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "zxk5g1em",
+    "game": "Road to World Cup: 98",
+    "player": "MadPunkerz",
+    "player_location": "it",
+    "time": 76.35,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "z5j1nkem",
+    "game": "Road to World Cup: 98",
+    "player": "LagoaNegra",
+    "player_location": "br",
+    "time": 3.533,
+    "category": "Goal%",
+    "region": null,
+    "platform": "Nintendo 64",
+    "emulated": true
+  },
+  {
+    "id": "yv994xez",
+    "game": "Road to World Cup: 98",
+    "player": "GonzaloRunner",
+    "player_location": "ar",
+    "time": 4.17,
+    "category": "Goal%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "ylq9r42z",
+    "game": "Road to World Cup: 98",
+    "player": "Lika0n",
+    "player_location": "fr",
+    "time": 8.267,
+    "category": "Goal%",
+    "region": "EUR / PAL",
+    "platform": "Nintendo 64",
+    "emulated": false
+  },
+  {
+    "id": "mk52dpvm",
+    "game": "Road to World Cup: 98",
+    "player": "jonmarlow",
+    "player_location": "gb",
+    "time": 3.74,
+    "category": "Goal%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "z5x432dy",
+    "game": "Road to World Cup: 98",
+    "player": "FeelingSupersonic",
+    "player_location": null,
+    "time": 62.24,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "y80940dm",
+    "game": "Road to World Cup: 98",
+    "player": "RusbenCormano",
+    "player_location": "br",
+    "time": 1,
+    "category": "Goal%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "y6oldo1y",
+    "game": "Road to World Cup: 98",
+    "player": "Mateo_315",
+    "player_location": "uy",
+    "time": 9.095,
+    "category": "Goal%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "ywv88v0z",
+    "game": "Road to World Cup: 98",
+    "player": "Pounouche",
+    "player_location": "fr",
+    "time": 119.68,
+    "category": "5 Red Cards",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": false
+  }
+]

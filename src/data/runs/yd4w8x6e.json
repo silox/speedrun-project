@@ -1,0 +1,233 @@
+[
+  {
+    "id": "7z0xpk4z",
+    "game": "Senran Kagura Shinovi Versus",
+    "player": "mappings",
+    "player_location": "ca",
+    "time": 3592,
+    "category": "New Game",
+    "region": null,
+    "platform": null,
+    "emulated": false
+  },
+  {
+    "id": "6yjq6p3m",
+    "game": "Senran Kagura Shinovi Versus",
+    "player": "SG_Yusuke",
+    "player_location": "gb/eng",
+    "time": 358,
+    "category": "Shinobi Girls Heart",
+    "region": null,
+    "platform": null,
+    "emulated": false
+  },
+  {
+    "id": "pydp0lvy",
+    "game": "Senran Kagura Shinovi Versus",
+    "player": "Hypelastika",
+    "player_location": "ba",
+    "time": 400,
+    "category": "Shinobi Girls Heart",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "pzg1p8vz",
+    "game": "Senran Kagura Shinovi Versus",
+    "player": "AkiraKoops",
+    "player_location": "us",
+    "time": 372,
+    "category": "Shinobi Girls Heart",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "pyd45rwy",
+    "game": "Senran Kagura Shinovi Versus",
+    "player": "ossie",
+    "player_location": null,
+    "time": 375,
+    "category": "Shinobi Girls Heart",
+    "region": null,
+    "platform": null,
+    "emulated": false
+  },
+  {
+    "id": "kz5wwr5z",
+    "game": "Senran Kagura Shinovi Versus",
+    "player": "auroraflow12",
+    "player_location": "us",
+    "time": 333,
+    "category": "Shinobi Girls Heart",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "8y8ngjxy",
+    "game": "Senran Kagura Shinovi Versus",
+    "player": "Valioa",
+    "player_location": "us",
+    "time": 3540,
+    "category": "New Game",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "kz5qo6dz",
+    "game": "Senran Kagura Shinovi Versus",
+    "player": "Zaba",
+    "player_location": "ca",
+    "time": 238,
+    "category": "Shinobi Girls Heart",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mek8730m",
+    "game": "Senran Kagura Shinovi Versus",
+    "player": "Jamster",
+    "player_location": "gb/sct",
+    "time": 294,
+    "category": "Shinobi Girls Heart",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zpq0oogy",
+    "game": "Senran Kagura Shinovi Versus",
+    "player": "Zash",
+    "player_location": "ca",
+    "time": 1739,
+    "category": "New Game+",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z5o105ey",
+    "game": "Senran Kagura Shinovi Versus",
+    "player": "Stompingranger",
+    "player_location": "us",
+    "time": 2672,
+    "category": "New Game+",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z03e6lez",
+    "game": "Senran Kagura Shinovi Versus",
+    "player": "Muffins_Just",
+    "player_location": "us",
+    "time": 233,
+    "category": "Shinobi Girls Heart",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y8qvpd5y",
+    "game": "Senran Kagura Shinovi Versus",
+    "player": "AaronDobbe",
+    "player_location": "us",
+    "time": 3100,
+    "category": "New Game",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y458o5nm",
+    "game": "Senran Kagura Shinovi Versus",
+    "player": "edge_shaaan",
+    "player_location": "jp",
+    "time": 2440,
+    "category": "New Game",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yl9635ny",
+    "game": "Senran Kagura Shinovi Versus",
+    "player": "Fuhyo",
+    "player_location": "es",
+    "time": 376,
+    "category": "Shinobi Girls Heart",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z03kn4ez",
+    "game": "Senran Kagura Shinovi Versus",
+    "player": "Defhalt",
+    "player_location": "ar",
+    "time": 2141,
+    "category": "New Game",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zg71v4jz",
+    "game": "Senran Kagura Shinovi Versus",
+    "player": "RTAtry",
+    "player_location": "jp",
+    "time": 2317,
+    "category": "New Game",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yl07nj2y",
+    "game": "Senran Kagura Shinovi Versus",
+    "player": "pzykosiz",
+    "player_location": "au",
+    "time": 233,
+    "category": "Shinobi Girls Heart",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y6l4gd0y",
+    "game": "Senran Kagura Shinovi Versus",
+    "player": "Molotov",
+    "player_location": "us",
+    "time": 375,
+    "category": "Shinobi Girls Heart",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yv1d61ey",
+    "game": "Senran Kagura Shinovi Versus",
+    "player": "cathelios",
+    "player_location": "us",
+    "time": 3220,
+    "category": "New Game",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z52elojz",
+    "game": "Senran Kagura Shinovi Versus",
+    "player": "Kaz0uya",
+    "player_location": "fr",
+    "time": 3702,
+    "category": "New Game",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

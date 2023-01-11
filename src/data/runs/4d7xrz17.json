@@ -1,0 +1,57 @@
+[
+  {
+    "id": "wzpqxogy",
+    "game": "",
+    "player": "zackcat",
+    "player_location": "us",
+    "time": 4539,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "WonderSwan",
+    "emulated": true
+  },
+  {
+    "id": "y97117km",
+    "game": "",
+    "player": "Trysdyn",
+    "player_location": null,
+    "time": 1170,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "WonderSwan",
+    "emulated": true
+  },
+  {
+    "id": "9mej8d3y",
+    "game": "",
+    "player": "Meball",
+    "player_location": null,
+    "time": 1204,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "WonderSwan",
+    "emulated": true
+  },
+  {
+    "id": "me71erqy",
+    "game": "Dicing Knight Period",
+    "player": "Ltmonkey",
+    "player_location": "us",
+    "time": 1182,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "WonderSwan",
+    "emulated": true
+  },
+  {
+    "id": "y25dj3jy",
+    "game": "Dicing Knight Period",
+    "player": "FlannelKat",
+    "player_location": "us",
+    "time": 2289,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "WonderSwan",
+    "emulated": true
+  }
+]

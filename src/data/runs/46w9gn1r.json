@@ -1,0 +1,46 @@
+[
+  {
+    "id": "yl404krm",
+    "game": "Final Fantasy Tactics: The War of the Lions",
+    "player": "aaazzz",
+    "player_location": "jp",
+    "time": 15627,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "me8gr00m",
+    "game": "Final Fantasy Tactics: The War of the Lions",
+    "player": "GreenHornGT",
+    "player_location": "us",
+    "time": 12872,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "zq3l061y",
+    "game": "Final Fantasy Tactics: The War of the Lions",
+    "player": "NickDoane",
+    "player_location": "us",
+    "time": 56365,
+    "category": "Any% New Game",
+    "region": "USA / NTSC",
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "zx784r8y",
+    "game": "Final Fantasy Tactics: The War of the Lions",
+    "player": "EroBrYanFuYu",
+    "player_location": null,
+    "time": 19030,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Android",
+    "emulated": false
+  }
+]

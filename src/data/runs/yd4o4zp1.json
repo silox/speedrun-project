@@ -1,0 +1,46 @@
+[
+  {
+    "id": "y91vjdem",
+    "game": "Amazing Penguin",
+    "player": "JuegAriel",
+    "player_location": "es",
+    "time": 2561,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "zxle9d8z",
+    "game": "Amazing Penguin",
+    "player": "davidtki",
+    "player_location": "us",
+    "time": 5999,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "zq0xk48y",
+    "game": "Amazing Penguin",
+    "player": "FlannelKat",
+    "player_location": "us",
+    "time": 2844,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "zgqj0gny",
+    "game": "Amazing Penguin",
+    "player": "sascha-gaming",
+    "player_location": "de",
+    "time": 2485,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  }
+]

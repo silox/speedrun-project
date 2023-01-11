@@ -1,0 +1,57 @@
+[
+  {
+    "id": "yo42g61m",
+    "game": "",
+    "player": "brossentia",
+    "player_location": "us",
+    "time": 1265,
+    "category": "Any% NES",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "yl9rlvky",
+    "game": "",
+    "player": "Dragondarch",
+    "player_location": "us",
+    "time": 1162,
+    "category": "Any% NES",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "z51p87gm",
+    "game": "",
+    "player": "Guggensulli",
+    "player_location": "us",
+    "time": 1297,
+    "category": "Any% NES",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "yl4n6d2m",
+    "game": "Athena",
+    "player": "ShiningDragoon",
+    "player_location": "us",
+    "time": 483,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zxkwn45m",
+    "game": "Athena",
+    "player": "Skuttie",
+    "player_location": "us",
+    "time": 973,
+    "category": "Any% Arcade",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

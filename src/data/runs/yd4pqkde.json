@@ -1,0 +1,200 @@
+[
+  {
+    "id": "y82dgk5y",
+    "game": "Marble Madness (Genesis)",
+    "player": "AD2",
+    "player_location": "au",
+    "time": 138.567,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "dy4vlgqy",
+    "game": "Marble Madness (Genesis)",
+    "player": "Elipsis",
+    "player_location": "us",
+    "time": 262,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "m3dg0jdz",
+    "game": "Marble Madness (Genesis)",
+    "player": "jimmystumps",
+    "player_location": "au",
+    "time": 180.233,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "1zqojr1y",
+    "game": "Marble Madness (Genesis)",
+    "player": "panic.",
+    "player_location": null,
+    "time": 276,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "m7980k5y",
+    "game": "Marble Madness (Genesis)",
+    "player": "Nikos",
+    "player_location": "nz",
+    "time": 148.6,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "zgndjddy",
+    "game": "Marble Madness (Genesis)",
+    "player": "SubStylee",
+    "player_location": "us",
+    "time": 227,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "yjkpxjgm",
+    "game": "Marble Madness (Genesis)",
+    "player": "btrim",
+    "player_location": "us",
+    "time": 271,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "zn8pggvz",
+    "game": "Marble Madness (Genesis)",
+    "player": "takojaki",
+    "player_location": "eu",
+    "time": 257,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "yvgw798y",
+    "game": "Marble Madness (Genesis)",
+    "player": "GarbitheGlitcheress",
+    "player_location": "us",
+    "time": 237,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "yl091gxy",
+    "game": "Marble Madness (Genesis)",
+    "player": "YoBGS",
+    "player_location": "us",
+    "time": 286,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "z5jd4jjm",
+    "game": "Marble Madness (Genesis)",
+    "player": "Oldschoolmcfly",
+    "player_location": "us",
+    "time": 179.466,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "zxk2xwqm",
+    "game": "Marble Madness (Genesis)",
+    "player": "ShesChardcore",
+    "player_location": "us",
+    "time": 299,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "meon462z",
+    "game": "Marble Madness (Genesis)",
+    "player": "smartalec24",
+    "player_location": "us",
+    "time": 232,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "z1oo23rm",
+    "game": "Marble Madness (Genesis)",
+    "player": "MiPS",
+    "player_location": "fr",
+    "time": 253,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "me66jl0z",
+    "game": "Marble Madness (Genesis)",
+    "player": "Mc166",
+    "player_location": "fr",
+    "time": 216,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "y20ggn5m",
+    "game": "Marble Madness (Genesis)",
+    "player": "yelsraek",
+    "player_location": "us",
+    "time": 175.984,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "zp8rj6ny",
+    "game": "Marble Madness (Genesis)",
+    "player": "petaQ",
+    "player_location": "gb/eng",
+    "time": 161.858,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "z52wgoez",
+    "game": "Marble Madness (Genesis)",
+    "player": "polsvoice",
+    "player_location": "us",
+    "time": 271,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  }
+]

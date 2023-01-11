@@ -1,0 +1,46 @@
+[
+  {
+    "id": "zq0v4q1y",
+    "game": "Etrian Mystery Dungeon",
+    "player": "Shiguma",
+    "player_location": "jp",
+    "time": 7672,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "z15dv0gy",
+    "game": "Etrian Mystery Dungeon",
+    "player": "DhrGR",
+    "player_location": "nl",
+    "time": 13970,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "z155xrgy",
+    "game": "Etrian Mystery Dungeon",
+    "player": "\u3046\u3080\u3083\u308b",
+    "player_location": null,
+    "time": 14341,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "zp2pog8y",
+    "game": "Etrian Mystery Dungeon",
+    "player": "As_Trolo_Gy",
+    "player_location": "jp",
+    "time": 6788,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  }
+]

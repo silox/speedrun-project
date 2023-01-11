@@ -1,0 +1,57 @@
+[
+  {
+    "id": "m3ogv9gm",
+    "game": "Justice League Heroes",
+    "player": "GustavoPredador",
+    "player_location": "br",
+    "time": 7906,
+    "category": "Any% NG+",
+    "region": "BRA / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "z0pkkd9y",
+    "game": "Justice League Heroes",
+    "player": "vinicius010101",
+    "player_location": "br",
+    "time": 4188,
+    "category": "Any% NG+",
+    "region": null,
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "yo7gen5m",
+    "game": "Justice League Heroes",
+    "player": "Sharkson16",
+    "player_location": "us",
+    "time": 4505,
+    "category": "Any% NG+",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "z5xn4l5y",
+    "game": "Justice League Heroes",
+    "player": "The_MagnetYoshi",
+    "player_location": "us",
+    "time": 3439,
+    "category": "Any% NG+",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "yw6j8ppm",
+    "game": "Justice League Heroes",
+    "player": "_yanis",
+    "player_location": null,
+    "time": 3512,
+    "category": "Any% NG+",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": true
+  }
+]

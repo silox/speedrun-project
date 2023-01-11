@@ -1,0 +1,79 @@
+[
+  {
+    "id": "6yj3dv7z",
+    "game": "",
+    "player": "djm858",
+    "player_location": null,
+    "time": 2555,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "7yl01w2y",
+    "game": "",
+    "player": "Niji87",
+    "player_location": null,
+    "time": 3192,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "1zqrj7xy",
+    "game": "Armored Core 2",
+    "player": "TMRaven",
+    "player_location": null,
+    "time": 10646,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "8yv3vjez",
+    "game": "Armored Core 2",
+    "player": "hokson",
+    "player_location": null,
+    "time": 5373,
+    "category": "Any%(no fail missions/no OoB)",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "1zxpvo5y",
+    "game": "Armored Core 2",
+    "player": "SUPER FLEET",
+    "player_location": null,
+    "time": 4903,
+    "category": "Any%(no fail missions/no OoB)",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y67l450m",
+    "game": "Armored Core 2",
+    "player": "ProCow",
+    "player_location": "us",
+    "time": 2541,
+    "category": "Any%",
+    "region": null,
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y25dvowy",
+    "game": "Armored Core 2",
+    "player": "naddys_codebeta",
+    "player_location": "jp",
+    "time": 4445,
+    "category": "Any%(no fail missions/no OoB)",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  }
+]

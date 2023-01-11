@@ -1,0 +1,46 @@
+[
+  {
+    "id": "y89pqqwm",
+    "game": "True Golf Classics: Wicked 18",
+    "player": "Peanutfan22",
+    "player_location": "us",
+    "time": 2312,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "zp4lqj8z",
+    "game": "True Golf Classics: Wicked 18",
+    "player": "NihilistComedyHour",
+    "player_location": "eo",
+    "time": 2405,
+    "category": "Tournament Play",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "ylovvqry",
+    "game": "True Golf Classics: Wicked 18",
+    "player": "webz80",
+    "player_location": "au",
+    "time": 1398,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "z5dvdoem",
+    "game": "True Golf Classics: Wicked 18",
+    "player": "NESAtlas",
+    "player_location": "us",
+    "time": 1293,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  }
+]

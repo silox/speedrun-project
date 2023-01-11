@@ -1,0 +1,123 @@
+[
+  {
+    "id": "1zx1ep8y",
+    "game": "The King Of Fighters 2003",
+    "player": "fran-kk185",
+    "player_location": "it",
+    "time": 321,
+    "category": "",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "pzg544vy",
+    "game": "The King Of Fighters 2003",
+    "player": "AlfredoSalza",
+    "player_location": "cl",
+    "time": 291,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zpqdrwry",
+    "game": "The King Of Fighters 2003",
+    "player": "Jsfrnnd",
+    "player_location": "pe",
+    "time": 231,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yv6jr9ez",
+    "game": "The King Of Fighters 2003",
+    "player": "mrguyaverage",
+    "player_location": "us",
+    "time": 443,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zq4k5j9m",
+    "game": "The King Of Fighters 2003",
+    "player": "GreatMasterFrank",
+    "player_location": "ar",
+    "time": 423,
+    "category": "",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z12p6w7y",
+    "game": "The King Of Fighters 2003",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 280,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "mk74q7ly",
+    "game": "The King Of Fighters 2003",
+    "player": "Peronwave",
+    "player_location": "ar",
+    "time": 335,
+    "category": "",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y664q8jy",
+    "game": "The King Of Fighters 2003",
+    "player": "gheb",
+    "player_location": null,
+    "time": 599,
+    "category": "Hard",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y8j89edz",
+    "game": "The King Of Fighters 2003",
+    "player": "NerdyNester",
+    "player_location": "us",
+    "time": 314,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": false
+  },
+  {
+    "id": "zgd51gdz",
+    "game": "The King Of Fighters 2003",
+    "player": "Gavinsrunningworld",
+    "player_location": null,
+    "time": 402,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "mkk9e73m",
+    "game": "The King Of Fighters 2003",
+    "player": "Kyo_97",
+    "player_location": "mx",
+    "time": 300,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": false
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "yv1onwoy",
+    "game": "Game & Watch Gallery 3",
+    "player": "GhostSenpai",
+    "player_location": "mx",
+    "time": 354,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS Virtual Console",
+    "emulated": false
+  },
+  {
+    "id": "yl9g7gxy",
+    "game": "Game & Watch Gallery 3",
+    "player": "speedman",
+    "player_location": "us",
+    "time": 440,
+    "category": "100 Points / Easy / Modern",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Interface",
+    "emulated": false
+  },
+  {
+    "id": "z5151gjm",
+    "game": "Game & Watch Gallery 3",
+    "player": "NihilistComedyHour",
+    "player_location": "eo",
+    "time": 518,
+    "category": "100 Points / Easy / Modern",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "ywp30n9z",
+    "game": "Game & Watch Gallery 3",
+    "player": "terkylol12",
+    "player_location": "cl",
+    "time": 308,
+    "category": "",
+    "region": null,
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "ydrgl00z",
+    "game": "Game & Watch Gallery 3",
+    "player": "MrYhatoh",
+    "player_location": "cl",
+    "time": 305,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "zxlep1gz",
+    "game": "Game & Watch Gallery 3",
+    "player": "Optic_Rainfall",
+    "player_location": "au",
+    "time": 297,
+    "category": "100 Points / Hard / Modern",
+    "region": null,
+    "platform": "Game Boy Color",
+    "emulated": true
+  }
+]

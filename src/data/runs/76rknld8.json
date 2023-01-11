@@ -1,0 +1,90 @@
+[
+  {
+    "id": "8yvel68m",
+    "game": "Disney-Pixar Brave",
+    "player": "BnH247",
+    "player_location": null,
+    "time": 5115,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zgn1rqvy",
+    "game": "Disney-Pixar Brave",
+    "player": "uziDance",
+    "player_location": "fi",
+    "time": 5093,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y956npnz",
+    "game": "Disney-Pixar Brave",
+    "player": "Bregermann",
+    "player_location": "us",
+    "time": 6830,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "znregwly",
+    "game": "Disney-Pixar Brave",
+    "player": "IzzyHopeDolphin",
+    "player_location": null,
+    "time": 5815,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zno7dely",
+    "game": "Disney-Pixar Brave",
+    "player": "Stevetvonline",
+    "player_location": "us",
+    "time": 4622,
+    "category": "Any%",
+    "region": null,
+    "platform": "Xbox Series X",
+    "emulated": false
+  },
+  {
+    "id": "y82nwexy",
+    "game": "Disney-Pixar Brave",
+    "player": "bangerra",
+    "player_location": "be",
+    "time": 4934,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "z1g9wxjz",
+    "game": "Disney-Pixar Brave",
+    "player": "AlexabethRose",
+    "player_location": "us",
+    "time": 4880,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "me3289qz",
+    "game": "Disney-Pixar Brave",
+    "player": "MoD366",
+    "player_location": "de",
+    "time": 4889,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  }
+]

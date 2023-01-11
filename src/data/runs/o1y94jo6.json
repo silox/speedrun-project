@@ -1,0 +1,90 @@
+[
+  {
+    "id": "yw4ddk3z",
+    "game": "Air Boarder 64",
+    "player": "unstackablecups",
+    "player_location": null,
+    "time": 34.43,
+    "category": "Time Trials (Hard)",
+    "region": "EUR / PAL",
+    "platform": "Nintendo 64",
+    "emulated": false
+  },
+  {
+    "id": "zgw1o3dy",
+    "game": "Air Boarder 64",
+    "player": "MortimerNova",
+    "player_location": "us",
+    "time": 37,
+    "category": "Time Trials (Hard)",
+    "region": "EUR / PAL",
+    "platform": "Nintendo 64",
+    "emulated": true
+  },
+  {
+    "id": "zpr792rm",
+    "game": "Air Boarder 64",
+    "player": "SwordV",
+    "player_location": "au",
+    "time": 25,
+    "category": "Time Trials (Hard)",
+    "region": null,
+    "platform": "Nintendo 64",
+    "emulated": true
+  },
+  {
+    "id": "yvojl28z",
+    "game": "Air Boarder 64",
+    "player": "Aetherism",
+    "player_location": "ca",
+    "time": 22,
+    "category": "Time Trials (Easy)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": true
+  },
+  {
+    "id": "mk582dxm",
+    "game": "Air Boarder 64",
+    "player": "ylylmelee",
+    "player_location": "ca",
+    "time": 17.85,
+    "category": "Time Trials (Easy)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": true
+  },
+  {
+    "id": "y8eq9x1y",
+    "game": "Air Boarder 64",
+    "player": "Rayg4P",
+    "player_location": "gb",
+    "time": 32,
+    "category": "Time Trials (Hard)",
+    "region": "EUR / PAL",
+    "platform": "Nintendo 64",
+    "emulated": true
+  },
+  {
+    "id": "zgrvd9em",
+    "game": "Air Boarder 64",
+    "player": "MotoKong",
+    "player_location": "us",
+    "time": 13.93,
+    "category": "Time Trials (Easy)",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": true
+  },
+  {
+    "id": "y8errkdy",
+    "game": "Air Boarder 64",
+    "player": "hawkjames",
+    "player_location": "us",
+    "time": 13.94,
+    "category": "Time Trials (Easy)",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": true
+  }
+]

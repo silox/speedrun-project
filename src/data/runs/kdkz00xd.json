@@ -1,0 +1,35 @@
+[
+  {
+    "id": "znr10jvy",
+    "game": "Bubble Symphony",
+    "player": "Moliman",
+    "player_location": "ca/qc",
+    "time": 1164,
+    "category": "Any%",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y6n6ro6z",
+    "game": "Bubble Symphony",
+    "player": "RitaH",
+    "player_location": "br",
+    "time": 1948,
+    "category": "Any% Coop",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y8x5425m",
+    "game": "Bubble Symphony",
+    "player": "Dumple",
+    "player_location": "us",
+    "time": 1775,
+    "category": "Extra world",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

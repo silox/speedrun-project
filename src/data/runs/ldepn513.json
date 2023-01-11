@@ -1,0 +1,101 @@
+[
+  {
+    "id": "jy9po42m",
+    "game": "Panzer Dragoon Saga",
+    "player": "Mikebloke",
+    "player_location": "gb/eng",
+    "time": 24042,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "y8rq6qxm",
+    "game": "Panzer Dragoon Saga",
+    "player": "Shentok",
+    "player_location": "us",
+    "time": 15696,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "mek9n98m",
+    "game": "Panzer Dragoon Saga",
+    "player": "tapioca",
+    "player_location": "us",
+    "time": 19575,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "zx4qrrgy",
+    "game": "Panzer Dragoon Saga",
+    "player": "walkingeye",
+    "player_location": "us",
+    "time": 17266,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "yw3x87pm",
+    "game": "Panzer Dragoon Saga",
+    "player": "mitjitsu",
+    "player_location": "gb/sct",
+    "time": 14455,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "y214n19z",
+    "game": "Panzer Dragoon Saga",
+    "player": "ARRPEEGEE",
+    "player_location": "gb/eng",
+    "time": 15090,
+    "category": "Any% (Emulator)",
+    "region": "USA / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": true
+  },
+  {
+    "id": "y2vr385z",
+    "game": "Panzer Dragoon Saga",
+    "player": "tkp",
+    "player_location": "jp",
+    "time": 13811,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "zqgrpxxm",
+    "game": "Panzer Dragoon Saga",
+    "player": "extrose",
+    "player_location": "jp",
+    "time": 18544,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "y9v933vm",
+    "game": "Panzer Dragoon Saga",
+    "player": "Lizstar",
+    "player_location": "us",
+    "time": 15883,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "id": "me8k9qqm",
+    "game": "Super Mario Bros. Special",
+    "player": "Gustlik102",
+    "player_location": "pl",
+    "time": 5120,
+    "category": "Sharp X1",
+    "region": "JPN / NTSC",
+    "platform": "Sharp X1",
+    "emulated": true
+  },
+  {
+    "id": "yl9755xy",
+    "game": "Super Mario Bros. Special",
+    "player": "Vincent Hernandez",
+    "player_location": null,
+    "time": 2299.467,
+    "category": "NES ROM Hack",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "yjkp77om",
+    "game": "Super Mario Bros. Special",
+    "player": "tinotormed",
+    "player_location": null,
+    "time": 2889.733,
+    "category": "NES ROM Hack",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "zn8p6nvz",
+    "game": "Super Mario Bros. Special",
+    "player": "NintendoComplete",
+    "player_location": null,
+    "time": 2785.87,
+    "category": "PC-88",
+    "region": "JPN / NTSC",
+    "platform": "NEC PC-88 series",
+    "emulated": true
+  },
+  {
+    "id": "yl9728xy",
+    "game": "Super Mario Bros. Special",
+    "player": "MrPodoboo",
+    "player_location": null,
+    "time": 3365,
+    "category": "PC-88",
+    "region": "JPN / NTSC",
+    "platform": "NEC PC-88 series",
+    "emulated": true
+  },
+  {
+    "id": "zn48j78m",
+    "game": "Super Mario Bros. Special",
+    "player": "GoldenSilver1000",
+    "player_location": "us",
+    "time": 3390,
+    "category": "Sharp X1",
+    "region": "JPN / NTSC",
+    "platform": "Sharp X1",
+    "emulated": true
+  },
+  {
+    "id": "z03r8ejz",
+    "game": "Super Mario Bros. Special",
+    "player": "SuperMegaDav",
+    "player_location": "ca",
+    "time": 1766,
+    "category": "NES ROM Hack",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "z119r5wz",
+    "game": "Super Mario Bros. Special",
+    "player": "xeroxfiend",
+    "player_location": "us",
+    "time": 1662.384,
+    "category": "NES ROM Hack",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "m3opd86m",
+    "game": "Super Mario Bros. Special",
+    "player": "smartalec24",
+    "player_location": "us",
+    "time": 1904,
+    "category": "NES ROM Hack",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zp33e7gm",
+    "game": "Super Mario Bros. Special",
+    "player": "TheRudyyy",
+    "player_location": "fr",
+    "time": 572.89,
+    "category": "NES Any% ROM Hack",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "y803erxm",
+    "game": "Super Mario Bros. Special",
+    "player": "goofychocobo",
+    "player_location": "us",
+    "time": 1281.49,
+    "category": "NES ROM Hack",
+    "region": null,
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zp4579gz",
+    "game": "Super Mario Bros. Special",
+    "player": "GTAce",
+    "player_location": "us",
+    "time": 1414.138,
+    "category": "NES ROM Hack",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "yd6p85wz",
+    "game": "Super Mario Bros. Special",
+    "player": "SuperSonic",
+    "player_location": "us",
+    "time": 1461.776,
+    "category": "NES ROM Hack",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y95g25nz",
+    "game": "Super Mario Bros. Special",
+    "player": "Mars02",
+    "player_location": "us",
+    "time": 1549.748,
+    "category": "NES ROM Hack",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zqrn2q9y",
+    "game": "Super Mario Bros. Special",
+    "player": "RoyLT",
+    "player_location": "us",
+    "time": 1432.458,
+    "category": "NES ROM Hack",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  }
+]

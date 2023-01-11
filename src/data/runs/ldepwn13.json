@@ -1,0 +1,24 @@
+[
+  {
+    "id": "7ylprdkm",
+    "game": "",
+    "player": "julio3205",
+    "player_location": "us",
+    "time": 2545,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "mrq2464y",
+    "game": "",
+    "player": "AquaBlake",
+    "player_location": "ca",
+    "time": 1513,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": false
+  }
+]

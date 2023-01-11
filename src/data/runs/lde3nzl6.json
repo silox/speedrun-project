@@ -1,0 +1,24 @@
+[
+  {
+    "id": "y6p8v81m",
+    "game": "Varth: Operation Thunderstorm",
+    "player": "manticor5",
+    "player_location": "cl",
+    "time": 3148,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zprplo8m",
+    "game": "Varth: Operation Thunderstorm",
+    "player": "RitaH",
+    "player_location": "br",
+    "time": 3430,
+    "category": "Any% Co-Op 2 Players",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

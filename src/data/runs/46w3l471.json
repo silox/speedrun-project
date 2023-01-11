@@ -1,0 +1,68 @@
+[
+  {
+    "id": "y416gvky",
+    "game": "",
+    "player": "Vidtendo",
+    "player_location": "ca/qc",
+    "time": 739,
+    "category": "Any% Easy",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": false
+  },
+  {
+    "id": "y48gj03m",
+    "game": "",
+    "player": "Implosion",
+    "player_location": "lb",
+    "time": 727,
+    "category": "Any% Easy",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yw430v2z",
+    "game": "",
+    "player": "truefalse",
+    "player_location": "ch",
+    "time": 741,
+    "category": "Any% Hard",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yd6j6j0z",
+    "game": "",
+    "player": "freeland",
+    "player_location": "us",
+    "time": 781,
+    "category": "Any% Easy",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y82vkk1y",
+    "game": "",
+    "player": "RyanWalker1",
+    "player_location": "us",
+    "time": 763,
+    "category": "Any% Easy",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z0l2onjz",
+    "game": "Vs. Castlevania",
+    "player": "AgentWyvern",
+    "player_location": "gb",
+    "time": 710,
+    "category": "Any% Easy",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  }
+]

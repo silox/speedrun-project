@@ -1,0 +1,123 @@
+[
+  {
+    "id": "emk1d7ly",
+    "game": "Neutopia",
+    "player": "GillyMoMo",
+    "player_location": "us",
+    "time": 4296,
+    "category": "100%",
+    "region": "JPN / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": true
+  },
+  {
+    "id": "kz5x2j5y",
+    "game": "Neutopia",
+    "player": "Deln",
+    "player_location": "ca/qc",
+    "time": 3249,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": true
+  },
+  {
+    "id": "wzpdo48z",
+    "game": "Neutopia",
+    "player": "TheLoneliestFunk",
+    "player_location": "us",
+    "time": 3247,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": true
+  },
+  {
+    "id": "yloqe5xy",
+    "game": "Neutopia",
+    "player": "vanni_van",
+    "player_location": "us",
+    "time": 2747,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": false
+  },
+  {
+    "id": "yj41k1oy",
+    "game": "Neutopia",
+    "player": "infinitemystery",
+    "player_location": null,
+    "time": 6745,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": false
+  },
+  {
+    "id": "mk3j621z",
+    "game": "Neutopia",
+    "player": "sveniroth",
+    "player_location": "vh",
+    "time": 2996,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": true
+  },
+  {
+    "id": "ylkrpgxz",
+    "game": "Neutopia",
+    "player": "konkers",
+    "player_location": "us",
+    "time": 4444,
+    "category": "100%",
+    "region": "JPN / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": false
+  },
+  {
+    "id": "y6ded00m",
+    "game": "Neutopia",
+    "player": "Darkarmist",
+    "player_location": "us",
+    "time": 4658,
+    "category": "100%",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": true
+  },
+  {
+    "id": "y8jp6kxz",
+    "game": "Neutopia",
+    "player": "VanceVelez",
+    "player_location": "us",
+    "time": 4474,
+    "category": "100%",
+    "region": "JPN / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": false
+  },
+  {
+    "id": "m3ld434m",
+    "game": "Neutopia",
+    "player": "Amune138",
+    "player_location": "us",
+    "time": 3922,
+    "category": "100%",
+    "region": "JPN / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": false
+  },
+  {
+    "id": "znjrd03m",
+    "game": "Neutopia",
+    "player": "GreenBomber",
+    "player_location": "us",
+    "time": 3297,
+    "category": "100%",
+    "region": "JPN / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": false
+  }
+]

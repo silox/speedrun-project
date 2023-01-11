@@ -1,0 +1,79 @@
+[
+  {
+    "id": "y8q23jxy",
+    "game": "",
+    "player": "Sparking_AC",
+    "player_location": "gb/eng",
+    "time": 7138,
+    "category": "Green Difficulty",
+    "region": "EUR / PAL",
+    "platform": "Xbox",
+    "emulated": false
+  },
+  {
+    "id": "mr48n38z",
+    "game": "",
+    "player": "ErroneousOne",
+    "player_location": "us",
+    "time": 4174,
+    "category": "Green Difficulty",
+    "region": "USA / NTSC",
+    "platform": "Xbox",
+    "emulated": false
+  },
+  {
+    "id": "ylopnl2y",
+    "game": "",
+    "player": "Elite2Heroes",
+    "player_location": "gb",
+    "time": 149,
+    "category": "Campaign ILs",
+    "region": "USA / NTSC",
+    "platform": "Xbox",
+    "emulated": false
+  },
+  {
+    "id": "y25pvq9y",
+    "game": "",
+    "player": "pmcTRILOGY",
+    "player_location": "us",
+    "time": 4324,
+    "category": "Green Difficulty",
+    "region": "USA / NTSC",
+    "platform": "Xbox",
+    "emulated": false
+  },
+  {
+    "id": "ylv0vxxm",
+    "game": "",
+    "player": "mrLOOFF",
+    "player_location": "us",
+    "time": 3772,
+    "category": "Green Difficulty",
+    "region": "USA / NTSC",
+    "platform": "Xbox",
+    "emulated": false
+  },
+  {
+    "id": "zpdwx6gz",
+    "game": "MechAssault",
+    "player": "I_Outcamp_You",
+    "player_location": null,
+    "time": 5048,
+    "category": "Green Difficulty",
+    "region": "USA / NTSC",
+    "platform": "Xbox",
+    "emulated": false
+  },
+  {
+    "id": "z1g4q9jz",
+    "game": "MechAssault",
+    "player": "At0micPunk",
+    "player_location": "us",
+    "time": 109,
+    "category": "Campaign ILs",
+    "region": "USA / NTSC",
+    "platform": "Xbox",
+    "emulated": false
+  }
+]

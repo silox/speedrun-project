@@ -1,0 +1,35 @@
+[
+  {
+    "id": "yj62njoz",
+    "game": "",
+    "player": "IIvgmII",
+    "player_location": "us",
+    "time": 5945,
+    "category": "New Game",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "zxo66o5z",
+    "game": "",
+    "player": "lisarox",
+    "player_location": "us",
+    "time": 3244,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "m77exe5m",
+    "game": "Arc of Alchemist",
+    "player": "Griotte_At",
+    "player_location": "jp",
+    "time": 1845,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 5",
+    "emulated": false
+  }
+]

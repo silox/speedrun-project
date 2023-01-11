@@ -1,0 +1,134 @@
+[
+  {
+    "id": "1zxve15y",
+    "game": "Double Dragon Neon",
+    "player": "Murphagator",
+    "player_location": null,
+    "time": 2281,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "dy4p10qy",
+    "game": "Double Dragon Neon",
+    "player": "insatings",
+    "player_location": "pt",
+    "time": 2230,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yvok75xz",
+    "game": "Double Dragon Neon",
+    "player": "Jesus82050615",
+    "player_location": "ca/qc",
+    "time": 2755,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "yj46r23y",
+    "game": "Double Dragon Neon",
+    "player": "Qcwolf2018",
+    "player_location": "ca/qc",
+    "time": 5065,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "y6p0v1qm",
+    "game": "Double Dragon Neon",
+    "player": "Foxx",
+    "player_location": "gb/eng",
+    "time": 2722,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "mexrx88z",
+    "game": "Double Dragon Neon",
+    "player": "Commodore64Brannigan",
+    "player_location": "gb/sct",
+    "time": 2166,
+    "category": "Any% Co-Op",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mre3v8gy",
+    "game": "Double Dragon Neon",
+    "player": "EightbitSteve",
+    "player_location": "us",
+    "time": 2192,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y6d9n61m",
+    "game": "Double Dragon Neon",
+    "player": "Mixin_Chinese",
+    "player_location": "cn",
+    "time": 2256,
+    "category": "Any% Co-Op",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yo76r77m",
+    "game": "Double Dragon Neon",
+    "player": "qnn_China",
+    "player_location": "cn",
+    "time": 2256,
+    "category": "Any% Co-Op",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zn19309m",
+    "game": "Double Dragon Neon",
+    "player": "e7h1i4l3",
+    "player_location": "us",
+    "time": 4189,
+    "category": "Any% Co-Op",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "z5dwk1gm",
+    "game": "Double Dragon Neon",
+    "player": "MortimerNova",
+    "player_location": "us",
+    "time": 2346,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mr6wvg7m",
+    "game": "Double Dragon Neon",
+    "player": "Cevada",
+    "player_location": "br",
+    "time": 2163,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  }
+]

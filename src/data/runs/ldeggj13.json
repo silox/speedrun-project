@@ -1,0 +1,68 @@
+[
+  {
+    "id": "jy9kkwnz",
+    "game": "Bloody Roar 3",
+    "player": "cody_the_codeman",
+    "player_location": "us",
+    "time": 145.65,
+    "category": "Arcade Mode (Free for All, No Cheats)",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "yl05172y",
+    "game": "Bloody Roar 3",
+    "player": "SCXCR",
+    "player_location": "us",
+    "time": 78.3,
+    "category": "Arcade Mode (Free for All, No Cheats)",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "mre5n0dy",
+    "game": "Bloody Roar 3",
+    "player": "Despera",
+    "player_location": "be",
+    "time": 97.055,
+    "category": "Arcade Mode (Free for All, No Cheats)",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "m3nooeqy",
+    "game": "Bloody Roar 3",
+    "player": "Maritokss",
+    "player_location": "ar",
+    "time": 114.05,
+    "category": "Arcade Mode (Free for All, No Cheats)",
+    "region": null,
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y4q918nm",
+    "game": "Bloody Roar 3",
+    "player": "Sokiki",
+    "player_location": null,
+    "time": 184.86,
+    "category": "Arcade Mode (Default%)",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "yol2q3dy",
+    "game": "Bloody Roar 3",
+    "player": "Hell1striker",
+    "player_location": "tn",
+    "time": 56.76,
+    "category": "Arcade Mode (Free for All, No Cheats)",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  }
+]

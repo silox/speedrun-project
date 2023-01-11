@@ -1,0 +1,46 @@
+[
+  {
+    "id": "y92w5o2z",
+    "game": "Finding Nemo (GBA)",
+    "player": "Banzar",
+    "player_location": "de",
+    "time": 1435,
+    "category": "Beat the Game",
+    "region": null,
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "zxve4xky",
+    "game": "Finding Nemo (GBA)",
+    "player": "Jumpyluff",
+    "player_location": "us",
+    "time": 1948,
+    "category": "Beat the Game",
+    "region": null,
+    "platform": "Game Boy Player",
+    "emulated": false
+  },
+  {
+    "id": "ywd1x90z",
+    "game": "Finding Nemo (GBA)",
+    "player": "cheekychunk",
+    "player_location": null,
+    "time": 1464,
+    "category": "Beat the Game",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "m3xl2wwm",
+    "game": "Finding Nemo (GBA)",
+    "player": "Cosmic_Lumeon",
+    "player_location": "fr",
+    "time": 1230,
+    "category": "Beat the Game",
+    "region": null,
+    "platform": "Game Boy Advance",
+    "emulated": true
+  }
+]

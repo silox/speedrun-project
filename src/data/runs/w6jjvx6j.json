@@ -1,0 +1,156 @@
+[
+  {
+    "id": "9yo6k20y",
+    "game": "Tetris 2 (SNES)",
+    "player": "mathgrant",
+    "player_location": "us",
+    "time": 1655,
+    "category": "30 Round Clear",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "7z0gdgey",
+    "game": "Tetris 2 (SNES)",
+    "player": "s1x",
+    "player_location": "us",
+    "time": 8286,
+    "category": "80 Round Clear",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "z0929x4z",
+    "game": "Tetris 2 (SNES)",
+    "player": "chaos_defrost",
+    "player_location": "us",
+    "time": 285,
+    "category": "10 Round Clear",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "m7924o4y",
+    "game": "Tetris 2 (SNES)",
+    "player": "NihilistComedyHour",
+    "player_location": "eo",
+    "time": 5522,
+    "category": "30 Round Clear",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "y91qj0em",
+    "game": "Tetris 2 (SNES)",
+    "player": "Rika_Furude",
+    "player_location": "us",
+    "time": 281,
+    "category": "10 Round Clear",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "yw31dlnm",
+    "game": "Tetris 2 (SNES)",
+    "player": "Poochy.EXE",
+    "player_location": null,
+    "time": 270,
+    "category": "10 Round Clear",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "zxdwwkqy",
+    "game": "Tetris 2 (SNES)",
+    "player": "nickbush24",
+    "player_location": "us",
+    "time": 1552,
+    "category": "30 Round Clear",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "y8rn45nm",
+    "game": "Tetris 2 (SNES)",
+    "player": "TDMage20",
+    "player_location": "us",
+    "time": 305,
+    "category": "10 Round Clear",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "y8rl1odm",
+    "game": "Tetris 2 (SNES)",
+    "player": "DCG_Grinder",
+    "player_location": "us",
+    "time": 312,
+    "category": "10 Round Clear",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "y47x982y",
+    "game": "Tetris 2 (SNES)",
+    "player": "mikoshiba35",
+    "player_location": "jp",
+    "time": 303,
+    "category": "10 Round Clear",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y6d9lrpm",
+    "game": "Tetris 2 (SNES)",
+    "player": "Cyber_Of_Memory",
+    "player_location": "jp",
+    "time": 2524,
+    "category": "Vs. CPU rounds 1-15",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "m3r6gj6m",
+    "game": "Tetris 2 (SNES)",
+    "player": "ShesChardcore",
+    "player_location": "us",
+    "time": 606,
+    "category": "10 Round Clear",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "z07p2j8y",
+    "game": "Tetris 2 (SNES)",
+    "player": "Tritone",
+    "player_location": "us",
+    "time": 298,
+    "category": "10 Round Clear",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "ydw4gdvm",
+    "game": "Tetris 2 (SNES)",
+    "player": "smartalec24",
+    "player_location": "us",
+    "time": 468,
+    "category": "10 Round Clear",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  }
+]

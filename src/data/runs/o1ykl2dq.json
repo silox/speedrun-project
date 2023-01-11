@@ -1,0 +1,79 @@
+[
+  {
+    "id": "7z08j24m",
+    "game": "Disney's Chicken Little: Ace in Action",
+    "player": "MegaSpeedXtreme",
+    "player_location": "gb/eng",
+    "time": 5095,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "m7987d4y",
+    "game": "Disney's Chicken Little: Ace in Action",
+    "player": "Oggyerino",
+    "player_location": "no",
+    "time": 2375,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zq6pnp9y",
+    "game": "Disney's Chicken Little: Ace in Action",
+    "player": "Poefred",
+    "player_location": "us",
+    "time": 19817,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "m3r16lwm",
+    "game": "Disney's Chicken Little: Ace in Action",
+    "player": "FuryWingsYT",
+    "player_location": null,
+    "time": 148,
+    "category": "Cheat%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "zgg7j9vz",
+    "game": "Disney's Chicken Little: Ace in Action",
+    "player": "shrimp12",
+    "player_location": "us",
+    "time": 55,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "ydg5ee0y",
+    "game": "Disney's Chicken Little: Ace in Action",
+    "player": "Minerscale",
+    "player_location": "au",
+    "time": 126,
+    "category": "Cheat%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zg2wgqvy",
+    "game": "Disney's Chicken Little: Ace in Action",
+    "player": "crazytonedog",
+    "player_location": "us",
+    "time": 29414,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

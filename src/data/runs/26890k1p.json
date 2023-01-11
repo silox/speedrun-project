@@ -1,0 +1,35 @@
+[
+  {
+    "id": "mekxx60m",
+    "game": "",
+    "player": "PinkPajamas",
+    "player_location": "us",
+    "time": 24782,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "zn8pllvz",
+    "game": "",
+    "player": "soraaaa_sky",
+    "player_location": "jp",
+    "time": 9318,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "z039vj8z",
+    "game": "",
+    "player": "Electra13x7777",
+    "player_location": "us",
+    "time": 17270,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  }
+]

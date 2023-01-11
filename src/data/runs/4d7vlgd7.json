@@ -1,0 +1,24 @@
+[
+  {
+    "id": "mk48nr1y",
+    "game": "Dragon Ball Z: Attack of the Saiyans",
+    "player": "dylaneka",
+    "player_location": "fr",
+    "time": 23697,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "zn836l7z",
+    "game": "Dragon Ball Z: Attack of the Saiyans",
+    "player": "Boarum",
+    "player_location": "us",
+    "time": 23958,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  }
+]

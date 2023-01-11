@@ -1,0 +1,90 @@
+[
+  {
+    "id": "yv3nqd6z",
+    "game": "Strikers 1945",
+    "player": "MadPunkerz",
+    "player_location": "it",
+    "time": 781,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "z1jw7o7z",
+    "game": "Strikers 1945",
+    "player": "RitaH",
+    "player_location": "br",
+    "time": 719,
+    "category": "Any% Co-op",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y4w63rqm",
+    "game": "Strikers 1945",
+    "player": "Olavi",
+    "player_location": "kr",
+    "time": 823,
+    "category": "",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "m358drwy",
+    "game": "Strikers 1945",
+    "player": "andresfgp13",
+    "player_location": "cl",
+    "time": 741,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "y8v4o91z",
+    "game": "Strikers 1945",
+    "player": "Betamax199x",
+    "player_location": "gb/sct",
+    "time": 655,
+    "category": "Any%",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z0oe1goz",
+    "game": "Strikers 1945",
+    "player": "saulonpb",
+    "player_location": "br",
+    "time": 930,
+    "category": "Any%",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y470n9ky",
+    "game": "Strikers 1945",
+    "player": "ArkoX98",
+    "player_location": "it",
+    "time": 786,
+    "category": "Any%",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "ydg852wy",
+    "game": "Strikers 1945",
+    "player": "Teru",
+    "player_location": "jp",
+    "time": 684,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  }
+]

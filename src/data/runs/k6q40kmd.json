@@ -1,0 +1,46 @@
+[
+  {
+    "id": "y21v695z",
+    "game": "",
+    "player": "Zeta0087",
+    "player_location": "us",
+    "time": 3345.037,
+    "category": "New Game+",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  },
+  {
+    "id": "y6l1196y",
+    "game": "",
+    "player": "pmcTRILOGY",
+    "player_location": "us",
+    "time": 2006,
+    "category": "New Game+",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "yjl5g2oz",
+    "game": "",
+    "player": "iceman_in_black",
+    "player_location": "us",
+    "time": 1725,
+    "category": "New Game+",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "yj1r4j7y",
+    "game": "Gundam Side Story 0079: Rise from the Ashes",
+    "player": "16xa2nd",
+    "player_location": "us",
+    "time": 1689,
+    "category": "New Game+",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  }
+]

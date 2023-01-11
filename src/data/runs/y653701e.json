@@ -1,0 +1,35 @@
+[
+  {
+    "id": "8m77kwwm",
+    "game": "Bart Simpson's Escape from Camp Deadly",
+    "player": "Spiderweb__",
+    "player_location": "us",
+    "time": 1150,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": false
+  },
+  {
+    "id": "meko2w3m",
+    "game": "Bart Simpson's Escape from Camp Deadly",
+    "player": "koffingrockz",
+    "player_location": "us",
+    "time": 991,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "m3xdw4qm",
+    "game": "Bart Simpson's Escape from Camp Deadly",
+    "player": "Ucci",
+    "player_location": "au",
+    "time": 969,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  }
+]

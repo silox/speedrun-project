@@ -1,0 +1,79 @@
+[
+  {
+    "id": "yjg26xoy",
+    "game": "The Nightmare Before Christmas: Oogie's Revenge",
+    "player": "Paradox",
+    "player_location": "us",
+    "time": 1071,
+    "category": "Let's Dance!",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "y965r5vy",
+    "game": "The Nightmare Before Christmas: Oogie's Revenge",
+    "player": "Ecdycis",
+    "player_location": "us",
+    "time": 8121,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "z0rjlxoz",
+    "game": "The Nightmare Before Christmas: Oogie's Revenge",
+    "player": "Professer",
+    "player_location": "us",
+    "time": 56,
+    "category": "Individual Chapter",
+    "region": "USA / NTSC",
+    "platform": "Xbox",
+    "emulated": false
+  },
+  {
+    "id": "y4rxvrqz",
+    "game": "The Nightmare Before Christmas: Oogie's Revenge",
+    "player": "lily_k_night2121",
+    "player_location": "jp",
+    "time": 7849,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "yv17v44y",
+    "game": "The Nightmare Before Christmas: Oogie's Revenge",
+    "player": "DigiFruitDog",
+    "player_location": null,
+    "time": 9157,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "y9xke6vy",
+    "game": "The Nightmare Before Christmas: Oogie's Revenge",
+    "player": "IzumiChenmeiru",
+    "player_location": "us",
+    "time": 413,
+    "category": "Individual Chapter",
+    "region": "USA / NTSC",
+    "platform": "Xbox",
+    "emulated": false
+  },
+  {
+    "id": "z52nvr5z",
+    "game": "The Nightmare Before Christmas: Oogie's Revenge",
+    "player": "playBilli",
+    "player_location": "ru",
+    "time": 6869,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  }
+]

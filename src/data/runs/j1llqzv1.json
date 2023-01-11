@@ -1,0 +1,79 @@
+[
+  {
+    "id": "zxvqpxky",
+    "game": "Trollface Quest Internet Memes",
+    "player": "Jimmy.io",
+    "player_location": "fr",
+    "time": 70.117,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "yo2npg7z",
+    "game": "Trollface Quest Internet Memes",
+    "player": "Sizzyl",
+    "player_location": "vh",
+    "time": 81.417,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "zq3dw31y",
+    "game": "Trollface Quest Internet Memes",
+    "player": "Cytruss",
+    "player_location": "gr",
+    "time": 96.733,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "yd6x3vxz",
+    "game": "Trollface Quest Internet Memes",
+    "player": "AndKse",
+    "player_location": "by",
+    "time": 319,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "ylkd6p2z",
+    "game": "Trollface Quest Internet Memes",
+    "player": "agent_ex_y_z",
+    "player_location": "us",
+    "time": 80.283,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "yw0o2o9m",
+    "game": "Trollface Quest Internet Memes",
+    "player": "Doctor_Cheese",
+    "player_location": "us",
+    "time": 69.9,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Web",
+    "emulated": true
+  },
+  {
+    "id": "y8x7kq5m",
+    "game": "Trollface Quest Internet Memes",
+    "player": "funado",
+    "player_location": "ar",
+    "time": 69,
+    "category": "Any%",
+    "region": null,
+    "platform": "Web",
+    "emulated": false
+  }
+]

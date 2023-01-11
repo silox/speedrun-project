@@ -1,0 +1,90 @@
+[
+  {
+    "id": "mk5vqnlm",
+    "game": "Life is Strange: True Colors",
+    "player": "crysal",
+    "player_location": "dk",
+    "time": 17784,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yj5qddom",
+    "game": "Life is Strange: True Colors",
+    "player": "weekendhiatus",
+    "player_location": null,
+    "time": 3229,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z1x69kwm",
+    "game": "Life is Strange: True Colors",
+    "player": "wildpig3000",
+    "player_location": "ca",
+    "time": 18838,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yvoeqpez",
+    "game": "Life is Strange: True Colors",
+    "player": "sascha-gaming",
+    "player_location": "de",
+    "time": 3125,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "ylr8pvry",
+    "game": "Life is Strange: True Colors",
+    "player": "TheMeranianReview",
+    "player_location": "us",
+    "time": 1683,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 5",
+    "emulated": false
+  },
+  {
+    "id": "zpgrrwgz",
+    "game": "Life is Strange: True Colors",
+    "player": "Eray",
+    "player_location": "tr",
+    "time": 131,
+    "category": "Beat the High Score",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zx7x40qy",
+    "game": "Life is Strange: True Colors",
+    "player": "CrispyHanako",
+    "player_location": "us",
+    "time": 2014,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yw6edk9m",
+    "game": "Life is Strange: True Colors",
+    "player": "sharif",
+    "player_location": "us",
+    "time": 2833,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 5",
+    "emulated": false
+  }
+]

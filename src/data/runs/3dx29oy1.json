@@ -1,0 +1,68 @@
+[
+  {
+    "id": "znoqge3y",
+    "game": "",
+    "player": "TCKLZ",
+    "player_location": "us",
+    "time": 1407,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "y91j7kvm",
+    "game": "",
+    "player": "slopcore",
+    "player_location": "us",
+    "time": 2353,
+    "category": "Any%",
+    "region": null,
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "znoj043y",
+    "game": "",
+    "player": "mattyla87",
+    "player_location": "us",
+    "time": 1984,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "yw06gl2m",
+    "game": "Dancer to a Discordant System",
+    "player": "B2De81",
+    "player_location": "us",
+    "time": 1409,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y4rrq02z",
+    "game": "Dancer to a Discordant System",
+    "player": "YouFailMe",
+    "player_location": "us",
+    "time": 1374,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "mk50e71m",
+    "game": "Dancer to a Discordant System",
+    "player": "Pyradante",
+    "player_location": "de",
+    "time": 2968,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Super Nintendo",
+    "emulated": true
+  }
+]

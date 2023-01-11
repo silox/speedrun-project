@@ -1,0 +1,57 @@
+[
+  {
+    "id": "mexd0eqz",
+    "game": "WarioWare: D.I.Y. Showcase",
+    "player": "dtb345",
+    "player_location": null,
+    "time": 124,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": true
+  },
+  {
+    "id": "y81x32wz",
+    "game": "WarioWare: D.I.Y. Showcase",
+    "player": "videogameplayer100",
+    "player_location": "us",
+    "time": 471,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "y8rgd71m",
+    "game": "WarioWare: D.I.Y. Showcase",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 119,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": true
+  },
+  {
+    "id": "me96e98z",
+    "game": "WarioWare: D.I.Y. Showcase",
+    "player": "FeiticeiroDeAraqui",
+    "player_location": "br",
+    "time": 115,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "zp955kxm",
+    "game": "WarioWare: D.I.Y. Showcase",
+    "player": "Amuntendo",
+    "player_location": "pl",
+    "time": 464,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": true
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "yd65j6qz",
+    "game": "",
+    "player": "MrMannyRodz",
+    "player_location": "us",
+    "time": 7748,
+    "category": "Story Mode Easy",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "znr1qq7y",
+    "game": "",
+    "player": "HopeTrash",
+    "player_location": "fr",
+    "time": 6921,
+    "category": "Story Mode Easy",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "y4w2wedm",
+    "game": "",
+    "player": "Tiedjen",
+    "player_location": "dk",
+    "time": 5860,
+    "category": "Story Mode Easy",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "z50p54ny",
+    "game": "Victorious Boxers 2: Fighting Spirit",
+    "player": "sH1R1U",
+    "player_location": "cl",
+    "time": 7543,
+    "category": "Story Mode Easy",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "zqgjdx9m",
+    "game": "Victorious Boxers 2: Fighting Spirit",
+    "player": "FredVictorious",
+    "player_location": "br",
+    "time": 22303,
+    "category": "",
+    "region": null,
+    "platform": "PlayStation 2",
+    "emulated": true
+  }
+]

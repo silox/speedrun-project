@@ -1,0 +1,46 @@
+[
+  {
+    "id": "yl002xky",
+    "game": "Picross e3",
+    "player": "HowDenKing",
+    "player_location": "eu",
+    "time": 1,
+    "category": "Easy Mode",
+    "region": "JPN / NTSC",
+    "platform": "New Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "y6lr5wjy",
+    "game": "Picross e3",
+    "player": "dha",
+    "player_location": "it",
+    "time": 1,
+    "category": "Easy Mode",
+    "region": "EUR / PAL",
+    "platform": "Nintendo 3DS",
+    "emulated": true
+  },
+  {
+    "id": "yd5r9qwm",
+    "game": "Picross e3",
+    "player": "agent_ex_y_z",
+    "player_location": "us",
+    "time": 1,
+    "category": "Easy Mode",
+    "region": "USA / NTSC",
+    "platform": "New Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "y91pg2nm",
+    "game": "Picross e3",
+    "player": "RosaKnox",
+    "player_location": "us",
+    "time": 9,
+    "category": "Easy Mode",
+    "region": "EUR / PAL",
+    "platform": "Nintendo 3DS",
+    "emulated": true
+  }
+]

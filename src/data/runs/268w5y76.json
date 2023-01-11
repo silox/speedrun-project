@@ -1,0 +1,46 @@
+[
+  {
+    "id": "yle52wxz",
+    "game": "Clawfish",
+    "player": "qwillinallthefish",
+    "player_location": "us",
+    "time": 629,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zxl7rn8z",
+    "game": "Clawfish",
+    "player": "NeosporinITC",
+    "player_location": "us",
+    "time": 609,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zgq5evdy",
+    "game": "Clawfish",
+    "player": "Trumoomu",
+    "player_location": "us",
+    "time": 674,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zp2g7x8y",
+    "game": "Clawfish",
+    "player": "kindred",
+    "player_location": "us",
+    "time": 1179,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

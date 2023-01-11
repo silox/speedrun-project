@@ -1,0 +1,101 @@
+[
+  {
+    "id": "y2dp60wz",
+    "game": "Microsoft Mahjong",
+    "player": "Otterstone_Gamer",
+    "player_location": "us",
+    "time": 2622,
+    "category": "All Easy",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "me61jo3z",
+    "game": "Microsoft Mahjong",
+    "player": "Alpatex",
+    "player_location": "de",
+    "time": 1138,
+    "category": "All Expert",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mk746n5y",
+    "game": "Microsoft Mahjong",
+    "player": "DogeyGaming",
+    "player_location": "us",
+    "time": 3666,
+    "category": "All Easy",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y8v12r5z",
+    "game": "Microsoft Mahjong",
+    "player": "Narwhal1111",
+    "player_location": "us",
+    "time": 1108,
+    "category": "All Expert",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zn74xv9m",
+    "game": "Microsoft Mahjong",
+    "player": "poggherinho",
+    "player_location": "it",
+    "time": 2630,
+    "category": "All Easy",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y20w3n6m",
+    "game": "Microsoft Mahjong",
+    "player": "Michael_Groetz",
+    "player_location": "at",
+    "time": 1020,
+    "category": "All Expert",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zp92138m",
+    "game": "Microsoft Mahjong",
+    "player": "Paupau",
+    "player_location": "es",
+    "time": 1010,
+    "category": "All Expert",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zp96xqnm",
+    "game": "Microsoft Mahjong",
+    "player": "Brank0",
+    "player_location": "be",
+    "time": 1339,
+    "category": "All Expert",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m7x4640y",
+    "game": "Microsoft Mahjong",
+    "player": "Kalium",
+    "player_location": null,
+    "time": 1101,
+    "category": "All Expert",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  }
+]

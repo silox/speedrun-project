@@ -1,0 +1,112 @@
+[
+  {
+    "id": "z51o9qgm",
+    "game": "S.C.A.T.: Special Cybernetic Attack Team",
+    "player": "HurricaneMixer",
+    "player_location": "us",
+    "time": 1446,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "z13ek9gm",
+    "game": "S.C.A.T.: Special Cybernetic Attack Team",
+    "player": "GnarBlast",
+    "player_location": null,
+    "time": 1618,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "m3dpk0wz",
+    "game": "S.C.A.T.: Special Cybernetic Attack Team",
+    "player": "TheMexicanRunner",
+    "player_location": "mx",
+    "time": 1883,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "z5oqgwgy",
+    "game": "S.C.A.T.: Special Cybernetic Attack Team",
+    "player": "garysuter",
+    "player_location": "ca/qc",
+    "time": 1561,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "zp0q7pnm",
+    "game": "S.C.A.T.: Special Cybernetic Attack Team",
+    "player": "TricKyBoy",
+    "player_location": "ca/qc",
+    "time": 1450,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zn4rj3lm",
+    "game": "S.C.A.T.: Special Cybernetic Attack Team",
+    "player": "eyuzheng",
+    "player_location": "cn",
+    "time": 1477,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "z51n1qdm",
+    "game": "S.C.A.T.: Special Cybernetic Attack Team",
+    "player": "Rash",
+    "player_location": "ru",
+    "time": 1436,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "yd3924xz",
+    "game": "S.C.A.T.: Special Cybernetic Attack Team",
+    "player": "MegatronECS",
+    "player_location": "no",
+    "time": 1460,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "yj1x3eny",
+    "game": "S.C.A.T.: Special Cybernetic Attack Team",
+    "player": "wltr3565",
+    "player_location": "id",
+    "time": 1611,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "yw6oq0nm",
+    "game": "S.C.A.T.: Special Cybernetic Attack Team",
+    "player": "Stryomich",
+    "player_location": "ua",
+    "time": 1434,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  }
+]

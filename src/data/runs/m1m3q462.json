@@ -1,0 +1,112 @@
+[
+  {
+    "id": "oy2jl85z",
+    "game": "Jade Cocoon: Story of the Tamamayu",
+    "player": "JackOfHearts",
+    "player_location": "gb/eng",
+    "time": 3124,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "oy2226wy",
+    "game": "Jade Cocoon: Story of the Tamamayu",
+    "player": "AdamIsSkayde",
+    "player_location": "us",
+    "time": 3234,
+    "category": "Any% Emulator",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "6yjp393y",
+    "game": "Jade Cocoon: Story of the Tamamayu",
+    "player": "Sirpenguins",
+    "player_location": "se",
+    "time": 3495,
+    "category": "Any% Emulator",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "zx40pr8y",
+    "game": "Jade Cocoon: Story of the Tamamayu",
+    "player": "Leonis07",
+    "player_location": "fr",
+    "time": 3026,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "me8r0q0m",
+    "game": "Jade Cocoon: Story of the Tamamayu",
+    "player": "megabc333",
+    "player_location": "us",
+    "time": 3432,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "y6l9xl1y",
+    "game": "Jade Cocoon: Story of the Tamamayu",
+    "player": "zewing",
+    "player_location": "us",
+    "time": 3178,
+    "category": "Any% NTSC",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "y818onxz",
+    "game": "Jade Cocoon: Story of the Tamamayu",
+    "player": "Lexichu_",
+    "player_location": "gb",
+    "time": 5200,
+    "category": "",
+    "region": null,
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "y2xpo86m",
+    "game": "Jade Cocoon: Story of the Tamamayu",
+    "player": "JacoboTheChocobo",
+    "player_location": "us",
+    "time": 4526,
+    "category": "Any% NTSC",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "yorlp97y",
+    "game": "Jade Cocoon: Story of the Tamamayu",
+    "player": "Zaenilith",
+    "player_location": "gb/eng",
+    "time": 4085,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "y9x126ey",
+    "game": "Jade Cocoon: Story of the Tamamayu",
+    "player": "oristalfr",
+    "player_location": "fr",
+    "time": 3083,
+    "category": "Any% Emulator",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  }
+]

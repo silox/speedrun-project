@@ -1,0 +1,79 @@
+[
+  {
+    "id": "y82g0xwy",
+    "game": "Smart Ball",
+    "player": "Smartball",
+    "player_location": "us",
+    "time": 985,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "m35jjg4y",
+    "game": "Smart Ball",
+    "player": "giygasblues",
+    "player_location": null,
+    "time": 1023,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "kz5qlvdz",
+    "game": "Smart Ball",
+    "player": "Jorf",
+    "player_location": "ca",
+    "time": 1014,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "m79qnv4y",
+    "game": "Smart Ball",
+    "player": "drsquirrelphd",
+    "player_location": "us",
+    "time": 1703,
+    "category": "Any%",
+    "region": null,
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "m79g40wy",
+    "game": "Smart Ball",
+    "player": "LeHulk",
+    "player_location": "fr",
+    "time": 993,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "m7p1dl9m",
+    "game": "Smart Ball",
+    "player": "Skybilz",
+    "player_location": "us",
+    "time": 1178,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "yokg1j7z",
+    "game": "Smart Ball",
+    "player": "DaymanAAA",
+    "player_location": "us",
+    "time": 1068,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  }
+]

@@ -1,0 +1,189 @@
+[
+  {
+    "id": "0zngr78m",
+    "game": "Cannon Spike",
+    "player": "Naegleria",
+    "player_location": "ca",
+    "time": 585,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "nz16jq9m",
+    "game": "Cannon Spike",
+    "player": "Tharimrattler",
+    "player_location": "us",
+    "time": 366,
+    "category": "Any% (Baby)",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "ywpl980z",
+    "game": "Cannon Spike",
+    "player": "Dislexsicknik",
+    "player_location": "gb/eng",
+    "time": 506,
+    "category": "Any% (Baby)",
+    "region": null,
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "yw1e4k3z",
+    "game": "Cannon Spike",
+    "player": "kirlimfaul",
+    "player_location": "ru",
+    "time": 441,
+    "category": "Any% (Baby)",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  },
+  {
+    "id": "mekpl08m",
+    "game": "Cannon Spike",
+    "player": "PilotPanda",
+    "player_location": "de",
+    "time": 518,
+    "category": "Any% (Baby)",
+    "region": "EUR / PAL",
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "y8ql6jwy",
+    "game": "Cannon Spike",
+    "player": "ChrisKoopa",
+    "player_location": "us",
+    "time": 716,
+    "category": "Any% (Baby)",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "mk29q9lm",
+    "game": "Cannon Spike",
+    "player": "Aquas",
+    "player_location": "us",
+    "time": 455,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "yok6pd0z",
+    "game": "Cannon Spike",
+    "player": "lenamek",
+    "player_location": "fr",
+    "time": 357,
+    "category": "Any% (Baby)",
+    "region": null,
+    "platform": "Dreamcast",
+    "emulated": true
+  },
+  {
+    "id": "zp4jolxz",
+    "game": "Cannon Spike",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 447,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zno1xdvy",
+    "game": "Cannon Spike",
+    "player": "TheDidiness",
+    "player_location": null,
+    "time": 647,
+    "category": "Co-op (Baby)",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "me9pk68z",
+    "game": "Cannon Spike",
+    "player": "retro_smitty",
+    "player_location": "us",
+    "time": 514,
+    "category": "Any% (Baby)",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "m77exqem",
+    "game": "Cannon Spike",
+    "player": "RitaH",
+    "player_location": "br",
+    "time": 476,
+    "category": "Co-op (Baby)",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  },
+  {
+    "id": "yjxknnnz",
+    "game": "Cannon Spike",
+    "player": "Monstroplays",
+    "player_location": "br",
+    "time": 349,
+    "category": "Any% (Baby)",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  },
+  {
+    "id": "zq762rxm",
+    "game": "Cannon Spike",
+    "player": "NeetSuhiro",
+    "player_location": "jp",
+    "time": 428,
+    "category": "Any% (Baby)",
+    "region": "JPN / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "z5x27ogy",
+    "game": "Cannon Spike",
+    "player": "manticor5",
+    "player_location": "cl",
+    "time": 661,
+    "category": "Any% (Baby)",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  },
+  {
+    "id": "yd1d54qy",
+    "game": "Cannon Spike",
+    "player": "stormcrow56k",
+    "player_location": "us",
+    "time": 573,
+    "category": "Co-op (Baby)",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "mkdo7vly",
+    "game": "Cannon Spike",
+    "player": "Symm",
+    "player_location": "gb",
+    "time": 339,
+    "category": "Any% (Baby)",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  }
+]

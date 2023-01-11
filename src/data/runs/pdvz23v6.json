@@ -1,0 +1,35 @@
+[
+  {
+    "id": "yj1j71dy",
+    "game": "True Swing Golf",
+    "player": "Collasta",
+    "player_location": "us",
+    "time": 1536,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "y99668ey",
+    "game": "True Swing Golf",
+    "player": "poetfox",
+    "player_location": "us",
+    "time": 296,
+    "category": "Front 9",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "yjxojq3z",
+    "game": "True Swing Golf",
+    "player": "Zaxxa",
+    "player_location": "us",
+    "time": 270,
+    "category": "Front 9",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  }
+]

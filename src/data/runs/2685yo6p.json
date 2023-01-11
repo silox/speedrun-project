@@ -1,0 +1,101 @@
+[
+  {
+    "id": "m319pvqz",
+    "game": "Donkey Kong Land",
+    "player": "Wawlconut",
+    "player_location": null,
+    "time": 2063,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Player",
+    "emulated": false
+  },
+  {
+    "id": "ydq9ndjm",
+    "game": "Donkey Kong Land",
+    "player": "demodoriya",
+    "player_location": "jp",
+    "time": 2613,
+    "category": "100%",
+    "region": "JPN / NTSC",
+    "platform": "Super Game Boy 2",
+    "emulated": false
+  },
+  {
+    "id": "zqer8j9z",
+    "game": "Donkey Kong Land",
+    "player": "SilentWolf",
+    "player_location": "us",
+    "time": 1759,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Interface",
+    "emulated": false
+  },
+  {
+    "id": "zggo79dz",
+    "game": "Donkey Kong Land",
+    "player": "GoldenBoko",
+    "player_location": "us",
+    "time": 2377,
+    "category": "100%",
+    "region": "USA / NTSC",
+    "platform": "Super Game Boy 2",
+    "emulated": false
+  },
+  {
+    "id": "yok3l85z",
+    "game": "Donkey Kong Land",
+    "player": "cabbage_tamana",
+    "player_location": "jp",
+    "time": 1823,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Super Game Boy 2",
+    "emulated": false
+  },
+  {
+    "id": "ywjj932z",
+    "game": "Donkey Kong Land",
+    "player": "Glass",
+    "player_location": "us",
+    "time": 7723,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Player",
+    "emulated": false
+  },
+  {
+    "id": "z129p89y",
+    "game": "Donkey Kong Land",
+    "player": "_SNES_",
+    "player_location": "br",
+    "time": 7438,
+    "category": "100%",
+    "region": "JPN / NTSC",
+    "platform": "Super Game Boy",
+    "emulated": false
+  },
+  {
+    "id": "z1qoeo9y",
+    "game": "Donkey Kong Land",
+    "player": "DeathKontrol",
+    "player_location": "us",
+    "time": 1755,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Game Boy 2",
+    "emulated": true
+  },
+  {
+    "id": "y4qk39dm",
+    "game": "Donkey Kong Land",
+    "player": "MozzarellaCheez",
+    "player_location": "us",
+    "time": 1963,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Game Boy 2",
+    "emulated": false
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "yw4pgenz",
+    "game": "",
+    "player": "Cmdr",
+    "player_location": "us",
+    "time": 146,
+    "category": "Salt Lake City",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y8q9q31y",
+    "game": "",
+    "player": "belac_sow",
+    "player_location": null,
+    "time": 101,
+    "category": "Salt Lake City",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zq6x681y",
+    "game": "Oregon Trail: 5th Edition",
+    "player": "BaldrOfTheNorse",
+    "player_location": "us",
+    "time": 158,
+    "category": "",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y2q7powy",
+    "game": "Oregon Trail: 5th Edition",
+    "player": "Quirky",
+    "player_location": null,
+    "time": 257,
+    "category": "Sacramento",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zgkngoey",
+    "game": "Oregon Trail: 5th Edition",
+    "player": "Haloinator297",
+    "player_location": "us",
+    "time": 293,
+    "category": "Salt Lake City",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y2j9ql7z",
+    "game": "Oregon Trail: 5th Edition",
+    "player": "suzer808",
+    "player_location": null,
+    "time": 206,
+    "category": "",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  }
+]

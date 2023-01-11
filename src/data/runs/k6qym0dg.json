@@ -1,0 +1,46 @@
+[
+  {
+    "id": "6yj6v9gz",
+    "game": "Super Tennis",
+    "player": "Javi",
+    "player_location": "es",
+    "time": 10903,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "yvgq2q8y",
+    "game": "Super Tennis",
+    "player": "yelsraek",
+    "player_location": "us",
+    "time": 782,
+    "category": "DonJ%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "z5od24ey",
+    "game": "Super Tennis",
+    "player": "berlindude1",
+    "player_location": "de",
+    "time": 673,
+    "category": "DonJ%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "yvg2jrxy",
+    "game": "Super Tennis",
+    "player": "AlfredoSalza",
+    "player_location": "cl",
+    "time": 7725,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  }
+]

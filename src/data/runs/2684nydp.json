@@ -1,0 +1,35 @@
+[
+  {
+    "id": "6yjqvpdm",
+    "game": "Perplexus Twist",
+    "player": "gb fam",
+    "player_location": null,
+    "time": 74.6,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Tabletop",
+    "emulated": false
+  },
+  {
+    "id": "pzg60pem",
+    "game": "Perplexus Twist",
+    "player": "Frikkinfriks14",
+    "player_location": "us",
+    "time": 10.33,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Tabletop",
+    "emulated": false
+  },
+  {
+    "id": "z12k8gwy",
+    "game": "Perplexus Twist",
+    "player": "Leibi",
+    "player_location": "de",
+    "time": 0.233,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Tabletop",
+    "emulated": false
+  }
+]

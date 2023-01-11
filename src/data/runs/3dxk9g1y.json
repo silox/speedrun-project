@@ -1,0 +1,46 @@
+[
+  {
+    "id": "nz13p29m",
+    "game": "Marvel Land",
+    "player": "Therio",
+    "player_location": "nl",
+    "time": 216.63,
+    "category": "Any% Digest",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "kz54g75m",
+    "game": "Marvel Land",
+    "player": "Aureus_Lunae",
+    "player_location": "nl",
+    "time": 1480.69,
+    "category": "Any% Normal (US/EU)",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "yj5l6dgm",
+    "game": "Marvel Land",
+    "player": "Dospostmann",
+    "player_location": "us",
+    "time": 966,
+    "category": "Any% Normal (US/EU)",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "yorooddy",
+    "game": "Marvel Land",
+    "player": "tommy_ibrk",
+    "player_location": "jp",
+    "time": 208,
+    "category": "Any% Digest",
+    "region": "JPN / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "8y8prk1z",
+    "game": "The Jetsons: Cogswell's Caper!",
+    "player": "aknoid",
+    "player_location": null,
+    "time": 1525,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "z03poxjz",
+    "game": "The Jetsons: Cogswell's Caper!",
+    "player": "BrashVolksdragon",
+    "player_location": "us",
+    "time": 1428,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "yd6vwwqz",
+    "game": "The Jetsons: Cogswell's Caper!",
+    "player": "Arcus",
+    "player_location": "us",
+    "time": 1810,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "yv9qr0oz",
+    "game": "The Jetsons: Cogswell's Caper!",
+    "player": "beerfullofbelly",
+    "player_location": "us",
+    "time": 1378,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zgr5xpnm",
+    "game": "The Jetsons: Cogswell's Caper!",
+    "player": "DarthTyrael",
+    "player_location": "us",
+    "time": 1708,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  }
+]

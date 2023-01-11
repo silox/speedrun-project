@@ -1,0 +1,134 @@
+[
+  {
+    "id": "m7q8rjez",
+    "game": "Yu-Gi-Oh! GX Duel Academy",
+    "player": "Scrub_Busta",
+    "player_location": "us",
+    "time": 4328,
+    "category": "Obelisk Blue",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": false
+  },
+  {
+    "id": "oy2vl57z",
+    "game": "Yu-Gi-Oh! GX Duel Academy",
+    "player": "StrawberryWhiteblock",
+    "player_location": null,
+    "time": 5079,
+    "category": "Obelisk Blue",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "y6p7p71m",
+    "game": "Yu-Gi-Oh! GX Duel Academy",
+    "player": "CDRomatron",
+    "player_location": "gb/sct",
+    "time": 4787,
+    "category": "Obelisk Blue",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Advance",
+    "emulated": false
+  },
+  {
+    "id": "y82ge9dy",
+    "game": "Yu-Gi-Oh! GX Duel Academy",
+    "player": "Phenix",
+    "player_location": "gb",
+    "time": 4326,
+    "category": "Obelisk Blue",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "m7pq984m",
+    "game": "Yu-Gi-Oh! GX Duel Academy",
+    "player": "Retroid99",
+    "player_location": "nz",
+    "time": 4529,
+    "category": "Obelisk Blue",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "m7pen69m",
+    "game": "Yu-Gi-Oh! GX Duel Academy",
+    "player": "tatsuK",
+    "player_location": "im",
+    "time": 4528,
+    "category": "Obelisk Blue",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "z11vo5jz",
+    "game": "Yu-Gi-Oh! GX Duel Academy",
+    "player": "Ophi",
+    "player_location": "us",
+    "time": 5695,
+    "category": "Obelisk Blue",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "mrejn62y",
+    "game": "Yu-Gi-Oh! GX Duel Academy",
+    "player": "Brakk0n",
+    "player_location": "us",
+    "time": 5160,
+    "category": "Obelisk Blue",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": false
+  },
+  {
+    "id": "ylve2v2m",
+    "game": "Yu-Gi-Oh! GX Duel Academy",
+    "player": "spessmans",
+    "player_location": "gi",
+    "time": 4706,
+    "category": "Obelisk Blue",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "mr9wx57m",
+    "game": "Yu-Gi-Oh! GX Duel Academy",
+    "player": "Mambocat",
+    "player_location": "us",
+    "time": 3718,
+    "category": "Obelisk Blue",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "y8e012dy",
+    "game": "Yu-Gi-Oh! GX Duel Academy",
+    "player": "swagmarf",
+    "player_location": "de",
+    "time": 5150,
+    "category": "Obelisk Blue",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "mr7po04z",
+    "game": "Yu-Gi-Oh! GX Duel Academy",
+    "player": "CharlesWolfgang",
+    "player_location": null,
+    "time": 4047,
+    "category": "Obelisk Blue",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  }
+]

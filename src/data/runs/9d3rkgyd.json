@@ -1,0 +1,57 @@
+[
+  {
+    "id": "y432l8nz",
+    "game": "Strange Brigade",
+    "player": "BnH247",
+    "player_location": null,
+    "time": 8134,
+    "category": "Campaign%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zx4gv0qy",
+    "game": "Strange Brigade",
+    "player": "Mattmatt",
+    "player_location": "aq",
+    "time": 5976,
+    "category": "Campaign%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y6pdn4jm",
+    "game": "Strange Brigade",
+    "player": "Hutchtee",
+    "player_location": "gb",
+    "time": 6341,
+    "category": "Co-op",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z03jo24z",
+    "game": "Strange Brigade",
+    "player": "Sean",
+    "player_location": "us",
+    "time": 5665,
+    "category": "Campaign%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y473613y",
+    "game": "Strange Brigade",
+    "player": "DeCaro",
+    "player_location": "ca",
+    "time": 6635,
+    "category": "Campaign%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

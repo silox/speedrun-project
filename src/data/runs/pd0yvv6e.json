@@ -1,0 +1,68 @@
+[
+  {
+    "id": "dy470xdy",
+    "game": "Tail Concerto",
+    "player": "Lastsincommited",
+    "player_location": "us",
+    "time": 7069,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "m3dr44dz",
+    "game": "Tail Concerto",
+    "player": "Harutomo",
+    "player_location": "jp",
+    "time": 5356,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "m76q7k4y",
+    "game": "Tail Concerto",
+    "player": "Rom-Ste\u00efn",
+    "player_location": "fr",
+    "time": 4398,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "zgxwredm",
+    "game": "Tail Concerto",
+    "player": "neko_22",
+    "player_location": "jp",
+    "time": 4282,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "yj63qwnz",
+    "game": "Tail Concerto",
+    "player": "Lemin",
+    "player_location": "gb/eng",
+    "time": 4664,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "zqvvqpxm",
+    "game": "Tail Concerto",
+    "player": "BoredDudesGaming",
+    "player_location": "us",
+    "time": 5591,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "6yj920gz",
+    "game": "Zombie Nation",
+    "player": "Mikasota",
+    "player_location": null,
+    "time": 1095,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "z5o1k45y",
+    "game": "Zombie Nation",
+    "player": "GreenBomber",
+    "player_location": "us",
+    "time": 1121,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "m3djnogz",
+    "game": "Zombie Nation",
+    "player": "Roamus",
+    "player_location": "ca/qc",
+    "time": 1846,
+    "category": "Any%",
+    "region": null,
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "y4546kkm",
+    "game": "Zombie Nation",
+    "player": "HurricaneMixer",
+    "player_location": "us",
+    "time": 1086,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y66oog0y",
+    "game": "Zombie Nation",
+    "player": "Charlie9631",
+    "player_location": "us",
+    "time": 1044,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "zqr7qg5y",
+    "game": "Zombie Nation",
+    "player": "Overswarm",
+    "player_location": "us",
+    "time": 1653,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "ywqr6q0y",
+    "game": "Zombie Nation",
+    "player": "Ojama",
+    "player_location": "it",
+    "time": 1064,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "mk7elwvy",
+    "game": "Zombie Nation",
+    "player": "HosteL",
+    "player_location": "ru",
+    "time": 1060,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "z50vr3ny",
+    "game": "Zombie Nation",
+    "player": "ANGEL_UNDEAD",
+    "player_location": "ru",
+    "time": 1053,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "mrnw4qgy",
+    "game": "Zombie Nation",
+    "player": "Yuyukichi",
+    "player_location": "jp",
+    "time": 1048,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "z036rdoz",
+    "game": "",
+    "player": "XashTheStampede",
+    "player_location": "us",
+    "time": 1690.69,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": true
+  },
+  {
+    "id": "zq4g329m",
+    "game": "",
+    "player": "purpletissuebox",
+    "player_location": "us",
+    "time": 1569,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Wii Virtual Console",
+    "emulated": false
+  }
+]

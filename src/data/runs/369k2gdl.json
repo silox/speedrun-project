@@ -1,0 +1,57 @@
+[
+  {
+    "id": "pzgool0m",
+    "game": ".hack//Mutation",
+    "player": "Finzenku",
+    "player_location": "us",
+    "time": 10956,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "yo44kj7m",
+    "game": ".hack//Mutation",
+    "player": "irisukyoko",
+    "player_location": "jp",
+    "time": 8557,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y679l90m",
+    "game": ".hack//Mutation",
+    "player": "Hachrt",
+    "player_location": "us",
+    "time": 10149,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y6l3o16y",
+    "game": ".hack//Mutation",
+    "player": "Royzoga",
+    "player_location": "us",
+    "time": 7986,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "yl09853y",
+    "game": ".hack//Mutation",
+    "player": "MooMooAkai",
+    "player_location": "us",
+    "time": 8062,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  }
+]

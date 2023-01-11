@@ -1,0 +1,123 @@
+[
+  {
+    "id": "y8xlj2dm",
+    "game": "Resident Evil 4 2007",
+    "player": "LeonSReckon",
+    "player_location": "dz",
+    "time": 5275.85,
+    "category": "Leon",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mkdj81vy",
+    "game": "Resident Evil 4 2007",
+    "player": "Mort",
+    "player_location": null,
+    "time": 1379,
+    "category": "Segments",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "me1wo70y",
+    "game": "Resident Evil 4 2007",
+    "player": "WagnerBrasil",
+    "player_location": "br",
+    "time": 28.64,
+    "category": "Save the Dog",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "me1w8d9y",
+    "game": "Resident Evil 4 2007",
+    "player": "VoidBern",
+    "player_location": "id",
+    "time": 35.18,
+    "category": "Save the Dog",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z1glxl7z",
+    "game": "Resident Evil 4 2007",
+    "player": "SANDWRAITH",
+    "player_location": "eg",
+    "time": 500.05,
+    "category": "Assignment Ada",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zgq6wjny",
+    "game": "Resident Evil 4 2007",
+    "player": "HinakoShijou",
+    "player_location": null,
+    "time": 28.61,
+    "category": "Save the Dog",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z5e56oez",
+    "game": "Resident Evil 4 2007",
+    "player": "tellaryt",
+    "player_location": "ru",
+    "time": 4815.83,
+    "category": "Leon",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mkdrv9vy",
+    "game": "Resident Evil 4 2007",
+    "player": "THEOFOX",
+    "player_location": "br",
+    "time": 2366,
+    "category": "Segments",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zq9noo1y",
+    "game": "Resident Evil 4 2007",
+    "player": "MatheuszinMJ",
+    "player_location": "br",
+    "time": 5035.77,
+    "category": "Leon",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "me1r780y",
+    "game": "Resident Evil 4 2007",
+    "player": "westt",
+    "player_location": "br",
+    "time": 94.92,
+    "category": "Out of Bounds",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z5e703dz",
+    "game": "Resident Evil 4 2007",
+    "player": "Waifu4k",
+    "player_location": "in",
+    "time": 32.23,
+    "category": "Save the Dog",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  }
+]

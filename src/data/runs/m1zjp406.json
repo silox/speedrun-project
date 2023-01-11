@@ -1,0 +1,68 @@
+[
+  {
+    "id": "zxd69v5y",
+    "game": "ClockWerx",
+    "player": "Goldom",
+    "player_location": "us",
+    "time": 6677,
+    "category": "All Levels",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": true
+  },
+  {
+    "id": "y8vklndz",
+    "game": "ClockWerx",
+    "player": "dlimes13",
+    "player_location": "us",
+    "time": 0.001,
+    "category": "Fastest Time",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": true
+  },
+  {
+    "id": "y429lr2m",
+    "game": "ClockWerx",
+    "player": "Makarov360",
+    "player_location": "ro",
+    "time": 9,
+    "category": "Fastest Time",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": true
+  },
+  {
+    "id": "yv24x3om",
+    "game": "ClockWerx",
+    "player": "PlatonicGuy",
+    "player_location": "bh",
+    "time": 66,
+    "category": "Fastest Time",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": true
+  },
+  {
+    "id": "mejppo8y",
+    "game": "ClockWerx",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 9,
+    "category": "Fastest Time",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "z5ejn1gz",
+    "game": "ClockWerx",
+    "player": "RSpeedy",
+    "player_location": "gb",
+    "time": 9,
+    "category": "Fastest Time",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": true
+  }
+]

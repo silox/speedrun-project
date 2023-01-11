@@ -1,0 +1,189 @@
+[
+  {
+    "id": "9yox8q1y",
+    "game": "Ball Jump",
+    "player": "jjdm10",
+    "player_location": "de",
+    "time": 4.92,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Android",
+    "emulated": true
+  },
+  {
+    "id": "7ylxp8ky",
+    "game": "Ball Jump",
+    "player": "AntoninZeKing",
+    "player_location": "fr",
+    "time": 5.439,
+    "category": "5 Points%",
+    "region": "EUR / PAL",
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "9med949y",
+    "game": "Ball Jump",
+    "player": "soupG",
+    "player_location": "de",
+    "time": 4.4,
+    "category": "5 Points%",
+    "region": null,
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "pydp5wjy",
+    "game": "Ball Jump",
+    "player": "Pottary",
+    "player_location": "de",
+    "time": 4.25,
+    "category": "5 Points%",
+    "region": null,
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "z11rdw9z",
+    "game": "Ball Jump",
+    "player": "DracaarysTrophy",
+    "player_location": "fr",
+    "time": 6.78,
+    "category": "5 Points%",
+    "region": "EUR / PAL",
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "y6p8x2jm",
+    "game": "Ball Jump",
+    "player": "Cytruss",
+    "player_location": "gr",
+    "time": 7,
+    "category": "5 Points%",
+    "region": null,
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "mredv68y",
+    "game": "Ball Jump",
+    "player": "Zericc",
+    "player_location": "ca",
+    "time": 4.48,
+    "category": "5 Points%",
+    "region": "USA / NTSC",
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "y414nkqy",
+    "game": "Ball Jump",
+    "player": "fernandinhocenv",
+    "player_location": "br",
+    "time": 4.4,
+    "category": "5 Points%",
+    "region": null,
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "ylk043kz",
+    "game": "Ball Jump",
+    "player": "Fexty",
+    "player_location": "hr",
+    "time": 4.2,
+    "category": "5 Points%",
+    "region": "EUR / PAL",
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "y25pd55y",
+    "game": "Ball Jump",
+    "player": "Ilanka",
+    "player_location": "fr",
+    "time": 4.16,
+    "category": "5 Points%",
+    "region": null,
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "zqwd545z",
+    "game": "Ball Jump",
+    "player": "7H3",
+    "player_location": "ca",
+    "time": 4.75,
+    "category": "5 Points%",
+    "region": null,
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "yo30kljy",
+    "game": "Ball Jump",
+    "player": "PVPCakers",
+    "player_location": "ca",
+    "time": 4.137,
+    "category": "5 Points%",
+    "region": "USA / NTSC",
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "mr486g8z",
+    "game": "Ball Jump",
+    "player": "ShesChardcore",
+    "player_location": "us",
+    "time": 4.5,
+    "category": "5 Points%",
+    "region": "USA / NTSC",
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "y6663d6y",
+    "game": "Ball Jump",
+    "player": "Uncle_Apple_YT",
+    "player_location": "pl",
+    "time": 4.75,
+    "category": "5 Points%",
+    "region": "EUR / PAL",
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "zgd9p4vz",
+    "game": "Ball Jump",
+    "player": "TRLittleToaster",
+    "player_location": "us",
+    "time": 4.833,
+    "category": "5 Points%",
+    "region": "USA / NTSC",
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "yle5jlnz",
+    "game": "Ball Jump",
+    "player": "JeelSpeed",
+    "player_location": "zw",
+    "time": 5.067,
+    "category": "5 Points%",
+    "region": null,
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "z0l8kwoz",
+    "game": "Ball Jump",
+    "player": "daff",
+    "player_location": "ru",
+    "time": 5.625,
+    "category": "5 Points%",
+    "region": null,
+    "platform": "Android",
+    "emulated": false
+  }
+]

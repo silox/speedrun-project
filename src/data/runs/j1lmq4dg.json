@@ -1,0 +1,134 @@
+[
+  {
+    "id": "0y6q49pz",
+    "game": "Jotun",
+    "player": "Kewe",
+    "player_location": "de",
+    "time": 3680,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "1zx3d3qz",
+    "game": "Jotun",
+    "player": "Kuzenbo",
+    "player_location": "us",
+    "time": 3689,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y207x09m",
+    "game": "Jotun",
+    "player": "Shirou359",
+    "player_location": "br",
+    "time": 603,
+    "category": "Valhalla",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zn890d7z",
+    "game": "Jotun",
+    "player": "HaneTen",
+    "player_location": "tw",
+    "time": 2281,
+    "category": "Valhalla",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yd35j00z",
+    "game": "Jotun",
+    "player": "eigenbasis",
+    "player_location": "lv",
+    "time": 4307,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zp02w9xm",
+    "game": "Jotun",
+    "player": "BixLe",
+    "player_location": "us",
+    "time": 3279,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "ywp2ol9z",
+    "game": "Jotun",
+    "player": "Thatchbro",
+    "player_location": "no",
+    "time": 756,
+    "category": "Valhalla",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zxokjngz",
+    "game": "Jotun",
+    "player": "Ardouos",
+    "player_location": "gb/eng",
+    "time": 667,
+    "category": "Valhalla",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mkdnxk1y",
+    "game": "Jotun",
+    "player": "Maelarion",
+    "player_location": "fr",
+    "time": 2887,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zgpp8xnz",
+    "game": "Jotun",
+    "player": "lanar_du_futur",
+    "player_location": "fr",
+    "time": 3352,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zgq5o4ny",
+    "game": "Jotun",
+    "player": "Tiloupier",
+    "player_location": null,
+    "time": 2815,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zpdjwwvz",
+    "game": "Jotun",
+    "player": "Daeress",
+    "player_location": "fr",
+    "time": 4370,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "m37e5o6z",
+    "game": "Fuga: Melodies of Steel",
+    "player": "Punchy",
+    "player_location": "gb/eng",
+    "time": 9588,
+    "category": "New Game+",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "ylr1kj3y",
+    "game": "Fuga: Melodies of Steel",
+    "player": "Replusrock",
+    "player_location": "jp",
+    "time": 21375,
+    "category": "New Game",
+    "region": "JPN / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "mr66qg2m",
+    "game": "Fuga: Melodies of Steel",
+    "player": "moonblazewolf",
+    "player_location": "us",
+    "time": 17358,
+    "category": "New Game",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yleoxo2z",
+    "game": "Fuga: Melodies of Steel",
+    "player": "ResiDrache",
+    "player_location": "us",
+    "time": 9806,
+    "category": "New Game+",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z1ppw17z",
+    "game": "Fuga: Melodies of Steel",
+    "player": "secretbunnyninja",
+    "player_location": "us",
+    "time": 12211,
+    "category": "New Game+",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 5",
+    "emulated": false
+  },
+  {
+    "id": "ydg0dg0y",
+    "game": "Fuga: Melodies of Steel",
+    "player": "Rom-Ste\u00efn",
+    "player_location": "fr",
+    "time": 21226,
+    "category": "New Game",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  }
+]

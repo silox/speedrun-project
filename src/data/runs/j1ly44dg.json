@@ -1,0 +1,24 @@
+[
+  {
+    "id": "mex7248z",
+    "game": "",
+    "player": "matthewreality",
+    "player_location": "us",
+    "time": 1091.072,
+    "category": "Arcade - Co-Op",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": false
+  },
+  {
+    "id": "yw331n2m",
+    "game": "",
+    "player": "ElectroPunkTTV",
+    "player_location": "au",
+    "time": 1339.02,
+    "category": "Arcade - Co-Op",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": false
+  }
+]

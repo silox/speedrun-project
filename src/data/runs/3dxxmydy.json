@@ -1,0 +1,134 @@
+[
+  {
+    "id": "9yon480z",
+    "game": "Ecco Jr.",
+    "player": "DelphinusAirways",
+    "player_location": "us",
+    "time": 627,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "z5olnwdy",
+    "game": "Ecco Jr.",
+    "player": "Killentity",
+    "player_location": "us",
+    "time": 1158,
+    "category": "Normal",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "yo24xo7z",
+    "game": "Ecco Jr.",
+    "player": "LimeCultivist",
+    "player_location": "us",
+    "time": 865,
+    "category": "Normal",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "m3113nwz",
+    "game": "Ecco Jr.",
+    "player": "yugge",
+    "player_location": "se",
+    "time": 690,
+    "category": "Normal",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "zgkdg7dy",
+    "game": "Ecco Jr.",
+    "player": "chronoon",
+    "player_location": "us",
+    "time": 439,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "z572xjnm",
+    "game": "Ecco Jr.",
+    "player": "maharaMosura",
+    "player_location": "ar",
+    "time": 429,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "zq7pe29m",
+    "game": "Ecco Jr.",
+    "player": "Mecheon",
+    "player_location": "au",
+    "time": 361,
+    "category": "Easy",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "ydrkx9jz",
+    "game": "Ecco Jr.",
+    "player": "therealbmanbeast",
+    "player_location": "us",
+    "time": 1017,
+    "category": "Normal",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "m37jl1wz",
+    "game": "Ecco Jr.",
+    "player": "smartalec24",
+    "player_location": "us",
+    "time": 438,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "y2019ojm",
+    "game": "Ecco Jr.",
+    "player": "Mc166",
+    "player_location": "fr",
+    "time": 489,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "y2ppjo7z",
+    "game": "Ecco Jr.",
+    "player": "KoopaBros",
+    "player_location": "us",
+    "time": 2579,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "znpe3e9m",
+    "game": "Ecco Jr.",
+    "player": "Moliman",
+    "player_location": "ca/qc",
+    "time": 375,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  }
+]

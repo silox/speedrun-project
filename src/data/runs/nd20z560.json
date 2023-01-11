@@ -1,0 +1,145 @@
+[
+  {
+    "id": "nz193ewm",
+    "game": "Battalion Wars",
+    "player": "ROMaster2",
+    "player_location": "us",
+    "time": 197,
+    "category": "100%",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "y4535x2m",
+    "game": "Battalion Wars",
+    "player": "ciyon",
+    "player_location": "us",
+    "time": 133,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "m794k4wy",
+    "game": "Battalion Wars",
+    "player": "MennoKnight23",
+    "player_location": "ca",
+    "time": 146,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "z111lxrz",
+    "game": "Battalion Wars",
+    "player": "LP3Cinema",
+    "player_location": "ca",
+    "time": 136,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "z5o9r0gy",
+    "game": "Battalion Wars",
+    "player": "MuchWhittering",
+    "player_location": "gb/eng",
+    "time": 111,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "m3d4946z",
+    "game": "Battalion Wars",
+    "player": "Master Knight DH",
+    "player_location": null,
+    "time": 129,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "y88vpvxy",
+    "game": "Battalion Wars",
+    "player": "kid_cuziii",
+    "player_location": "ca",
+    "time": 110,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "yvj7p18y",
+    "game": "Battalion Wars",
+    "player": "Incineratex3",
+    "player_location": "de",
+    "time": 161,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "yok96p0z",
+    "game": "Battalion Wars",
+    "player": "Psychoninja93",
+    "player_location": "us",
+    "time": 9660,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "zgvk28dz",
+    "game": "Battalion Wars",
+    "player": "Misuta",
+    "player_location": "de",
+    "time": 186,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "m36eqgdm",
+    "game": "Battalion Wars",
+    "player": "Fez",
+    "player_location": "im",
+    "time": 98,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "y8dg08xz",
+    "game": "Battalion Wars",
+    "player": "mario_4",
+    "player_location": "ca",
+    "time": 238,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "zp25qexy",
+    "game": "Battalion Wars",
+    "player": "pj_artsofdarkness",
+    "player_location": "ca",
+    "time": 8080,
+    "category": "Any%",
+    "region": null,
+    "platform": "GameCube",
+    "emulated": true
+  }
+]

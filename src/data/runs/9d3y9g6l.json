@@ -1,0 +1,57 @@
+[
+  {
+    "id": "y20n30wm",
+    "game": "Castlevania (DOS)",
+    "player": "LoZCardsfan23",
+    "player_location": "us",
+    "time": 800.5,
+    "category": "Any % - DOS",
+    "region": "USA / NTSC",
+    "platform": "MS-DOS",
+    "emulated": true
+  },
+  {
+    "id": "zn798g3m",
+    "game": "Castlevania (DOS)",
+    "player": "Charlie9631",
+    "player_location": "us",
+    "time": 794.15,
+    "category": "Any % - DOS",
+    "region": "USA / NTSC",
+    "platform": "MS-DOS",
+    "emulated": true
+  },
+  {
+    "id": "ylkn58xz",
+    "game": "Castlevania (DOS)",
+    "player": "Krayzar",
+    "player_location": "us",
+    "time": 1111,
+    "category": "Any % - DOS",
+    "region": "USA / NTSC",
+    "platform": "MS-DOS",
+    "emulated": true
+  },
+  {
+    "id": "zg2w4wvy",
+    "game": "Castlevania (DOS)",
+    "player": "AgentWyvern",
+    "player_location": "gb",
+    "time": 904.283,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Amiga",
+    "emulated": true
+  },
+  {
+    "id": "zq95v1ry",
+    "game": "Castlevania (DOS)",
+    "player": "Neetsel",
+    "player_location": "be",
+    "time": 1232,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Amiga",
+    "emulated": true
+  }
+]

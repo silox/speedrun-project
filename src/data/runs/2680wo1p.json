@@ -1,0 +1,79 @@
+[
+  {
+    "id": "ylvxdx2m",
+    "game": "Need for Speed: Underground (GBA)",
+    "player": "DJAtomika",
+    "player_location": "ch",
+    "time": 11.61,
+    "category": "Forward",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "y2dp6j6z",
+    "game": "Need for Speed: Underground (GBA)",
+    "player": "masklayer",
+    "player_location": "us",
+    "time": 8343,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "zq4d4v1m",
+    "game": "Need for Speed: Underground (GBA)",
+    "player": "goldenONX",
+    "player_location": "ro",
+    "time": 12.55,
+    "category": "Forward",
+    "region": null,
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "z1on6k7m",
+    "game": "Need for Speed: Underground (GBA)",
+    "player": "Rukifellth",
+    "player_location": null,
+    "time": 11.43,
+    "category": "Forward",
+    "region": null,
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "m3nnwxqy",
+    "game": "Need for Speed: Underground (GBA)",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 81.35,
+    "category": "Forward",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "yo6rwwdy",
+    "game": "Need for Speed: Underground (GBA)",
+    "player": "N/A",
+    "player_location": null,
+    "time": 0.001,
+    "category": "",
+    "region": null,
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "mrojrl4m",
+    "game": "Need for Speed: Underground (GBA)",
+    "player": "PlayFast",
+    "player_location": "ru",
+    "time": 5797,
+    "category": "Underground Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "m7gnpvem",
+    "game": "Judgment",
+    "player": "ToxicTT",
+    "player_location": "ru",
+    "time": 22871,
+    "category": "Original - Any%",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "m316kjdz",
+    "game": "Judgment",
+    "player": "King_Stes",
+    "player_location": "us",
+    "time": 28295,
+    "category": "Original - Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "z1p2x5rz",
+    "game": "Judgment",
+    "player": "Froob",
+    "player_location": "gb/eng",
+    "time": 17442,
+    "category": "Remastered - Any%",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 5",
+    "emulated": false
+  },
+  {
+    "id": "z054808m",
+    "game": "Judgment",
+    "player": "DragonPlayz30",
+    "player_location": "gb/eng",
+    "time": 21393,
+    "category": "Original - NG+",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "y2xxer5m",
+    "game": "Judgment",
+    "player": "Drake_Shadow",
+    "player_location": "us",
+    "time": 16953,
+    "category": "Remastered - NG+",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 5",
+    "emulated": false
+  },
+  {
+    "id": "yv05joxz",
+    "game": "Judgment",
+    "player": "Pskaller",
+    "player_location": "us",
+    "time": 16187,
+    "category": "Remastered - Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

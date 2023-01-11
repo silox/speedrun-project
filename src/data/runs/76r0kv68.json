@@ -1,0 +1,46 @@
+[
+  {
+    "id": "0y68x30z",
+    "game": "Gears of War 4 Horde Mode",
+    "player": "retired",
+    "player_location": "gb/eng",
+    "time": 5244,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Xbox One",
+    "emulated": false
+  },
+  {
+    "id": "pyd75vxy",
+    "game": "Gears of War 4 Horde Mode",
+    "player": "MC_Jonny_117",
+    "player_location": "de",
+    "time": 5099,
+    "category": "Casual Any%",
+    "region": "EUR / PAL",
+    "platform": "Xbox One",
+    "emulated": false
+  },
+  {
+    "id": "me824p3m",
+    "game": "Gears of War 4 Horde Mode",
+    "player": "TomEL092",
+    "player_location": "de",
+    "time": 5099,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Xbox One",
+    "emulated": false
+  },
+  {
+    "id": "yw8wnx2y",
+    "game": "Gears of War 4 Horde Mode",
+    "player": "JervaliN",
+    "player_location": "us",
+    "time": 24238,
+    "category": "",
+    "region": null,
+    "platform": "Xbox One",
+    "emulated": false
+  }
+]

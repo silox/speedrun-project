@@ -1,0 +1,134 @@
+[
+  {
+    "id": "ywpq7j9z",
+    "game": "Ys Seven",
+    "player": "Deln",
+    "player_location": "ca/qc",
+    "time": 8650,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z0eo474m",
+    "game": "Ys Seven",
+    "player": "\u30ab\u30ca\u30e4\u30df",
+    "player_location": null,
+    "time": 10723,
+    "category": "Any% PSP",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": false
+  },
+  {
+    "id": "m3ol7vqm",
+    "game": "Ys Seven",
+    "player": "MO2MO2",
+    "player_location": "jp",
+    "time": 9196,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mrern07y",
+    "game": "Ys Seven",
+    "player": "AzethK",
+    "player_location": "br",
+    "time": 14157,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zp1996vz",
+    "game": "Ys Seven",
+    "player": "sometan91",
+    "player_location": "jp",
+    "time": 4172,
+    "category": "Any% PC",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "meojw13z",
+    "game": "Ys Seven",
+    "player": "lost1002",
+    "player_location": "jp",
+    "time": 6555,
+    "category": "Any% PC",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y2pew45z",
+    "game": "Ys Seven",
+    "player": "tikaEX",
+    "player_location": "jp",
+    "time": 3310,
+    "category": "Any% PC",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y99xodny",
+    "game": "Ys Seven",
+    "player": "Washi",
+    "player_location": "jp",
+    "time": 4032,
+    "category": "Any% PC",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "me4nw02y",
+    "game": "Ys Seven",
+    "player": "Ooooi",
+    "player_location": null,
+    "time": 8355,
+    "category": "Any% PC",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yv0ddr4z",
+    "game": "Ys Seven",
+    "player": "bramhallthefifth",
+    "player_location": "us",
+    "time": 3584,
+    "category": "Any% PC",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y9xnxkvy",
+    "game": "Ys Seven",
+    "player": "shanoMM",
+    "player_location": "jp",
+    "time": 5754,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zg2w91ny",
+    "game": "Ys Seven",
+    "player": "Jaddo",
+    "player_location": "gb",
+    "time": 6405,
+    "category": "Any% PC",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  }
+]

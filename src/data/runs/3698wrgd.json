@@ -1,0 +1,46 @@
+[
+  {
+    "id": "m77w9n5m",
+    "game": "The Great Ace Attorney 2: Resolve",
+    "player": "ReilynnOkami",
+    "player_location": "us",
+    "time": 2338,
+    "category": "Complete The Case",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "y8ejdgxy",
+    "game": "The Great Ace Attorney 2: Resolve",
+    "player": "NovaZone",
+    "player_location": "ca",
+    "time": 2267,
+    "category": "Complete The Case",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z12opggy",
+    "game": "The Great Ace Attorney 2: Resolve",
+    "player": "Ingggo",
+    "player_location": "kr",
+    "time": 2305,
+    "category": "Complete The Case",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yvr15rxz",
+    "game": "The Great Ace Attorney 2: Resolve",
+    "player": "Techie81242",
+    "player_location": "us",
+    "time": 2360,
+    "category": "Complete The Case",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  }
+]

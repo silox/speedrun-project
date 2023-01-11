@@ -1,0 +1,134 @@
+[
+  {
+    "id": "0y67on1m",
+    "game": "Ecco the Dolphin",
+    "player": "halfbakedprophet",
+    "player_location": "ca",
+    "time": 1074,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Wii Virtual Console",
+    "emulated": false
+  },
+  {
+    "id": "2yw1v3pz",
+    "game": "Ecco the Dolphin",
+    "player": "vorpal",
+    "player_location": "us",
+    "time": 1098,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "pzgn2pvy",
+    "game": "Ecco the Dolphin",
+    "player": "Itresad",
+    "player_location": "fr",
+    "time": 1336,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "9meke39m",
+    "game": "Ecco the Dolphin",
+    "player": "Rezard",
+    "player_location": "ch",
+    "time": 1361,
+    "category": "Any% No Camera-Freeze",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "2yw0o42m",
+    "game": "Ecco the Dolphin",
+    "player": "SakuraFreak",
+    "player_location": "br",
+    "time": 1334,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "8yvqv96m",
+    "game": "Ecco the Dolphin",
+    "player": "FordPines",
+    "player_location": "us",
+    "time": 1457,
+    "category": "Any% No Camera-Freeze",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "zgnn64ey",
+    "game": "Ecco the Dolphin",
+    "player": "DelphinusAirways",
+    "player_location": "us",
+    "time": 1447,
+    "category": "Any% No Camera-Freeze",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "yj32jrdz",
+    "game": "Ecco the Dolphin",
+    "player": "reanymation",
+    "player_location": "us",
+    "time": 1649,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "y91k2pvm",
+    "game": "Ecco the Dolphin",
+    "player": "GrimShins",
+    "player_location": "us",
+    "time": 1394,
+    "category": "Any% No Camera-Freeze",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "yv9x5poz",
+    "game": "Ecco the Dolphin",
+    "player": "JSR_",
+    "player_location": "us",
+    "time": 9571,
+    "category": "Any% No Camera-Freeze",
+    "region": "JPN / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "yj6nq87z",
+    "game": "Ecco the Dolphin",
+    "player": "slaydoomer",
+    "player_location": "ca",
+    "time": 1682,
+    "category": "Any% No Camera-Freeze",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "y2pr41wz",
+    "game": "Ecco the Dolphin",
+    "player": "LadyGalaga",
+    "player_location": "us",
+    "time": 1991,
+    "category": "Any% No Camera-Freeze",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  }
+]

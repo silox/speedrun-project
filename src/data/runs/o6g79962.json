@@ -1,0 +1,101 @@
+[
+  {
+    "id": "yd3od5xz",
+    "game": "Endless Ocean: Blue World",
+    "player": "getasmileonthatface",
+    "player_location": "us",
+    "time": 464,
+    "category": "Cavern of the Gods Escape",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "z117p5wz",
+    "game": "Endless Ocean: Blue World",
+    "player": "english",
+    "player_location": "us",
+    "time": 475,
+    "category": "Cavern of the Gods Escape",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "yl457kxm",
+    "game": "Endless Ocean: Blue World",
+    "player": "Ianwubby",
+    "player_location": "us",
+    "time": 476,
+    "category": "Cavern of the Gods Escape",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": true
+  },
+  {
+    "id": "mr85798y",
+    "game": "Endless Ocean: Blue World",
+    "player": "MSP",
+    "player_location": "us",
+    "time": 476,
+    "category": "Cavern of the Gods Escape",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "y43g4qnz",
+    "game": "Endless Ocean: Blue World",
+    "player": "Missingno74",
+    "player_location": "us",
+    "time": 894,
+    "category": "Any% - Console",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "me8dxo8m",
+    "game": "Endless Ocean: Blue World",
+    "player": "yammlamm",
+    "player_location": "us",
+    "time": 871,
+    "category": "Any% - Console",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "znrv5d9y",
+    "game": "Endless Ocean: Blue World",
+    "player": "uokashi",
+    "player_location": "jp",
+    "time": 475,
+    "category": "Cavern of the Gods Escape",
+    "region": "JPN / NTSC",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "zg2k9qjy",
+    "game": "Endless Ocean: Blue World",
+    "player": "ValliteKingCorrin",
+    "player_location": "us",
+    "time": 1540,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "mr9v5lgm",
+    "game": "Endless Ocean: Blue World",
+    "player": "grace.",
+    "player_location": "us",
+    "time": 1639,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "7z0q6eom",
+    "game": "Wonder Boy III: The Dragon's Trap",
+    "player": "Kaddath",
+    "player_location": "fr",
+    "time": 1887,
+    "category": "Glitched%",
+    "region": "USA / NTSC",
+    "platform": "Sega Master System",
+    "emulated": true
+  },
+  {
+    "id": "8y8gqwdz",
+    "game": "Wonder Boy III: The Dragon's Trap",
+    "player": "Megami_infini",
+    "player_location": "pl",
+    "time": 2680,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Master System",
+    "emulated": false
+  },
+  {
+    "id": "pm3jndgz",
+    "game": "Wonder Boy III: The Dragon's Trap",
+    "player": "Synahel",
+    "player_location": null,
+    "time": 2752,
+    "category": "All Bosses",
+    "region": "USA / NTSC",
+    "platform": "Sega Master System",
+    "emulated": true
+  },
+  {
+    "id": "mk8nv8lm",
+    "game": "Wonder Boy III: The Dragon's Trap",
+    "player": "berlindude1",
+    "player_location": "de",
+    "time": 1692,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Master System",
+    "emulated": true
+  },
+  {
+    "id": "zg78vg0z",
+    "game": "Wonder Boy III: The Dragon's Trap",
+    "player": "Mammut",
+    "player_location": "de",
+    "time": 4832,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Master System",
+    "emulated": true
+  },
+  {
+    "id": "yjllk7nz",
+    "game": "Wonder Boy III: The Dragon's Trap",
+    "player": "BoosterShane",
+    "player_location": "us",
+    "time": 2671,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Master System",
+    "emulated": false
+  },
+  {
+    "id": "z091w79z",
+    "game": "Wonder Boy III: The Dragon's Trap",
+    "player": "TimeC0nsumer",
+    "player_location": "be",
+    "time": 1829,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Master System",
+    "emulated": true
+  },
+  {
+    "id": "y471ddky",
+    "game": "Wonder Boy III: The Dragon's Trap",
+    "player": "dfense1980",
+    "player_location": "de",
+    "time": 3018,
+    "category": "All Bosses",
+    "region": "USA / NTSC",
+    "platform": "Sega Master System",
+    "emulated": true
+  }
+]

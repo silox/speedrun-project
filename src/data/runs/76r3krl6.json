@@ -1,0 +1,24 @@
+[
+  {
+    "id": "yoljw9dy",
+    "game": "USAAF Mustang",
+    "player": "Ellimist",
+    "player_location": "us",
+    "time": 989,
+    "category": "2P",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "mee6l4qm",
+    "game": "USAAF Mustang",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 1068,
+    "category": "2P",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "yojwn71m",
+    "game": "",
+    "player": "SgtPowerglove",
+    "player_location": "us",
+    "time": 1611,
+    "category": "PC",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zgrpx2jm",
+    "game": "",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 806,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "ywkn982y",
+    "game": "King of Fighters 98 Ultimate Match",
+    "player": "Vandagill",
+    "player_location": "jp",
+    "time": 525,
+    "category": "PC",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y698vl1y",
+    "game": "King of Fighters 98 Ultimate Match",
+    "player": "LeandroAmadeu",
+    "player_location": "br",
+    "time": 483,
+    "category": "PC",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mejekk3y",
+    "game": "King of Fighters 98 Ultimate Match",
+    "player": "notdonknotts",
+    "player_location": "us",
+    "time": 663,
+    "category": "PC",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m7w46ewz",
+    "game": "King of Fighters 98 Ultimate Match",
+    "player": "Kyo_97",
+    "player_location": "mx",
+    "time": 529,
+    "category": "PC",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

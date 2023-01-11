@@ -1,0 +1,46 @@
+[
+  {
+    "id": "zxvx2nqy",
+    "game": "",
+    "player": "Msmbpods",
+    "player_location": "us",
+    "time": 11855,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yvgnr2xy",
+    "game": "",
+    "player": "zefferss",
+    "player_location": "us",
+    "time": 9653,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m7p6gnwm",
+    "game": "",
+    "player": "turothking",
+    "player_location": "no",
+    "time": 4655,
+    "category": "Any%",
+    "region": null,
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "mrexp7dy",
+    "game": "Shiness: The Lightning Kingdom",
+    "player": "Nixxo",
+    "player_location": "de",
+    "time": 4908,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  }
+]

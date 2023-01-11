@@ -1,0 +1,35 @@
+[
+  {
+    "id": "yjkrw4dm",
+    "game": "Paperboy (GEN)",
+    "player": "Peanutfan22",
+    "player_location": "us",
+    "time": 487.134,
+    "category": "Easy Street",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "mk9306lz",
+    "game": "Paperboy (GEN)",
+    "player": "Titiunit",
+    "player_location": "fr",
+    "time": 378.5,
+    "category": "Easy Street",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "y939jeky",
+    "game": "Paperboy (GEN)",
+    "player": "Subsonix",
+    "player_location": "gb/eng",
+    "time": 320.267,
+    "category": "Easy Street",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  }
+]

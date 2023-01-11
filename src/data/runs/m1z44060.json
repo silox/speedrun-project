@@ -1,0 +1,68 @@
+[
+  {
+    "id": "8yvwk3om",
+    "game": "3-D WorldRunner",
+    "player": "2000Crabmaster",
+    "player_location": null,
+    "time": 3508,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "ydq3970m",
+    "game": "3-D WorldRunner",
+    "player": "GreenBomber",
+    "player_location": "us",
+    "time": 1845,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "yo432g7m",
+    "game": "3-D WorldRunner",
+    "player": "MagmaW0LF",
+    "player_location": "us",
+    "time": 1352,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zpq3gpxy",
+    "game": "3-D WorldRunner",
+    "player": "Dugongue",
+    "player_location": "us",
+    "time": 2874,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y4354jkz",
+    "game": "3-D WorldRunner",
+    "player": "Lamorosii",
+    "player_location": "us",
+    "time": 1603,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "yo27le5z",
+    "game": "3-D WorldRunner",
+    "player": "Zericc",
+    "player_location": "ca",
+    "time": 3994,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  }
+]

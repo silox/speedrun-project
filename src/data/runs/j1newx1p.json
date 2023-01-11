@@ -1,0 +1,134 @@
+[
+  {
+    "id": "8y8n9xy1",
+    "game": "Adventure Island II",
+    "player": "whitman_price_",
+    "player_location": "us",
+    "time": 1468,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "wzpq5egy",
+    "game": "Adventure Island II",
+    "player": "duckfist",
+    "player_location": "us",
+    "time": 1656,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "wzp4gjnz",
+    "game": "Adventure Island II",
+    "player": "Primal85",
+    "player_location": "it",
+    "time": 1552,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y8q323ny",
+    "game": "Adventure Island II",
+    "player": "eyuzheng",
+    "player_location": "cn",
+    "time": 1968,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "znk9pw3z",
+    "game": "Adventure Island II",
+    "player": "TheMexicanRunner",
+    "player_location": "mx",
+    "time": 1398,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "yj3rn8dz",
+    "game": "Adventure Island II",
+    "player": "KLM1187",
+    "player_location": "us",
+    "time": 2162,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y6r6g8py",
+    "game": "Adventure Island II",
+    "player": "JoeCivilD",
+    "player_location": "gb/sct",
+    "time": 1564,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "mk8q46xm",
+    "game": "Adventure Island II",
+    "player": "FloppyBacon",
+    "player_location": "ca",
+    "time": 1830,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "m7w1949z",
+    "game": "Adventure Island II",
+    "player": "Dro_shawoluv",
+    "player_location": "ar",
+    "time": 1445,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "ywk41dpy",
+    "game": "Adventure Island II",
+    "player": "Turanin",
+    "player_location": "de",
+    "time": 1396,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "z1x804gm",
+    "game": "Adventure Island II",
+    "player": "The_Col",
+    "player_location": "it",
+    "time": 3967,
+    "category": "All Stages",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "yddk34vy",
+    "game": "Adventure Island II",
+    "player": "RetroGameCommander",
+    "player_location": "ca/qc",
+    "time": 2329,
+    "category": "Warpless",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "y822rjdy",
+    "game": "Legend of the River King 2",
+    "player": "MisterStealYourGil",
+    "player_location": "us",
+    "time": 6346,
+    "category": "Kid Story",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "zgxw84em",
+    "game": "Legend of the River King 2",
+    "player": "gaugau",
+    "player_location": "us",
+    "time": 5072,
+    "category": "Kid Story",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "y48qkkdm",
+    "game": "Legend of the River King 2",
+    "player": "Yoffer",
+    "player_location": "nl",
+    "time": 4511,
+    "category": "Kid Story",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  }
+]

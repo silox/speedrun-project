@@ -1,0 +1,101 @@
+[
+  {
+    "id": "y21r795z",
+    "game": "Resident Evil Zero: Leech Hunter",
+    "player": "Anderson",
+    "player_location": null,
+    "time": 16.33,
+    "category": "100%",
+    "region": "CHN / PAL",
+    "platform": "PlayStation 4 Pro",
+    "emulated": false
+  },
+  {
+    "id": "mre513gy",
+    "game": "Resident Evil Zero: Leech Hunter",
+    "player": "sovietboss",
+    "player_location": "gb/eng",
+    "time": 28.9,
+    "category": "100%",
+    "region": "JPN / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "y81ne3dz",
+    "game": "Resident Evil Zero: Leech Hunter",
+    "player": "MamaMutti",
+    "player_location": "de",
+    "time": 31.05,
+    "category": "100%",
+    "region": "JPN / NTSC",
+    "platform": "Xbox One",
+    "emulated": false
+  },
+  {
+    "id": "y6l8930y",
+    "game": "Resident Evil Zero: Leech Hunter",
+    "player": "jazz232006",
+    "player_location": "us",
+    "time": 51.46,
+    "category": "100%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "znr50wvy",
+    "game": "Resident Evil Zero: Leech Hunter",
+    "player": "Roxy_Rose",
+    "player_location": "br",
+    "time": 53.45,
+    "category": "100%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "yj375pnz",
+    "game": "Resident Evil Zero: Leech Hunter",
+    "player": "0_yami_0",
+    "player_location": "fr",
+    "time": 14.7,
+    "category": "100%",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mregw4gy",
+    "game": "Resident Evil Zero: Leech Hunter",
+    "player": "adreus_bjorn",
+    "player_location": "ca",
+    "time": 56.15,
+    "category": "100%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "me6we40z",
+    "game": "Resident Evil Zero: Leech Hunter",
+    "player": "deniscs",
+    "player_location": "ru",
+    "time": 45.81,
+    "category": "100%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "ywvpv83z",
+    "game": "Resident Evil Zero: Leech Hunter",
+    "player": "Diamond_Girls",
+    "player_location": "ph",
+    "time": 50.43,
+    "category": "100%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  }
+]

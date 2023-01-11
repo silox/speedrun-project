@@ -1,0 +1,178 @@
+[
+  {
+    "id": "7z0ovn4z",
+    "game": "Hagane: The Final Conflict",
+    "player": "ohon",
+    "player_location": "jp",
+    "time": 876,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "kz52kgjz",
+    "game": "Hagane: The Final Conflict",
+    "player": "Epic",
+    "player_location": "us",
+    "time": 912,
+    "category": "No Major Glitches",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "mk414evy",
+    "game": "Hagane: The Final Conflict",
+    "player": "KillerHUD",
+    "player_location": "cl",
+    "time": 943,
+    "category": "No Major Glitches",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "yo40g2jm",
+    "game": "Hagane: The Final Conflict",
+    "player": "Omnigamer",
+    "player_location": "us",
+    "time": 892,
+    "category": "No Major Glitches",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y8q7w6ny",
+    "game": "Hagane: The Final Conflict",
+    "player": "Rasha",
+    "player_location": "us",
+    "time": 976,
+    "category": "No Major Glitches",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "yj31n3oz",
+    "game": "Hagane: The Final Conflict",
+    "player": "Rewercy",
+    "player_location": "ru",
+    "time": 1277,
+    "category": "No Major Glitches",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "zg7rkgjz",
+    "game": "Hagane: The Final Conflict",
+    "player": "LK",
+    "player_location": "jp",
+    "time": 992,
+    "category": "No Major Glitches",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "zp405grz",
+    "game": "Hagane: The Final Conflict",
+    "player": "dagronSR",
+    "player_location": "ca",
+    "time": 974,
+    "category": "No Major Glitches",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "mk27821m",
+    "game": "Hagane: The Final Conflict",
+    "player": "FatherSnes",
+    "player_location": "us",
+    "time": 1053,
+    "category": "No Major Glitches",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y905jn2y",
+    "game": "Hagane: The Final Conflict",
+    "player": "KungFusedMike",
+    "player_location": "us",
+    "time": 1046,
+    "category": "No Major Glitches",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "ylewp52z",
+    "game": "Hagane: The Final Conflict",
+    "player": "Condemned",
+    "player_location": null,
+    "time": 261,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "yo96v75y",
+    "game": "Hagane: The Final Conflict",
+    "player": "Juanman",
+    "player_location": null,
+    "time": 1443,
+    "category": "No Major Glitches",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "m7781pem",
+    "game": "Hagane: The Final Conflict",
+    "player": "AAGGAGAT",
+    "player_location": "br",
+    "time": 3470,
+    "category": "No Major Glitches",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "y20qx06m",
+    "game": "Hagane: The Final Conflict",
+    "player": "_SNES_",
+    "player_location": "br",
+    "time": 1398,
+    "category": "No Major Glitches",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "zp8v2dny",
+    "game": "Hagane: The Final Conflict",
+    "player": "BetoKos",
+    "player_location": "br",
+    "time": 970,
+    "category": "No Major Glitches",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "z5dqrjjm",
+    "game": "Hagane: The Final Conflict",
+    "player": "Sniq",
+    "player_location": "fi",
+    "time": 289,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  }
+]

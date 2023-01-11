@@ -1,0 +1,79 @@
+[
+  {
+    "id": "m794rgey",
+    "game": "Yu-Gi-Oh! 5D's Tag Force 4",
+    "player": "shadoweh",
+    "player_location": "us",
+    "time": 2520,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "y674l3jm",
+    "game": "Yu-Gi-Oh! 5D's Tag Force 4",
+    "player": "r4nd0mz_____________",
+    "player_location": null,
+    "time": 3349,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "m3l5ng6m",
+    "game": "Yu-Gi-Oh! 5D's Tag Force 4",
+    "player": "themataurian",
+    "player_location": "nz",
+    "time": 2434,
+    "category": "Any%",
+    "region": null,
+    "platform": "PlayStation Portable",
+    "emulated": false
+  },
+  {
+    "id": "y93xj52y",
+    "game": "Yu-Gi-Oh! 5D's Tag Force 4",
+    "player": "bernysmonster",
+    "player_location": "gb/eng",
+    "time": 2780,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "yjppw37y",
+    "game": "Yu-Gi-Oh! 5D's Tag Force 4",
+    "player": "Plebstro",
+    "player_location": null,
+    "time": 2606,
+    "category": "Any%",
+    "region": null,
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "yw383pnm",
+    "game": "Yu-Gi-Oh! 5D's Tag Force 4",
+    "player": "Movellandrone",
+    "player_location": "gb/eng",
+    "time": 3879,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "zx73xo8y",
+    "game": "Yu-Gi-Oh! 5D's Tag Force 4",
+    "player": "simley",
+    "player_location": null,
+    "time": 2778,
+    "category": "Any%",
+    "region": null,
+    "platform": "PlayStation Portable",
+    "emulated": true
+  }
+]

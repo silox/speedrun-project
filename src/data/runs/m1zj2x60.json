@@ -1,0 +1,57 @@
+[
+  {
+    "id": "m3oqw64m",
+    "game": "Fire Emblem: The Sacred Stones",
+    "player": "DXSteveX",
+    "player_location": "ch",
+    "time": 4121,
+    "category": "Ephraim Route",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": false
+  },
+  {
+    "id": "nz1q0wye",
+    "game": "Fire Emblem: The Sacred Stones",
+    "player": "bertin",
+    "player_location": null,
+    "time": 5418,
+    "category": "Eirika Route",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": false
+  },
+  {
+    "id": "8m7249z0",
+    "game": "Fire Emblem: The Sacred Stones",
+    "player": "Komaya",
+    "player_location": null,
+    "time": 9171,
+    "category": "Eirika Route",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": false
+  },
+  {
+    "id": "zgnn4djy",
+    "game": "Fire Emblem: The Sacred Stones",
+    "player": "kirbymastah",
+    "player_location": "us",
+    "time": 3793,
+    "category": "Ephraim Route",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": false
+  },
+  {
+    "id": "y66n051y",
+    "game": "Fire Emblem: The Sacred Stones",
+    "player": "Yashi",
+    "player_location": "jp",
+    "time": 3786,
+    "category": "Ephraim Route",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": false
+  }
+]

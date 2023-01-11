@@ -1,0 +1,90 @@
+[
+  {
+    "id": "zp2pw9gy",
+    "game": "payblood",
+    "player": "AKA_Azure",
+    "player_location": "us",
+    "time": 88.028,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y47wp5ny",
+    "game": "payblood",
+    "player": "lotion7919",
+    "player_location": "us",
+    "time": 107.06,
+    "category": "6 Weapons",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "ywj0152z",
+    "game": "payblood",
+    "player": "MedhaMM",
+    "player_location": "in",
+    "time": 92.28,
+    "category": "",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "me49nn9y",
+    "game": "payblood",
+    "player": "LongRear36",
+    "player_location": null,
+    "time": 108.93,
+    "category": "",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "ylegk6kz",
+    "game": "payblood",
+    "player": "Bisby",
+    "player_location": "us",
+    "time": 141.71,
+    "category": "1 Weapon",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "znppnl8m",
+    "game": "payblood",
+    "player": "r_ou",
+    "player_location": "vi",
+    "time": 117.967,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "zq9v2nxy",
+    "game": "payblood",
+    "player": "lukas2308",
+    "player_location": null,
+    "time": 85.97,
+    "category": "",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zgq5wkjy",
+    "game": "payblood",
+    "player": "LirsGaming05",
+    "player_location": null,
+    "time": 124,
+    "category": "Glitchless",
+    "region": null,
+    "platform": "Web",
+    "emulated": false
+  }
+]

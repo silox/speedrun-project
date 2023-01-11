@@ -1,0 +1,35 @@
+[
+  {
+    "id": "zp0xdlvm",
+    "game": "",
+    "player": "veo_",
+    "player_location": null,
+    "time": 1902,
+    "category": "Genesis version",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "zp8d0ory",
+    "game": "",
+    "player": "FlannelKat",
+    "player_location": "us",
+    "time": 4116,
+    "category": "PCE JP Any%",
+    "region": "JPN / NTSC",
+    "platform": "TurboGrafx-16 CD-ROM",
+    "emulated": false
+  },
+  {
+    "id": "yl13lonm",
+    "game": "",
+    "player": "M_Walrus",
+    "player_location": null,
+    "time": 3026,
+    "category": "PCE JP Any%",
+    "region": "JPN / NTSC",
+    "platform": "TurboGrafx-16 CD-ROM",
+    "emulated": true
+  }
+]

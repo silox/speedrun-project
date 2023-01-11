@@ -1,0 +1,35 @@
+[
+  {
+    "id": "m3d3pegz",
+    "game": "Soldier Blade",
+    "player": "st1n3er",
+    "player_location": "fr",
+    "time": 2184,
+    "category": "Normal Mode",
+    "region": "USA / NTSC",
+    "platform": "Wii Virtual Console",
+    "emulated": false
+  },
+  {
+    "id": "m7pnxd9m",
+    "game": "Soldier Blade",
+    "player": "JeremiahStilts",
+    "player_location": "us",
+    "time": 2247,
+    "category": "Normal Mode",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": false
+  },
+  {
+    "id": "yl1g543m",
+    "game": "Soldier Blade",
+    "player": "Ascendo",
+    "player_location": "us",
+    "time": 2106,
+    "category": "Normal Mode",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": true
+  }
+]

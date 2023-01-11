@@ -1,0 +1,57 @@
+[
+  {
+    "id": "z09jv0ez",
+    "game": "Steel Empire",
+    "player": "beadle111",
+    "player_location": "gb",
+    "time": 2873,
+    "category": "Genesis",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "m3n1pk6y",
+    "game": "Steel Empire",
+    "player": "Wrongnote85",
+    "player_location": "us",
+    "time": 2065,
+    "category": "Steam",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y9xo09ny",
+    "game": "Steel Empire",
+    "player": "RadManFromMars",
+    "player_location": "us",
+    "time": 2498,
+    "category": "Genesis",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "mrr8xkgm",
+    "game": "Steel Empire",
+    "player": "Destructiox",
+    "player_location": "gb/eng",
+    "time": 2095,
+    "category": "Genesis",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "z1g04l9z",
+    "game": "Steel Empire",
+    "player": "Sonikkustar",
+    "player_location": "us",
+    "time": 3235,
+    "category": "Genesis",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  }
+]

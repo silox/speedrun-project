@@ -1,0 +1,35 @@
+[
+  {
+    "id": "zxo6k5gz",
+    "game": "Metal Gear Solid: The Twin Snakes Category Extensions",
+    "player": "RSpeedy",
+    "player_location": "gb",
+    "time": 0.334,
+    "category": "IL",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "z0761kjy",
+    "game": "Metal Gear Solid: The Twin Snakes Category Extensions",
+    "player": "Aerlien",
+    "player_location": "us",
+    "time": 3480,
+    "category": "2 Players 1 Controller",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "zp831vvy",
+    "game": "Metal Gear Solid: The Twin Snakes Category Extensions",
+    "player": "BlueMetal",
+    "player_location": "us",
+    "time": 0.783,
+    "category": "IL",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "id": "y99pn8ny",
+    "game": "God Hand",
+    "player": "Zana_G",
+    "player_location": null,
+    "time": 2411,
+    "category": "Arena",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "pm33v5wm",
+    "game": "God Hand",
+    "player": "PvtCb",
+    "player_location": "us",
+    "time": 8382,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "pzglvnjm",
+    "game": "God Hand",
+    "player": "akadapo",
+    "player_location": "br",
+    "time": 5658,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "mrrro62m",
+    "game": "God Hand",
+    "player": "hige",
+    "player_location": "jp",
+    "time": 5079,
+    "category": "Hard",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "mr4dld7z",
+    "game": "God Hand",
+    "player": "moistsula",
+    "player_location": "jp",
+    "time": 5041,
+    "category": "Hard",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y6l0xjqy",
+    "game": "God Hand",
+    "player": "usk",
+    "player_location": "jp",
+    "time": 4089,
+    "category": "Easy",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "ylqkr1rz",
+    "game": "God Hand",
+    "player": "MarlonChavesMCR",
+    "player_location": "br",
+    "time": 3604,
+    "category": "Arena",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "z05ejj4m",
+    "game": "God Hand",
+    "player": "NeroSlayer",
+    "player_location": "br",
+    "time": 8127,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "mrk35d7y",
+    "game": "God Hand",
+    "player": "AiQueDeliicia",
+    "player_location": "br",
+    "time": 4418,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "mk83p83m",
+    "game": "God Hand",
+    "player": "Roni\u00ea",
+    "player_location": "br",
+    "time": 3540,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "yd9pdwqz",
+    "game": "God Hand",
+    "player": "FroFro87",
+    "player_location": null,
+    "time": 5728,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "mk5ljplm",
+    "game": "God Hand",
+    "player": "rzr360",
+    "player_location": "us",
+    "time": 10415,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  }
+]

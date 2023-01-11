@@ -1,0 +1,24 @@
+[
+  {
+    "id": "ywj4dl2z",
+    "game": "",
+    "player": "radrgon",
+    "player_location": "jp",
+    "time": 645,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "y8jq6n5z",
+    "game": "",
+    "player": "Bregermann",
+    "player_location": "us",
+    "time": 7979,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

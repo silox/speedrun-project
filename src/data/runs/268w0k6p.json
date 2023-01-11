@@ -1,0 +1,57 @@
+[
+  {
+    "id": "9mrq1ndy",
+    "game": "Clockwork Knight",
+    "player": "Tbwalke",
+    "player_location": "us",
+    "time": 1141,
+    "category": "Any %",
+    "region": "USA / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "y2xjge9m",
+    "game": "Clockwork Knight",
+    "player": "AlaskanEmily",
+    "player_location": "us",
+    "time": 921,
+    "category": "Any %",
+    "region": "USA / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "mk2rdx1m",
+    "game": "Clockwork Knight",
+    "player": "x10power",
+    "player_location": "us",
+    "time": 1196,
+    "category": "Any %",
+    "region": "USA / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "z1j0e5gz",
+    "game": "Clockwork Knight",
+    "player": "Kalth0",
+    "player_location": "us",
+    "time": 910,
+    "category": "Any% (emu)",
+    "region": "USA / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": true
+  },
+  {
+    "id": "y2ep6d7y",
+    "game": "Clockwork Knight",
+    "player": "lazycurler",
+    "player_location": "us",
+    "time": 879,
+    "category": "Any %",
+    "region": "USA / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  }
+]

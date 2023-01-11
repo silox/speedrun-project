@@ -1,0 +1,46 @@
+[
+  {
+    "id": "m759j05z",
+    "game": "Bomberman Kart",
+    "player": "kyletx500",
+    "player_location": "us",
+    "time": 87.19,
+    "category": "Time Attack",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "y4e529qm",
+    "game": "Bomberman Kart",
+    "player": "TheMechaKong",
+    "player_location": "ca",
+    "time": 686,
+    "category": "Black Bomber",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "y9lwxp2y",
+    "game": "Bomberman Kart",
+    "player": "DunkelGotik",
+    "player_location": "br",
+    "time": 624,
+    "category": "Black Bomber",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "znpk0nvm",
+    "game": "Bomberman Kart",
+    "player": "lordkalanashi",
+    "player_location": "us",
+    "time": 1084,
+    "category": "White Bomber",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  }
+]

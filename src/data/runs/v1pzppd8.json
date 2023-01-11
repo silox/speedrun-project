@@ -1,0 +1,90 @@
+[
+  {
+    "id": "8yv6k56z",
+    "game": "Syd of Valis",
+    "player": "cornshaq",
+    "player_location": "us",
+    "time": 861,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "7z09p7ez",
+    "game": "Syd of Valis",
+    "player": "Jeff_of_Valis",
+    "player_location": "ca",
+    "time": 848,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "mr11k4dz",
+    "game": "Syd of Valis",
+    "player": "BOP95",
+    "player_location": "ru",
+    "time": 804,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "m79pnj4y",
+    "game": "Syd of Valis",
+    "player": "trivia212005",
+    "player_location": "us",
+    "time": 1532,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "mrqrq77y",
+    "game": "Syd of Valis",
+    "player": "Sm_Izumi",
+    "player_location": "fr",
+    "time": 915,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "mr8n9w2y",
+    "game": "Syd of Valis",
+    "player": "The_Retro_Challenger",
+    "player_location": "ca/qc",
+    "time": 1004,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "z1j16xjz",
+    "game": "Syd of Valis",
+    "player": "gyre",
+    "player_location": null,
+    "time": 823,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "y6rl20jy",
+    "game": "Syd of Valis",
+    "player": "GrimShins",
+    "player_location": "us",
+    "time": 883,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  }
+]

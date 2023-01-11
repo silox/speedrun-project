@@ -1,0 +1,57 @@
+[
+  {
+    "id": "mk73j13y",
+    "game": "Disney Sports Basketball",
+    "player": "PlexagonsBuff",
+    "player_location": "us",
+    "time": 816,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "yvonrd4z",
+    "game": "Disney Sports Basketball",
+    "player": "WantArecord",
+    "player_location": "us",
+    "time": 742,
+    "category": "Exhibition",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "mej6v93y",
+    "game": "Disney Sports Basketball",
+    "player": "FarmingSim",
+    "player_location": "us",
+    "time": 324,
+    "category": "Exhibition",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "y60qjdjy",
+    "game": "Disney Sports Basketball",
+    "player": "LOZRunner",
+    "player_location": "us",
+    "time": 298,
+    "category": "Exhibition",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "y4g13p2y",
+    "game": "Disney Sports Basketball",
+    "player": "Lopretey",
+    "player_location": "aq",
+    "time": 297,
+    "category": "Exhibition",
+    "region": null,
+    "platform": "GameCube",
+    "emulated": true
+  }
+]

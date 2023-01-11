@@ -1,0 +1,35 @@
+[
+  {
+    "id": "zxox83kz",
+    "game": "BURGER MAN",
+    "player": "jajoro13",
+    "player_location": "be",
+    "time": 1299,
+    "category": "level 1-10 taking every burger",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m7w6509z",
+    "game": "BURGER MAN",
+    "player": "NumaCii",
+    "player_location": "fr",
+    "time": 789,
+    "category": "level 1-10 taking every burger",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yvqrqgem",
+    "game": "BURGER MAN",
+    "player": "MissSkyPanda",
+    "player_location": "fr",
+    "time": 330,
+    "category": "level 1-10 taking every burger",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  }
+]

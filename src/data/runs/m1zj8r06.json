@@ -1,0 +1,35 @@
+[
+  {
+    "id": "zqg39lrm",
+    "game": "Puyo Puyo Champions",
+    "player": "nentarou",
+    "player_location": "jp",
+    "time": 5198,
+    "category": "Time Challenge - 10 million",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "ydwepvwm",
+    "game": "Puyo Puyo Champions",
+    "player": "tonney7",
+    "player_location": "us",
+    "time": 3581,
+    "category": "Transition Challenge",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "yor658dy",
+    "game": "Puyo Puyo Champions",
+    "player": "DdRDan",
+    "player_location": "us",
+    "time": 951,
+    "category": "Transition Challenge",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  }
+]

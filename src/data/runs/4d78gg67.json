@@ -1,0 +1,200 @@
+[
+  {
+    "id": "9mrvwrgz",
+    "game": "Battle Circuit",
+    "player": "qweflol",
+    "player_location": "ec",
+    "time": 1461,
+    "category": "1P",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y671x16m",
+    "game": "Battle Circuit",
+    "player": "Badical",
+    "player_location": "us",
+    "time": 2558,
+    "category": "2P",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z1jx839z",
+    "game": "Battle Circuit",
+    "player": "Ilyon",
+    "player_location": "ca",
+    "time": 1583,
+    "category": "2P",
+    "region": "EUR / PAL",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "mrk2668y",
+    "game": "Battle Circuit",
+    "player": "manticor5",
+    "player_location": "cl",
+    "time": 1185,
+    "category": "1P",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zx4ejpqy",
+    "game": "Battle Circuit",
+    "player": "Greenalink",
+    "player_location": "gb/eng",
+    "time": 1395,
+    "category": "1P",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": false
+  },
+  {
+    "id": "zqgjp05m",
+    "game": "Battle Circuit",
+    "player": "RitaH",
+    "player_location": "br",
+    "time": 1382,
+    "category": "2P",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "m7ql265z",
+    "game": "Battle Circuit",
+    "player": "superpepperoni",
+    "player_location": "br",
+    "time": 2155,
+    "category": "1P",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "znkw16vz",
+    "game": "Battle Circuit",
+    "player": "saulonpb",
+    "player_location": "br",
+    "time": 1883,
+    "category": "2P",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zgwvp1jy",
+    "game": "Battle Circuit",
+    "player": "Neebs",
+    "player_location": "us",
+    "time": 1633,
+    "category": "2P",
+    "region": "JPN / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "yw80oe3y",
+    "game": "Battle Circuit",
+    "player": "Krayzar",
+    "player_location": "us",
+    "time": 1549,
+    "category": "1P",
+    "region": "EUR / PAL",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "z05pxx9m",
+    "game": "Battle Circuit",
+    "player": "Peanutfan22",
+    "player_location": "us",
+    "time": 1883,
+    "category": "1P",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y8v43nxz",
+    "game": "Battle Circuit",
+    "player": "Metaller",
+    "player_location": "br",
+    "time": 1219,
+    "category": "2P",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y2vk595z",
+    "game": "Battle Circuit",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 1225,
+    "category": "1P",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "m37dol4z",
+    "game": "Battle Circuit",
+    "player": "asdfspeedrun",
+    "player_location": "kr",
+    "time": 1202,
+    "category": "2P",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z5dw1wnm",
+    "game": "Battle Circuit",
+    "player": "Hoover",
+    "player_location": "kr",
+    "time": 1063,
+    "category": "1P",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z129p6jy",
+    "game": "Battle Circuit",
+    "player": "CartridgeKing",
+    "player_location": "ca",
+    "time": 2266,
+    "category": "2P",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y602596y",
+    "game": "Battle Circuit",
+    "player": "Patersonman",
+    "player_location": "ca",
+    "time": 1938,
+    "category": "1P",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "mkdlkk3y",
+    "game": "Battle Circuit",
+    "player": "Edo_87",
+    "player_location": "cl",
+    "time": 1150,
+    "category": "1P",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

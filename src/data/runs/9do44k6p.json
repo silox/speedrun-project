@@ -1,0 +1,178 @@
+[
+  {
+    "id": "6yjv3qoy",
+    "game": "SoulCalibur V",
+    "player": "Shikitin",
+    "player_location": "es",
+    "time": 543.51,
+    "category": "Arcade",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "yl9olqky",
+    "game": "SoulCalibur V",
+    "player": "Thuli",
+    "player_location": "us",
+    "time": 104.76,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "yo4j4w7m",
+    "game": "SoulCalibur V",
+    "player": "Drae the Flame Deity",
+    "player_location": null,
+    "time": 300.65,
+    "category": "Legendary Souls",
+    "region": "USA / NTSC",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "yo43p51m",
+    "game": "SoulCalibur V",
+    "player": "NickDoane",
+    "player_location": "us",
+    "time": 160.05,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "mek585qm",
+    "game": "SoulCalibur V",
+    "player": "orkybork",
+    "player_location": "ca",
+    "time": 127.16,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "m330pxqm",
+    "game": "SoulCalibur V",
+    "player": "meesbaker",
+    "player_location": "de",
+    "time": 291.8,
+    "category": "Legendary Souls",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "zg7e08ez",
+    "game": "SoulCalibur V",
+    "player": "TheMidBoss",
+    "player_location": "ca",
+    "time": 234.51,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "y2q27ewy",
+    "game": "SoulCalibur V",
+    "player": "illiop",
+    "player_location": "us",
+    "time": 144.98,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "yorjeo1y",
+    "game": "SoulCalibur V",
+    "player": "Slevanas",
+    "player_location": "mx",
+    "time": 119.08,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "m7q35e0z",
+    "game": "SoulCalibur V",
+    "player": "Toozk",
+    "player_location": "br",
+    "time": 164.26,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "z5j9wpdm",
+    "game": "SoulCalibur V",
+    "player": "ultimatehadcore",
+    "player_location": "ru",
+    "time": 101.95,
+    "category": "Arcade",
+    "region": "EUR / PAL",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "yv90goxz",
+    "game": "SoulCalibur V",
+    "player": "mrguyaverage",
+    "player_location": "us",
+    "time": 377.45,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "y8d94xxz",
+    "game": "SoulCalibur V",
+    "player": "Nightelf",
+    "player_location": "us",
+    "time": 161.66,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "yv2n8oom",
+    "game": "SoulCalibur V",
+    "player": "Thundr541",
+    "player_location": "us",
+    "time": 317.28,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "m3r3n8qm",
+    "game": "SoulCalibur V",
+    "player": "Rocandrol",
+    "player_location": "us",
+    "time": 446.85,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "me15j32y",
+    "game": "SoulCalibur V",
+    "player": "Shredmachine",
+    "player_location": "se",
+    "time": 224.02,
+    "category": "Arcade",
+    "region": null,
+    "platform": "PlayStation 3",
+    "emulated": false
+  }
+]

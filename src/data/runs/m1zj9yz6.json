@@ -1,0 +1,134 @@
+[
+  {
+    "id": "zx6n4q8z",
+    "game": "Ice Scream 3: Horror Neighbourhood",
+    "player": "David_1404_",
+    "player_location": "cz",
+    "time": 699,
+    "category": "Ghost",
+    "region": "EUR / PAL",
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "m76qwxwy",
+    "game": "Ice Scream 3: Horror Neighbourhood",
+    "player": "TulerYT",
+    "player_location": null,
+    "time": 667.8,
+    "category": "Ghost",
+    "region": null,
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "y2pqo9wz",
+    "game": "Ice Scream 3: Horror Neighbourhood",
+    "player": "DragonLord",
+    "player_location": "ru",
+    "time": 696,
+    "category": "Ghost",
+    "region": "EUR / PAL",
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "me38qk9z",
+    "game": "Ice Scream 3: Horror Neighbourhood",
+    "player": "Crazy Leaker",
+    "player_location": null,
+    "time": 713,
+    "category": "Ghost",
+    "region": null,
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "yw3j70nm",
+    "game": "Ice Scream 3: Horror Neighbourhood",
+    "player": "Santhy99",
+    "player_location": "br",
+    "time": 13.833,
+    "category": "",
+    "region": "BRA / PAL",
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "yw3gnqpm",
+    "game": "Ice Scream 3: Horror Neighbourhood",
+    "player": "manhattan",
+    "player_location": "bv",
+    "time": 15.218,
+    "category": "",
+    "region": "CHN / PAL",
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "y88wkwdy",
+    "game": "Ice Scream 3: Horror Neighbourhood",
+    "player": "ItzJerry",
+    "player_location": "nz",
+    "time": 18.346,
+    "category": "Death%",
+    "region": null,
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "z1p903wz",
+    "game": "Ice Scream 3: Horror Neighbourhood",
+    "player": "HenryStickmanGaming",
+    "player_location": null,
+    "time": 21.367,
+    "category": "Death%",
+    "region": null,
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "yw3g9w0m",
+    "game": "Ice Scream 3: Horror Neighbourhood",
+    "player": "Noog77",
+    "player_location": null,
+    "time": 3721,
+    "category": "",
+    "region": "BRA / PAL",
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "m76ej20y",
+    "game": "Ice Scream 3: Horror Neighbourhood",
+    "player": "TrashSpeedrunner_",
+    "player_location": "id",
+    "time": 14.767,
+    "category": "Death%",
+    "region": null,
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "y8xodq1m",
+    "game": "Ice Scream 3: Horror Neighbourhood",
+    "player": "Mikann_Roxy",
+    "player_location": "tw",
+    "time": 20.413,
+    "category": "Death%",
+    "region": "CHN / PAL",
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "z1gvgg7z",
+    "game": "Ice Scream 3: Horror Neighbourhood",
+    "player": "Little_Q",
+    "player_location": "cn",
+    "time": 16.833,
+    "category": "Death%",
+    "region": "CHN / PAL",
+    "platform": "Android",
+    "emulated": true
+  }
+]

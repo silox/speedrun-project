@@ -1,0 +1,35 @@
+[
+  {
+    "id": "m3gj0kgz",
+    "game": "Deserted Super Mario Bros. U",
+    "player": "Mutexx",
+    "player_location": "de",
+    "time": 42.072,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Wii U",
+    "emulated": true
+  },
+  {
+    "id": "zx64goqz",
+    "game": "Deserted Super Mario Bros. U",
+    "player": "Rimea",
+    "player_location": "nl",
+    "time": 1502,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Wii U",
+    "emulated": true
+  },
+  {
+    "id": "mr14o72z",
+    "game": "Deserted Super Mario Bros. U",
+    "player": "Randonlyh",
+    "player_location": null,
+    "time": 1470,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Wii U",
+    "emulated": true
+  }
+]

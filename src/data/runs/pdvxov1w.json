@@ -1,0 +1,35 @@
+[
+  {
+    "id": "mek9lj3m",
+    "game": "Crash Bandicoot Blast!",
+    "player": "PeteThePlayer",
+    "player_location": "de",
+    "time": 1578,
+    "category": "50 Rounds",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "yo49nrdm",
+    "game": "Crash Bandicoot Blast!",
+    "player": "CDRomatron",
+    "player_location": "gb/sct",
+    "time": 1444,
+    "category": "50 Rounds",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Player",
+    "emulated": false
+  },
+  {
+    "id": "z09jw5oz",
+    "game": "Crash Bandicoot Blast!",
+    "player": "buggle",
+    "player_location": "it",
+    "time": 1318,
+    "category": "50 Rounds",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  }
+]

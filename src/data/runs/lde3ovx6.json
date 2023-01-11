@@ -1,0 +1,46 @@
+[
+  {
+    "id": "y251n35y",
+    "game": "Contra Rogue Corps",
+    "player": "Rangel",
+    "player_location": "br",
+    "time": 10394,
+    "category": "2P NG+ co-op story",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "y82v9l5y",
+    "game": "Contra Rogue Corps",
+    "player": "crak_atak",
+    "player_location": "us",
+    "time": 11938,
+    "category": "NG+ story",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y9n83xrz",
+    "game": "Contra Rogue Corps",
+    "player": "_Regis_",
+    "player_location": "br",
+    "time": 11508,
+    "category": "NG+ story",
+    "region": null,
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "ydw293jm",
+    "game": "Contra Rogue Corps",
+    "player": "Maerchenzitrus30",
+    "player_location": "jp",
+    "time": 8621,
+    "category": "NG+ story",
+    "region": "JPN / NTSC",
+    "platform": "Xbox One",
+    "emulated": false
+  }
+]

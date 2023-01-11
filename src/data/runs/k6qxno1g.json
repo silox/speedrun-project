@@ -1,0 +1,57 @@
+[
+  {
+    "id": "ydqqo0xm",
+    "game": "Bad Dream: Butcher",
+    "player": "Mipha",
+    "player_location": "gb/eng",
+    "time": 57.833,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zxvk1w8y",
+    "game": "Bad Dream: Butcher",
+    "player": "chryoyo",
+    "player_location": "us",
+    "time": 54.033,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m7q18gwz",
+    "game": "Bad Dream: Butcher",
+    "player": "Sundex",
+    "player_location": "us",
+    "time": 45.267,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mrke0x2y",
+    "game": "Bad Dream: Butcher",
+    "player": "Kaptin",
+    "player_location": "us",
+    "time": 85.533,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m7g6ok9m",
+    "game": "Bad Dream: Butcher",
+    "player": "VitorFormigoni",
+    "player_location": "br",
+    "time": 40.75,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  }
+]

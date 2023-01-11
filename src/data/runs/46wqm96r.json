@@ -1,0 +1,46 @@
+[
+  {
+    "id": "y67ne0pm",
+    "game": "",
+    "player": "Allegro",
+    "player_location": "us",
+    "time": 18903,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "y45or33m",
+    "game": "",
+    "player": "Popirea",
+    "player_location": "jp",
+    "time": 13773,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "New Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "zp0o37vm",
+    "game": "",
+    "player": "Snoion",
+    "player_location": "us",
+    "time": 12014,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "New Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "znkvr53z",
+    "game": "Mario & Luigi: Superstar Saga + Bowser's Minions",
+    "player": "IIvgmII",
+    "player_location": "us",
+    "time": 13079,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "New Nintendo 3DS",
+    "emulated": false
+  }
+]

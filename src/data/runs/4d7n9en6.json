@@ -1,0 +1,46 @@
+[
+  {
+    "id": "z5r035ey",
+    "game": "Koihime Enbu",
+    "player": "mrguyaverage",
+    "player_location": "us",
+    "time": 469,
+    "category": "Arcade Mode",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z1poxorz",
+    "game": "Koihime Enbu",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 280,
+    "category": "Arcade Mode",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y2pd5w5z",
+    "game": "Koihime Enbu",
+    "player": "GutturalSlug",
+    "player_location": "tr",
+    "time": 289,
+    "category": "Arcade Mode",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "znqd3kvz",
+    "game": "Koihime Enbu",
+    "player": "Teru",
+    "player_location": "jp",
+    "time": 374,
+    "category": "Arcade Mode",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

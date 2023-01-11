@@ -1,0 +1,68 @@
+[
+  {
+    "id": "dy4gg4ny",
+    "game": "",
+    "player": "AlfredoSalza",
+    "player_location": "cl",
+    "time": 764,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": true
+  },
+  {
+    "id": "y67gpn1m",
+    "game": "",
+    "player": "Eiterbeule",
+    "player_location": "de",
+    "time": 763,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": true
+  },
+  {
+    "id": "m31xg5dz",
+    "game": "Rakugakids",
+    "player": "DBcade",
+    "player_location": "jp",
+    "time": 715,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": true
+  },
+  {
+    "id": "yl7jq62m",
+    "game": "Rakugakids",
+    "player": "stoic_rose",
+    "player_location": "us",
+    "time": 727,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": true
+  },
+  {
+    "id": "zq9j97xy",
+    "game": "Rakugakids",
+    "player": "Bluescreen18",
+    "player_location": "is",
+    "time": 480,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": false
+  },
+  {
+    "id": "yd1103wy",
+    "game": "Rakugakids",
+    "player": "SteveZero",
+    "player_location": "us",
+    "time": 694,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": false
+  }
+]

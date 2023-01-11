@@ -1,0 +1,24 @@
+[
+  {
+    "id": "dy48glqm",
+    "game": "Aztec Adventure",
+    "player": "Megami_infini",
+    "player_location": "pl",
+    "time": 2479,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Master System",
+    "emulated": false
+  },
+  {
+    "id": "y69dq6qy",
+    "game": "Aztec Adventure",
+    "player": "KrisTheHedgehog",
+    "player_location": "fr",
+    "time": 1921,
+    "category": "any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Master System",
+    "emulated": true
+  }
+]

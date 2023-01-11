@@ -1,0 +1,90 @@
+[
+  {
+    "id": "yvgg87oy",
+    "game": "Kula World",
+    "player": "adeyblue",
+    "player_location": "gb/eng",
+    "time": 2058,
+    "category": "Arcade Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "8y8o99nm",
+    "game": "Kula World",
+    "player": "GTNTG",
+    "player_location": "gb/eng",
+    "time": 2461,
+    "category": "Arcade Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "oy2rr46m",
+    "game": "Kula World",
+    "player": "Jujstme",
+    "player_location": "it",
+    "time": 2188,
+    "category": "Arcade Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "znrqkr7y",
+    "game": "Kula World",
+    "player": "Dima5741",
+    "player_location": "ua",
+    "time": 2098,
+    "category": "Arcade Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "y6rl860y",
+    "game": "Kula World",
+    "player": "iBolt07",
+    "player_location": "us",
+    "time": 2970,
+    "category": "Arcade Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "zq75j59m",
+    "game": "Kula World",
+    "player": "Palmypede",
+    "player_location": "fr",
+    "time": 2420,
+    "category": "Arcade Any%",
+    "region": "EUR / PAL",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "zx81rwem",
+    "game": "Kula World",
+    "player": "SaturnKai",
+    "player_location": "us",
+    "time": 3240,
+    "category": "Arcade Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "yv8916xm",
+    "game": "Kula World",
+    "player": "RealRaptoReX",
+    "player_location": null,
+    "time": 2184,
+    "category": "Arcade Any% Glitched",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  }
+]

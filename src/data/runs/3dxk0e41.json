@@ -1,0 +1,24 @@
+[
+  {
+    "id": "yo6w325y",
+    "game": "Kawa no Nushi Tsuri",
+    "player": "JkLoser",
+    "player_location": "se",
+    "time": 13764,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "yjpjrnny",
+    "game": "Kawa no Nushi Tsuri",
+    "player": "Run_In_A_Week",
+    "player_location": "us",
+    "time": 1733,
+    "category": "Password%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  }
+]

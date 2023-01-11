@@ -1,0 +1,46 @@
+[
+  {
+    "id": "pzg96onm",
+    "game": "",
+    "player": "JakatoXtra",
+    "player_location": "us",
+    "time": 636,
+    "category": "Team Mode",
+    "region": "USA / NTSC",
+    "platform": "Neo Geo Pocket Color",
+    "emulated": true
+  },
+  {
+    "id": "mexo5d3z",
+    "game": "",
+    "player": "DBcade",
+    "player_location": "jp",
+    "time": 368,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Neo Geo Pocket Color",
+    "emulated": true
+  },
+  {
+    "id": "yd6x7nxz",
+    "game": "King of Fighters R-2",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 576,
+    "category": "Team Mode",
+    "region": "USA / NTSC",
+    "platform": "Neo Geo Pocket Color",
+    "emulated": true
+  },
+  {
+    "id": "yddjq5vy",
+    "game": "King of Fighters R-2",
+    "player": "theadictt",
+    "player_location": "cl",
+    "time": 377,
+    "category": "Team Mode",
+    "region": "USA / NTSC",
+    "platform": "Neo Geo Pocket Color",
+    "emulated": true
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "7z096g4z",
+    "game": "Lumber Jacked",
+    "player": "jokerking76",
+    "player_location": "us",
+    "time": 1027.032,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "7z04j2ey",
+    "game": "Lumber Jacked",
+    "player": "YamCider",
+    "player_location": "us",
+    "time": 689,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "zgvqleez",
+    "game": "Lumber Jacked",
+    "player": "Omega3713",
+    "player_location": "gb/eng",
+    "time": 676,
+    "category": "Any%",
+    "region": null,
+    "platform": "Android",
+    "emulated": false
+  }
+]

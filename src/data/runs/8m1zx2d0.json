@@ -1,0 +1,57 @@
+[
+  {
+    "id": "pm350gy0",
+    "game": "Phantasy Star Universe",
+    "player": "Ckarl_Bobadine",
+    "player_location": "us",
+    "time": 26217,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zxko99em",
+    "game": "Phantasy Star Universe",
+    "player": "I_Hate_Tea",
+    "player_location": "us",
+    "time": 29230,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zggr41vz",
+    "game": "Phantasy Star Universe",
+    "player": "fonzu_",
+    "player_location": "es",
+    "time": 29060,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zn1ow83m",
+    "game": "Phantasy Star Universe",
+    "player": "Mesitaro",
+    "player_location": null,
+    "time": 40622,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "mr655xgm",
+    "game": "Phantasy Star Universe",
+    "player": "princebrightstar",
+    "player_location": "us",
+    "time": 27501,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

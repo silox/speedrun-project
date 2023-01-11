@@ -1,0 +1,24 @@
+[
+  {
+    "id": "y23j117m",
+    "game": "Shining the Holy Ark",
+    "player": "Draciel",
+    "player_location": "gr",
+    "time": 25527,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": true
+  },
+  {
+    "id": "zn8o868z",
+    "game": "Shining the Holy Ark",
+    "player": "Mikebloke",
+    "player_location": "gb/eng",
+    "time": 166903,
+    "category": "Any% NTSC-U/PAL",
+    "region": "EUR / PAL",
+    "platform": "Sega Saturn",
+    "emulated": false
+  }
+]

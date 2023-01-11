@@ -1,0 +1,57 @@
+[
+  {
+    "id": "zqrpo81y",
+    "game": "Medabots: Metabee/Rokusho",
+    "player": "tetrahydren",
+    "player_location": "ca",
+    "time": 49130,
+    "category": "Any%",
+    "region": null,
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "yvq8428m",
+    "game": "Medabots: Metabee/Rokusho",
+    "player": "SlonkMyJUUL",
+    "player_location": "us",
+    "time": 60795,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "m36j4rqm",
+    "game": "Medabots: Metabee/Rokusho",
+    "player": "nagomi",
+    "player_location": "jp",
+    "time": 4868,
+    "category": "Classics Plus Any%",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": false
+  },
+  {
+    "id": "y6neqkjz",
+    "game": "Medabots: Metabee/Rokusho",
+    "player": "MrDank",
+    "player_location": "us",
+    "time": 34755,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "y4qjwvnm",
+    "game": "Medabots: Metabee/Rokusho",
+    "player": "MHVile",
+    "player_location": "br",
+    "time": 2068,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  }
+]

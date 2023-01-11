@@ -1,0 +1,35 @@
+[
+  {
+    "id": "emkvvely",
+    "game": "",
+    "player": "plp",
+    "player_location": "us",
+    "time": 881,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "0zng093m",
+    "game": "",
+    "player": "huxxny",
+    "player_location": "ca/qc",
+    "time": 930,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "y8jwno1z",
+    "game": "",
+    "player": "GabeBruh",
+    "player_location": "us",
+    "time": 660.81,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  }
+]

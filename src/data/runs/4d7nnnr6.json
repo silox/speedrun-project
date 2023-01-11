@@ -1,0 +1,178 @@
+[
+  {
+    "id": "zx72635y",
+    "game": "Ninja Frog! (Platformer)",
+    "player": "SpeedIn",
+    "player_location": "il",
+    "time": 0.095,
+    "category": "Endless Mode High Score",
+    "region": "EUR / PAL",
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "y2pjj67z",
+    "game": "Ninja Frog! (Platformer)",
+    "player": "Fluffy101",
+    "player_location": null,
+    "time": 15.957,
+    "category": "Beat Level",
+    "region": null,
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "yj5653nm",
+    "game": "Ninja Frog! (Platformer)",
+    "player": "Tabitha the tab",
+    "player_location": null,
+    "time": 16.8,
+    "category": "Beat Level",
+    "region": null,
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "mr1rx0gz",
+    "game": "Ninja Frog! (Platformer)",
+    "player": "Dukey",
+    "player_location": null,
+    "time": 24.8,
+    "category": "Beat Level",
+    "region": null,
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "ydrg9dxz",
+    "game": "Ninja Frog! (Platformer)",
+    "player": "Livvieee",
+    "player_location": null,
+    "time": 20.2,
+    "category": "Beat Level",
+    "region": null,
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "y2xgnw5m",
+    "game": "Ninja Frog! (Platformer)",
+    "player": "US\u2019sFreedom",
+    "player_location": null,
+    "time": 19.133,
+    "category": "Beat Level",
+    "region": null,
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "z520vpnz",
+    "game": "Ninja Frog! (Platformer)",
+    "player": "AmayaSis",
+    "player_location": null,
+    "time": 16,
+    "category": "Beat Level",
+    "region": null,
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "y4r607nz",
+    "game": "Ninja Frog! (Platformer)",
+    "player": "Serena2",
+    "player_location": null,
+    "time": 19.733,
+    "category": "Beat Level",
+    "region": null,
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "ylr9n13y",
+    "game": "Ninja Frog! (Platformer)",
+    "player": "TRLittleToaster",
+    "player_location": "us",
+    "time": 24.6,
+    "category": "Beat Level",
+    "region": "USA / NTSC",
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "y609r7jy",
+    "game": "Ninja Frog! (Platformer)",
+    "player": "Speedy3",
+    "player_location": null,
+    "time": 0.086,
+    "category": "Endless Mode High Score",
+    "region": "EUR / PAL",
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "y609nqpy",
+    "game": "Ninja Frog! (Platformer)",
+    "player": "speedy3",
+    "player_location": null,
+    "time": 29.2,
+    "category": "Beat Level",
+    "region": "EUR / PAL",
+    "platform": "iOS",
+    "emulated": true
+  },
+  {
+    "id": "y88dp8ny",
+    "game": "Ninja Frog! (Platformer)",
+    "player": "Slick5852",
+    "player_location": null,
+    "time": 20,
+    "category": "Beat Level",
+    "region": null,
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "z0p0688y",
+    "game": "Ninja Frog! (Platformer)",
+    "player": "Spenben",
+    "player_location": "il",
+    "time": 18.7,
+    "category": "Beat Level",
+    "region": null,
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "mr76qo8z",
+    "game": "Ninja Frog! (Platformer)",
+    "player": "spenben",
+    "player_location": null,
+    "time": 28.4,
+    "category": "Beat Level",
+    "region": null,
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "y2p6q7jz",
+    "game": "Ninja Frog! (Platformer)",
+    "player": "Znix",
+    "player_location": "us",
+    "time": 0.013,
+    "category": "Endless Mode High Score",
+    "region": null,
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "ydgqplxy",
+    "game": "Ninja Frog! (Platformer)",
+    "player": "Zambrini",
+    "player_location": "us",
+    "time": 2.217,
+    "category": "Endless Mode Height",
+    "region": "USA / NTSC",
+    "platform": "iOS",
+    "emulated": false
+  }
+]

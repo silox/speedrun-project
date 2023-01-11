@@ -1,0 +1,123 @@
+[
+  {
+    "id": "emkjowvy",
+    "game": "Power Stone 2",
+    "player": "DuoDunk",
+    "player_location": "us",
+    "time": 522,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "mekw012m",
+    "game": "Power Stone 2",
+    "player": "JackieChazz",
+    "player_location": "fr",
+    "time": 449,
+    "category": "Arcade Mode Any%",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  },
+  {
+    "id": "mk2x18xm",
+    "game": "Power Stone 2",
+    "player": "Sm_Izumi",
+    "player_location": "fr",
+    "time": 280,
+    "category": "Arcade Mode Any%",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  },
+  {
+    "id": "zgkn7pey",
+    "game": "Power Stone 2",
+    "player": "baldnate",
+    "player_location": null,
+    "time": 464,
+    "category": "Arcade Mode Any%",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "mex1kn9z",
+    "game": "Power Stone 2",
+    "player": "Lugi",
+    "player_location": "de",
+    "time": 342,
+    "category": "Arcade Mode Any%",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  },
+  {
+    "id": "zgwgne0y",
+    "game": "Power Stone 2",
+    "player": "DBcade",
+    "player_location": "jp",
+    "time": 437,
+    "category": "Arcade Mode Any%",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "z09x4r4z",
+    "game": "Power Stone 2",
+    "player": "Dimidus",
+    "player_location": "pt",
+    "time": 335,
+    "category": "Arcade Mode Any%",
+    "region": "EUR / PAL",
+    "platform": "Dreamcast",
+    "emulated": true
+  },
+  {
+    "id": "m3721v4z",
+    "game": "Power Stone 2",
+    "player": "Mr2NuT123",
+    "player_location": "gb/eng",
+    "time": 477,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  },
+  {
+    "id": "y47l5ndy",
+    "game": "Power Stone 2",
+    "player": "q87985246",
+    "player_location": "tw",
+    "time": 496,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  },
+  {
+    "id": "zxl29jkz",
+    "game": "Power Stone 2",
+    "player": "TheoReyes",
+    "player_location": null,
+    "time": 1054,
+    "category": "Arcade Mode Hard%",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  },
+  {
+    "id": "yw3dvgpm",
+    "game": "Power Stone 2",
+    "player": "sidneycat",
+    "player_location": "gb/eng",
+    "time": 528,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  }
+]

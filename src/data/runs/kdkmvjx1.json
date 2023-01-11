@@ -1,0 +1,35 @@
+[
+  {
+    "id": "ylro54ny",
+    "game": "Joe & Mac (Arcade)",
+    "player": "JejuKyo",
+    "player_location": "jp",
+    "time": 804,
+    "category": "Default",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z0793j9y",
+    "game": "Joe & Mac (Arcade)",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 1276,
+    "category": "Co-op",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zp25d9vy",
+    "game": "Joe & Mac (Arcade)",
+    "player": "JaekRock",
+    "player_location": "us",
+    "time": 825,
+    "category": "Co-op",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

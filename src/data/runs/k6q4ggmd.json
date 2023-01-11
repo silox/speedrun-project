@@ -1,0 +1,200 @@
+[
+  {
+    "id": "y21g5pjz",
+    "game": "Death Stranding",
+    "player": "Paradise_Line",
+    "player_location": "ru",
+    "time": 31999,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "y41o6x3y",
+    "game": "Death Stranding",
+    "player": "Jaguar_King",
+    "player_location": "us",
+    "time": 20328,
+    "category": "Any% (Console)",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "yl0dgrky",
+    "game": "Death Stranding",
+    "player": "goinkyo",
+    "player_location": "jp",
+    "time": 21378,
+    "category": "Any% (Console)",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "y6lqp46y",
+    "game": "Death Stranding",
+    "player": "Distortion2",
+    "player_location": "us",
+    "time": 18452,
+    "category": "Any% (Console)",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "yj3en2dz",
+    "game": "Death Stranding",
+    "player": "OneCoolMan",
+    "player_location": "us",
+    "time": 16407,
+    "category": "Any% (Console)",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4 Pro",
+    "emulated": false
+  },
+  {
+    "id": "zxkj1gqm",
+    "game": "Death Stranding",
+    "player": "AdamTheBatmanWest",
+    "player_location": null,
+    "time": 36649,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "z06rx78z",
+    "game": "Death Stranding",
+    "player": "koyubi_tsumeko",
+    "player_location": "jp",
+    "time": 16384,
+    "category": "Any% (Console)",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 4 Pro",
+    "emulated": false
+  },
+  {
+    "id": "y82w74xy",
+    "game": "Death Stranding",
+    "player": "MetAteM",
+    "player_location": "gb/eng",
+    "time": 38339,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z05882jm",
+    "game": "Death Stranding",
+    "player": "Tesla",
+    "player_location": "ru",
+    "time": 25004,
+    "category": "Any% Online (PC)",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zx2ex6km",
+    "game": "Death Stranding",
+    "player": "ian_happy",
+    "player_location": "ru",
+    "time": 20519,
+    "category": "",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zxgqr4gy",
+    "game": "Death Stranding",
+    "player": "Cosmicborne",
+    "player_location": "gb/eng",
+    "time": 17079,
+    "category": "",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mrn908gy",
+    "game": "Death Stranding",
+    "player": "Hess",
+    "player_location": "dk",
+    "time": 16619,
+    "category": "Any% (PC)",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zp32prrm",
+    "game": "Death Stranding",
+    "player": "Gardevknight",
+    "player_location": null,
+    "time": 25809,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "zgr7xn0m",
+    "game": "Death Stranding",
+    "player": "Kevbot43",
+    "player_location": "us",
+    "time": 13481,
+    "category": "Any% (Console)",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "m7w34lez",
+    "game": "Death Stranding",
+    "player": "tatsupon",
+    "player_location": "jp",
+    "time": 37042,
+    "category": "Any% (PC)",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yorx4wdy",
+    "game": "Death Stranding",
+    "player": "Bringers",
+    "player_location": "us",
+    "time": 16508,
+    "category": "Any% Online (PC)",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y6nj3lqz",
+    "game": "Death Stranding",
+    "player": "UnbecomingTV",
+    "player_location": null,
+    "time": 39693,
+    "category": "Any% Online (PC)",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y4qvdxnm",
+    "game": "Death Stranding",
+    "player": "PALMMA",
+    "player_location": "pt",
+    "time": 24327,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 5",
+    "emulated": false
+  }
+]

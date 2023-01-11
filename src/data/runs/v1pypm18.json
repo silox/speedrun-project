@@ -1,0 +1,35 @@
+[
+  {
+    "id": "kz5lk6gy",
+    "game": "Landmaker",
+    "player": "Cyclone637",
+    "player_location": "gb/eng",
+    "time": 822,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "zqwo2o5z",
+    "game": "Landmaker",
+    "player": "Guildenstern",
+    "player_location": "gb/eng",
+    "time": 639,
+    "category": "Gaira%",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zgv61kvz",
+    "game": "Landmaker",
+    "player": "MAME_Retro_Avengers",
+    "player_location": "it",
+    "time": 606,
+    "category": "Gaira%",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "ywkxjq3y",
+    "game": "",
+    "player": "obiiwan",
+    "player_location": "hr",
+    "time": 236,
+    "category": "Beat the game",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "ylox56ny",
+    "game": "",
+    "player": "Maskaman",
+    "player_location": null,
+    "time": 363,
+    "category": "Beat the game",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

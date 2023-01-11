@@ -1,0 +1,79 @@
+[
+  {
+    "id": "9mr83qgy",
+    "game": "ModNation Racers",
+    "player": "Zozerozos",
+    "player_location": "us",
+    "time": 547.65,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "z0e4x1om",
+    "game": "ModNation Racers",
+    "player": "Julbox",
+    "player_location": null,
+    "time": 576.34,
+    "category": "Home Tour",
+    "region": null,
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "yvj4r3ey",
+    "game": "ModNation Racers",
+    "player": "Wiigocadee",
+    "player_location": "nz",
+    "time": 6922.133,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "zgprnxdz",
+    "game": "ModNation Racers",
+    "player": "LaFlame",
+    "player_location": "au",
+    "time": 19.088,
+    "category": "",
+    "region": null,
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "yvo5kr6z",
+    "game": "ModNation Racers",
+    "player": "Virjoinga",
+    "player_location": "nz",
+    "time": 20.367,
+    "category": "Time Trial",
+    "region": null,
+    "platform": "PlayStation 3",
+    "emulated": true
+  },
+  {
+    "id": "ylr24e3y",
+    "game": "ModNation Racers",
+    "player": "potatoboii",
+    "player_location": "gb",
+    "time": 172.018,
+    "category": "",
+    "region": null,
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "yvrp644z",
+    "game": "ModNation Racers",
+    "player": "Finnbarr",
+    "player_location": "nz",
+    "time": 31.952,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 3",
+    "emulated": false
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "mr7k842z",
+    "game": "Bucky O'Hare (Arcade)",
+    "player": "manticor5",
+    "player_location": "cl",
+    "time": 1797.793,
+    "category": "1P",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zp9r0ovm",
+    "game": "Bucky O'Hare (Arcade)",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 2218,
+    "category": "2P",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yddd62xy",
+    "game": "Bucky O'Hare (Arcade)",
+    "player": "Sonikkustar",
+    "player_location": "us",
+    "time": 1389.87,
+    "category": "1P",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "znqkg43z",
+    "game": "Bucky O'Hare (Arcade)",
+    "player": "Ellimist",
+    "player_location": "us",
+    "time": 2129,
+    "category": "3P",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

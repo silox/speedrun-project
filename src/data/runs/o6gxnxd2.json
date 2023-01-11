@@ -1,0 +1,68 @@
+[
+  {
+    "id": "yvjl5l8y",
+    "game": "Rodea the Sky Soldier (Wii)",
+    "player": "socialspeedrunner",
+    "player_location": "gb/eng",
+    "time": 47.95,
+    "category": "IL",
+    "region": "JPN / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "pyd07eqz",
+    "game": "Rodea the Sky Soldier (Wii)",
+    "player": "Vallu",
+    "player_location": "fi",
+    "time": 51.58,
+    "category": "IL",
+    "region": "JPN / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "7z0rgkez",
+    "game": "Rodea the Sky Soldier (Wii)",
+    "player": "RaphaelRobo",
+    "player_location": "jp",
+    "time": 124.4,
+    "category": "IL",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "pzgrqnvm",
+    "game": "Rodea the Sky Soldier (Wii)",
+    "player": "AkiraKoops",
+    "player_location": "us",
+    "time": 55.45,
+    "category": "IL",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "oy2ko9wy",
+    "game": "Rodea the Sky Soldier (Wii)",
+    "player": "Demolition14",
+    "player_location": null,
+    "time": 9032,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "yd32gp0z",
+    "game": "Rodea the Sky Soldier (Wii)",
+    "player": "Habreno",
+    "player_location": "us",
+    "time": 7072,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  }
+]

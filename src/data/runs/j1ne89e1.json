@@ -1,0 +1,90 @@
+[
+  {
+    "id": "ydqnw7jm",
+    "game": "",
+    "player": "buffalax",
+    "player_location": "us",
+    "time": 97.26,
+    "category": "300",
+    "region": null,
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "zp08qnxm",
+    "game": "",
+    "player": "Peanutfan22",
+    "player_location": "us",
+    "time": 94.783,
+    "category": "300",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "z017lw8y",
+    "game": "",
+    "player": "Ms_Riley_Guprz",
+    "player_location": "us",
+    "time": 94.57,
+    "category": "300",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y2dq729z",
+    "game": "Super Bowling",
+    "player": "MegaRetroMan",
+    "player_location": "us",
+    "time": 92.32,
+    "category": "300",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "m780ln4z",
+    "game": "Super Bowling",
+    "player": "dpadsense",
+    "player_location": "ca/qc",
+    "time": 118,
+    "category": "300",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "ylroe03y",
+    "game": "Super Bowling",
+    "player": "ShesChardcore",
+    "player_location": "us",
+    "time": 91,
+    "category": "300",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "y20g559m",
+    "game": "Super Bowling",
+    "player": "smythe",
+    "player_location": "gb/eng",
+    "time": 81.333,
+    "category": "300",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "mr6o5ddm",
+    "game": "Super Bowling",
+    "player": "Luco",
+    "player_location": "us",
+    "time": 81.766,
+    "category": "300",
+    "region": null,
+    "platform": "Super Nintendo",
+    "emulated": true
+  }
+]

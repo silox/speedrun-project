@@ -1,0 +1,90 @@
+[
+  {
+    "id": "9mr5wv4y",
+    "game": "Sparkster (Genesis)",
+    "player": "Drakodan",
+    "player_location": "gb/eng",
+    "time": 1186,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "mk41p3xy",
+    "game": "Sparkster (Genesis)",
+    "player": "Sonikkustar",
+    "player_location": "us",
+    "time": 1181,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "jy9wq3ez",
+    "game": "Sparkster (Genesis)",
+    "player": "vlackSR",
+    "player_location": "hn",
+    "time": 2126,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "nz174x7z",
+    "game": "Sparkster (Genesis)",
+    "player": "Fonzoide",
+    "player_location": "cl",
+    "time": 2153,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "z11g8vrz",
+    "game": "Sparkster (Genesis)",
+    "player": "dagronSR",
+    "player_location": "ca",
+    "time": 1118,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "m31xn8wz",
+    "game": "Sparkster (Genesis)",
+    "player": "DukeLionXIV",
+    "player_location": "us",
+    "time": 1268,
+    "category": "Any%",
+    "region": null,
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "mexpgn8z",
+    "game": "Sparkster (Genesis)",
+    "player": "RoHiSakk",
+    "player_location": "cl",
+    "time": 1297,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "meoopk0z",
+    "game": "Sparkster (Genesis)",
+    "player": "AoiTsuki",
+    "player_location": "jp",
+    "time": 1904,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  }
+]

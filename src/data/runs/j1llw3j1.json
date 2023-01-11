@@ -1,0 +1,68 @@
+[
+  {
+    "id": "y6dr03qm",
+    "game": "Super Mario All Stars God Mode",
+    "player": "Yoshiabel",
+    "player_location": "es/ct",
+    "time": 42.43,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "yjg6p53y",
+    "game": "Super Mario All Stars God Mode",
+    "player": "Yoshikiller109",
+    "player_location": "us",
+    "time": 40.28,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "yo73o80m",
+    "game": "Super Mario All Stars God Mode",
+    "player": "N/A",
+    "player_location": null,
+    "time": 0.001,
+    "category": "Super Mario Bros. 3",
+    "region": null,
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "yjg6wvdy",
+    "game": "Super Mario All Stars God Mode",
+    "player": "Evllnk2565",
+    "player_location": "us",
+    "time": 40.77,
+    "category": "Super Mario Bros. 3",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "y6d09o6m",
+    "game": "Super Mario All Stars God Mode",
+    "player": "LooeeJee",
+    "player_location": null,
+    "time": 39.959,
+    "category": "Super Mario Bros. 3",
+    "region": null,
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "m7w90p4z",
+    "game": "Super Mario All Stars God Mode",
+    "player": "CappnKirbs",
+    "player_location": "gb/eng",
+    "time": 93.749,
+    "category": "Super Mario Bros. 3",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  }
+]

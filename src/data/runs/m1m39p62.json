@@ -1,0 +1,123 @@
+[
+  {
+    "id": "8yv2064m",
+    "game": "Ms. Pac-Man (SNES/Genesis)",
+    "player": "StoneAgeMarcus",
+    "player_location": "us",
+    "time": 1995,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "7ylol22y",
+    "game": "Ms. Pac-Man (SNES/Genesis)",
+    "player": "nick666101",
+    "player_location": "nl",
+    "time": 1704,
+    "category": "Strange Mode",
+    "region": null,
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "z132lp7m",
+    "game": "Ms. Pac-Man (SNES/Genesis)",
+    "player": "Jesse_Lee",
+    "player_location": "us",
+    "time": 1420,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "mr402edz",
+    "game": "Ms. Pac-Man (SNES/Genesis)",
+    "player": "starcrytas",
+    "player_location": "us",
+    "time": 1316,
+    "category": "Mini Mode",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "zp1dkkxz",
+    "game": "Ms. Pac-Man (SNES/Genesis)",
+    "player": "DemonBattler",
+    "player_location": "us",
+    "time": 1308,
+    "category": "Mini Mode",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "ydr7g3vz",
+    "game": "Ms. Pac-Man (SNES/Genesis)",
+    "player": "GlitchCat7",
+    "player_location": "us",
+    "time": 1717,
+    "category": "Strange Mode",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "z52r7x5z",
+    "game": "Ms. Pac-Man (SNES/Genesis)",
+    "player": "Tac0",
+    "player_location": "aq",
+    "time": 1726,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "z52g3lez",
+    "game": "Ms. Pac-Man (SNES/Genesis)",
+    "player": "VintageClassicGamer",
+    "player_location": "us",
+    "time": 1700,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "zq7xgj8m",
+    "game": "Ms. Pac-Man (SNES/Genesis)",
+    "player": "plaabo",
+    "player_location": "br",
+    "time": 81,
+    "category": "10k Score",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "y9v463rm",
+    "game": "Ms. Pac-Man (SNES/Genesis)",
+    "player": "LD_SPEEDRUNS",
+    "player_location": "br",
+    "time": 54,
+    "category": "10k Score",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "zgqnwody",
+    "game": "Ms. Pac-Man (SNES/Genesis)",
+    "player": "UPeralta",
+    "player_location": "br",
+    "time": 58,
+    "category": "10k Score",
+    "region": null,
+    "platform": "Super Nintendo",
+    "emulated": true
+  }
+]

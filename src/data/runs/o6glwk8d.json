@@ -1,0 +1,46 @@
+[
+  {
+    "id": "y6prnq6m",
+    "game": "City of Brass",
+    "player": "MrBossdragon",
+    "player_location": "us",
+    "time": 511,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m751x99z",
+    "game": "City of Brass",
+    "player": "HecticMath",
+    "player_location": null,
+    "time": 581.849,
+    "category": "All Blessings",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m7p7dd4m",
+    "game": "City of Brass",
+    "player": "helpless_skippy",
+    "player_location": "us",
+    "time": 608,
+    "category": "All Blessings",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mk9x835z",
+    "game": "City of Brass",
+    "player": "Novaphyer",
+    "player_location": "us",
+    "time": 488.38,
+    "category": "All Blessings",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

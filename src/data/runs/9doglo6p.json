@@ -1,0 +1,79 @@
+[
+  {
+    "id": "oy28lj5y",
+    "game": "Gears of War 3 Beast Mode",
+    "player": "RottDawg",
+    "player_location": null,
+    "time": 444,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "7z00vn9z",
+    "game": "Gears of War 3 Beast Mode",
+    "player": "retired",
+    "player_location": "gb/eng",
+    "time": 594,
+    "category": "Normal",
+    "region": "EUR / PAL",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "0y6jko6m",
+    "game": "Gears of War 3 Beast Mode",
+    "player": "smartalec0624",
+    "player_location": null,
+    "time": 985,
+    "category": "Normal",
+    "region": "USA / NTSC",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "wzp5r4ry",
+    "game": "Gears of War 3 Beast Mode",
+    "player": "Flurby",
+    "player_location": "us",
+    "time": 995,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "m3o0w54m",
+    "game": "Gears of War 3 Beast Mode",
+    "player": "WagnerBrasil",
+    "player_location": "br",
+    "time": 484,
+    "category": "Normal",
+    "region": "USA / NTSC",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "z07d3l8y",
+    "game": "Gears of War 3 Beast Mode",
+    "player": "Kazadure",
+    "player_location": "gb/sct",
+    "time": 930,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Xbox One",
+    "emulated": false
+  },
+  {
+    "id": "y60nnqpy",
+    "game": "Gears of War 3 Beast Mode",
+    "player": "McThumbs",
+    "player_location": "us",
+    "time": 505,
+    "category": "Casual",
+    "region": "USA / NTSC",
+    "platform": "Xbox One",
+    "emulated": false
+  }
+]

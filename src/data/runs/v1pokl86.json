@@ -1,0 +1,35 @@
+[
+  {
+    "id": "mr982x2m",
+    "game": "Romancing SaGa: Minstrel Song",
+    "player": "yawaraka_yamato",
+    "player_location": "jp",
+    "time": 11773,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "me9ok58z",
+    "game": "Romancing SaGa: Minstrel Song",
+    "player": "jagerchor",
+    "player_location": "jp",
+    "time": 10289,
+    "category": "Gray",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y6058ppy",
+    "game": "Romancing SaGa: Minstrel Song",
+    "player": "shigerin",
+    "player_location": "jp",
+    "time": 10953,
+    "category": "Gray",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  }
+]

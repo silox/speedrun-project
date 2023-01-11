@@ -1,0 +1,79 @@
+[
+  {
+    "id": "yd0xxdvz",
+    "game": "Is It Wrong to Try to Shoot 'em Up Girls in a Dungeon?",
+    "player": "Spudrenner",
+    "player_location": "us",
+    "time": 883,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "yo3g197y",
+    "game": "Is It Wrong to Try to Shoot 'em Up Girls in a Dungeon?",
+    "player": "DefinatlyPurple",
+    "player_location": "us",
+    "time": 821,
+    "category": "Any % Easy",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z5ejx15z",
+    "game": "Is It Wrong to Try to Shoot 'em Up Girls in a Dungeon?",
+    "player": "TheCodyMiner",
+    "player_location": "us",
+    "time": 765,
+    "category": "Any % Easy",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "yj1vr8dy",
+    "game": "Is It Wrong to Try to Shoot 'em Up Girls in a Dungeon?",
+    "player": "tensegman",
+    "player_location": "gr",
+    "time": 802,
+    "category": "Any % Easy",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "znqv3jvz",
+    "game": "Is It Wrong to Try to Shoot 'em Up Girls in a Dungeon?",
+    "player": "Ris_Grestar",
+    "player_location": "us",
+    "time": 770,
+    "category": "Any % Easy",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z5xnq45y",
+    "game": "Is It Wrong to Try to Shoot 'em Up Girls in a Dungeon?",
+    "player": "MierukoChan",
+    "player_location": "mx",
+    "time": 780,
+    "category": "Any % Easy",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m3xe7wwm",
+    "game": "Is It Wrong to Try to Shoot 'em Up Girls in a Dungeon?",
+    "player": "Teru",
+    "player_location": "jp",
+    "time": 852,
+    "category": "Any % Easy",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

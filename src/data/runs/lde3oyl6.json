@@ -1,0 +1,68 @@
+[
+  {
+    "id": "m77x8kwm",
+    "game": "Super Mario Galaxy Deluxe",
+    "player": "Shadow64",
+    "player_location": "gb",
+    "time": 957,
+    "category": "11 Star",
+    "region": "EUR / PAL",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "mrn9ve8y",
+    "game": "Super Mario Galaxy Deluxe",
+    "player": "30Aces",
+    "player_location": "us",
+    "time": 47.3,
+    "category": "Crash%",
+    "region": "USA / NTSC",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "z53d515y",
+    "game": "Super Mario Galaxy Deluxe",
+    "player": "Midbro",
+    "player_location": "us",
+    "time": 590.003,
+    "category": "Crash%",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "z1oxgogm",
+    "game": "Super Mario Galaxy Deluxe",
+    "player": "MichaelChungus",
+    "player_location": "sc",
+    "time": 47.8,
+    "category": "Crash%",
+    "region": null,
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "zqgdgkxm",
+    "game": "Super Mario Galaxy Deluxe",
+    "player": "keegansimyh",
+    "player_location": "hk",
+    "time": 2626,
+    "category": "11 Star",
+    "region": "CHN / PAL",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "yl1wkl3m",
+    "game": "Super Mario Galaxy Deluxe",
+    "player": "Sudowoodo",
+    "player_location": "kr",
+    "time": 12.88,
+    "category": "Star 3",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": true
+  }
+]

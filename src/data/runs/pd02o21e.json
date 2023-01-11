@@ -1,0 +1,178 @@
+[
+  {
+    "id": "m79p8e9y",
+    "game": "Hyperdimension Neptunia Re;Birth2: Sisters Generation",
+    "player": "Jiseed",
+    "player_location": "ca",
+    "time": 3937,
+    "category": "NG w/ DLC",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "1zq8p7rz",
+    "game": "Hyperdimension Neptunia Re;Birth2: Sisters Generation",
+    "player": "Token",
+    "player_location": null,
+    "time": 4040,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "me6l87qz",
+    "game": "Hyperdimension Neptunia Re;Birth2: Sisters Generation",
+    "player": "Dabomstew",
+    "player_location": "nz",
+    "time": 2746,
+    "category": "",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y90515vy",
+    "game": "Hyperdimension Neptunia Re;Birth2: Sisters Generation",
+    "player": "endeavorgaming",
+    "player_location": "us",
+    "time": 2838,
+    "category": "New Game Plus",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yvj26o8y",
+    "game": "Hyperdimension Neptunia Re;Birth2: Sisters Generation",
+    "player": "Hexi",
+    "player_location": "gb",
+    "time": 4957,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yo60p47y",
+    "game": "Hyperdimension Neptunia Re;Birth2: Sisters Generation",
+    "player": "Marenthyu",
+    "player_location": "de",
+    "time": 6270,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z15d0d9y",
+    "game": "Hyperdimension Neptunia Re;Birth2: Sisters Generation",
+    "player": "ykznsngkrobo",
+    "player_location": "jp",
+    "time": 8620,
+    "category": "New Game",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "me84k92m",
+    "game": "Hyperdimension Neptunia Re;Birth2: Sisters Generation",
+    "player": "Defhalt",
+    "player_location": "ar",
+    "time": 2918,
+    "category": "New Game Plus",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zxkrd5em",
+    "game": "Hyperdimension Neptunia Re;Birth2: Sisters Generation",
+    "player": "MattyPlays",
+    "player_location": "gb/eng",
+    "time": 4612,
+    "category": "New Game",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yl0j92xy",
+    "game": "Hyperdimension Neptunia Re;Birth2: Sisters Generation",
+    "player": "Krispykins",
+    "player_location": "us",
+    "time": 7447,
+    "category": "New Game Plus",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yod7w17m",
+    "game": "Hyperdimension Neptunia Re;Birth2: Sisters Generation",
+    "player": "Veloalopus",
+    "player_location": "us",
+    "time": 6058,
+    "category": "New Game",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "me400k8y",
+    "game": "Hyperdimension Neptunia Re;Birth2: Sisters Generation",
+    "player": "IIvgmII",
+    "player_location": "us",
+    "time": 4006,
+    "category": "New Game",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m35god4y",
+    "game": "Hyperdimension Neptunia Re;Birth2: Sisters Generation",
+    "player": "Worldie",
+    "player_location": "it",
+    "time": 9332,
+    "category": "New Game",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zn0754vy",
+    "game": "Hyperdimension Neptunia Re;Birth2: Sisters Generation",
+    "player": "Fulton_Boss",
+    "player_location": "mx",
+    "time": 8923,
+    "category": "New Game",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "ydddrnxy",
+    "game": "Hyperdimension Neptunia Re;Birth2: Sisters Generation",
+    "player": "ravspect",
+    "player_location": "us",
+    "time": 4620,
+    "category": "New Game",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yvqd1d6m",
+    "game": "Hyperdimension Neptunia Re;Birth2: Sisters Generation",
+    "player": "Mizutoka",
+    "player_location": "us",
+    "time": 9534,
+    "category": "New Game",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

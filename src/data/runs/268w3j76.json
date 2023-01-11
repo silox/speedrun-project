@@ -1,0 +1,101 @@
+[
+  {
+    "id": "mr1j86dz",
+    "game": "Kirby: Nightmare in Dream Land Category Extensions",
+    "player": "MKCocoon",
+    "player_location": "ca",
+    "time": 48.15,
+    "category": "DDtBB%",
+    "region": "USA / NTSC",
+    "platform": "Wii U Virtual Console",
+    "emulated": false
+  },
+  {
+    "id": "yj5kdlom",
+    "game": "Kirby: Nightmare in Dream Land Category Extensions",
+    "player": "Darksol88",
+    "player_location": "us",
+    "time": 49.07,
+    "category": "DDtBB%",
+    "region": "USA / NTSC",
+    "platform": "Wii U Virtual Console",
+    "emulated": false
+  },
+  {
+    "id": "zq1k345m",
+    "game": "Kirby: Nightmare in Dream Land Category Extensions",
+    "player": "MusiQuil",
+    "player_location": "us",
+    "time": 39.87,
+    "category": "World Map RTA",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "yv14j24y",
+    "game": "Kirby: Nightmare in Dream Land Category Extensions",
+    "player": "FunkyCat229",
+    "player_location": "us",
+    "time": 40.58,
+    "category": "World Map RTA",
+    "region": "USA / NTSC",
+    "platform": "Wii U Virtual Console",
+    "emulated": false
+  },
+  {
+    "id": "yjgj413y",
+    "game": "Kirby: Nightmare in Dream Land Category Extensions",
+    "player": "AidanMse",
+    "player_location": "ca",
+    "time": 40.71,
+    "category": "World Map RTA",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "z0o7rlez",
+    "game": "Kirby: Nightmare in Dream Land Category Extensions",
+    "player": "Rox",
+    "player_location": "us",
+    "time": 38.917,
+    "category": "World Map RTA",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Player",
+    "emulated": false
+  },
+  {
+    "id": "mr1jep8z",
+    "game": "Kirby: Nightmare in Dream Land Category Extensions",
+    "player": "prohybrid",
+    "player_location": "ca",
+    "time": 3736,
+    "category": "All Items + Switches",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "yjx5563z",
+    "game": "Kirby: Nightmare in Dream Land Category Extensions",
+    "player": "miririi6",
+    "player_location": "jp",
+    "time": 38.7,
+    "category": "World Map RTA",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Player",
+    "emulated": false
+  },
+  {
+    "id": "z0l67o4z",
+    "game": "Kirby: Nightmare in Dream Land Category Extensions",
+    "player": "Moxieclaws",
+    "player_location": "us",
+    "time": 41,
+    "category": "DDtBB%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  }
+]

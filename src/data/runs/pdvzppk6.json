@@ -1,0 +1,68 @@
+[
+  {
+    "id": "y43ven3z",
+    "game": "Samurai Shodown V",
+    "player": "Maiguels",
+    "player_location": "es",
+    "time": 504.84,
+    "category": "Arcade",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "m31kqj6z",
+    "game": "Samurai Shodown V",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 442.21,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z57l4oem",
+    "game": "Samurai Shodown V",
+    "player": "Regyszord_BR",
+    "player_location": "br",
+    "time": 325.041,
+    "category": "Arcade",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yvowrw6z",
+    "game": "Samurai Shodown V",
+    "player": "ivanpaduano",
+    "player_location": "it",
+    "time": 308.18,
+    "category": "Arcade",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zxork05z",
+    "game": "Samurai Shodown V",
+    "player": "NeetSuhiro",
+    "player_location": "jp",
+    "time": 243.55,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": false
+  },
+  {
+    "id": "z1q1xxjy",
+    "game": "Samurai Shodown V",
+    "player": "CesarD",
+    "player_location": "cl",
+    "time": 230.29,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

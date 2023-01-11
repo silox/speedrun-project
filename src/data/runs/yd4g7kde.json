@@ -1,0 +1,145 @@
+[
+  {
+    "id": "kz5754gm",
+    "game": "Kirby's Dream Course",
+    "player": "Yukimatsu",
+    "player_location": null,
+    "time": 2553,
+    "category": "Normal Courses",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "pm3194wz",
+    "game": "Kirby's Dream Course",
+    "player": "Eaten Chang",
+    "player_location": null,
+    "time": 3144,
+    "category": "Normal Courses",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "mexrvpqz",
+    "game": "Kirby's Dream Course",
+    "player": "r0bd0g",
+    "player_location": "ca",
+    "time": 2000,
+    "category": "Normal Courses",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "wzp46pgz",
+    "game": "Kirby's Dream Course",
+    "player": "A festival",
+    "player_location": null,
+    "time": 3507,
+    "category": "Normal Courses",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "8y884vny",
+    "game": "Kirby's Dream Course",
+    "player": "KCMcG",
+    "player_location": "us",
+    "time": 2152,
+    "category": "Normal Courses",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "pm380x6y",
+    "game": "Kirby's Dream Course",
+    "player": "10ooki",
+    "player_location": "us",
+    "time": 2067,
+    "category": "Normal Courses",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y67e7vpm",
+    "game": "Kirby's Dream Course",
+    "player": "swordsmankirby",
+    "player_location": "us",
+    "time": 2268,
+    "category": "Normal Courses",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "yvj4jv8y",
+    "game": "Kirby's Dream Course",
+    "player": "Acmlm",
+    "player_location": "ca/qc",
+    "time": 2867,
+    "category": "Normal Courses",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "zqrlx1xy",
+    "game": "Kirby's Dream Course",
+    "player": "Kumanomi",
+    "player_location": "jp",
+    "time": 2233,
+    "category": "Normal Courses",
+    "region": "JPN / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "y41d5wny",
+    "game": "Kirby's Dream Course",
+    "player": "Xealous",
+    "player_location": null,
+    "time": 2512,
+    "category": "Normal Courses",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "z01v2eey",
+    "game": "Kirby's Dream Course",
+    "player": "mukokyu",
+    "player_location": "jp",
+    "time": 2071,
+    "category": "Normal Courses",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "yj848kdm",
+    "game": "Kirby's Dream Course",
+    "player": "chochiku",
+    "player_location": "jp",
+    "time": 2082,
+    "category": "Normal Courses",
+    "region": null,
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "m78dvxwz",
+    "game": "Kirby's Dream Course",
+    "player": "kmbyukarin",
+    "player_location": "jp",
+    "time": 2870,
+    "category": "3-Key",
+    "region": "JPN / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  }
+]

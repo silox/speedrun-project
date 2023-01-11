@@ -1,0 +1,156 @@
+[
+  {
+    "id": "mr9vee8m",
+    "game": "Mad Father Remake",
+    "player": "Tegron",
+    "player_location": "pl",
+    "time": 1357,
+    "category": "Blood Mode",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mr9r94gm",
+    "game": "Mad Father Remake",
+    "player": "SMP",
+    "player_location": "us",
+    "time": 1375,
+    "category": "Blood Mode",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y8rxrxxm",
+    "game": "Mad Father Remake",
+    "player": "MiLKtendo",
+    "player_location": "us",
+    "time": 1890,
+    "category": "Bad Ending",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "yj6w753z",
+    "game": "Mad Father Remake",
+    "player": "Numulix",
+    "player_location": "rs",
+    "time": 1759,
+    "category": "Bad Ending",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mk8ddl5m",
+    "game": "Mad Father Remake",
+    "player": "hm-03",
+    "player_location": "us",
+    "time": 2017,
+    "category": "Bad Ending",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m3n955qy",
+    "game": "Mad Father Remake",
+    "player": "plank",
+    "player_location": "kr",
+    "time": 1313,
+    "category": "Blood Mode",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y4ep1n3m",
+    "game": "Mad Father Remake",
+    "player": "EddventureTime58",
+    "player_location": "gb/sct",
+    "time": 1325,
+    "category": "Blood Mode",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m78x94ez",
+    "game": "Mad Father Remake",
+    "player": "LordLegender",
+    "player_location": "us",
+    "time": 1327,
+    "category": "Blood Mode",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yo9d63dy",
+    "game": "Mad Father Remake",
+    "player": "sisiza1771",
+    "player_location": "jp",
+    "time": 1822,
+    "category": "Bad Ending",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yop95n1m",
+    "game": "Mad Father Remake",
+    "player": "Jackythejack",
+    "player_location": "us",
+    "time": 1760,
+    "category": "Bad Ending",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m36w00dm",
+    "game": "Mad Father Remake",
+    "player": "NekoniaFIN",
+    "player_location": "fi",
+    "time": 1912,
+    "category": "Bad Ending",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z1p26owz",
+    "game": "Mad Father Remake",
+    "player": "RetroZoned",
+    "player_location": "us",
+    "time": 3770,
+    "category": "Good Ending 100%",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "yddvelqy",
+    "game": "Mad Father Remake",
+    "player": "Gnydsmelt",
+    "player_location": "se",
+    "time": 1889,
+    "category": "Bad Ending",
+    "region": null,
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "znqwgevz",
+    "game": "Mad Father Remake",
+    "player": "Luthor",
+    "player_location": "us",
+    "time": 1342,
+    "category": "Blood Mode",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

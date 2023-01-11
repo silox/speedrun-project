@@ -1,0 +1,68 @@
+[
+  {
+    "id": "y6x96pjy",
+    "game": "Fate/Grand Order",
+    "player": "hogeco",
+    "player_location": "jp",
+    "time": 33749,
+    "category": "Arc1",
+    "region": "JPN / NTSC",
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "mk82p3lm",
+    "game": "Fate/Grand Order",
+    "player": "ICKID",
+    "player_location": "tw",
+    "time": 48046,
+    "category": "Arc1",
+    "region": "JPN / NTSC",
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "m76e159y",
+    "game": "Fate/Grand Order",
+    "player": "roadygame",
+    "player_location": "jp",
+    "time": 1619,
+    "category": "Singularity F",
+    "region": "JPN / NTSC",
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "znqp708z",
+    "game": "Fate/Grand Order",
+    "player": "sugar_san",
+    "player_location": "jp",
+    "time": 1563,
+    "category": "Singularity F",
+    "region": "JPN / NTSC",
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "z0702d9y",
+    "game": "Fate/Grand Order",
+    "player": "quino283",
+    "player_location": "jp",
+    "time": 1789,
+    "category": "Singularity F",
+    "region": null,
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "z1x6d3wm",
+    "game": "Fate/Grand Order",
+    "player": "Atsuon",
+    "player_location": "jp",
+    "time": 1765,
+    "category": "Singularity F",
+    "region": "JPN / NTSC",
+    "platform": "iOS",
+    "emulated": false
+  }
+]

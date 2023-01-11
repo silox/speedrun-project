@@ -1,0 +1,123 @@
+[
+  {
+    "id": "yo94jn0y",
+    "game": "Calico",
+    "player": "evanclue",
+    "player_location": "us",
+    "time": 1226.1,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zx61joez",
+    "game": "Calico",
+    "player": "kimmorz",
+    "player_location": "us",
+    "time": 531.366,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yw0v209m",
+    "game": "Calico",
+    "player": "caitelatte",
+    "player_location": "au",
+    "time": 1492.001,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y2vv9o6z",
+    "game": "Calico",
+    "player": "CattitudeFeloin",
+    "player_location": null,
+    "time": 690.015,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z1rd07rm",
+    "game": "Calico",
+    "player": "Soocy",
+    "player_location": "us",
+    "time": 213.166,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zno2g08y",
+    "game": "Calico",
+    "player": "Emphabet",
+    "player_location": "us",
+    "time": 298.45,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yd97p5jz",
+    "game": "Calico",
+    "player": "josh_spooky",
+    "player_location": "au",
+    "time": 274.1,
+    "category": "Any%",
+    "region": null,
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "me9ndn2z",
+    "game": "Calico",
+    "player": "NoobSalmon",
+    "player_location": "hu",
+    "time": 311.79,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mkggrwvy",
+    "game": "Calico",
+    "player": "psoymilk",
+    "player_location": "us",
+    "time": 1935.233,
+    "category": "Any% Glitchless",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "z0rk149z",
+    "game": "Calico",
+    "player": "MikkiuMilk",
+    "player_location": "us",
+    "time": 2977,
+    "category": "Any% Glitchless",
+    "region": null,
+    "platform": "Xbox One",
+    "emulated": false
+  },
+  {
+    "id": "z5v1n5gm",
+    "game": "Calico",
+    "player": "Lynxano",
+    "player_location": "ca",
+    "time": 2296.317,
+    "category": "Any% Glitchless",
+    "region": null,
+    "platform": "PC",
+    "emulated": true
+  }
+]

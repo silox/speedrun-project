@@ -1,0 +1,24 @@
+[
+  {
+    "id": "8y8v4p1z",
+    "game": "Dance Dance Revolution MAX",
+    "player": "Dr. D",
+    "player_location": null,
+    "time": 7712,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": false
+  },
+  {
+    "id": "emkkl73m",
+    "game": "Dance Dance Revolution MAX",
+    "player": "fungah",
+    "player_location": "us",
+    "time": 5157,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": false
+  }
+]

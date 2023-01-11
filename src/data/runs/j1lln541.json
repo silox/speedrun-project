@@ -1,0 +1,35 @@
+[
+  {
+    "id": "yw155n2z",
+    "game": "The Lucky Dime Caper Starring Donald Duck (Game Gear)",
+    "player": "ad_prim",
+    "player_location": "ch",
+    "time": 794,
+    "category": "Beat the game",
+    "region": "USA / NTSC",
+    "platform": "Sega Game Gear",
+    "emulated": true
+  },
+  {
+    "id": "mekpp0qm",
+    "game": "The Lucky Dime Caper Starring Donald Duck (Game Gear)",
+    "player": "Mephistus",
+    "player_location": "br",
+    "time": 847,
+    "category": "Beat the game",
+    "region": "USA / NTSC",
+    "platform": "Sega Game Gear",
+    "emulated": true
+  },
+  {
+    "id": "yl4jw52m",
+    "game": "The Lucky Dime Caper Starring Donald Duck (Game Gear)",
+    "player": "obiiwan",
+    "player_location": "hr",
+    "time": 749,
+    "category": "Beat the game",
+    "region": "USA / NTSC",
+    "platform": "Sega Game Gear",
+    "emulated": true
+  }
+]

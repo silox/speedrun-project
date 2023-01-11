@@ -1,0 +1,35 @@
+[
+  {
+    "id": "z0e6l4jm",
+    "game": "SOCOM 3 U.S. Navy SEALs",
+    "player": "icedwindowsil",
+    "player_location": "us",
+    "time": 166,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y6pgnwpm",
+    "game": "SOCOM 3 U.S. Navy SEALs",
+    "player": "RaxWrax",
+    "player_location": null,
+    "time": 160,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zg7jj3vz",
+    "game": "SOCOM 3 U.S. Navy SEALs",
+    "player": "BiGz",
+    "player_location": "gb/nir",
+    "time": 168,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  }
+]

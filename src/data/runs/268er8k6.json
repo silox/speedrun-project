@@ -1,0 +1,35 @@
+[
+  {
+    "id": "me9o622z",
+    "game": "ZuPaPa!",
+    "player": "NeroGamer120",
+    "player_location": "mx",
+    "time": 1610,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zp17x5rz",
+    "game": "ZuPaPa!",
+    "player": "JejuKyo",
+    "player_location": "jp",
+    "time": 1919,
+    "category": "Any% 1P",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zx8rnwkm",
+    "game": "ZuPaPa!",
+    "player": "OscarGAMZ",
+    "player_location": "mx",
+    "time": 1502,
+    "category": "Any% 1P",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

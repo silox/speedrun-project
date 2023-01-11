@@ -1,0 +1,46 @@
+[
+  {
+    "id": "z57e00jm",
+    "game": "",
+    "player": "iTz_NBAH",
+    "player_location": "fi",
+    "time": 1589,
+    "category": "Chapter 1",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zxgd48ey",
+    "game": "",
+    "player": "Dplanet36",
+    "player_location": "nl",
+    "time": 1471,
+    "category": "Chapter 1",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yok0537z",
+    "game": "",
+    "player": "RebeccaRE",
+    "player_location": "cl",
+    "time": 1471,
+    "category": "Chapter 1",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yw093dnm",
+    "game": "Corpse Party 2: Dead Patient",
+    "player": "EddventureTime58",
+    "player_location": "gb/sct",
+    "time": 1507,
+    "category": "Chapter 1",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  }
+]

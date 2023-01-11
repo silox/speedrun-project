@@ -1,0 +1,79 @@
+[
+  {
+    "id": "9meqp62m",
+    "game": "",
+    "player": "thelvl99charmander",
+    "player_location": "us",
+    "time": 179,
+    "category": "Original Mode Bison II",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "yvjx5x8y",
+    "game": "",
+    "player": "mrteacat",
+    "player_location": "us",
+    "time": 351,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "yd0931xz",
+    "game": "Street Fighter EX3",
+    "player": "Saullo64",
+    "player_location": "br",
+    "time": 176,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zgvqg3vz",
+    "game": "Street Fighter EX3",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 149,
+    "category": "Original Mode Easy",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "yor95ojy",
+    "game": "Street Fighter EX3",
+    "player": "randomrickreviews",
+    "player_location": null,
+    "time": 166,
+    "category": "Original Mode Easy",
+    "region": null,
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "z52p6gnz",
+    "game": "Street Fighter EX3",
+    "player": "MUSICnGAMING",
+    "player_location": "us",
+    "time": 135,
+    "category": "Original Mode Easy",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "zgpl3vjz",
+    "game": "Street Fighter EX3",
+    "player": "ParallaxMKChile",
+    "player_location": "cl",
+    "time": 175,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  }
+]

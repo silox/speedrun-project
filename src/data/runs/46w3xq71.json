@@ -1,0 +1,57 @@
+[
+  {
+    "id": "y65r5q0z",
+    "game": "Looper",
+    "player": "Mr_Poggers",
+    "player_location": "gb/sct",
+    "time": 40.8,
+    "category": "",
+    "region": null,
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "yv696v8z",
+    "game": "Looper",
+    "player": "TheHSbF6Leo",
+    "player_location": "de",
+    "time": 38.9,
+    "category": "Any%",
+    "region": null,
+    "platform": "Android",
+    "emulated": true
+  },
+  {
+    "id": "yw802pny",
+    "game": "Looper",
+    "player": "zir0nic",
+    "player_location": "vh",
+    "time": 35.367,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "zgwr82dy",
+    "game": "Looper",
+    "player": "Fioresa",
+    "player_location": "us",
+    "time": 421.53,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "yv1q006y",
+    "game": "Looper",
+    "player": "ShesChardcore",
+    "player_location": "us",
+    "time": 53.117,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Android",
+    "emulated": false
+  }
+]

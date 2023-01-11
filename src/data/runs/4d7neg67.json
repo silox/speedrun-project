@@ -1,0 +1,57 @@
+[
+  {
+    "id": "6yjk1ddm",
+    "game": "Dig Dug II (NES)",
+    "player": "CrystalChaos",
+    "player_location": null,
+    "time": 2223,
+    "category": "1 Loop",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "y23vkd6m",
+    "game": "Dig Dug II (NES)",
+    "player": "Carter44",
+    "player_location": "ca",
+    "time": 3615,
+    "category": "1 Loop",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "z0eponjm",
+    "game": "Dig Dug II (NES)",
+    "player": "Dugongue",
+    "player_location": "us",
+    "time": 3284,
+    "category": "1 Loop",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "z13g549m",
+    "game": "Dig Dug II (NES)",
+    "player": "NESCardinality",
+    "player_location": "ca",
+    "time": 2009,
+    "category": "1 Loop",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y6xjv3jy",
+    "game": "Dig Dug II (NES)",
+    "player": "Hiityan",
+    "player_location": "jp",
+    "time": 4514,
+    "category": "1 Loop",
+    "region": "JPN / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  }
+]

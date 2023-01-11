@@ -1,0 +1,24 @@
+[
+  {
+    "id": "y21de4jz",
+    "game": "Jett Rocket II: The Wrath of Taikai",
+    "player": "PASRC",
+    "player_location": "kp",
+    "time": 3598,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "mexdjv2z",
+    "game": "Jett Rocket II: The Wrath of Taikai",
+    "player": "EmilySailor",
+    "player_location": null,
+    "time": 45,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": true
+  }
+]

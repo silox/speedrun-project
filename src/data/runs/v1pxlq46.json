@@ -1,0 +1,57 @@
+[
+  {
+    "id": "mrnj7l7y",
+    "game": "Samurai Gunn 2",
+    "player": "Trylobot",
+    "player_location": "ca",
+    "time": 269,
+    "category": "EA1-4 Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z5drvg5m",
+    "game": "Samurai Gunn 2",
+    "player": "Animach1ne",
+    "player_location": "fr",
+    "time": 179.85,
+    "category": "EA1-4 Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z0ov69jz",
+    "game": "Samurai Gunn 2",
+    "player": "Just1ceFury",
+    "player_location": "us",
+    "time": 297.733,
+    "category": "EA5+ Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zp21g6gy",
+    "game": "Samurai Gunn 2",
+    "player": "20minute_red_light",
+    "player_location": "cn",
+    "time": 315.13,
+    "category": "EA5+ Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zxlj608z",
+    "game": "Samurai Gunn 2",
+    "player": "Novapeeg",
+    "player_location": "us",
+    "time": 276,
+    "category": "EA1-4 Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

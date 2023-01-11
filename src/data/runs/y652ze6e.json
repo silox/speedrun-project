@@ -1,0 +1,189 @@
+[
+  {
+    "id": "y2xn887m",
+    "game": "Batman: The Video Game (Genesis)",
+    "player": "takojaki",
+    "player_location": "eu",
+    "time": 839,
+    "category": "Normal",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "pyddknjy",
+    "game": "Batman: The Video Game (Genesis)",
+    "player": "hugodeathy",
+    "player_location": "br",
+    "time": 1072,
+    "category": "Normal",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "9me5q58m",
+    "game": "Batman: The Video Game (Genesis)",
+    "player": "Autobahn",
+    "player_location": null,
+    "time": 958,
+    "category": "Normal",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "y45de02m",
+    "game": "Batman: The Video Game (Genesis)",
+    "player": "Pioneeri",
+    "player_location": "fi",
+    "time": 1469,
+    "category": "Normal",
+    "region": "EUR / PAL",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "y8911owm",
+    "game": "Batman: The Video Game (Genesis)",
+    "player": "Rewercy",
+    "player_location": "ru",
+    "time": 1200,
+    "category": "Normal",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "me8n5n2m",
+    "game": "Batman: The Video Game (Genesis)",
+    "player": "sumpura",
+    "player_location": "vh",
+    "time": 854,
+    "category": "Normal",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "z03ko3oz",
+    "game": "Batman: The Video Game (Genesis)",
+    "player": "The_Retro_Challenger",
+    "player_location": "ca/qc",
+    "time": 1023,
+    "category": "Normal",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "yv34124z",
+    "game": "Batman: The Video Game (Genesis)",
+    "player": "DodonKrevedko",
+    "player_location": "ru",
+    "time": 1131,
+    "category": "Normal",
+    "region": "EUR / PAL",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "yv36v6ez",
+    "game": "Batman: The Video Game (Genesis)",
+    "player": "EliteTrainerHugo",
+    "player_location": "gb/eng",
+    "time": 1585,
+    "category": "Normal",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "yd53lpjm",
+    "game": "Batman: The Video Game (Genesis)",
+    "player": "chaosowl",
+    "player_location": "cn",
+    "time": 1177,
+    "category": "Hard",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "y2edxw9y",
+    "game": "Batman: The Video Game (Genesis)",
+    "player": "classicspirit",
+    "player_location": "us",
+    "time": 886,
+    "category": "Hard",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "zqw227rz",
+    "game": "Batman: The Video Game (Genesis)",
+    "player": "TaTuMi3",
+    "player_location": "fi",
+    "time": 1181,
+    "category": "Normal",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "m3gvd8dz",
+    "game": "Batman: The Video Game (Genesis)",
+    "player": "grunt_guru",
+    "player_location": "nz",
+    "time": 1518,
+    "category": "Normal",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "zqg7p8xm",
+    "game": "Batman: The Video Game (Genesis)",
+    "player": "redbot",
+    "player_location": "us",
+    "time": 1306,
+    "category": "Hard",
+    "region": "JPN / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "y47wp6qy",
+    "game": "Batman: The Video Game (Genesis)",
+    "player": "Kendoelduro",
+    "player_location": "ar",
+    "time": 1252,
+    "category": "Normal",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "mr7ndo7z",
+    "game": "Batman: The Video Game (Genesis)",
+    "player": "AlphaNerd",
+    "player_location": "ca",
+    "time": 1652,
+    "category": "Normal",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "yodq50dm",
+    "game": "Batman: The Video Game (Genesis)",
+    "player": "Shime",
+    "player_location": "br",
+    "time": 834,
+    "category": "Normal",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  }
+]

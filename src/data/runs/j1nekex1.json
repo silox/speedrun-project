@@ -1,0 +1,90 @@
+[
+  {
+    "id": "mex5o20z",
+    "game": "Dino Rex",
+    "player": "NerdyNester",
+    "player_location": "us",
+    "time": 985,
+    "category": "Default",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y95q0wrz",
+    "game": "Dino Rex",
+    "player": "Peanutfan22",
+    "player_location": "us",
+    "time": 1098,
+    "category": "Default",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y95q16kz",
+    "game": "Dino Rex",
+    "player": "Tenka",
+    "player_location": "au",
+    "time": 889,
+    "category": "Default",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y25dvv9y",
+    "game": "Dino Rex",
+    "player": "SgtPowerglove",
+    "player_location": "us",
+    "time": 1097,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "yv6w3poz",
+    "game": "Dino Rex",
+    "player": "Aenderan",
+    "player_location": "us",
+    "time": 1148,
+    "category": "Default",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "m35pqddy",
+    "game": "Dino Rex",
+    "player": "Habble",
+    "player_location": "au",
+    "time": 1082,
+    "category": "Default",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yv9lx7xz",
+    "game": "Dino Rex",
+    "player": "DWednesday",
+    "player_location": "gb",
+    "time": 875,
+    "category": "Default",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z5r59dny",
+    "game": "Dino Rex",
+    "player": "DBcade",
+    "player_location": "jp",
+    "time": 1325,
+    "category": "Default",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

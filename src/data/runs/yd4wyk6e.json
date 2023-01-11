@@ -1,0 +1,90 @@
+[
+  {
+    "id": "9mrxrr4m",
+    "game": "Pocket Bomberman",
+    "player": "GreenBomber",
+    "player_location": "us",
+    "time": 699,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": false
+  },
+  {
+    "id": "0y680rqz",
+    "game": "Pocket Bomberman",
+    "player": "bangerra",
+    "player_location": "be",
+    "time": 882,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "m79q984y",
+    "game": "Pocket Bomberman",
+    "player": "footbigmike",
+    "player_location": "gb/eng",
+    "time": 622,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Color",
+    "emulated": false
+  },
+  {
+    "id": "y217lg6z",
+    "game": "Pocket Bomberman",
+    "player": "livelyraccoon",
+    "player_location": "us",
+    "time": 613,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "z134q69m",
+    "game": "Pocket Bomberman",
+    "player": "infinitemystery",
+    "player_location": null,
+    "time": 5313,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": false
+  },
+  {
+    "id": "yjlk3woz",
+    "game": "Pocket Bomberman",
+    "player": "Kiwami",
+    "player_location": "br",
+    "time": 3005,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "m35oddwy",
+    "game": "Pocket Bomberman",
+    "player": "RenatoRRM",
+    "player_location": "br",
+    "time": 910,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "m35r256y",
+    "game": "Pocket Bomberman",
+    "player": "tonyy",
+    "player_location": "br",
+    "time": 807,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  }
+]

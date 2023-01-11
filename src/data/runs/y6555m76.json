@@ -1,0 +1,35 @@
+[
+  {
+    "id": "zp836nvy",
+    "game": "Akiba's Trip: Hellbound and Debriefed",
+    "player": "Amesiyo",
+    "player_location": "jp",
+    "time": 1567,
+    "category": "New Game+",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "ylr52ery",
+    "game": "Akiba's Trip: Hellbound and Debriefed",
+    "player": "Fujikura",
+    "player_location": "jp",
+    "time": 2876,
+    "category": "New Game",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "ylrx4r2y",
+    "game": "Akiba's Trip: Hellbound and Debriefed",
+    "player": "gomasan",
+    "player_location": "jp",
+    "time": 2266,
+    "category": "New Game+",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

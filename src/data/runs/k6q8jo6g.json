@@ -1,0 +1,167 @@
+[
+  {
+    "id": "jy990x2y",
+    "game": "Live A Live",
+    "player": "Zimmycakes",
+    "player_location": "us",
+    "time": 155,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "6yjgde7y",
+    "game": "Live A Live",
+    "player": "Trysdyn",
+    "player_location": null,
+    "time": 742,
+    "category": "Complete the Chapter",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "7yle1x2z",
+    "game": "Live A Live",
+    "player": "Th3Hatt3r",
+    "player_location": "us",
+    "time": 2412,
+    "category": "Complete the Chapter",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "wzppvwxz",
+    "game": "Live A Live",
+    "player": "Naoto09",
+    "player_location": "jp",
+    "time": 142,
+    "category": "Complete the Chapter",
+    "region": "JPN / NTSC",
+    "platform": "Wii U Virtual Console",
+    "emulated": false
+  },
+  {
+    "id": "6yjwvr7m",
+    "game": "Live A Live",
+    "player": "Wallyzorde",
+    "player_location": "br",
+    "time": 784,
+    "category": "Complete the Chapter",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "m3dogr4z",
+    "game": "Live A Live",
+    "player": "aripon",
+    "player_location": "jp",
+    "time": 140,
+    "category": "Complete the Chapter",
+    "region": null,
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "z017n54y",
+    "game": "Live A Live",
+    "player": "SushiKishiEN",
+    "player_location": null,
+    "time": 21849,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y214k95z",
+    "game": "Live A Live",
+    "player": "R\u00e9troMoh",
+    "player_location": "dz",
+    "time": 153,
+    "category": "Complete the Chapter",
+    "region": null,
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "zx24j9em",
+    "game": "Live A Live",
+    "player": "ArakawaStanford",
+    "player_location": "jp",
+    "time": 1337,
+    "category": "Complete the Chapter",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "z094ewjz",
+    "game": "Live A Live",
+    "player": "aruhori",
+    "player_location": "jp",
+    "time": 3297,
+    "category": "Complete the Chapter",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "zq4joorm",
+    "game": "Live A Live",
+    "player": "Electra13x7777",
+    "player_location": "us",
+    "time": 629,
+    "category": "Complete the Chapter",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y8r5381m",
+    "game": "Live A Live",
+    "player": "spiro",
+    "player_location": "jp",
+    "time": 1768,
+    "category": "Complete the Chapter",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "ywq05j2y",
+    "game": "Live A Live",
+    "player": "SAS_rta",
+    "player_location": "jp",
+    "time": 1495,
+    "category": "Complete the Chapter",
+    "region": "JPN / NTSC",
+    "platform": "Wii U Virtual Console",
+    "emulated": false
+  },
+  {
+    "id": "zp1w04xz",
+    "game": "Live A Live",
+    "player": "sYn",
+    "player_location": "us",
+    "time": 141,
+    "category": "Complete the Chapter",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "zgr9r8nm",
+    "game": "Live A Live",
+    "player": "Isaiah_Mark",
+    "player_location": "us",
+    "time": 159,
+    "category": "Complete the Chapter",
+    "region": null,
+    "platform": "Super Nintendo",
+    "emulated": true
+  }
+]

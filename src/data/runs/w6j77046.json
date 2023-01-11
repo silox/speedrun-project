@@ -1,0 +1,24 @@
+[
+  {
+    "id": "mkgppn3y",
+    "game": "Bomber Raid",
+    "player": "PMniac",
+    "player_location": "pt",
+    "time": 1720,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Master System",
+    "emulated": true
+  },
+  {
+    "id": "ylegqr2z",
+    "game": "Bomber Raid",
+    "player": "Crunan",
+    "player_location": "us",
+    "time": 1640,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Master System",
+    "emulated": false
+  }
+]

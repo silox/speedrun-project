@@ -1,0 +1,24 @@
+[
+  {
+    "id": "zx8xw0km",
+    "game": "",
+    "player": "Ellimist",
+    "player_location": "us",
+    "time": 1908,
+    "category": "2P",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "mrrwp72m",
+    "game": "",
+    "player": "HosteL",
+    "player_location": "ru",
+    "time": 1924,
+    "category": "1P",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

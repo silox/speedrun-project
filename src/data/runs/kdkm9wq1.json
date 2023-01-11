@@ -1,0 +1,35 @@
+[
+  {
+    "id": "zq95egxy",
+    "game": "Octopath Traveler: Champions of the Continent",
+    "player": "DBcade",
+    "player_location": "jp",
+    "time": 57,
+    "category": "Memory Battles",
+    "region": "JPN / NTSC",
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "yjdrq63y",
+    "game": "Octopath Traveler: Champions of the Continent",
+    "player": "Unovarydrake",
+    "player_location": null,
+    "time": 142,
+    "category": "Memory Battles",
+    "region": "USA / NTSC",
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "y962gq2y",
+    "game": "Octopath Traveler: Champions of the Continent",
+    "player": "ImmortalKeijiNaga",
+    "player_location": null,
+    "time": 38,
+    "category": "Memory Battles",
+    "region": null,
+    "platform": "iOS",
+    "emulated": false
+  }
+]

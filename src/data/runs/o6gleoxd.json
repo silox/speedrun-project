@@ -1,0 +1,79 @@
+[
+  {
+    "id": "y4w48eqm",
+    "game": "Capcom Sports Club",
+    "player": "andresfgp13",
+    "player_location": "cl",
+    "time": 316,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "mr9q357m",
+    "game": "Capcom Sports Club",
+    "player": "Arran",
+    "player_location": null,
+    "time": 957,
+    "category": "100% (All 3 Sports)",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y6rprr1y",
+    "game": "Capcom Sports Club",
+    "player": "Paxh",
+    "player_location": "cl",
+    "time": 351,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "m369jxgm",
+    "game": "Capcom Sports Club",
+    "player": "MankoDax",
+    "player_location": "cl",
+    "time": 150,
+    "category": "Smash Stars",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "ywk93wpy",
+    "game": "Capcom Sports Club",
+    "player": "MierukoChan",
+    "player_location": "mx",
+    "time": 151,
+    "category": "Smash Stars",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y6xkdg1y",
+    "game": "Capcom Sports Club",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 189,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z52lqojz",
+    "game": "Capcom Sports Club",
+    "player": "manticor5",
+    "player_location": "cl",
+    "time": 225,
+    "category": "",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

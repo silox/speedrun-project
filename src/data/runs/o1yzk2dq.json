@@ -1,0 +1,68 @@
+[
+  {
+    "id": "dy42g4qm",
+    "game": "Sky Odyssey",
+    "player": "puri_puri",
+    "player_location": "us",
+    "time": 4227,
+    "category": "Adventure Mode Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zxvkojky",
+    "game": "Sky Odyssey",
+    "player": "daedalus52",
+    "player_location": "us",
+    "time": 3315,
+    "category": "Adventure Mode Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "yl49jpkm",
+    "game": "Sky Odyssey",
+    "player": "Askerad",
+    "player_location": "fr",
+    "time": 3600,
+    "category": "Adventure Mode Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "y4g21l3y",
+    "game": "Sky Odyssey",
+    "player": "jude2365",
+    "player_location": "us",
+    "time": 99,
+    "category": "Pulse Jet",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "z0pwe3jy",
+    "game": "Sky Odyssey",
+    "player": "OrdainedBump00",
+    "player_location": "us",
+    "time": 45,
+    "category": "Pulse Jet",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zgpkw6ez",
+    "game": "Sky Odyssey",
+    "player": "BlazePlaysGames",
+    "player_location": "ca",
+    "time": 42,
+    "category": "Pulse Jet",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  }
+]

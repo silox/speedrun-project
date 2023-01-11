@@ -1,0 +1,145 @@
+[
+  {
+    "id": "1zxnpv8m",
+    "game": "Dead or Alive",
+    "player": "Hoody",
+    "player_location": "gb",
+    "time": 277.96,
+    "category": "Tournament Mode",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "y2q8167y",
+    "game": "Dead or Alive",
+    "player": "Maiguels",
+    "player_location": "es",
+    "time": 187.22,
+    "category": "Tournament Mode",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "yj3ln1oz",
+    "game": "Dead or Alive",
+    "player": "Despera",
+    "player_location": "be",
+    "time": 182.71,
+    "category": "Tournament Mode",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "zgwd720y",
+    "game": "Dead or Alive",
+    "player": "Teffy",
+    "player_location": "nl",
+    "time": 259.28,
+    "category": "Tournament Mode",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "mrkpqg4y",
+    "game": "Dead or Alive",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 253.36,
+    "category": "Tournament Mode",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "zgdkxpvz",
+    "game": "Dead or Alive",
+    "player": "RobocopW",
+    "player_location": "hu",
+    "time": 163.38,
+    "category": "Tournament Mode",
+    "region": null,
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "y9l409ny",
+    "game": "Dead or Alive",
+    "player": "Jesus82050615",
+    "player_location": "ca/qc",
+    "time": 166.36,
+    "category": "Tournament Mode",
+    "region": "EUR / PAL",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "yjp6xrdy",
+    "game": "Dead or Alive",
+    "player": "DBcade",
+    "player_location": "jp",
+    "time": 159.08,
+    "category": "Tournament Mode",
+    "region": "JPN / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "y9vn8wkm",
+    "game": "Dead or Alive",
+    "player": "Hayden",
+    "player_location": "fr",
+    "time": 154.78,
+    "category": "Tournament Mode",
+    "region": "EUR / PAL",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "yw3q543m",
+    "game": "Dead or Alive",
+    "player": "sion10",
+    "player_location": "jp",
+    "time": 169.7,
+    "category": "Tournament Mode",
+    "region": "JPN / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": true
+  },
+  {
+    "id": "mr7o2p8z",
+    "game": "Dead or Alive",
+    "player": "Whoisitgoodfor",
+    "player_location": "us",
+    "time": 943.85,
+    "category": "Tournament Mode",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "zp9wjqxm",
+    "game": "Dead or Alive",
+    "player": "ThriftBytes",
+    "player_location": "gb/eng",
+    "time": 147.06,
+    "category": "Tournament Mode",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "yl7drlxm",
+    "game": "Dead or Alive",
+    "player": "Brendorphin",
+    "player_location": null,
+    "time": 228.93,
+    "category": "Tournament Mode",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": false
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "mk5qx4lm",
+    "game": "SBK: Snowboard Kids",
+    "player": "Octo_Oil",
+    "player_location": "gb",
+    "time": 1467,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "y936dvvy",
+    "game": "SBK: Snowboard Kids",
+    "player": "brassbeat",
+    "player_location": "nl",
+    "time": 6236,
+    "category": "World Tour Challenge Any%",
+    "region": "EUR / PAL",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "ydev13jm",
+    "game": "SBK: Snowboard Kids",
+    "player": "MKisTheBest",
+    "player_location": "us",
+    "time": 5652,
+    "category": "World Tour Challenge Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  }
+]

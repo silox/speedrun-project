@@ -1,0 +1,123 @@
+[
+  {
+    "id": "y922qnrz",
+    "game": "PGA Tour Golf",
+    "player": "electronicLogic",
+    "player_location": "us",
+    "time": 899,
+    "category": "Amateur Tees (SNES)",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "zx4vvley",
+    "game": "PGA Tour Golf",
+    "player": "Harkness",
+    "player_location": "us",
+    "time": 1788,
+    "category": "Professional Tees (SNES)",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y927dorz",
+    "game": "PGA Tour Golf",
+    "player": "zmTV_",
+    "player_location": "us",
+    "time": 1124,
+    "category": "Professional Tees (SNES)",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "yl47xpxm",
+    "game": "PGA Tour Golf",
+    "player": "glennobrien",
+    "player_location": "au",
+    "time": 968,
+    "category": "Professional Tees (SNES)",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "yo2n5n0z",
+    "game": "PGA Tour Golf",
+    "player": "Peanutfan22",
+    "player_location": "us",
+    "time": 861,
+    "category": "Amateur Tees (SNES)",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "y2q4p69y",
+    "game": "PGA Tour Golf",
+    "player": "hyo24",
+    "player_location": "us",
+    "time": 722,
+    "category": "Amateur Tees (SNES)",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "znr34qvy",
+    "game": "PGA Tour Golf",
+    "player": "NihilistComedyHour",
+    "player_location": "eo",
+    "time": 851,
+    "category": "Professional Tees (Genesis)",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "y6rl4r6y",
+    "game": "PGA Tour Golf",
+    "player": "webz80",
+    "player_location": "au",
+    "time": 675,
+    "category": "Amateur Tees (SNES)",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "yddrogqy",
+    "game": "PGA Tour Golf",
+    "player": "Anotora",
+    "player_location": "us",
+    "time": 726,
+    "category": "Professional Tees (SNES)",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "ydr12djz",
+    "game": "PGA Tour Golf",
+    "player": "dab88",
+    "player_location": "gb/sct",
+    "time": 666,
+    "category": "Amateur Tees (Genesis)",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "y2el6ljy",
+    "game": "PGA Tour Golf",
+    "player": "NESAtlas",
+    "player_location": "us",
+    "time": 772,
+    "category": "Amateur Tees (SNES)",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  }
+]

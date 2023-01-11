@@ -1,0 +1,167 @@
+[
+  {
+    "id": "zp03rkrm",
+    "game": "Wizardry: Proving Grounds of the Mad Overlord",
+    "player": "jimmypoopins",
+    "player_location": "us",
+    "time": 3251,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "mk9g88xz",
+    "game": "Wizardry: Proving Grounds of the Mad Overlord",
+    "player": "Saradoc",
+    "player_location": "de",
+    "time": 157,
+    "category": "Any% (Apple ][)",
+    "region": "USA / NTSC",
+    "platform": "Apple II",
+    "emulated": true
+  },
+  {
+    "id": "y89d31dm",
+    "game": "Wizardry: Proving Grounds of the Mad Overlord",
+    "player": "RESQ",
+    "player_location": "jp",
+    "time": 252,
+    "category": "Any% (Apple ][)",
+    "region": "JPN / NTSC",
+    "platform": "Apple II",
+    "emulated": true
+  },
+  {
+    "id": "z1oxg5gm",
+    "game": "Wizardry: Proving Grounds of the Mad Overlord",
+    "player": "Vriaeliss",
+    "player_location": "us",
+    "time": 262,
+    "category": "Any% (Apple ][)",
+    "region": "USA / NTSC",
+    "platform": "Apple II",
+    "emulated": true
+  },
+  {
+    "id": "m35lx8qy",
+    "game": "Wizardry: Proving Grounds of the Mad Overlord",
+    "player": "hasu@niconico",
+    "player_location": null,
+    "time": 2715,
+    "category": "",
+    "region": null,
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "znkvp9lz",
+    "game": "Wizardry: Proving Grounds of the Mad Overlord",
+    "player": "yuuji@Peercast",
+    "player_location": null,
+    "time": 1778,
+    "category": "",
+    "region": null,
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y82k3ndy",
+    "game": "Wizardry: Proving Grounds of the Mad Overlord",
+    "player": "nakanoONOJ",
+    "player_location": null,
+    "time": 2334,
+    "category": "Glitchless / No Haman (PS)",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "zp8noj8y",
+    "game": "Wizardry: Proving Grounds of the Mad Overlord",
+    "player": "ShesChardcore",
+    "player_location": "us",
+    "time": 520,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "y8rje6xm",
+    "game": "Wizardry: Proving Grounds of the Mad Overlord",
+    "player": "Symm",
+    "player_location": "gb",
+    "time": 2293,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "m78p2k4z",
+    "game": "Wizardry: Proving Grounds of the Mad Overlord",
+    "player": "Bokonon_Lives",
+    "player_location": "us",
+    "time": 2598,
+    "category": "Glitchless (NES)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "ywq7vn9y",
+    "game": "Wizardry: Proving Grounds of the Mad Overlord",
+    "player": "Cactuar",
+    "player_location": "us",
+    "time": 858,
+    "category": "Glitchless (NES)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "ydrxj9vz",
+    "game": "Wizardry: Proving Grounds of the Mad Overlord",
+    "player": "Megami_infini",
+    "player_location": "pl",
+    "time": 1120,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "zp841rry",
+    "game": "Wizardry: Proving Grounds of the Mad Overlord",
+    "player": "Retrogaming2084",
+    "player_location": "us",
+    "time": 1145,
+    "category": "Glitchless (NES)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zp9gpkxm",
+    "game": "Wizardry: Proving Grounds of the Mad Overlord",
+    "player": "MORI_peer",
+    "player_location": "jp",
+    "time": 1418,
+    "category": "Glitchless (NES)",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "y6o57j0y",
+    "game": "Wizardry: Proving Grounds of the Mad Overlord",
+    "player": "feasel",
+    "player_location": "us",
+    "time": 1001,
+    "category": "Glitchless (NES)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  }
+]

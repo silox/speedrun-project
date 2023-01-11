@@ -1,0 +1,145 @@
+[
+  {
+    "id": "ylkqk4rz",
+    "game": "Zero Escape: The Nonary Games",
+    "player": "NLD72",
+    "player_location": "gb/wls",
+    "time": 1746,
+    "category": "Nine Hours, Nine Persons, Nine Doors",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yo25pnjz",
+    "game": "Zero Escape: The Nonary Games",
+    "player": "HungryKronos",
+    "player_location": "us",
+    "time": 2916,
+    "category": "Individual Ending",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zx4ppd5y",
+    "game": "Zero Escape: The Nonary Games",
+    "player": "Brakk0n",
+    "player_location": "us",
+    "time": 970,
+    "category": "Individual Ending",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mk9n6plz",
+    "game": "Zero Escape: The Nonary Games",
+    "player": "Ceidian",
+    "player_location": "us",
+    "time": 5649,
+    "category": "Nine Hours, Nine Persons, Nine Doors",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y21d399z",
+    "game": "Zero Escape: The Nonary Games",
+    "player": "Kynotzib",
+    "player_location": "gb/wls",
+    "time": 2600,
+    "category": "Nine Hours, Nine Persons, Nine Doors",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zx2kn5em",
+    "game": "Zero Escape: The Nonary Games",
+    "player": "Neremik",
+    "player_location": "gb/eng",
+    "time": 4845,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "znk002vz",
+    "game": "Zero Escape: The Nonary Games",
+    "player": "AureiCaurea",
+    "player_location": "us",
+    "time": 2236,
+    "category": "Individual Ending",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "meo4g49z",
+    "game": "Zero Escape: The Nonary Games",
+    "player": "Toburr",
+    "player_location": "us",
+    "time": 627,
+    "category": "Individual Ending",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yokqxgjz",
+    "game": "Zero Escape: The Nonary Games",
+    "player": "trey0328",
+    "player_location": null,
+    "time": 26540,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zqw52e1z",
+    "game": "Zero Escape: The Nonary Games",
+    "player": "ToxicTT",
+    "player_location": "ru",
+    "time": 576,
+    "category": "Individual Ending",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zplp1v8m",
+    "game": "Zero Escape: The Nonary Games",
+    "player": "SYKOfun",
+    "player_location": "us",
+    "time": 3548,
+    "category": "Individual Ending",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y4ej41km",
+    "game": "Zero Escape: The Nonary Games",
+    "player": "SoulSoldier64",
+    "player_location": "us",
+    "time": 2044,
+    "category": "Nine Hours, Nine Persons, Nine Doors",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "ydwwnjwm",
+    "game": "Zero Escape: The Nonary Games",
+    "player": "RileyTech",
+    "player_location": "us",
+    "time": 4679,
+    "category": "Virtue's Last Reward",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "7z0x6kez",
+    "game": "New Play Control! Donkey Kong Jungle Beat",
+    "player": "SG_Yusuke",
+    "player_location": "gb/eng",
+    "time": 4962,
+    "category": "Any%",
+    "region": null,
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "yvgp4jxy",
+    "game": "New Play Control! Donkey Kong Jungle Beat",
+    "player": "daskull",
+    "player_location": null,
+    "time": 5400,
+    "category": "Any%",
+    "region": null,
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "yokjko5z",
+    "game": "New Play Control! Donkey Kong Jungle Beat",
+    "player": "Prometheus",
+    "player_location": "au",
+    "time": 3916.063,
+    "category": "Any%",
+    "region": null,
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "y6l7w90y",
+    "game": "New Play Control! Donkey Kong Jungle Beat",
+    "player": "Gamerzilla",
+    "player_location": "us",
+    "time": 3862,
+    "category": "Any%",
+    "region": null,
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "ywd2d20z",
+    "game": "New Play Control! Donkey Kong Jungle Beat",
+    "player": "Anth_LJA",
+    "player_location": "fr",
+    "time": 435,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "yd53oqvm",
+    "game": "New Play Control! Donkey Kong Jungle Beat",
+    "player": "Rimi",
+    "player_location": "jp",
+    "time": 3817,
+    "category": "Any%",
+    "region": null,
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "yjl4q1oz",
+    "game": "New Play Control! Donkey Kong Jungle Beat",
+    "player": "ThatOneSpyGuy",
+    "player_location": "us",
+    "time": 4185,
+    "category": "Any%",
+    "region": null,
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "yd5pn40m",
+    "game": "New Play Control! Donkey Kong Jungle Beat",
+    "player": "hfc",
+    "player_location": "us",
+    "time": 4569,
+    "category": "Any%",
+    "region": null,
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "zq42l05m",
+    "game": "New Play Control! Donkey Kong Jungle Beat",
+    "player": "Galaxy618",
+    "player_location": "us",
+    "time": 6349,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "yor8x51y",
+    "game": "New Play Control! Donkey Kong Jungle Beat",
+    "player": "TheNoobBoi",
+    "player_location": "au",
+    "time": 4498,
+    "category": "Any%",
+    "region": null,
+    "platform": "Wii U",
+    "emulated": false
+  }
+]

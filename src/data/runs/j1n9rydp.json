@@ -1,0 +1,57 @@
+[
+  {
+    "id": "8yv8jg8m",
+    "game": "Professor Layton and the Miracle Mask",
+    "player": "wiiarctus",
+    "player_location": "de",
+    "time": 14526,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "yv24ld6m",
+    "game": "Professor Layton and the Miracle Mask",
+    "player": "JuegAriel",
+    "player_location": "es",
+    "time": 9812,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "New Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "mk3gwvvz",
+    "game": "Professor Layton and the Miracle Mask",
+    "player": "tutelarfiber7",
+    "player_location": "us",
+    "time": 9672,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "New Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "y41vgjny",
+    "game": "Professor Layton and the Miracle Mask",
+    "player": "Geshode",
+    "player_location": null,
+    "time": 10965,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": true
+  },
+  {
+    "id": "ywj0g1nz",
+    "game": "Professor Layton and the Miracle Mask",
+    "player": "chilsie",
+    "player_location": "gb",
+    "time": 10716,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  }
+]

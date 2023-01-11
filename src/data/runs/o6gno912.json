@@ -1,0 +1,178 @@
+[
+  {
+    "id": "8y8qlp5y",
+    "game": "Clock Tower (PlayStation)",
+    "player": "Molotov",
+    "player_location": "us",
+    "time": 3376,
+    "category": "Jennifer 100%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "mek4ojqm",
+    "game": "Clock Tower (PlayStation)",
+    "player": "Pa-Sama",
+    "player_location": "ca",
+    "time": 1660,
+    "category": "Helen Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "dy4njlkm",
+    "game": "Clock Tower (PlayStation)",
+    "player": "oddeye_0",
+    "player_location": "jp",
+    "time": 3298,
+    "category": "Jennifer 100%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zx67ve5z",
+    "game": "Clock Tower (PlayStation)",
+    "player": "Ecdycis",
+    "player_location": "us",
+    "time": 3160,
+    "category": "Jennifer 100%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "z03o4p4z",
+    "game": "Clock Tower (PlayStation)",
+    "player": "Jrmhd91",
+    "player_location": "us",
+    "time": 1646,
+    "category": "Jennifer Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y6llp8jy",
+    "game": "Clock Tower (PlayStation)",
+    "player": "MadLadAdam",
+    "player_location": "gb/eng",
+    "time": 1714,
+    "category": "Jennifer Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "yo21dj1z",
+    "game": "Clock Tower (PlayStation)",
+    "player": "crisdoile2",
+    "player_location": "mx",
+    "time": 4706,
+    "category": "Jennifer 100%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "yj3dx1dz",
+    "game": "Clock Tower (PlayStation)",
+    "player": "Eradoogon",
+    "player_location": "gb/eng",
+    "time": 3378,
+    "category": "Helen 100%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "mk8jg23m",
+    "game": "Clock Tower (PlayStation)",
+    "player": "batake",
+    "player_location": "jp",
+    "time": 1427,
+    "category": "Helen Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "yd57krjm",
+    "game": "Clock Tower (PlayStation)",
+    "player": "Pumaface011",
+    "player_location": "us",
+    "time": 3892,
+    "category": "Jennifer 100%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "yv241gxm",
+    "game": "Clock Tower (PlayStation)",
+    "player": "rianromateks",
+    "player_location": "us",
+    "time": 1687,
+    "category": "Jennifer Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "yj133l3y",
+    "game": "Clock Tower (PlayStation)",
+    "player": "shutterguy925",
+    "player_location": "jp",
+    "time": 3175,
+    "category": "Jennifer 100%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "m783ge0z",
+    "game": "Clock Tower (PlayStation)",
+    "player": "DemonicRobots",
+    "player_location": "us",
+    "time": 3356,
+    "category": "Jennifer 100%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "mr4we5gz",
+    "game": "Clock Tower (PlayStation)",
+    "player": "ClearlyBrogan",
+    "player_location": "gb",
+    "time": 3761,
+    "category": "Jennifer 100%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "zn1neglm",
+    "game": "Clock Tower (PlayStation)",
+    "player": "MissScarletTanager",
+    "player_location": "us",
+    "time": 3686,
+    "category": "Jennifer 100%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "zgrjqwdm",
+    "game": "Clock Tower (PlayStation)",
+    "player": "Wigmeister",
+    "player_location": "us",
+    "time": 3713,
+    "category": "Helen 100%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  }
+]

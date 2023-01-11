@@ -1,0 +1,24 @@
+[
+  {
+    "id": "0y6l0p1y",
+    "game": "Armored Core: Master of Arena",
+    "player": "niedle",
+    "player_location": "jp",
+    "time": 4617,
+    "category": "Any%(no OoB)",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y90o2kry",
+    "game": "Armored Core: Master of Arena",
+    "player": "pmcTRILOGY",
+    "player_location": "us",
+    "time": 3383,
+    "category": "Any%(no OoB)",
+    "region": "JPN / NTSC",
+    "platform": "Playstation TV",
+    "emulated": false
+  }
+]

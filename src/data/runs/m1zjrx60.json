@@ -1,0 +1,57 @@
+[
+  {
+    "id": "kz5n0jzr",
+    "game": "Monster Hunter Tri",
+    "player": "Powerofthepowerofthepower",
+    "player_location": null,
+    "time": 17452,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "zp0l83gm",
+    "game": "Monster Hunter Tri",
+    "player": "'Dustin'",
+    "player_location": null,
+    "time": 92,
+    "category": "4 Player",
+    "region": "EUR / PAL",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "y9213nkz",
+    "game": "Monster Hunter Tri",
+    "player": "'Sam'",
+    "player_location": null,
+    "time": 81,
+    "category": "4 Player",
+    "region": null,
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "mkejv41m",
+    "game": "Monster Hunter Tri",
+    "player": "naxy",
+    "player_location": null,
+    "time": 54,
+    "category": "2 Player",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": true
+  },
+  {
+    "id": "m7xq915y",
+    "game": "Monster Hunter Tri",
+    "player": "GoldMatt22",
+    "player_location": "au",
+    "time": 101,
+    "category": "1 Player",
+    "region": "EUR / PAL",
+    "platform": "Wii U",
+    "emulated": false
+  }
+]

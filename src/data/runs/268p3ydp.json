@@ -1,0 +1,35 @@
+[
+  {
+    "id": "oy234x7m",
+    "game": "",
+    "player": "Etoile0221",
+    "player_location": null,
+    "time": 11042,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "mk9l9qlz",
+    "game": "",
+    "player": "Rosael",
+    "player_location": "us",
+    "time": 4527,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "me1dex3y",
+    "game": "",
+    "player": "As_Trolo_Gy",
+    "player_location": "jp",
+    "time": 3866,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  }
+]

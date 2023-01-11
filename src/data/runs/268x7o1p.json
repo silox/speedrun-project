@@ -1,0 +1,57 @@
+[
+  {
+    "id": "9mej4q9y",
+    "game": "Wallace & Gromit: The Curse of the Were Rabbit",
+    "player": "Nostalgia64",
+    "player_location": "gb/nir",
+    "time": 1363,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "9me0180z",
+    "game": "Wallace & Gromit: The Curse of the Were Rabbit",
+    "player": "Ashja",
+    "player_location": "gb/eng",
+    "time": 6256,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Xbox",
+    "emulated": false
+  },
+  {
+    "id": "y450pnqm",
+    "game": "Wallace & Gromit: The Curse of the Were Rabbit",
+    "player": "Ecdycis",
+    "player_location": "us",
+    "time": 20363,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zqw28vrz",
+    "game": "Wallace & Gromit: The Curse of the Were Rabbit",
+    "player": "Benpai",
+    "player_location": "gb/eng",
+    "time": 6097,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "y8dv5jxz",
+    "game": "Wallace & Gromit: The Curse of the Were Rabbit",
+    "player": "coldrampage",
+    "player_location": "gb/eng",
+    "time": 3911,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Xbox",
+    "emulated": false
+  }
+]

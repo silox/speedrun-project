@@ -1,0 +1,24 @@
+[
+  {
+    "id": "zplo678m",
+    "game": "Snail Bob 6",
+    "player": "Oscar",
+    "player_location": "fr",
+    "time": 404.62,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zxd085qy",
+    "game": "Snail Bob 6",
+    "player": "VMUL",
+    "player_location": "gb/sct",
+    "time": 406.22,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  }
+]

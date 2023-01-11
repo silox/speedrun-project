@@ -1,0 +1,79 @@
+[
+  {
+    "id": "pm36o5gm",
+    "game": "Pok\u00e9mon Ranger: Shadows of Almia",
+    "player": "Fretzi",
+    "player_location": null,
+    "time": 59567,
+    "category": "100% - German",
+    "region": "EUR / PAL",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "nz1qnp7y",
+    "game": "Pok\u00e9mon Ranger: Shadows of Almia",
+    "player": "Diamond",
+    "player_location": "us",
+    "time": 28365,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "2yw7892z",
+    "game": "Pok\u00e9mon Ranger: Shadows of Almia",
+    "player": "VichinoDDA",
+    "player_location": "es",
+    "time": 26596,
+    "category": "Any%",
+    "region": null,
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "zgxr63jm",
+    "game": "Pok\u00e9mon Ranger: Shadows of Almia",
+    "player": "Wh0misDS",
+    "player_location": "us",
+    "time": 23202,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Wii U Virtual Console",
+    "emulated": false
+  },
+  {
+    "id": "yl0p4v3y",
+    "game": "Pok\u00e9mon Ranger: Shadows of Almia",
+    "player": "Crrool",
+    "player_location": "nl",
+    "time": 27666,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "y6r08vpy",
+    "game": "Pok\u00e9mon Ranger: Shadows of Almia",
+    "player": "Kipperin",
+    "player_location": "de",
+    "time": 34277,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Wii U Virtual Console",
+    "emulated": false
+  },
+  {
+    "id": "y69r6e6y",
+    "game": "Pok\u00e9mon Ranger: Shadows of Almia",
+    "player": "ArchiTenshi",
+    "player_location": "gb/sct",
+    "time": 33217,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  }
+]

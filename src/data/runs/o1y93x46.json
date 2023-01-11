@@ -1,0 +1,24 @@
+[
+  {
+    "id": "zxvpk48y",
+    "game": "",
+    "player": "GarbitheGlitcheress",
+    "player_location": "us",
+    "time": 4162,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "z01r6xjy",
+    "game": "",
+    "player": "Sonikkustar",
+    "player_location": "us",
+    "time": 1631,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "id": "9mr97g7m",
+    "game": "Marvel Super Heroes",
+    "player": "BATTLE ATHLETE",
+    "player_location": null,
+    "time": 620,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "y45p9x3m",
+    "game": "Marvel Super Heroes",
+    "player": "The_Retro_Challenger",
+    "player_location": "ca/qc",
+    "time": 840,
+    "category": "Saturn",
+    "region": "USA / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "y2xknj9m",
+    "game": "Marvel Super Heroes",
+    "player": "Krayzar",
+    "player_location": "us",
+    "time": 366,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "yo2e1w1z",
+    "game": "Marvel Super Heroes",
+    "player": "marco_battousai",
+    "player_location": "br",
+    "time": 415,
+    "category": "Arcade",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "m31qxvqz",
+    "game": "Marvel Super Heroes",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 714,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z15p3qry",
+    "game": "Marvel Super Heroes",
+    "player": "ShinkenX",
+    "player_location": "au",
+    "time": 570,
+    "category": "Arcade",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y654jo0z",
+    "game": "Marvel Super Heroes",
+    "player": "Carvalho",
+    "player_location": "br",
+    "time": 474,
+    "category": "Arcade",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z0r8939z",
+    "game": "Marvel Super Heroes",
+    "player": "Toozk",
+    "player_location": "br",
+    "time": 756,
+    "category": "Playstation",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "y8r425xm",
+    "game": "Marvel Super Heroes",
+    "player": "StarkillerShane",
+    "player_location": "gb/eng",
+    "time": 378,
+    "category": "Arcade",
+    "region": "EUR / PAL",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "yj1qeddy",
+    "game": "Marvel Super Heroes",
+    "player": "akumasv",
+    "player_location": "mx",
+    "time": 596,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yvo1g96z",
+    "game": "Marvel Super Heroes",
+    "player": "Magaiver041",
+    "player_location": "br",
+    "time": 661,
+    "category": "Arcade",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "mkgeg2vy",
+    "game": "Marvel Super Heroes",
+    "player": "NerdyNester",
+    "player_location": "us",
+    "time": 866,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": false
+  },
+  {
+    "id": "y2xp6ewm",
+    "game": "Marvel Super Heroes",
+    "player": "gheb",
+    "player_location": null,
+    "time": 860,
+    "category": "Arcade",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "ydwengwm",
+    "game": "Marvel Super Heroes",
+    "player": "LeJuanix",
+    "player_location": "ar",
+    "time": 1429,
+    "category": "Playstation",
+    "region": "EUR / PAL",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "z521r7dz",
+    "game": "Marvel Super Heroes",
+    "player": "Johndretrogamer",
+    "player_location": "ph",
+    "time": 480,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "y6o7x41y",
+    "game": "Marvel Super Heroes",
+    "player": "Gatotroka",
+    "player_location": "mx",
+    "time": 639,
+    "category": "Arcade",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

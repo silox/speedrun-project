@@ -1,0 +1,101 @@
+[
+  {
+    "id": "nz16ngme",
+    "game": "Star Ocean: Till the End of Time",
+    "player": "Withhelde",
+    "player_location": "us",
+    "time": 12460,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "wzp0qgnm",
+    "game": "Star Ocean: Till the End of Time",
+    "player": "Pitted",
+    "player_location": "us",
+    "time": 11223,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "7z01epjy",
+    "game": "Star Ocean: Till the End of Time",
+    "player": "Aithere",
+    "player_location": "us",
+    "time": 11348,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "7z0jg2oy",
+    "game": "Star Ocean: Till the End of Time",
+    "player": "Lijsterbes_",
+    "player_location": "jp",
+    "time": 11065,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "yd3n12qz",
+    "game": "Star Ocean: Till the End of Time",
+    "player": "gumv",
+    "player_location": "us",
+    "time": 15007,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "yj1olkdy",
+    "game": "Star Ocean: Till the End of Time",
+    "player": "CollectiveSoulsRTA",
+    "player_location": "al",
+    "time": 11829,
+    "category": "Any% Turbo JP",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zqw9kpxz",
+    "game": "Star Ocean: Till the End of Time",
+    "player": "Symm",
+    "player_location": "gb",
+    "time": 13733,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "z0l9o49z",
+    "game": "Star Ocean: Till the End of Time",
+    "player": "Ruri_S",
+    "player_location": "jp",
+    "time": 15326,
+    "category": "Any% JP",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "y96or2ny",
+    "game": "Star Ocean: Till the End of Time",
+    "player": "Amae",
+    "player_location": "jp",
+    "time": 12312,
+    "category": "Any% JP",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  }
+]

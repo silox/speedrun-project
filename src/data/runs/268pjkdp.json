@@ -1,0 +1,79 @@
+[
+  {
+    "id": "2ywpp10z",
+    "game": "Ranger X",
+    "player": "Naegleria",
+    "player_location": "ca",
+    "time": 1173,
+    "category": "Heavy",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "pyd33qjz",
+    "game": "Ranger X",
+    "player": "SeanCass",
+    "player_location": "us",
+    "time": 777,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "6yj104oy",
+    "game": "Ranger X",
+    "player": "Krankdud",
+    "player_location": "us",
+    "time": 777,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "yo367p0y",
+    "game": "Ranger X",
+    "player": "dagronSR",
+    "player_location": "ca",
+    "time": 691,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "zgk717ey",
+    "game": "Ranger X",
+    "player": "chronoon",
+    "player_location": "us",
+    "time": 783,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "y4w5983m",
+    "game": "Ranger X",
+    "player": "Retroberra",
+    "player_location": "se",
+    "time": 816,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "z0p99xey",
+    "game": "Ranger X",
+    "player": "TheDetectingZone",
+    "player_location": "us",
+    "time": 826,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  }
+]

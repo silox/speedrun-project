@@ -1,0 +1,101 @@
+[
+  {
+    "id": "y25pe56y",
+    "game": "Bombastic",
+    "player": "Cyclone_Aeroblast",
+    "player_location": "us",
+    "time": 10.11,
+    "category": "Night Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "ylk7dqkz",
+    "game": "Bombastic",
+    "player": "poshi",
+    "player_location": "jp",
+    "time": 28.6,
+    "category": "Night Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zx20p98m",
+    "game": "Bombastic",
+    "player": "tyamegane",
+    "player_location": "jp",
+    "time": 2144,
+    "category": "Quest Mode Complete (100%): Night",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "yd0wr0jz",
+    "game": "Bombastic",
+    "player": "YUDAI",
+    "player_location": "jp",
+    "time": 32.95,
+    "category": "Night Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y697dn1y",
+    "game": "Bombastic",
+    "player": "maroon361",
+    "player_location": "jp",
+    "time": 5.48,
+    "category": "Night Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "mk75ovvy",
+    "game": "Bombastic",
+    "player": "Uracil4nf",
+    "player_location": "jp",
+    "time": 1641.18,
+    "category": "Quest Mode All Clear (Any%): Night",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "me3kr99z",
+    "game": "Bombastic",
+    "player": "AByssan__",
+    "player_location": "jp",
+    "time": 1391.15,
+    "category": "Quest Mode All Clear (Any%): Night",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y88r8x5y",
+    "game": "Bombastic",
+    "player": "HomuraYuuki",
+    "player_location": "jp",
+    "time": 141,
+    "category": "Night 100%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "z1q3w8gy",
+    "game": "Bombastic",
+    "player": "HuckleberryFinn",
+    "player_location": "es",
+    "time": 296.85,
+    "category": "WARS Mode",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": true
+  }
+]

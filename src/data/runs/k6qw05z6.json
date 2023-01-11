@@ -1,0 +1,35 @@
+[
+  {
+    "id": "mr7703gz",
+    "game": "Devil of the Mirror",
+    "player": "Akira_RP",
+    "player_location": "es",
+    "time": 108.12,
+    "category": "Ending 3: In the mirror, forever",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z0plejjy",
+    "game": "Devil of the Mirror",
+    "player": "Lebkuchen",
+    "player_location": "kz",
+    "time": 75.316,
+    "category": "Death",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zgqgo5dy",
+    "game": "Devil of the Mirror",
+    "player": "mansion",
+    "player_location": "hk",
+    "time": 71.633,
+    "category": "Death",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

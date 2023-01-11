@@ -1,0 +1,24 @@
+[
+  {
+    "id": "z5e1l7nz",
+    "game": "Virtua Fighter Kids",
+    "player": "DBcade",
+    "player_location": "jp",
+    "time": 160,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "z0n5n84m",
+    "game": "Virtua Fighter Kids",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 55,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": true
+  }
+]

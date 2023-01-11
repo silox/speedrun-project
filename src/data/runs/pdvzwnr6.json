@@ -1,0 +1,24 @@
+[
+  {
+    "id": "yjl1n57z",
+    "game": "Super Swing Golf",
+    "player": "Soulcloset",
+    "player_location": "us",
+    "time": 4603,
+    "category": "Scout's Story",
+    "region": null,
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "mkeg055m",
+    "game": "Super Swing Golf",
+    "player": "monosand",
+    "player_location": "jp",
+    "time": 3664,
+    "category": "Hana's Story",
+    "region": "JPN / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  }
+]

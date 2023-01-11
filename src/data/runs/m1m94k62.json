@@ -1,0 +1,68 @@
+[
+  {
+    "id": "ywd6wonz",
+    "game": "Snail Bob 3",
+    "player": "Oscar",
+    "player_location": "fr",
+    "time": 485.43,
+    "category": "Any% (25 lvls)",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yvg4n4oy",
+    "game": "Snail Bob 3",
+    "player": "Nakline",
+    "player_location": "fr",
+    "time": 578.75,
+    "category": "Any% (25 lvls)",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yd30250z",
+    "game": "Snail Bob 3",
+    "player": "VideoGameReview1",
+    "player_location": "us",
+    "time": 721,
+    "category": "Any% (25 lvls)",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "znp8677m",
+    "game": "Snail Bob 3",
+    "player": "Soybean33",
+    "player_location": "us",
+    "time": 459.96,
+    "category": "Any% (25 lvls)",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z0pjxq9y",
+    "game": "Snail Bob 3",
+    "player": "GASTER_GM",
+    "player_location": null,
+    "time": 365.41,
+    "category": "Any% (20 lvls)",
+    "region": null,
+    "platform": "PC",
+    "emulated": true
+  },
+  {
+    "id": "m3x380qm",
+    "game": "Snail Bob 3",
+    "player": "FurryKun",
+    "player_location": "us",
+    "time": 695.52,
+    "category": "100% (20 lvls)",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

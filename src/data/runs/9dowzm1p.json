@@ -1,0 +1,211 @@
+[
+  {
+    "id": "6yj757yd",
+    "game": "The NewZealand Story / Kiwi Kraze",
+    "player": "jeffsledge",
+    "player_location": "us",
+    "time": 263,
+    "category": "Any% NES (Kiwi Kraze)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "pzggv7ez",
+    "game": "The NewZealand Story / Kiwi Kraze",
+    "player": "authorblues",
+    "player_location": "us",
+    "time": 400,
+    "category": "Any% NES (Kiwi Kraze)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "oy2wnx5y",
+    "game": "The NewZealand Story / Kiwi Kraze",
+    "player": "Pull",
+    "player_location": "fi",
+    "time": 328,
+    "category": "Any% NES (Kiwi Kraze)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "pyd7vdqy",
+    "game": "The NewZealand Story / Kiwi Kraze",
+    "player": "Jorf",
+    "player_location": "ca",
+    "time": 323,
+    "category": "Any% NES (Kiwi Kraze)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zg7x64jz",
+    "game": "The NewZealand Story / Kiwi Kraze",
+    "player": "AnCap217",
+    "player_location": "us",
+    "time": 217,
+    "category": "Any% NES (Kiwi Kraze)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "z03jwvoz",
+    "game": "The NewZealand Story / Kiwi Kraze",
+    "player": "Toad22484",
+    "player_location": "us",
+    "time": 345,
+    "category": "Any% NES (Kiwi Kraze)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "m3o2kwqm",
+    "game": "The NewZealand Story / Kiwi Kraze",
+    "player": "Sonikkustar",
+    "player_location": "us",
+    "time": 532,
+    "category": "Any% Genesis (New Zealand Story)",
+    "region": "JPN / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "mk77p33y",
+    "game": "The NewZealand Story / Kiwi Kraze",
+    "player": "Gallivanter",
+    "player_location": "it",
+    "time": 516,
+    "category": "Any% Arcade (New Zealand Story)",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zno89g8y",
+    "game": "The NewZealand Story / Kiwi Kraze",
+    "player": "Shime",
+    "player_location": "br",
+    "time": 468,
+    "category": "Any% Genesis (New Zealand Story)",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "m3nwdkwy",
+    "game": "The NewZealand Story / Kiwi Kraze",
+    "player": "SufferUM",
+    "player_location": "au",
+    "time": 415,
+    "category": "Any% SMS (New Zealand Story)",
+    "region": "USA / NTSC",
+    "platform": "Sega Master System",
+    "emulated": true
+  },
+  {
+    "id": "z5rk1vdy",
+    "game": "The NewZealand Story / Kiwi Kraze",
+    "player": "rmondello",
+    "player_location": "us",
+    "time": 531,
+    "category": "Any% TG-16 (New Zealand Story)",
+    "region": null,
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": true
+  },
+  {
+    "id": "z07o484y",
+    "game": "The NewZealand Story / Kiwi Kraze",
+    "player": "RadioUhOh",
+    "player_location": "ca",
+    "time": 475,
+    "category": "Any% TG-16 (New Zealand Story)",
+    "region": null,
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": true
+  },
+  {
+    "id": "z5v795gm",
+    "game": "The NewZealand Story / Kiwi Kraze",
+    "player": "Amune138",
+    "player_location": "us",
+    "time": 355,
+    "category": "Any% NES (Kiwi Kraze)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y8jkrrdz",
+    "game": "The NewZealand Story / Kiwi Kraze",
+    "player": "JSR_",
+    "player_location": "us",
+    "time": 655,
+    "category": "Any% Arcade (New Zealand Story)",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": false
+  },
+  {
+    "id": "mkkx4w1m",
+    "game": "The NewZealand Story / Kiwi Kraze",
+    "player": "ShyGuyRTA",
+    "player_location": "br",
+    "time": 457,
+    "category": "Any% Genesis (New Zealand Story)",
+    "region": null,
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "mkk8ee5m",
+    "game": "The NewZealand Story / Kiwi Kraze",
+    "player": "Hobetsu",
+    "player_location": "jp",
+    "time": 505,
+    "category": "Any% Arcade (New Zealand Story)",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y4x8lvdz",
+    "game": "The NewZealand Story / Kiwi Kraze",
+    "player": "Hoover",
+    "player_location": "kr",
+    "time": 514,
+    "category": "Any% Arcade (New Zealand Story)",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z0n3168m",
+    "game": "The NewZealand Story / Kiwi Kraze",
+    "player": "hobby_joggers",
+    "player_location": "us",
+    "time": 446,
+    "category": "Any% TG-16 (New Zealand Story)",
+    "region": "JPN / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": false
+  },
+  {
+    "id": "zgq65qvy",
+    "game": "The NewZealand Story / Kiwi Kraze",
+    "player": "Kerachang",
+    "player_location": "jp",
+    "time": 490,
+    "category": "Any% Arcade (New Zealand Story)",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

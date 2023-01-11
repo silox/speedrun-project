@@ -1,0 +1,57 @@
+[
+  {
+    "id": "me4l1n2y",
+    "game": "",
+    "player": "BostonBrew",
+    "player_location": "us",
+    "time": 2044,
+    "category": "1st Year Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "8yv1016y",
+    "game": "",
+    "player": "T3tsuya",
+    "player_location": "us",
+    "time": 2287,
+    "category": "1st Year Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "6yjg9xgy",
+    "game": "",
+    "player": "Ryohta",
+    "player_location": "us",
+    "time": 2881,
+    "category": "1st Year Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "9yong55z",
+    "game": "Mister Mosquito",
+    "player": "Bobochet",
+    "player_location": "us",
+    "time": 2873,
+    "category": "1st Year Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "yjl5kr3z",
+    "game": "Mister Mosquito",
+    "player": "diamine",
+    "player_location": "jp",
+    "time": 2122,
+    "category": "1st Year Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "mk9k7nvz",
+    "game": "",
+    "player": "JazzaBiatch",
+    "player_location": "au",
+    "time": 1674,
+    "category": "Normal",
+    "region": "EUR / PAL",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "me3v723z",
+    "game": "",
+    "player": "stormcrow56k",
+    "player_location": "us",
+    "time": 1704,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "y2p34p5z",
+    "game": "Lethal Enforcers II: GunFighters",
+    "player": "wax_house",
+    "player_location": "us",
+    "time": 1733,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  }
+]

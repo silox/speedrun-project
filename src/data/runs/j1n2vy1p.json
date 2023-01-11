@@ -1,0 +1,145 @@
+[
+  {
+    "id": "8y803x5m",
+    "game": "Saturn Bomberman",
+    "player": "Mikebloke",
+    "player_location": "gb/eng",
+    "time": 837,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "jy96k6ry",
+    "game": "Saturn Bomberman",
+    "player": "c94felipe",
+    "player_location": "cl",
+    "time": 841,
+    "category": "Master Mode",
+    "region": "EUR / PAL",
+    "platform": "Sega Saturn",
+    "emulated": true
+  },
+  {
+    "id": "yvgjvv6y",
+    "game": "Saturn Bomberman",
+    "player": "ZenicReverie",
+    "player_location": "us",
+    "time": 2847,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "zxv3w0gy",
+    "game": "Saturn Bomberman",
+    "player": "SerelepeMarsupial",
+    "player_location": "br",
+    "time": 798,
+    "category": "Master Mode",
+    "region": "USA / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": true
+  },
+  {
+    "id": "zgnjdwjy",
+    "game": "Saturn Bomberman",
+    "player": "GreenBomber",
+    "player_location": "us",
+    "time": 598,
+    "category": "Master Mode",
+    "region": "USA / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "yo2p9l1z",
+    "game": "Saturn Bomberman",
+    "player": "Titanish",
+    "player_location": "br",
+    "time": 584,
+    "category": "Master Mode",
+    "region": "USA / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": true
+  },
+  {
+    "id": "zg7g7rjz",
+    "game": "Saturn Bomberman",
+    "player": "colin",
+    "player_location": "us",
+    "time": 3622,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "ydr5vpjz",
+    "game": "Saturn Bomberman",
+    "player": "heyitsperk",
+    "player_location": "us",
+    "time": 461,
+    "category": "Master Mode",
+    "region": "USA / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "z07o7ley",
+    "game": "Saturn Bomberman",
+    "player": "CMOJoker",
+    "player_location": "us",
+    "time": 455,
+    "category": "Master Mode",
+    "region": "USA / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "z5r6x2jy",
+    "game": "Saturn Bomberman",
+    "player": "DonaldCTH",
+    "player_location": "hk",
+    "time": 3239,
+    "category": "Normal Mode - 1 Player",
+    "region": "USA / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": true
+  },
+  {
+    "id": "m76rnl5y",
+    "game": "Saturn Bomberman",
+    "player": "Nayume",
+    "player_location": "br",
+    "time": 2964,
+    "category": "Normal Mode - 1 Player",
+    "region": "USA / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": true
+  },
+  {
+    "id": "me1xd89y",
+    "game": "Saturn Bomberman",
+    "player": "Fisel",
+    "player_location": "pe",
+    "time": 2674,
+    "category": "Normal Mode - 1 Player",
+    "region": "USA / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": true
+  },
+  {
+    "id": "me1jg6qy",
+    "game": "Saturn Bomberman",
+    "player": "enbyzee",
+    "player_location": null,
+    "time": 2787,
+    "category": "Normal Mode - 1 Player",
+    "region": "USA / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": true
+  }
+]

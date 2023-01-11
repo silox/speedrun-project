@@ -1,0 +1,90 @@
+[
+  {
+    "id": "y8r9xndm",
+    "game": "A Monster's Expedition",
+    "player": "Elyot",
+    "player_location": "ca",
+    "time": 151,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y912xnnm",
+    "game": "A Monster's Expedition",
+    "player": "Mountebank",
+    "player_location": "us",
+    "time": 195,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zxd4wqqy",
+    "game": "A Monster's Expedition",
+    "player": "Ihavenoname248",
+    "player_location": "us",
+    "time": 115,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "ywdpr42z",
+    "game": "A Monster's Expedition",
+    "player": "twak",
+    "player_location": "us",
+    "time": 198,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mk82kg5m",
+    "game": "A Monster's Expedition",
+    "player": "TinyT",
+    "player_location": "us",
+    "time": 159,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z1rkqx9m",
+    "game": "A Monster's Expedition",
+    "player": "duyaa",
+    "player_location": null,
+    "time": 3882,
+    "category": "100%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yo6j517y",
+    "game": "A Monster's Expedition",
+    "player": "wijo_n.2",
+    "player_location": "fi",
+    "time": 111,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yderg3qm",
+    "game": "A Monster's Expedition",
+    "player": "Dino13",
+    "player_location": "us",
+    "time": 5683,
+    "category": "100%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  }
+]

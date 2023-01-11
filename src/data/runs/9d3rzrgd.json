@@ -1,0 +1,46 @@
+[
+  {
+    "id": "y91de9km",
+    "game": "Cube Destroyer",
+    "player": "2NY",
+    "player_location": null,
+    "time": 3515,
+    "category": "100%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z09807ez",
+    "game": "Cube Destroyer",
+    "player": "Crubster",
+    "player_location": "ie",
+    "time": 2488,
+    "category": "100%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zgvj8o0z",
+    "game": "Cube Destroyer",
+    "player": "IslandGoSAMe",
+    "player_location": "us",
+    "time": 2886,
+    "category": "100%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "ylrgolky",
+    "game": "Cube Destroyer",
+    "player": "TaKina",
+    "player_location": "fr",
+    "time": 1546,
+    "category": "100%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  }
+]

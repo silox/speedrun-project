@@ -1,0 +1,112 @@
+[
+  {
+    "id": "z06x11oz",
+    "game": "Flashback: The Quest for Identity",
+    "player": "RetroBrando",
+    "player_location": "us",
+    "time": 1275,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "z03qjroz",
+    "game": "Flashback: The Quest for Identity",
+    "player": "TascoDLX",
+    "player_location": "us",
+    "time": 1404,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "znr8ov7y",
+    "game": "Flashback: The Quest for Identity",
+    "player": "DodonKrevedko",
+    "player_location": "ru",
+    "time": 4382,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "m3o4164m",
+    "game": "Flashback: The Quest for Identity",
+    "player": "Creditor",
+    "player_location": "ru",
+    "time": 1297,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "yw43190z",
+    "game": "Flashback: The Quest for Identity",
+    "player": "Spire",
+    "player_location": "us",
+    "time": 1679,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "ywv44r0z",
+    "game": "Flashback: The Quest for Identity",
+    "player": "PiHeist",
+    "player_location": "gb/sct",
+    "time": 3706,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y8e1xn1y",
+    "game": "Flashback: The Quest for Identity",
+    "player": "Doc",
+    "player_location": "gb/eng",
+    "time": 3410,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "me1wre8y",
+    "game": "Flashback: The Quest for Identity",
+    "player": "StirF",
+    "player_location": null,
+    "time": 3095,
+    "category": "Super Nintendo",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "zp9q7r8m",
+    "game": "Flashback: The Quest for Identity",
+    "player": "VelCheran",
+    "player_location": "fr",
+    "time": 1351,
+    "category": "",
+    "region": null,
+    "platform": "MS-DOS",
+    "emulated": true
+  },
+  {
+    "id": "zq95r99y",
+    "game": "Flashback: The Quest for Identity",
+    "player": "demiurgi",
+    "player_location": "fi",
+    "time": 1169,
+    "category": "MS-DOS",
+    "region": null,
+    "platform": "MS-DOS",
+    "emulated": true
+  }
+]

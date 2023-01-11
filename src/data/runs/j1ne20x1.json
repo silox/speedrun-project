@@ -1,0 +1,24 @@
+[
+  {
+    "id": "zqr4745y",
+    "game": "Top Skater",
+    "player": "IcKY",
+    "player_location": "us",
+    "time": 120.068,
+    "category": "Novice S-Rank",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": false
+  },
+  {
+    "id": "y6dw0r6m",
+    "game": "Top Skater",
+    "player": "Magestikal",
+    "player_location": "ca",
+    "time": 104.041,
+    "category": "Expert",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

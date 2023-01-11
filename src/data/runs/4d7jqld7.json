@@ -1,0 +1,57 @@
+[
+  {
+    "id": "2ywxo00m",
+    "game": "Legendary Axe",
+    "player": "Vidtendo",
+    "player_location": "ca/qc",
+    "time": 1252,
+    "category": "",
+    "region": null,
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": false
+  },
+  {
+    "id": "m31xkowz",
+    "game": "Legendary Axe",
+    "player": "snibbermekimbers",
+    "player_location": "us",
+    "time": 1006,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": false
+  },
+  {
+    "id": "y41xk3ny",
+    "game": "Legendary Axe",
+    "player": "wayoutwestdave",
+    "player_location": "us",
+    "time": 1866,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": true
+  },
+  {
+    "id": "zqr9d35y",
+    "game": "Legendary Axe",
+    "player": "The_Retro_Challenger",
+    "player_location": "ca/qc",
+    "time": 1740,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": false
+  },
+  {
+    "id": "y21ekq6z",
+    "game": "Legendary Axe",
+    "player": "ZBR",
+    "player_location": "us",
+    "time": 2236,
+    "category": "Any%",
+    "region": null,
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": true
+  }
+]

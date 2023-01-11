@@ -1,0 +1,68 @@
+[
+  {
+    "id": "zx494pgy",
+    "game": "Dungeon Explorer",
+    "player": "SnuggleTimeKitty",
+    "player_location": "us",
+    "time": 2053,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Wii Virtual Console",
+    "emulated": false
+  },
+  {
+    "id": "z51x0ngm",
+    "game": "Dungeon Explorer",
+    "player": "ratfunk",
+    "player_location": "us",
+    "time": 1568,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": false
+  },
+  {
+    "id": "zp154vxz",
+    "game": "Dungeon Explorer",
+    "player": "Toad22484",
+    "player_location": "us",
+    "time": 1384,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": true
+  },
+  {
+    "id": "mr15xrgz",
+    "game": "Dungeon Explorer",
+    "player": "Guggensulli",
+    "player_location": "us",
+    "time": 1388,
+    "category": "Any%",
+    "region": null,
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": true
+  },
+  {
+    "id": "zp158prz",
+    "game": "Dungeon Explorer",
+    "player": "MaxisMozark",
+    "player_location": "us",
+    "time": 1319,
+    "category": "Any% Princess",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": false
+  },
+  {
+    "id": "y93798vy",
+    "game": "Dungeon Explorer",
+    "player": "dnkcafe",
+    "player_location": "us",
+    "time": 1188,
+    "category": "Any% Princess",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": false
+  }
+]

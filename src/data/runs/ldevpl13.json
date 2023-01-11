@@ -1,0 +1,79 @@
+[
+  {
+    "id": "mekk300m",
+    "game": "Touhou: Double Focus",
+    "player": "GreenZSaber",
+    "player_location": null,
+    "time": 1337,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "z0e3oqom",
+    "game": "Touhou: Double Focus",
+    "player": "MECHDRAGON777",
+    "player_location": "aq",
+    "time": 1411,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "yl42r9xm",
+    "game": "Touhou: Double Focus",
+    "player": "FumoFumoMeiling",
+    "player_location": "ca",
+    "time": 766,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "yl46egrm",
+    "game": "Touhou: Double Focus",
+    "player": "blackfieldhsk",
+    "player_location": "tw",
+    "time": 1235,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation Vita",
+    "emulated": false
+  },
+  {
+    "id": "m3x1r3qm",
+    "game": "Touhou: Double Focus",
+    "player": "TheThumb",
+    "player_location": "gb/wls",
+    "time": 943,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "zqg0d69m",
+    "game": "Touhou: Double Focus",
+    "player": "shinsa843",
+    "player_location": "us",
+    "time": 1076,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "zq01298y",
+    "game": "Touhou: Double Focus",
+    "player": "Noved",
+    "player_location": "us",
+    "time": 1017,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  }
+]

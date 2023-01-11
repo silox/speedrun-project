@@ -1,0 +1,46 @@
+[
+  {
+    "id": "me7r9xqy",
+    "game": "",
+    "player": "CreativeEly",
+    "player_location": "us",
+    "time": 9833,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "mrrl6j7m",
+    "game": "",
+    "player": "Yujisan",
+    "player_location": "jp",
+    "time": 7989,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "ylrpe9ry",
+    "game": "Dragon Quest II (Switch)",
+    "player": "susuru",
+    "player_location": "jp",
+    "time": 9197,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "zgqev4ny",
+    "game": "Dragon Quest II (Switch)",
+    "player": "V1046R_MCN",
+    "player_location": "jp",
+    "time": 7730,
+    "category": "Any% (JP/KO/Chi)",
+    "region": "JPN / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  }
+]

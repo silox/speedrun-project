@@ -1,0 +1,90 @@
+[
+  {
+    "id": "ywpe562z",
+    "game": "Virtua Fighter 4: Evolution",
+    "player": "Tenka",
+    "player_location": "au",
+    "time": 380.7,
+    "category": "Arcade Mode (Beat Final Stage)",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "y2q52k9y",
+    "game": "Virtua Fighter 4: Evolution",
+    "player": "Maiguels",
+    "player_location": "es",
+    "time": 575.15,
+    "category": "Arcade Mode (Beat Final Stage)",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "z117gqrz",
+    "game": "Virtua Fighter 4: Evolution",
+    "player": "MVR",
+    "player_location": "ru",
+    "time": 204.88,
+    "category": "Arcade Mode (Beat Final Stage)",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "y90q87ey",
+    "game": "Virtua Fighter 4: Evolution",
+    "player": "Despera",
+    "player_location": "be",
+    "time": 143.7,
+    "category": "Arcade Mode (Beat Final Stage)",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "zqwov61z",
+    "game": "Virtua Fighter 4: Evolution",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 167.68,
+    "category": "Arcade Mode (Beat Final Stage)",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "y6rpj60y",
+    "game": "Virtua Fighter 4: Evolution",
+    "player": "TheCasualSpeedRunner",
+    "player_location": "us",
+    "time": 172.76,
+    "category": "Arcade Mode (Beat Final Stage)",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "m3r804qm",
+    "game": "Virtua Fighter 4: Evolution",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 219.23,
+    "category": "Arcade Mode (Beat Final Stage)",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "yj5qgwnm",
+    "game": "Virtua Fighter 4: Evolution",
+    "player": "KingSheaun",
+    "player_location": "us",
+    "time": 559.89,
+    "category": "Arcade Mode (Beat Dural)",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  }
+]

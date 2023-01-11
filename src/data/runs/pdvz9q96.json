@@ -1,0 +1,35 @@
+[
+  {
+    "id": "y2qe6qjy",
+    "game": "Cosmic Spacehead",
+    "player": "Gatorbox",
+    "player_location": "us",
+    "time": 5149,
+    "category": "Beat the Game",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "zqwdx75z",
+    "game": "Cosmic Spacehead",
+    "player": "ratkill3r86",
+    "player_location": "us",
+    "time": 3049,
+    "category": "Beat the Game",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "y6rerv1y",
+    "game": "Cosmic Spacehead",
+    "player": "MrDoublePlays",
+    "player_location": "au",
+    "time": 2667,
+    "category": "Beat the Game",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  }
+]

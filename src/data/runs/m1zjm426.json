@@ -1,0 +1,79 @@
+[
+  {
+    "id": "y896od1m",
+    "game": "",
+    "player": "TheMidBoss",
+    "player_location": "ca",
+    "time": 6,
+    "category": "Fastest Knockout",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "y81e1rdz",
+    "game": "",
+    "player": "GTT",
+    "player_location": "br",
+    "time": 35,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "y827041y",
+    "game": "UFC Undisputed 3",
+    "player": "CriscoWild",
+    "player_location": "us",
+    "time": 1557,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "zxdp9gqy",
+    "game": "UFC Undisputed 3",
+    "player": "Misshapenorphan",
+    "player_location": "us",
+    "time": 371,
+    "category": "Title Mode",
+    "region": "USA / NTSC",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "ywqdkony",
+    "game": "UFC Undisputed 3",
+    "player": "jldbarbosa",
+    "player_location": "br",
+    "time": 11,
+    "category": "Fastest Knockout",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "y99l29ey",
+    "game": "UFC Undisputed 3",
+    "player": "UndisputedChamp",
+    "player_location": "us",
+    "time": 3,
+    "category": "Fastest Knockout",
+    "region": null,
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "yj5xjw7m",
+    "game": "UFC Undisputed 3",
+    "player": "Gnydsmelt",
+    "player_location": "se",
+    "time": 1022,
+    "category": "Title Mode",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 3",
+    "emulated": false
+  }
+]

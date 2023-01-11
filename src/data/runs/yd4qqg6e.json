@@ -1,0 +1,90 @@
+[
+  {
+    "id": "kz59j0ny",
+    "game": "Operation Logic Bomb",
+    "player": "DJBunyan",
+    "player_location": "us",
+    "time": 1353,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y678onqm",
+    "game": "Operation Logic Bomb",
+    "player": "Jackimus",
+    "player_location": "ca",
+    "time": 1282,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "ydq699jm",
+    "game": "Operation Logic Bomb",
+    "player": "Guhbadoo",
+    "player_location": null,
+    "time": 1439,
+    "category": "Any%",
+    "region": null,
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "zn4o2e3m",
+    "game": "Operation Logic Bomb",
+    "player": "CnEY",
+    "player_location": "us",
+    "time": 1304,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "m3onxkdm",
+    "game": "Operation Logic Bomb",
+    "player": "AKirinNamedZakky",
+    "player_location": "us",
+    "time": 1277,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "z575rpnm",
+    "game": "Operation Logic Bomb",
+    "player": "LeHulk",
+    "player_location": "fr",
+    "time": 1246.32,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "yj5p87om",
+    "game": "Operation Logic Bomb",
+    "player": "Rayeo",
+    "player_location": "us",
+    "time": 1642,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "yvovg74z",
+    "game": "Operation Logic Bomb",
+    "player": "thewoofs",
+    "player_location": "us",
+    "time": 1554,
+    "category": "Any%",
+    "region": null,
+    "platform": "Super Nintendo",
+    "emulated": true
+  }
+]

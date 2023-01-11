@@ -1,0 +1,101 @@
+[
+  {
+    "id": "1zq2j09z",
+    "game": "Firestriker",
+    "player": "authorblues",
+    "player_location": "us",
+    "time": 2134,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "yw1e1epz",
+    "game": "Firestriker",
+    "player": "DakJ",
+    "player_location": "us",
+    "time": 1430,
+    "category": "1P Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "zn8wnq9z",
+    "game": "Firestriker",
+    "player": "atinyempress",
+    "player_location": "us",
+    "time": 1334,
+    "category": "1P Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "z035qk9z",
+    "game": "Firestriker",
+    "player": "Broedgeman",
+    "player_location": "de",
+    "time": 1191,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "z035n4oz",
+    "game": "Firestriker",
+    "player": "Joker_Of_God",
+    "player_location": "fi",
+    "time": 1059,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "yj4kvv3y",
+    "game": "Firestriker",
+    "player": "Ezk1",
+    "player_location": "fi",
+    "time": 1336,
+    "category": "2P Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "yw416r0z",
+    "game": "Firestriker",
+    "player": "sYn",
+    "player_location": "us",
+    "time": 1776,
+    "category": "1P Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "z5r8665y",
+    "game": "Firestriker",
+    "player": "Teleo1",
+    "player_location": "us",
+    "time": 1099,
+    "category": "1P Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "zn0672ly",
+    "game": "Firestriker",
+    "player": "Moo_Moony",
+    "player_location": "ca/qc",
+    "time": 1687,
+    "category": "1P Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  }
+]

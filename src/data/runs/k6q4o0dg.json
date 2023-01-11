@@ -1,0 +1,123 @@
+[
+  {
+    "id": "wzplv5xm",
+    "game": "Strider",
+    "player": "COOLKID",
+    "player_location": "se",
+    "time": 454,
+    "category": "Any% (SMS)",
+    "region": "USA / NTSC",
+    "platform": "Sega Master System",
+    "emulated": false
+  },
+  {
+    "id": "9me9v53z",
+    "game": "Strider",
+    "player": "SubStylee",
+    "player_location": "us",
+    "time": 453,
+    "category": "Any% (SMS)",
+    "region": "USA / NTSC",
+    "platform": "Sega Master System",
+    "emulated": true
+  },
+  {
+    "id": "1zx3k9kz",
+    "game": "Strider",
+    "player": "Breakdown776",
+    "player_location": null,
+    "time": 590,
+    "category": "Any% (Genesis)",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "z13vxqrm",
+    "game": "Strider",
+    "player": "Cypherin",
+    "player_location": "us",
+    "time": 1003,
+    "category": "Any% (Genesis)",
+    "region": null,
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "z1jk08gz",
+    "game": "Strider",
+    "player": "chronoon",
+    "player_location": "us",
+    "time": 565,
+    "category": "Any% (Genesis)",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "zqr4vjry",
+    "game": "Strider",
+    "player": "nagasode",
+    "player_location": "jp",
+    "time": 634,
+    "category": "Any% (Genesis)",
+    "region": "JPN / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "zxk3o4em",
+    "game": "Strider",
+    "player": "Sonikkustar",
+    "player_location": "us",
+    "time": 574,
+    "category": "Any% (Genesis)",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "m7qoo5ez",
+    "game": "Strider",
+    "player": "DodonKrevedko",
+    "player_location": "ru",
+    "time": 652,
+    "category": "Any% (SMS)",
+    "region": "EUR / PAL",
+    "platform": "Sega Master System",
+    "emulated": false
+  },
+  {
+    "id": "zp86ojvy",
+    "game": "Strider",
+    "player": "manticor5",
+    "player_location": "cl",
+    "time": 507,
+    "category": "(Arcade) 1CC",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "m7wpq5wz",
+    "game": "Strider",
+    "player": "dosboxfalco",
+    "player_location": "us",
+    "time": 451,
+    "category": "(Arcade) 1CC",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yv14r1xy",
+    "game": "Strider",
+    "player": "Juanman",
+    "player_location": null,
+    "time": 670,
+    "category": "(Arcade) 1CC",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

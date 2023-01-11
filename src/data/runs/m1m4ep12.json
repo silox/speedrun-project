@@ -1,0 +1,79 @@
+[
+  {
+    "id": "1zq9k08y",
+    "game": "Wipeout 3",
+    "player": "Tume_K5",
+    "player_location": "fi",
+    "time": 7885,
+    "category": "All single races",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "mkkdqdvm",
+    "game": "Wipeout 3",
+    "player": "foden44",
+    "player_location": "gb/eng",
+    "time": 70.47,
+    "category": "Venom",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "m7601l0y",
+    "game": "Wipeout 3",
+    "player": "Andgen",
+    "player_location": "fr",
+    "time": 85.8,
+    "category": "Rapier",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "z0px5noy",
+    "game": "Wipeout 3",
+    "player": "CycloneJoker",
+    "player_location": "us",
+    "time": 60.07,
+    "category": "Vector",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "y69e4g6y",
+    "game": "Wipeout 3",
+    "player": "Stimich93",
+    "player_location": "no",
+    "time": 63.054,
+    "category": "Vector",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "zx7966gy",
+    "game": "Wipeout 3",
+    "player": "Jorf",
+    "player_location": "ca",
+    "time": 152.1,
+    "category": "Rapier",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "ydd293jy",
+    "game": "Wipeout 3",
+    "player": "zewing",
+    "player_location": "us",
+    "time": 57.87,
+    "category": "Vector",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  }
+]

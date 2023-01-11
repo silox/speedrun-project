@@ -1,0 +1,24 @@
+[
+  {
+    "id": "yod7967m",
+    "game": "Jet Set Radio Anthology",
+    "player": "daft7",
+    "player_location": "us",
+    "time": 16897,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": true
+  },
+  {
+    "id": "y2ee5p5y",
+    "game": "Jet Set Radio Anthology",
+    "player": "YayodelaRiva",
+    "player_location": "mx",
+    "time": 16586,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  }
+]

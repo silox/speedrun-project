@@ -1,0 +1,57 @@
+[
+  {
+    "id": "z13ddegm",
+    "game": "Nightcry",
+    "player": "Pa-Sama",
+    "player_location": "ca",
+    "time": 2787,
+    "category": "Two Survivors Ending",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zxvvwl8y",
+    "game": "Nightcry",
+    "player": "ufotekkie",
+    "player_location": "us",
+    "time": 2954,
+    "category": "Two Survivors Ending",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yoje75dm",
+    "game": "Nightcry",
+    "player": "Ecdycis",
+    "player_location": "us",
+    "time": 494,
+    "category": "Face Floating on Waves",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yv353xoz",
+    "game": "Nightcry",
+    "player": "KrisNaga",
+    "player_location": "us",
+    "time": 2362,
+    "category": "Two Survivors Ending",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zxgnndqy",
+    "game": "Nightcry",
+    "player": "batake",
+    "player_location": "jp",
+    "time": 2354,
+    "category": "Two Survivors Ending",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

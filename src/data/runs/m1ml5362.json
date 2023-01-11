@@ -1,0 +1,101 @@
+[
+  {
+    "id": "emko2l3z",
+    "game": "",
+    "player": "MURPHAGATOR",
+    "player_location": null,
+    "time": 1089,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": false
+  },
+  {
+    "id": "yj32357z",
+    "game": "",
+    "player": "RitaH",
+    "player_location": "br",
+    "time": 1671,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yjlpjndz",
+    "game": "",
+    "player": "Peanutfan22",
+    "player_location": "us",
+    "time": 2124,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yv9gxn4z",
+    "game": "Vendetta",
+    "player": "Zombia_07",
+    "player_location": "br",
+    "time": 1426,
+    "category": "",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zn1o5vlm",
+    "game": "Vendetta",
+    "player": "Rob",
+    "player_location": null,
+    "time": 1197,
+    "category": "Deathless",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y6do790m",
+    "game": "Vendetta",
+    "player": "Metaller",
+    "player_location": "br",
+    "time": 1364,
+    "category": "",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "me4ke62y",
+    "game": "Vendetta",
+    "player": "Rog_pf",
+    "player_location": "br",
+    "time": 870,
+    "category": "Deathless",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zp8g44xy",
+    "game": "Vendetta",
+    "player": "zeldamaniac",
+    "player_location": "dz",
+    "time": 1235,
+    "category": "",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "me4rvl3y",
+    "game": "Vendetta",
+    "player": "Apolo1916",
+    "player_location": "cl",
+    "time": 1797,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

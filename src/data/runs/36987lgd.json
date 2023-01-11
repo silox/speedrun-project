@@ -1,0 +1,46 @@
+[
+  {
+    "id": "zp8ko6xy",
+    "game": "Monsterland 3: Junior Returns",
+    "player": "TRLittleToaster",
+    "player_location": "us",
+    "time": 3.5,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "y69j2kjy",
+    "game": "Monsterland 3: Junior Returns",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 5.06,
+    "category": "100%",
+    "region": null,
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "yo6e19jy",
+    "game": "Monsterland 3: Junior Returns",
+    "player": "Otterstone_Gamer",
+    "player_location": "us",
+    "time": 3.133,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "zgqjrgey",
+    "game": "Monsterland 3: Junior Returns",
+    "player": "pocogamer",
+    "player_location": "gr",
+    "time": 3.4,
+    "category": "Any%",
+    "region": null,
+    "platform": "Web",
+    "emulated": true
+  }
+]

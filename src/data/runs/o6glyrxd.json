@@ -1,0 +1,68 @@
+[
+  {
+    "id": "y419l53y",
+    "game": "Fighting Masters",
+    "player": "Peanutfan22",
+    "player_location": "us",
+    "time": 800,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "ylkodpnz",
+    "game": "Fighting Masters",
+    "player": "DBcade",
+    "player_location": "jp",
+    "time": 818,
+    "category": "Easy",
+    "region": "JPN / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "y662n20y",
+    "game": "Fighting Masters",
+    "player": "GreatMasterFrank",
+    "player_location": "ar",
+    "time": 841,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "zq95k49y",
+    "game": "Fighting Masters",
+    "player": "diamine",
+    "player_location": "jp",
+    "time": 642,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "y8el5qwy",
+    "game": "Fighting Masters",
+    "player": "Conspiratorial",
+    "player_location": "us",
+    "time": 757,
+    "category": "Hard",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "y60gw10y",
+    "game": "Fighting Masters",
+    "player": "zachary1021",
+    "player_location": "us",
+    "time": 710,
+    "category": "Hard",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  }
+]

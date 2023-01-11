@@ -1,0 +1,101 @@
+[
+  {
+    "id": "y45d6kkm",
+    "game": "Baku Baku Animal",
+    "player": "ruunix2",
+    "player_location": "us",
+    "time": 1006,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "y8957rdm",
+    "game": "Baku Baku Animal",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 236,
+    "category": "Arcade (Game Gear / Master System)",
+    "region": "USA / NTSC",
+    "platform": "Sega Game Gear",
+    "emulated": true
+  },
+  {
+    "id": "yd57px0m",
+    "game": "Baku Baku Animal",
+    "player": "MortimerNova",
+    "player_location": "us",
+    "time": 326,
+    "category": "Arcade (Game Gear / Master System)",
+    "region": "USA / NTSC",
+    "platform": "Sega Game Gear",
+    "emulated": true
+  },
+  {
+    "id": "y88wn4dy",
+    "game": "Baku Baku Animal",
+    "player": "scrapped_zaraki",
+    "player_location": "jp",
+    "time": 60,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "z062kp9z",
+    "game": "Baku Baku Animal",
+    "player": "duervelo",
+    "player_location": "gb/eng",
+    "time": 850,
+    "category": "",
+    "region": null,
+    "platform": "PC",
+    "emulated": true
+  },
+  {
+    "id": "m3r723qm",
+    "game": "Baku Baku Animal",
+    "player": "COMPETIDORX",
+    "player_location": "br",
+    "time": 780,
+    "category": "Arcade (Game Gear / Master System)",
+    "region": "USA / NTSC",
+    "platform": "Sega Master System",
+    "emulated": true
+  },
+  {
+    "id": "z12x44gy",
+    "game": "Baku Baku Animal",
+    "player": "Fraggggg",
+    "player_location": "br",
+    "time": 487,
+    "category": "Arcade (Game Gear / Master System)",
+    "region": "USA / NTSC",
+    "platform": "Sega Game Gear",
+    "emulated": true
+  },
+  {
+    "id": "yjx8ne3z",
+    "game": "Baku Baku Animal",
+    "player": "SteveZero",
+    "player_location": "us",
+    "time": 360,
+    "category": "Arcade (Game Gear / Master System)",
+    "region": "USA / NTSC",
+    "platform": "Sega Master System",
+    "emulated": true
+  },
+  {
+    "id": "y883781y",
+    "game": "Baku Baku Animal",
+    "player": "JoePulito",
+    "player_location": "us",
+    "time": 503,
+    "category": "Arcade (Game Gear / Master System)",
+    "region": null,
+    "platform": "Sega Master System",
+    "emulated": true
+  }
+]

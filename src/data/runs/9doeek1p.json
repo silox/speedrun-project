@@ -1,0 +1,167 @@
+[
+  {
+    "id": "pm3wdgwy",
+    "game": "BurgerTime (NES)",
+    "player": "anthole",
+    "player_location": "us",
+    "time": 155,
+    "category": "High Score",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "y45pkw2m",
+    "game": "BurgerTime (NES)",
+    "player": "BuzzThunder",
+    "player_location": "us",
+    "time": 41.032,
+    "category": "High Score",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "wzpkwlvy",
+    "game": "BurgerTime (NES)",
+    "player": "GameGlitchGuy",
+    "player_location": "us",
+    "time": 44,
+    "category": "High Score",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y922erez",
+    "game": "BurgerTime (NES)",
+    "player": "The_Retro_Challenger",
+    "player_location": "ca/qc",
+    "time": 148,
+    "category": "High Score",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "mk93g4vz",
+    "game": "BurgerTime (NES)",
+    "player": "smartalec24",
+    "player_location": "us",
+    "time": 46,
+    "category": "High Score",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zp08x4rm",
+    "game": "BurgerTime (NES)",
+    "player": "chefpepper",
+    "player_location": "ca",
+    "time": 274,
+    "category": "1-Loop",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "zprn2d8m",
+    "game": "BurgerTime (NES)",
+    "player": "ShesChardcore",
+    "player_location": "us",
+    "time": 41.064,
+    "category": "High Score",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "yjljp23z",
+    "game": "BurgerTime (NES)",
+    "player": "JkLoser",
+    "player_location": "se",
+    "time": 41.035,
+    "category": "High Score",
+    "region": null,
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "z0506l8m",
+    "game": "BurgerTime (NES)",
+    "player": "JoshKeys",
+    "player_location": null,
+    "time": 39.833,
+    "category": "High Score",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "z092jnjz",
+    "game": "BurgerTime (NES)",
+    "player": "Bigfoot86",
+    "player_location": "us",
+    "time": 40.439,
+    "category": "High Score",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "ylo639xy",
+    "game": "BurgerTime (NES)",
+    "player": "Bokonon_Lives",
+    "player_location": "us",
+    "time": 45.767,
+    "category": "High Score",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "zno2439y",
+    "game": "BurgerTime (NES)",
+    "player": "t0zzle",
+    "player_location": "ca",
+    "time": 268,
+    "category": "1-Loop",
+    "region": null,
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y66k4kjy",
+    "game": "BurgerTime (NES)",
+    "player": "JoePulito",
+    "player_location": "us",
+    "time": 40,
+    "category": "High Score",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "zp8kpjry",
+    "game": "BurgerTime (NES)",
+    "player": "starcrytas",
+    "player_location": "us",
+    "time": 39.77,
+    "category": "High Score",
+    "region": null,
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "zxl7e95z",
+    "game": "BurgerTime (NES)",
+    "player": "silverrain64",
+    "player_location": "us",
+    "time": 338,
+    "category": "1-Loop",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  }
+]

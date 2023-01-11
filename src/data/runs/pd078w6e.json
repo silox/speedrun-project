@@ -1,0 +1,123 @@
+[
+  {
+    "id": "9mex1l0z",
+    "game": "Gurumin: A Monstrous Adventure",
+    "player": "MHFsilver",
+    "player_location": "us",
+    "time": 113,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": false
+  },
+  {
+    "id": "8m77lo4m",
+    "game": "Gurumin: A Monstrous Adventure",
+    "player": "Verz",
+    "player_location": "us",
+    "time": 3571,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "9meonl3z",
+    "game": "Gurumin: A Monstrous Adventure",
+    "player": "Token",
+    "player_location": null,
+    "time": 104,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "8m7d9w5m",
+    "game": "Gurumin: A Monstrous Adventure",
+    "player": "ravi",
+    "player_location": "jp",
+    "time": 110,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y457xq3m",
+    "game": "Gurumin: A Monstrous Adventure",
+    "player": "Ramewle",
+    "player_location": "gb/eng",
+    "time": 7117,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z0e7lp9m",
+    "game": "Gurumin: A Monstrous Adventure",
+    "player": "RinRabbit",
+    "player_location": "gb/eng",
+    "time": 9224,
+    "category": "All Levels",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m3nej94y",
+    "game": "Gurumin: A Monstrous Adventure",
+    "player": "Brobey",
+    "player_location": "ca",
+    "time": 89,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zn0885vy",
+    "game": "Gurumin: A Monstrous Adventure",
+    "player": "ShadowSaibot54",
+    "player_location": null,
+    "time": 121,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m77qej0m",
+    "game": "Gurumin: A Monstrous Adventure",
+    "player": "JosephTheElite",
+    "player_location": "us",
+    "time": 4288,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "ydd41x0y",
+    "game": "Gurumin: A Monstrous Adventure",
+    "player": "GameIt",
+    "player_location": "us",
+    "time": 26,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zq9wqo5y",
+    "game": "Gurumin: A Monstrous Adventure",
+    "player": "ivirj",
+    "player_location": "mx",
+    "time": 3559,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

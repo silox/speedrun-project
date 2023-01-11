@@ -1,0 +1,79 @@
+[
+  {
+    "id": "yo9nopdy",
+    "game": "",
+    "player": "Otterstone_Gamer",
+    "player_location": "us",
+    "time": 463.867,
+    "category": "Ham Race Games",
+    "region": null,
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "yd9jn4xz",
+    "game": "",
+    "player": "N/A",
+    "player_location": null,
+    "time": 0.001,
+    "category": "Ham Race Games",
+    "region": null,
+    "platform": null,
+    "emulated": false
+  },
+  {
+    "id": "y8vl9k1z",
+    "game": "",
+    "player": "Kkntucara",
+    "player_location": "es",
+    "time": 382.877,
+    "category": "Ham Race Games",
+    "region": "EUR / PAL",
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "znodpe8y",
+    "game": "Multiple DAN-BALL Games",
+    "player": "Triple_x_Jihad689",
+    "player_location": "id",
+    "time": 951.566,
+    "category": "Ham Race Games",
+    "region": null,
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "y6dp276m",
+    "game": "Multiple DAN-BALL Games",
+    "player": "TRLittleToaster",
+    "player_location": "us",
+    "time": 578.633,
+    "category": "",
+    "region": null,
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "ywqj1w9y",
+    "game": "Multiple DAN-BALL Games",
+    "player": "FrostySR",
+    "player_location": null,
+    "time": 812.2,
+    "category": "Ham Race Games",
+    "region": "EUR / PAL",
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "mr644xgm",
+    "game": "Multiple DAN-BALL Games",
+    "player": "do_ob",
+    "player_location": "bh",
+    "time": 359.933,
+    "category": "Ham Race Games",
+    "region": null,
+    "platform": "Web",
+    "emulated": false
+  }
+]

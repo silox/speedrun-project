@@ -1,0 +1,24 @@
+[
+  {
+    "id": "yv69e0ez",
+    "game": "Lunacy",
+    "player": "Shentok",
+    "player_location": "us",
+    "time": 6869,
+    "category": "Bad Ending",
+    "region": "USA / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "mk7o4w1y",
+    "game": "Lunacy",
+    "player": "harum3",
+    "player_location": "jp",
+    "time": 6191,
+    "category": "Bad Ending",
+    "region": "JPN / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  }
+]

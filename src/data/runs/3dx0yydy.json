@@ -1,0 +1,101 @@
+[
+  {
+    "id": "8yvqr08m",
+    "game": "Croixleur Sigma",
+    "player": "Token",
+    "player_location": null,
+    "time": 537.43,
+    "category": "PC",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "9mej312y",
+    "game": "Croixleur Sigma",
+    "player": "Enasper",
+    "player_location": "ca",
+    "time": 486.16,
+    "category": "PC",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "9yorpd5y",
+    "game": "Croixleur Sigma",
+    "player": "NinjasInCarpets",
+    "player_location": "gb/wls",
+    "time": 467.48,
+    "category": "PC",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "nz1p8rwz",
+    "game": "Croixleur Sigma",
+    "player": "Arata_Alt",
+    "player_location": null,
+    "time": 448.06,
+    "category": "PC",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yl9x172y",
+    "game": "Croixleur Sigma",
+    "player": "Matthewz_CS",
+    "player_location": "br",
+    "time": 387.38,
+    "category": "PS4",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "z1jjvxjz",
+    "game": "Croixleur Sigma",
+    "player": "SilentHarmony",
+    "player_location": "us",
+    "time": 580.73,
+    "category": "PC",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mre9dv2y",
+    "game": "Croixleur Sigma",
+    "player": "Amac",
+    "player_location": "us",
+    "time": 408.16,
+    "category": "PS4",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "m7q8lx0z",
+    "game": "Croixleur Sigma",
+    "player": "Lezchill",
+    "player_location": "us",
+    "time": 357.03,
+    "category": "PS4",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "yo6ejk5y",
+    "game": "Croixleur Sigma",
+    "player": "Foemy",
+    "player_location": "dk",
+    "time": 399.64,
+    "category": "Switch",
+    "region": "EUR / PAL",
+    "platform": "Switch",
+    "emulated": false
+  }
+]

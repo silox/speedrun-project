@@ -1,0 +1,90 @@
+[
+  {
+    "id": "y65e340z",
+    "game": "Super Stacey World",
+    "player": "MrFink",
+    "player_location": "de",
+    "time": 848,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "yo21205z",
+    "game": "Super Stacey World",
+    "player": "MCRikki",
+    "player_location": "us",
+    "time": 1157,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y810dgnz",
+    "game": "Super Stacey World",
+    "player": "ScageRock",
+    "player_location": "us",
+    "time": 1057,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y6l42g1y",
+    "game": "Super Stacey World",
+    "player": "Halscion",
+    "player_location": "us",
+    "time": 1316,
+    "category": "100%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "y4w43j3m",
+    "game": "Super Stacey World",
+    "player": "Necrosky90",
+    "player_location": "de",
+    "time": 799,
+    "category": "Any%",
+    "region": null,
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "zp3n8vxm",
+    "game": "Super Stacey World",
+    "player": "BaronCanuck",
+    "player_location": "ca",
+    "time": 734,
+    "category": "Any%",
+    "region": null,
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "ylr891ky",
+    "game": "Super Stacey World",
+    "player": "Fabio_Novaki",
+    "player_location": "br",
+    "time": 807,
+    "category": "Any%",
+    "region": null,
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "y2749w5z",
+    "game": "Super Stacey World",
+    "player": "rokero171",
+    "player_location": "br",
+    "time": 757,
+    "category": "Any%",
+    "region": null,
+    "platform": "Super Nintendo",
+    "emulated": false
+  }
+]

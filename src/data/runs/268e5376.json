@@ -1,0 +1,57 @@
+[
+  {
+    "id": "y432n52z",
+    "game": "LetterSchool",
+    "player": "TuckerStudios",
+    "player_location": "us",
+    "time": 286.05,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "y89v5n1m",
+    "game": "LetterSchool",
+    "player": "Otterstone_Gamer",
+    "player_location": "us",
+    "time": 239.83,
+    "category": "First 5 lower case cursive letters",
+    "region": "USA / NTSC",
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "mk2vn23m",
+    "game": "LetterSchool",
+    "player": "Andrewwayne12.",
+    "player_location": "us",
+    "time": 276,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "yj1e8w7y",
+    "game": "LetterSchool",
+    "player": "ShesChardcore",
+    "player_location": "us",
+    "time": 347,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "zqgp485m",
+    "game": "LetterSchool",
+    "player": "Jacob1",
+    "player_location": "ca",
+    "time": 225.3,
+    "category": "First 5 numbers",
+    "region": null,
+    "platform": "iOS",
+    "emulated": false
+  }
+]

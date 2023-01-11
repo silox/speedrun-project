@@ -1,0 +1,68 @@
+[
+  {
+    "id": "me77572y",
+    "game": "Pac-Chaves",
+    "player": "victu",
+    "player_location": "br",
+    "time": 22.567,
+    "category": "Collect All Ham Sandwiches",
+    "region": "BRA / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yjg5lwoy",
+    "game": "Pac-Chaves",
+    "player": "PsychoEnder",
+    "player_location": "ma",
+    "time": 3.333,
+    "category": "",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "ywqkvw3y",
+    "game": "Pac-Chaves",
+    "player": "VyPr",
+    "player_location": "us",
+    "time": 4.8,
+    "category": "Death%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zn1jgw9m",
+    "game": "Pac-Chaves",
+    "player": "TRLittleToaster",
+    "player_location": "us",
+    "time": 8.9,
+    "category": "Death%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "ywj9730z",
+    "game": "Pac-Chaves",
+    "player": "Akuretaki",
+    "player_location": "ru",
+    "time": 5.667,
+    "category": "Death%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "znqe5wvz",
+    "game": "Pac-Chaves",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 44.367,
+    "category": "",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  }
+]

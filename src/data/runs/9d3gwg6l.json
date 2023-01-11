@@ -1,0 +1,134 @@
+[
+  {
+    "id": "z5orv8jy",
+    "game": "Battletoads & Double Dragon (SNES)",
+    "player": "mecharichter",
+    "player_location": "us",
+    "time": 1104,
+    "category": "Coop Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "z1324wwm",
+    "game": "Battletoads & Double Dragon (SNES)",
+    "player": "Charlieboy",
+    "player_location": "us",
+    "time": 1750,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "yo48355m",
+    "game": "Battletoads & Double Dragon (SNES)",
+    "player": "fluffytoycoy",
+    "player_location": "us",
+    "time": 1476,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "m7qon10z",
+    "game": "Battletoads & Double Dragon (SNES)",
+    "player": "colin",
+    "player_location": "us",
+    "time": 1124,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y913vvkm",
+    "game": "Battletoads & Double Dragon (SNES)",
+    "player": "BeaRType",
+    "player_location": "br",
+    "time": 1189,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "yd35novz",
+    "game": "Battletoads & Double Dragon (SNES)",
+    "player": "Dawoo89",
+    "player_location": "us",
+    "time": 1154,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y89g1k1m",
+    "game": "Battletoads & Double Dragon (SNES)",
+    "player": "JKNEF",
+    "player_location": "us",
+    "time": 1092,
+    "category": "Coop Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "me82270m",
+    "game": "Battletoads & Double Dragon (SNES)",
+    "player": "RedOtr",
+    "player_location": "us",
+    "time": 1775,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "zgkd24ny",
+    "game": "Battletoads & Double Dragon (SNES)",
+    "player": "Werzhil",
+    "player_location": "ru",
+    "time": 1374,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "yjlj867z",
+    "game": "Battletoads & Double Dragon (SNES)",
+    "player": "NeGAtiv4k",
+    "player_location": "ru",
+    "time": 1612,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "ylvro23m",
+    "game": "Battletoads & Double Dragon (SNES)",
+    "player": "Jokoso",
+    "player_location": "cl",
+    "time": 1314,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "m3no25dy",
+    "game": "Battletoads & Double Dragon (SNES)",
+    "player": "Throgg",
+    "player_location": "us",
+    "time": 1679,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  }
+]

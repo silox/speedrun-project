@@ -1,0 +1,90 @@
+[
+  {
+    "id": "mk2jjqlm",
+    "game": "Blue Stinger",
+    "player": "SLr",
+    "player_location": "gb/eng",
+    "time": 7147,
+    "category": "New game +",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "wzpxk8xm",
+    "game": "Blue Stinger",
+    "player": "AnkhM_",
+    "player_location": "fr",
+    "time": 9217,
+    "category": "New game +",
+    "region": "EUR / PAL",
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "zx4w655y",
+    "game": "Blue Stinger",
+    "player": "Neon",
+    "player_location": null,
+    "time": 7845,
+    "category": "New game",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "z57j40jm",
+    "game": "Blue Stinger",
+    "player": "Kisp",
+    "player_location": "us",
+    "time": 8931,
+    "category": "Emu New game \"1 bullet\"",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "yw8d67ny",
+    "game": "Blue Stinger",
+    "player": "MrSilentVid",
+    "player_location": "gb",
+    "time": 8800,
+    "category": "New game",
+    "region": "JPN / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "mk35d2vz",
+    "game": "Blue Stinger",
+    "player": "sloaner500",
+    "player_location": "ca",
+    "time": 7470,
+    "category": "New game +",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "y9l1o4ny",
+    "game": "Blue Stinger",
+    "player": "Starwin",
+    "player_location": "us",
+    "time": 6888,
+    "category": "New game +",
+    "region": null,
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "zqg1k28m",
+    "game": "Blue Stinger",
+    "player": "sai_ryusei",
+    "player_location": "us",
+    "time": 9904,
+    "category": "New game +",
+    "region": null,
+    "platform": "Dreamcast",
+    "emulated": false
+  }
+]

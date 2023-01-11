@@ -1,0 +1,90 @@
+[
+  {
+    "id": "ydreod0z",
+    "game": "Manuganu 2",
+    "player": "Otterstone_Gamer",
+    "player_location": "us",
+    "time": 38,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "y66g081y",
+    "game": "Manuganu 2",
+    "player": "ShesChardcore",
+    "player_location": "us",
+    "time": 42,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "y66j880y",
+    "game": "Manuganu 2",
+    "player": "hen7y",
+    "player_location": null,
+    "time": 66,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "yo64j00y",
+    "game": "Manuganu 2",
+    "player": "TRLittleToaster",
+    "player_location": "us",
+    "time": 41,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "z5d3p3dm",
+    "game": "Manuganu 2",
+    "player": "AslanTZ",
+    "player_location": "tr",
+    "time": 40,
+    "category": "Any%",
+    "region": null,
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "y476jj3y",
+    "game": "Manuganu 2",
+    "player": "Toxcien",
+    "player_location": "fi",
+    "time": 39,
+    "category": "Any%",
+    "region": null,
+    "platform": "Android",
+    "emulated": true
+  },
+  {
+    "id": "m3708pgz",
+    "game": "Manuganu 2",
+    "player": "JDMI",
+    "player_location": "us",
+    "time": 40,
+    "category": "100%",
+    "region": "USA / NTSC",
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "yjpqj4oy",
+    "game": "Manuganu 2",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 39,
+    "category": "Any%",
+    "region": null,
+    "platform": "Android",
+    "emulated": false
+  }
+]

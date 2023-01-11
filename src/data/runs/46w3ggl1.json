@@ -1,0 +1,46 @@
+[
+  {
+    "id": "yo711q5m",
+    "game": "New Super Mario Land",
+    "player": "TMLink",
+    "player_location": "us",
+    "time": 1118,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "yv9xgp4z",
+    "game": "New Super Mario Land",
+    "player": "raysic64",
+    "player_location": "mx",
+    "time": 1256,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "zxojpk8z",
+    "game": "New Super Mario Land",
+    "player": "Stigmat",
+    "player_location": "vh",
+    "time": 841.667,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "mro9x3dm",
+    "game": "New Super Mario Land",
+    "player": "Schneller_Boi",
+    "player_location": "de",
+    "time": 1650,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  }
+]

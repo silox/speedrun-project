@@ -1,0 +1,68 @@
+[
+  {
+    "id": "zpqe08gy",
+    "game": "Dual heroes",
+    "player": "Peetzz",
+    "player_location": "no",
+    "time": 752,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Nintendo 64",
+    "emulated": true
+  },
+  {
+    "id": "yw17k23z",
+    "game": "Dual heroes",
+    "player": "DeMoNFLiP84",
+    "player_location": "us",
+    "time": 503,
+    "category": "Any% Glitchless",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": false
+  },
+  {
+    "id": "yo276l5z",
+    "game": "Dual heroes",
+    "player": "mayso_no",
+    "player_location": "jp",
+    "time": 394,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": false
+  },
+  {
+    "id": "zp0x39rm",
+    "game": "Dual heroes",
+    "player": "NerdyNester",
+    "player_location": "us",
+    "time": 325,
+    "category": "",
+    "region": null,
+    "platform": "Nintendo 64",
+    "emulated": false
+  },
+  {
+    "id": "z01rro9y",
+    "game": "Dual heroes",
+    "player": "MiT_Epona",
+    "player_location": "kr",
+    "time": 291,
+    "category": "Any% Glitched",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": false
+  },
+  {
+    "id": "y666ep0y",
+    "game": "Dual heroes",
+    "player": "CKLaboratories",
+    "player_location": "us",
+    "time": 438,
+    "category": "Any% Glitchless",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": false
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "z0lgxrez",
+    "game": "Metroid Fusion Category Extensions",
+    "player": "Frydi",
+    "player_location": "de",
+    "time": 5490,
+    "category": "69%",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "y2eon09y",
+    "game": "Metroid Fusion Category Extensions",
+    "player": "HerculesBenchpress",
+    "player_location": "us",
+    "time": 1445,
+    "category": "100 Missiles",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": false
+  },
+  {
+    "id": "mro8727m",
+    "game": "Metroid Fusion Category Extensions",
+    "player": "autumnoutofhabit",
+    "player_location": "us",
+    "time": 55.016,
+    "category": "Restricted Sector",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "z0lv95oz",
+    "game": "Metroid Fusion Category Extensions",
+    "player": "video_james",
+    "player_location": "us",
+    "time": 55.054,
+    "category": "Restricted Sector",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": false
+  }
+]

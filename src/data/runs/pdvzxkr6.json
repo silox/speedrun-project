@@ -1,0 +1,68 @@
+[
+  {
+    "id": "z06664jz",
+    "game": "Ghost Castle",
+    "player": "TheDungeoneer",
+    "player_location": null,
+    "time": 3017.027,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "mr44l97z",
+    "game": "Ghost Castle",
+    "player": "F4ph",
+    "player_location": "bb",
+    "time": 33.991,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "mr44n34z",
+    "game": "Ghost Castle",
+    "player": "GrimPrimal",
+    "player_location": "us",
+    "time": 34.272,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "zgxqlpdm",
+    "game": "Ghost Castle",
+    "player": "Rinbu",
+    "player_location": null,
+    "time": 50.3,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "yd9x2wxz",
+    "game": "Ghost Castle",
+    "player": "JDMI",
+    "player_location": "us",
+    "time": 28.633,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "ylo81wry",
+    "game": "Ghost Castle",
+    "player": "Niklas51",
+    "player_location": "fr",
+    "time": 2243.483,
+    "category": "Any%",
+    "region": null,
+    "platform": "Android",
+    "emulated": false
+  }
+]

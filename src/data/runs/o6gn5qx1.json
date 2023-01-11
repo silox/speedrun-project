@@ -1,0 +1,24 @@
+[
+  {
+    "id": "ydg679jy",
+    "game": "Twin Eagle",
+    "player": "Ellimist",
+    "player_location": "us",
+    "time": 1429,
+    "category": "2P",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "m72qke9z",
+    "game": "Twin Eagle",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 1371,
+    "category": "2P",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

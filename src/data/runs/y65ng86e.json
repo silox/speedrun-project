@@ -1,0 +1,46 @@
+[
+  {
+    "id": "m7ww489z",
+    "game": "Cyber Police ESWAT",
+    "player": "RitaH",
+    "player_location": "br",
+    "time": 21,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yorrgwdy",
+    "game": "Cyber Police ESWAT",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 22,
+    "category": "1 Player",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "m330dddm",
+    "game": "Cyber Police ESWAT",
+    "player": "Colmillito",
+    "player_location": "cl",
+    "time": 501,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yjdp8voy",
+    "game": "Cyber Police ESWAT",
+    "player": "Ellimist",
+    "player_location": "us",
+    "time": 492,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "me81980m",
+    "game": "Nightmare Creatures - Nadia Individual Level",
+    "player": "Caseywho",
+    "player_location": "us",
+    "time": 54,
+    "category": "N64 (Easy)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": false
+  },
+  {
+    "id": "z03nqj9z",
+    "game": "Nightmare Creatures - Nadia Individual Level",
+    "player": "SephJul",
+    "player_location": "be",
+    "time": 21,
+    "category": "PS (Easy)",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "z533k1dy",
+    "game": "Nightmare Creatures - Nadia Individual Level",
+    "player": "AlbinoGames",
+    "player_location": "br",
+    "time": 46,
+    "category": "N64 (Easy)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": false
+  },
+  {
+    "id": "yv2r3xem",
+    "game": "Nightmare Creatures - Nadia Individual Level",
+    "player": "Vynnada",
+    "player_location": "ie",
+    "time": 58,
+    "category": "PS (Easy)",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "id": "y8qwkl5y",
+    "game": "Gauntlet: Dark Legacy",
+    "player": "Boyo003",
+    "player_location": "us",
+    "time": 118,
+    "category": "Sumner%",
+    "region": null,
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "z13r50gm",
+    "game": "Gauntlet: Dark Legacy",
+    "player": "scaz.zaf",
+    "player_location": "us",
+    "time": 10717,
+    "category": "Special Mode",
+    "region": null,
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "mrqw54gy",
+    "game": "Gauntlet: Dark Legacy",
+    "player": "infinitemystery",
+    "player_location": null,
+    "time": 47964,
+    "category": "Glitchless",
+    "region": null,
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zq3g8x1y",
+    "game": "Gauntlet: Dark Legacy",
+    "player": "TurboFX",
+    "player_location": "gb",
+    "time": 36.068,
+    "category": "Single Player",
+    "region": null,
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zq30j1xy",
+    "game": "Gauntlet: Dark Legacy",
+    "player": "TacoParade",
+    "player_location": "us",
+    "time": 34355,
+    "category": "Glitchless",
+    "region": null,
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "m7gj62wm",
+    "game": "Gauntlet: Dark Legacy",
+    "player": "GreenBomber",
+    "player_location": "us",
+    "time": 37,
+    "category": "Single Player",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "yv3qe5oz",
+    "game": "Gauntlet: Dark Legacy",
+    "player": "Bacon68",
+    "player_location": "ca",
+    "time": 47.53,
+    "category": "Single Player",
+    "region": "EUR / PAL",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "y4e8grnm",
+    "game": "Gauntlet: Dark Legacy",
+    "player": "KeepItUpBro",
+    "player_location": "us",
+    "time": 87.937,
+    "category": "Single Player",
+    "region": null,
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "zqww939z",
+    "game": "Gauntlet: Dark Legacy",
+    "player": "yungdoss",
+    "player_location": "us",
+    "time": 33.43,
+    "category": "Single Player",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "mrk9jw2y",
+    "game": "Gauntlet: Dark Legacy",
+    "player": "Jimmyr_thehotpocket",
+    "player_location": "us",
+    "time": 32769.09,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "ywk88l2y",
+    "game": "Gauntlet: Dark Legacy",
+    "player": "bubblehash",
+    "player_location": null,
+    "time": 156.09,
+    "category": "Single Player",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "zn775o9m",
+    "game": "Gauntlet: Dark Legacy",
+    "player": "Jamelton",
+    "player_location": "us",
+    "time": 31.82,
+    "category": "Single Player",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "z5v7op5m",
+    "game": "Gauntlet: Dark Legacy",
+    "player": "jdawg133722",
+    "player_location": "us",
+    "time": 43568.13,
+    "category": "Co-Op",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  }
+]

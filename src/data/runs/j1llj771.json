@@ -1,0 +1,57 @@
+[
+  {
+    "id": "y90p9qky",
+    "game": "Golf Peaks",
+    "player": "nostairway",
+    "player_location": "fr",
+    "time": 1291.035,
+    "category": "All Levels",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zqg6nx5m",
+    "game": "Golf Peaks",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 1.72,
+    "category": "World 1",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y6d4vn0m",
+    "game": "Golf Peaks",
+    "player": "Snafful",
+    "player_location": "jp",
+    "time": 1.511,
+    "category": "World 1",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y27wjk7z",
+    "game": "Golf Peaks",
+    "player": "JDMI",
+    "player_location": "us",
+    "time": 1.511,
+    "category": "World 1",
+    "region": "USA / NTSC",
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "yv86v3om",
+    "game": "Golf Peaks",
+    "player": "Kazulhu",
+    "player_location": "fr",
+    "time": 3.354,
+    "category": "World 1",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  }
+]

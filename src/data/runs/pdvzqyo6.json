@@ -1,0 +1,57 @@
+[
+  {
+    "id": "y65w5n1z",
+    "game": "Carnival Games (2018)",
+    "player": "Otterstone_Gamer",
+    "player_location": "us",
+    "time": 768,
+    "category": "Decathlon",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "z09w789z",
+    "game": "Carnival Games (2018)",
+    "player": "Kieron",
+    "player_location": "gb/eng",
+    "time": 363,
+    "category": "Decathlon",
+    "region": "EUR / PAL",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "zq4j4p5m",
+    "game": "Carnival Games (2018)",
+    "player": "Sadpotato7",
+    "player_location": "us",
+    "time": 494,
+    "category": "Decathlon",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "zgr0q4dm",
+    "game": "Carnival Games (2018)",
+    "player": "Inciv",
+    "player_location": "us",
+    "time": 752,
+    "category": "Decathlon",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "z12or2gy",
+    "game": "Carnival Games (2018)",
+    "player": "PatrickButSmart",
+    "player_location": "ie",
+    "time": 822,
+    "category": "Decathlon",
+    "region": "EUR / PAL",
+    "platform": "Switch",
+    "emulated": false
+  }
+]

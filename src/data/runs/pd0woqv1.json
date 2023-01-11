@@ -1,0 +1,35 @@
+[
+  {
+    "id": "y66q9gjy",
+    "game": "X-Men: Next Dimension",
+    "player": "SilentProtagonist",
+    "player_location": "us",
+    "time": 628.2,
+    "category": "",
+    "region": null,
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "ylr7je3y",
+    "game": "X-Men: Next Dimension",
+    "player": "sandalwoodgrips",
+    "player_location": "us",
+    "time": 553.16,
+    "category": "Arcade%",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "zxoq16gz",
+    "game": "X-Men: Next Dimension",
+    "player": "randomrickreviews",
+    "player_location": null,
+    "time": 2121.6,
+    "category": "Arcade%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "m7wj3l5z",
+    "game": "KAMUI",
+    "player": "synthpopisback",
+    "player_location": "us",
+    "time": 1357,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y6o5gx0y",
+    "game": "KAMUI",
+    "player": "onthefly00",
+    "player_location": "jp",
+    "time": 1223,
+    "category": "Easy",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yv826nom",
+    "game": "KAMUI",
+    "player": "Tomatomato",
+    "player_location": "jp",
+    "time": 1330,
+    "category": "Easy",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

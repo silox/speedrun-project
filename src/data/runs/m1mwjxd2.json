@@ -1,0 +1,46 @@
+[
+  {
+    "id": "6yjg5poy",
+    "game": "Advanced Dungeons & Dragons: Hillsfar",
+    "player": "Dugongue",
+    "player_location": "us",
+    "time": 4563,
+    "category": "(NES) Fighter",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "yd37gojz",
+    "game": "Advanced Dungeons & Dragons: Hillsfar",
+    "player": "EightbitSteve",
+    "player_location": "us",
+    "time": 2044,
+    "category": "(NES) Cleric",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "yv9j94ez",
+    "game": "Advanced Dungeons & Dragons: Hillsfar",
+    "player": "KHANanaphone",
+    "player_location": "ca",
+    "time": 4868,
+    "category": "(NES) Thief",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "m3neewgy",
+    "game": "Advanced Dungeons & Dragons: Hillsfar",
+    "player": "fuso-wasedr09",
+    "player_location": "jp",
+    "time": 2149,
+    "category": "(NES) Cleric",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  }
+]

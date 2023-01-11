@@ -1,0 +1,35 @@
+[
+  {
+    "id": "z1g2g07z",
+    "game": "",
+    "player": "Abacaxi",
+    "player_location": null,
+    "time": 1127,
+    "category": "Breakout Challenge ( Normal) [Beta]",
+    "region": "BRA / PAL",
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "m7xw469y",
+    "game": "",
+    "player": "iRuim2.0",
+    "player_location": null,
+    "time": 1225,
+    "category": "Breakout Challenge ( Normal) [Beta]",
+    "region": "BRA / PAL",
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "zgqqkxdy",
+    "game": "",
+    "player": "ShanKSRT",
+    "player_location": "br",
+    "time": 915,
+    "category": "Breakout Challenge ( Normal) [Beta]",
+    "region": "BRA / PAL",
+    "platform": "Android",
+    "emulated": false
+  }
+]

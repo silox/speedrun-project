@@ -1,0 +1,123 @@
+[
+  {
+    "id": "jy9p2wrm",
+    "game": "The King Of Fighters '94",
+    "player": "ADM",
+    "player_location": null,
+    "time": 1558,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "emko9xlz",
+    "game": "The King Of Fighters '94",
+    "player": "World of Longplays",
+    "player_location": null,
+    "time": 1375,
+    "category": "Neo Geo (MVS)",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z116xxjz",
+    "game": "The King Of Fighters '94",
+    "player": "ZALOMASTER",
+    "player_location": "cl",
+    "time": 1108,
+    "category": "Neo Geo (MVS)",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zxkp35qm",
+    "game": "The King Of Fighters '94",
+    "player": "LeandroAmadeu",
+    "player_location": "br",
+    "time": 680,
+    "category": "Neo Geo (MVS)",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zg7991nz",
+    "game": "The King Of Fighters '94",
+    "player": "Fox-omegasurfer",
+    "player_location": "mx",
+    "time": 830,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "yw4rxgnz",
+    "game": "The King Of Fighters '94",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 906,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Neo Geo AES",
+    "emulated": true
+  },
+  {
+    "id": "mk2xlqxm",
+    "game": "The King Of Fighters '94",
+    "player": "Regyszord_BR",
+    "player_location": "br",
+    "time": 767,
+    "category": "Neo Geo (MVS)",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z05ev5em",
+    "game": "The King Of Fighters '94",
+    "player": "NeetSuhiro",
+    "player_location": "jp",
+    "time": 755,
+    "category": "Neo Geo (MVS)",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "zp1qx7gz",
+    "game": "The King Of Fighters '94",
+    "player": "NerdyNester",
+    "player_location": "us",
+    "time": 1463,
+    "category": "Neo Geo (MVS)",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": false
+  },
+  {
+    "id": "y994x7ey",
+    "game": "The King Of Fighters '94",
+    "player": "Micheliberato",
+    "player_location": "br",
+    "time": 2427,
+    "category": "Neo Geo (MVS)",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "mej52j3y",
+    "game": "The King Of Fighters '94",
+    "player": "1stDanSNK9495",
+    "player_location": "cl",
+    "time": 654,
+    "category": "Neo Geo (MVS)",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

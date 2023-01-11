@@ -1,0 +1,68 @@
+[
+  {
+    "id": "pzgqr6vy",
+    "game": "",
+    "player": "RantronBomb",
+    "player_location": null,
+    "time": 1073,
+    "category": "NES",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "y82r8r5y",
+    "game": "",
+    "player": "GameGlitchGuy",
+    "player_location": "us",
+    "time": 479,
+    "category": "NES",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y45w2q3m",
+    "game": "",
+    "player": "JoshKeys",
+    "player_location": null,
+    "time": 1200,
+    "category": "NES",
+    "region": "EUR / PAL",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "yjl6p63z",
+    "game": "Arch Rivals",
+    "player": "Peanutfan22",
+    "player_location": "us",
+    "time": 805,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "yvjlvxxy",
+    "game": "Arch Rivals",
+    "player": "NihilistComedyHour",
+    "player_location": "eo",
+    "time": 1156,
+    "category": "NES",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "yvq2lwom",
+    "game": "Arch Rivals",
+    "player": "randomrickreviews",
+    "player_location": null,
+    "time": 1075,
+    "category": "",
+    "region": null,
+    "platform": "Sega Genesis",
+    "emulated": true
+  }
+]

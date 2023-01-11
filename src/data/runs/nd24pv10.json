@@ -1,0 +1,90 @@
+[
+  {
+    "id": "9yo18r1m",
+    "game": "Virtual Hydlide",
+    "player": "Megami_infini",
+    "player_location": "pl",
+    "time": 2974,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "mrqkdxdy",
+    "game": "Virtual Hydlide",
+    "player": "AngelDarksong",
+    "player_location": "gb/eng",
+    "time": 2312,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "yv278k4m",
+    "game": "Virtual Hydlide",
+    "player": "gyre",
+    "player_location": null,
+    "time": 2185,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "mrn0jpgy",
+    "game": "Virtual Hydlide",
+    "player": "JSR_",
+    "player_location": "us",
+    "time": 3112,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "z5vxx2nm",
+    "game": "Virtual Hydlide",
+    "player": "Raclesis",
+    "player_location": "us",
+    "time": 2505,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "zg2k820y",
+    "game": "Virtual Hydlide",
+    "player": "mechalink",
+    "player_location": "us",
+    "time": 1894,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "z5ejq1gz",
+    "game": "Virtual Hydlide",
+    "player": "Zophar",
+    "player_location": "us",
+    "time": 1930,
+    "category": "Any% (Emulator)",
+    "region": "JPN / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "m3lo934m",
+    "game": "Virtual Hydlide",
+    "player": "Cyriss_Zeal",
+    "player_location": "us",
+    "time": 3299,
+    "category": "Any% (Emulator)",
+    "region": "USA / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": true
+  }
+]

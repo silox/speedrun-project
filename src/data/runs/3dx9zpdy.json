@@ -1,0 +1,35 @@
+[
+  {
+    "id": "zn8l1q8z",
+    "game": "Sword of Vermilion",
+    "player": "LadyStarbird",
+    "player_location": "us",
+    "time": 8968,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "yv2qop8m",
+    "game": "Sword of Vermilion",
+    "player": "Wallguy",
+    "player_location": "us",
+    "time": 8546,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "me4w6eqy",
+    "game": "Sword of Vermilion",
+    "player": "Gusquelconque",
+    "player_location": "ca/qc",
+    "time": 7180,
+    "category": "Any%",
+    "region": null,
+    "platform": "Sega Genesis",
+    "emulated": true
+  }
+]

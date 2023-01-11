@@ -1,0 +1,90 @@
+[
+  {
+    "id": "8m76on9y",
+    "game": "Takahashi Meijin no Bouken Jima IV",
+    "player": "WhiteHat94",
+    "player_location": "us",
+    "time": 1479,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "7z04ldey",
+    "game": "Takahashi Meijin no Bouken Jima IV",
+    "player": "Yihou",
+    "player_location": "cn",
+    "time": 1058,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "0zn52jlz",
+    "game": "Takahashi Meijin no Bouken Jima IV",
+    "player": "pokefantom",
+    "player_location": "us",
+    "time": 1063,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "9yoedq7z",
+    "game": "Takahashi Meijin no Bouken Jima IV",
+    "player": "liuli",
+    "player_location": null,
+    "time": 1171,
+    "category": "Any%",
+    "region": null,
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "7z0xw2oz",
+    "game": "Takahashi Meijin no Bouken Jima IV",
+    "player": "xiaozhiye",
+    "player_location": "cn",
+    "time": 1316,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "wzp584ny",
+    "game": "Takahashi Meijin no Bouken Jima IV",
+    "player": "puchiedarcy",
+    "player_location": "us",
+    "time": 1130,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "m799xqwy",
+    "game": "Takahashi Meijin no Bouken Jima IV",
+    "player": "eyuzheng",
+    "player_location": "cn",
+    "time": 1454,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "mr7p198z",
+    "game": "Takahashi Meijin no Bouken Jima IV",
+    "player": "yangyi",
+    "player_location": "cn",
+    "time": 3414,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "dy411g2y",
+    "game": "Bomberman Generation",
+    "player": "kirkq",
+    "player_location": "us",
+    "time": 6338,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "9meodd0z",
+    "game": "Bomberman Generation",
+    "player": "TarragonSpice",
+    "player_location": "us",
+    "time": 8360,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "9yo39o1y",
+    "game": "Bomberman Generation",
+    "player": "sio-kedelic",
+    "player_location": "us",
+    "time": 6263,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "pzgpnv0z",
+    "game": "Bomberman Generation",
+    "player": "plp",
+    "player_location": "us",
+    "time": 9838,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "z5o2g7gy",
+    "game": "Bomberman Generation",
+    "player": "GreenBomber",
+    "player_location": "us",
+    "time": 5917,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  }
+]

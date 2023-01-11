@@ -1,0 +1,57 @@
+[
+  {
+    "id": "9mrn2g4y",
+    "game": "Captain Silver (SMS)",
+    "player": "Rasmus_1990",
+    "player_location": "no",
+    "time": 321.52,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Master System",
+    "emulated": false
+  },
+  {
+    "id": "zgn5o8ny",
+    "game": "Captain Silver (SMS)",
+    "player": "Rayquaza911",
+    "player_location": "ca",
+    "time": 290.61,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Master System",
+    "emulated": true
+  },
+  {
+    "id": "y2qog17y",
+    "game": "Captain Silver (SMS)",
+    "player": "RedPepper",
+    "player_location": "us",
+    "time": 278.42,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Master System",
+    "emulated": false
+  },
+  {
+    "id": "yd69ggjz",
+    "game": "Captain Silver (SMS)",
+    "player": "RadManFromMars",
+    "player_location": "us",
+    "time": 285.21,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Master System",
+    "emulated": true
+  },
+  {
+    "id": "y2ppvw7z",
+    "game": "Captain Silver (SMS)",
+    "player": "Apollo22237",
+    "player_location": "us",
+    "time": 306.45,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Master System",
+    "emulated": true
+  }
+]

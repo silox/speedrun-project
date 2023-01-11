@@ -1,0 +1,134 @@
+[
+  {
+    "id": "wzpre5gm",
+    "game": "",
+    "player": "lecorbak",
+    "player_location": "fr",
+    "time": 809,
+    "category": "JP 12HP%",
+    "region": "JPN / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "jy993ney",
+    "game": "",
+    "player": "Goati_",
+    "player_location": "it",
+    "time": 758,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "jy99e0ny",
+    "game": "Shadow of the Beast",
+    "player": "DickDirkin",
+    "player_location": "gb/eng",
+    "time": 788,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "dy4kjpkm",
+    "game": "Shadow of the Beast",
+    "player": "NeuralFrights",
+    "player_location": "ni",
+    "time": 749,
+    "category": "JP 18HP%",
+    "region": "JPN / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "z5okjojy",
+    "game": "Shadow of the Beast",
+    "player": "HighestLevelWizard",
+    "player_location": "us",
+    "time": 746,
+    "category": "JP 18HP%",
+    "region": "JPN / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "y2qj019y",
+    "game": "Shadow of the Beast",
+    "player": "TheMotherBrain86",
+    "player_location": "nl",
+    "time": 732,
+    "category": "JP 18HP%",
+    "region": "JPN / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "mr8r4o4y",
+    "game": "Shadow of the Beast",
+    "player": "Pikachu",
+    "player_location": "ua",
+    "time": 748,
+    "category": "JP 18HP%",
+    "region": "JPN / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "yl4nxvkm",
+    "game": "Shadow of the Beast",
+    "player": "btrim",
+    "player_location": "us",
+    "time": 855,
+    "category": "JP 18HP%",
+    "region": "JPN / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "zx43dlgy",
+    "game": "Shadow of the Beast",
+    "player": "infinitemystery",
+    "player_location": null,
+    "time": 1006,
+    "category": "JP 18HP%",
+    "region": "JPN / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "mr8lrv4y",
+    "game": "Shadow of the Beast",
+    "player": "Death_Devil",
+    "player_location": "ru",
+    "time": 730,
+    "category": "JP 18HP%",
+    "region": "JPN / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "zxkg08qm",
+    "game": "Shadow of the Beast",
+    "player": "The_Retro_Challenger",
+    "player_location": "ca/qc",
+    "time": 857,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": false
+  },
+  {
+    "id": "mrn4qngy",
+    "game": "Shadow of the Beast",
+    "player": "MatChariot",
+    "player_location": "jp",
+    "time": 761,
+    "category": "JP 12HP%",
+    "region": "JPN / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  }
+]

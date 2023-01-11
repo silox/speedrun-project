@@ -1,0 +1,57 @@
+[
+  {
+    "id": "y97l0qkm",
+    "game": "LEGO Rock Raiders (PC)",
+    "player": "Quackertree",
+    "player_location": "nl",
+    "time": 4984,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": true
+  },
+  {
+    "id": "zq69188y",
+    "game": "LEGO Rock Raiders (PC)",
+    "player": "Allbeert",
+    "player_location": "ca/qc",
+    "time": 3746,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": true
+  },
+  {
+    "id": "ydqplexm",
+    "game": "LEGO Rock Raiders (PC)",
+    "player": "ShadowDragon",
+    "player_location": "us",
+    "time": 50,
+    "category": "",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yd93nqvz",
+    "game": "LEGO Rock Raiders (PC)",
+    "player": "ShinigamiLucifer",
+    "player_location": "de",
+    "time": 88,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zqgjkoxm",
+    "game": "LEGO Rock Raiders (PC)",
+    "player": "kiznal",
+    "player_location": "us",
+    "time": 4031,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

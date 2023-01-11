@@ -1,0 +1,57 @@
+[
+  {
+    "id": "y2jqoljz",
+    "game": "Witch Cry: Horror House",
+    "player": "U_ShowcaseDev",
+    "player_location": null,
+    "time": 258,
+    "category": "Normal",
+    "region": null,
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "zpg40qnz",
+    "game": "Witch Cry: Horror House",
+    "player": "AnnaGamer",
+    "player_location": "br",
+    "time": 169,
+    "category": "Extreme",
+    "region": "BRA / PAL",
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "ywv4pn0z",
+    "game": "Witch Cry: Horror House",
+    "player": "Little_Q",
+    "player_location": "cn",
+    "time": 29.119,
+    "category": "Death",
+    "region": "CHN / PAL",
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "m72qq3ez",
+    "game": "Witch Cry: Horror House",
+    "player": "ClevelandBrownAbi",
+    "player_location": "de",
+    "time": 213,
+    "category": "Normal",
+    "region": null,
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "z0n9kv4m",
+    "game": "Witch Cry: Horror House",
+    "player": "VengeanceBearCubs",
+    "player_location": "us",
+    "time": 25,
+    "category": "Death",
+    "region": "USA / NTSC",
+    "platform": "iOS",
+    "emulated": false
+  }
+]

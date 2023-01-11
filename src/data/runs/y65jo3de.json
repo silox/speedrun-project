@@ -1,0 +1,178 @@
+[
+  {
+    "id": "0y6exe1z",
+    "game": "Neo Bomberman",
+    "player": "GreenBomber",
+    "player_location": "us",
+    "time": 2249,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y8q2e5ny",
+    "game": "Neo Bomberman",
+    "player": "MLOPES",
+    "player_location": "br",
+    "time": 1492,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y6759jqm",
+    "game": "Neo Bomberman",
+    "player": "Dove_ac",
+    "player_location": "cn",
+    "time": 2586,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": false
+  },
+  {
+    "id": "yojp770m",
+    "game": "Neo Bomberman",
+    "player": "Fengdi",
+    "player_location": "cn",
+    "time": 1072,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zxg5l3gy",
+    "game": "Neo Bomberman",
+    "player": "diegolazor4",
+    "player_location": "co",
+    "time": 1168,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y25gw79y",
+    "game": "Neo Bomberman",
+    "player": "fededondi",
+    "player_location": "it",
+    "time": 1472,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y25kq45y",
+    "game": "Neo Bomberman",
+    "player": "Fisel",
+    "player_location": "pe",
+    "time": 1550,
+    "category": "",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "m7gk3q4m",
+    "game": "Neo Bomberman",
+    "player": "SlimeGuy-J",
+    "player_location": "pe",
+    "time": 1324,
+    "category": "Co-op",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y82476dy",
+    "game": "Neo Bomberman",
+    "player": "Olavi",
+    "player_location": "kr",
+    "time": 2217,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "mr9v974m",
+    "game": "Neo Bomberman",
+    "player": "Jonet666",
+    "player_location": "mx",
+    "time": 1987,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "m3n1jr6y",
+    "game": "Neo Bomberman",
+    "player": "RitaH",
+    "player_location": "br",
+    "time": 3086,
+    "category": "Co-op",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zq130nrm",
+    "game": "Neo Bomberman",
+    "player": "gustavogon98",
+    "player_location": null,
+    "time": 1755,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zp1pdpvz",
+    "game": "Neo Bomberman",
+    "player": "JejuKyo",
+    "player_location": "jp",
+    "time": 2064,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zgg5pkjz",
+    "game": "Neo Bomberman",
+    "player": "GhostSenpai",
+    "player_location": "mx",
+    "time": 2427,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": false
+  },
+  {
+    "id": "ydg355qy",
+    "game": "Neo Bomberman",
+    "player": "SICM",
+    "player_location": "pe",
+    "time": 1026,
+    "category": "Any%",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yjdwqgny",
+    "game": "Neo Bomberman",
+    "player": "myztry",
+    "player_location": null,
+    "time": 1419,
+    "category": "Any%",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

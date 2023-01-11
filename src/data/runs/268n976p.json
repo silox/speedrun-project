@@ -1,0 +1,57 @@
+[
+  {
+    "id": "y41r372y",
+    "game": "MechWarrior 3",
+    "player": "KITT",
+    "player_location": "ru",
+    "time": 8990,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "meo01q9z",
+    "game": "MechWarrior 3",
+    "player": "KarusDaedlyn",
+    "player_location": "us",
+    "time": 14689,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": true
+  },
+  {
+    "id": "y8rw3p1m",
+    "game": "MechWarrior 3",
+    "player": "EricMarkX",
+    "player_location": "nl",
+    "time": 5566,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m3lnnl4m",
+    "game": "MechWarrior 3",
+    "player": "FalconerGray",
+    "player_location": "au",
+    "time": 35,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y80vd1wm",
+    "game": "MechWarrior 3",
+    "player": "Pendrokar",
+    "player_location": null,
+    "time": 53,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  }
+]

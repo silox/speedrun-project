@@ -1,0 +1,46 @@
+[
+  {
+    "id": "zxln17gz",
+    "game": "Armored Core: Verdict Day",
+    "player": "sunainu",
+    "player_location": "jp",
+    "time": 3094,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "mejv8n0y",
+    "game": "Armored Core: Verdict Day",
+    "player": "jhonny55285",
+    "player_location": "jp",
+    "time": 3348,
+    "category": "Any%",
+    "region": null,
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "yjxox1gz",
+    "game": "Armored Core: Verdict Day",
+    "player": "zunnkoron",
+    "player_location": "jp",
+    "time": 3365,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "zx7e5pgy",
+    "game": "Armored Core: Verdict Day",
+    "player": "MR98",
+    "player_location": "jp",
+    "time": 1825,
+    "category": "NG+ Mission 01-10 UNAC Only",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  }
+]

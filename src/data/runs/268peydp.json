@@ -1,0 +1,57 @@
+[
+  {
+    "id": "9yo9ed7y",
+    "game": "Destroy All Humans!",
+    "player": "AustinPerroux",
+    "player_location": null,
+    "time": 6963,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "z18xnlgy",
+    "game": "Destroy All Humans!",
+    "player": "Dendris",
+    "player_location": "gb/eng",
+    "time": 4342,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Xbox One",
+    "emulated": false
+  },
+  {
+    "id": "mrq73o2y",
+    "game": "Destroy All Humans!",
+    "player": "Peanut",
+    "player_location": "br",
+    "time": 4916,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "m79r5qwy",
+    "game": "Destroy All Humans!",
+    "player": "GrayBVB",
+    "player_location": "nz",
+    "time": 6886,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Xbox One",
+    "emulated": false
+  },
+  {
+    "id": "z0573jjm",
+    "game": "Destroy All Humans!",
+    "player": "jake_is_hi",
+    "player_location": "us",
+    "time": 4884,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Xbox One",
+    "emulated": false
+  }
+]

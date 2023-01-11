@@ -1,0 +1,35 @@
+[
+  {
+    "id": "ydqvdxjm",
+    "game": "Zatch Bell! Mamodo Fury",
+    "player": "Hyde233",
+    "player_location": "us",
+    "time": 4.58,
+    "category": "Hard",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "y4q25l2m",
+    "game": "Zatch Bell! Mamodo Fury",
+    "player": "Jirachibi",
+    "player_location": "us",
+    "time": 237.35,
+    "category": "Diary%",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "y2v5r7jz",
+    "game": "Zatch Bell! Mamodo Fury",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 12.9,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  }
+]

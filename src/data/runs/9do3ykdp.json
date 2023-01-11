@@ -1,0 +1,123 @@
+[
+  {
+    "id": "1zq4gk5m",
+    "game": "Terminator 2: Judgment Day (GB)",
+    "player": "minicharge",
+    "player_location": "us",
+    "time": 490,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "m3o3jvgm",
+    "game": "Terminator 2: Judgment Day (GB)",
+    "player": "LudwigVonKoopa",
+    "player_location": "de",
+    "time": 531,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "mrkor7gy",
+    "game": "Terminator 2: Judgment Day (GB)",
+    "player": "SomeSpeedrunner",
+    "player_location": "de",
+    "time": 454.633,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Game Boy 2",
+    "emulated": false
+  },
+  {
+    "id": "zqwgq39z",
+    "game": "Terminator 2: Judgment Day (GB)",
+    "player": "Tenmicu",
+    "player_location": "pl",
+    "time": 471.767,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "zpr8nv8m",
+    "game": "Terminator 2: Judgment Day (GB)",
+    "player": "Kincaid",
+    "player_location": "de",
+    "time": 466.6,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "m7gnd94m",
+    "game": "Terminator 2: Judgment Day (GB)",
+    "player": "Hasselhoff9K",
+    "player_location": "pt",
+    "time": 468.267,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "mrkr5ldy",
+    "game": "Terminator 2: Judgment Day (GB)",
+    "player": "Vehemens",
+    "player_location": "de",
+    "time": 460.8,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "y69kpdjy",
+    "game": "Terminator 2: Judgment Day (GB)",
+    "player": "Damos",
+    "player_location": "gb/eng",
+    "time": 472.533,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "z07g63oy",
+    "game": "Terminator 2: Judgment Day (GB)",
+    "player": "JuegAriel",
+    "player_location": "es",
+    "time": 476.833,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "y47037ky",
+    "game": "Terminator 2: Judgment Day (GB)",
+    "player": "adrianus",
+    "player_location": "ch",
+    "time": 540,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "yj5nv63m",
+    "game": "Terminator 2: Judgment Day (GB)",
+    "player": "FedePG52",
+    "player_location": "pe",
+    "time": 466.456,
+    "category": "Any%",
+    "region": null,
+    "platform": "Game Boy",
+    "emulated": true
+  }
+]

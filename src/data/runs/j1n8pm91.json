@@ -1,0 +1,101 @@
+[
+  {
+    "id": "yde90kqm",
+    "game": "Metal Gear Solid 3: Snake Eater Category Extensions",
+    "player": "Major_Zero",
+    "player_location": "us",
+    "time": 0.002,
+    "category": "IL",
+    "region": "JPN / NTSC",
+    "platform": "backwards-compatible PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "me46no2y",
+    "game": "Metal Gear Solid 3: Snake Eater Category Extensions",
+    "player": "RSpeedy",
+    "player_location": "gb",
+    "time": 1.69,
+    "category": "IL",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "ylrovpxy",
+    "game": "Metal Gear Solid 3: Snake Eater Category Extensions",
+    "player": "Anonymityhope",
+    "player_location": "jp",
+    "time": 0.001,
+    "category": "IL",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y6nv53pz",
+    "game": "Metal Gear Solid 3: Snake Eater Category Extensions",
+    "player": "Kikujiro-Chan",
+    "player_location": null,
+    "time": 5365,
+    "category": "Perfect Stats",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "meex9j8m",
+    "game": "Metal Gear Solid 3: Snake Eater Category Extensions",
+    "player": "VermillionNoel",
+    "player_location": "us",
+    "time": 4921,
+    "category": "All Camouflage",
+    "region": "USA / NTSC",
+    "platform": "Xbox Series S",
+    "emulated": false
+  },
+  {
+    "id": "zq9nve9y",
+    "game": "Metal Gear Solid 3: Snake Eater Category Extensions",
+    "player": "Sogohi",
+    "player_location": "mx",
+    "time": 6114,
+    "category": "Markhor Rank",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y8xnqewm",
+    "game": "Metal Gear Solid 3: Snake Eater Category Extensions",
+    "player": "BlackyY1007",
+    "player_location": "jp",
+    "time": 5037,
+    "category": "Tuxedo",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "yjdr4rgy",
+    "game": "Metal Gear Solid 3: Snake Eater Category Extensions",
+    "player": "SilentMartyr",
+    "player_location": "us",
+    "time": 9273,
+    "category": "Box%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "znj8l59m",
+    "game": "Metal Gear Solid 3: Snake Eater Category Extensions",
+    "player": "NickRPGreen",
+    "player_location": "gb/eng",
+    "time": 5365,
+    "category": "All Kerotans",
+    "region": "EUR / PAL",
+    "platform": "Xbox Series S",
+    "emulated": false
+  }
+]

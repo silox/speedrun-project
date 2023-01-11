@@ -1,0 +1,145 @@
+[
+  {
+    "id": "oy2ox9jm",
+    "game": "Disney's Aladdin (Game Gear / Master System)",
+    "player": "Alowishus89",
+    "player_location": "gb/nir",
+    "time": 690,
+    "category": "Beat the Game",
+    "region": "EUR / PAL",
+    "platform": "Sega Master System",
+    "emulated": false
+  },
+  {
+    "id": "7yl8d5rz",
+    "game": "Disney's Aladdin (Game Gear / Master System)",
+    "player": "Rasmus_1990",
+    "player_location": "no",
+    "time": 676,
+    "category": "Beat the Game",
+    "region": "EUR / PAL",
+    "platform": "Sega Master System",
+    "emulated": false
+  },
+  {
+    "id": "yl949vny",
+    "game": "Disney's Aladdin (Game Gear / Master System)",
+    "player": "NerdyNester",
+    "player_location": "us",
+    "time": 597,
+    "category": "Beat the Game",
+    "region": "USA / NTSC",
+    "platform": "Sega Game Gear",
+    "emulated": true
+  },
+  {
+    "id": "yl92jqxy",
+    "game": "Disney's Aladdin (Game Gear / Master System)",
+    "player": "infinitemystery",
+    "player_location": null,
+    "time": 1284,
+    "category": "Beat the Game",
+    "region": "EUR / PAL",
+    "platform": "Sega Master System",
+    "emulated": false
+  },
+  {
+    "id": "ywpqwd9z",
+    "game": "Disney's Aladdin (Game Gear / Master System)",
+    "player": "Shentok",
+    "player_location": "us",
+    "time": 611,
+    "category": "Beat the Game",
+    "region": "USA / NTSC",
+    "platform": "Sega Game Gear",
+    "emulated": false
+  },
+  {
+    "id": "z1xj97gm",
+    "game": "Disney's Aladdin (Game Gear / Master System)",
+    "player": "Koopadiola",
+    "player_location": "es",
+    "time": 636,
+    "category": "Beat the Game",
+    "region": "EUR / PAL",
+    "platform": "Sega Master System",
+    "emulated": true
+  },
+  {
+    "id": "me79odqy",
+    "game": "Disney's Aladdin (Game Gear / Master System)",
+    "player": "RadManFromMars",
+    "player_location": "us",
+    "time": 646,
+    "category": "Beat the Game",
+    "region": "EUR / PAL",
+    "platform": "Sega Master System",
+    "emulated": true
+  },
+  {
+    "id": "z120v9wy",
+    "game": "Disney's Aladdin (Game Gear / Master System)",
+    "player": "Retroprinz",
+    "player_location": "de",
+    "time": 850,
+    "category": "Beat the Game",
+    "region": "EUR / PAL",
+    "platform": "Sega Master System",
+    "emulated": false
+  },
+  {
+    "id": "ydd30r0y",
+    "game": "Disney's Aladdin (Game Gear / Master System)",
+    "player": "FairlyGeeky",
+    "player_location": "gb",
+    "time": 625,
+    "category": "Beat the Game",
+    "region": "EUR / PAL",
+    "platform": "Sega Master System",
+    "emulated": true
+  },
+  {
+    "id": "me3gng0z",
+    "game": "Disney's Aladdin (Game Gear / Master System)",
+    "player": "gnarblast",
+    "player_location": "us",
+    "time": 589,
+    "category": "Beat the Game",
+    "region": "USA / NTSC",
+    "platform": "Sega Game Gear",
+    "emulated": false
+  },
+  {
+    "id": "z52l1rjz",
+    "game": "Disney's Aladdin (Game Gear / Master System)",
+    "player": "Quarbit",
+    "player_location": "ca",
+    "time": 596.717,
+    "category": "Beat the Game",
+    "region": "USA / NTSC",
+    "platform": "Sega Game Gear",
+    "emulated": true
+  },
+  {
+    "id": "zpd5j3rz",
+    "game": "Disney's Aladdin (Game Gear / Master System)",
+    "player": "ShyGuyRTA",
+    "player_location": "br",
+    "time": 596.033,
+    "category": "Beat the Game",
+    "region": "USA / NTSC",
+    "platform": "Sega Game Gear",
+    "emulated": true
+  },
+  {
+    "id": "m72p63wz",
+    "game": "Disney's Aladdin (Game Gear / Master System)",
+    "player": "JkLoser",
+    "player_location": "se",
+    "time": 587,
+    "category": "Beat the Game",
+    "region": "USA / NTSC",
+    "platform": "Sega Game Gear",
+    "emulated": true
+  }
+]

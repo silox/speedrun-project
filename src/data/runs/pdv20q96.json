@@ -1,0 +1,68 @@
+[
+  {
+    "id": "mk5no81m",
+    "game": "Crazybus",
+    "player": "Yuyukichi",
+    "player_location": "jp",
+    "time": 109,
+    "category": "Any%(v2.00r030)",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "y203089m",
+    "game": "Crazybus",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 111,
+    "category": "Any%(V1.0)",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "m7w3on4z",
+    "game": "Crazybus",
+    "player": "JSR_",
+    "player_location": "us",
+    "time": 113,
+    "category": "Any%(V1.0)",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "yjxnvxgz",
+    "game": "Crazybus",
+    "player": "SilentEagle3",
+    "player_location": "us",
+    "time": 113,
+    "category": "Any%(V1.0)",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "y6x6rj0y",
+    "game": "Crazybus",
+    "player": "JoePulito",
+    "player_location": "us",
+    "time": 119,
+    "category": "Any%(V1.0)",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "y4x8jokz",
+    "game": "Crazybus",
+    "player": "1008",
+    "player_location": "ru",
+    "time": 109,
+    "category": "Any%(V1.0)",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  }
+]

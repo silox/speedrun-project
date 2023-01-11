@@ -1,0 +1,68 @@
+[
+  {
+    "id": "y91x4kvm",
+    "game": "Dragon: Marked for Death",
+    "player": "Tterraj42",
+    "player_location": "us",
+    "time": 3809,
+    "category": "Any% 2-Player",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y6569x6z",
+    "game": "Dragon: Marked for Death",
+    "player": "Risch",
+    "player_location": "us",
+    "time": 4007,
+    "category": "Any% 2-Player",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "yj5dvg7m",
+    "game": "Dragon: Marked for Death",
+    "player": "KyrieZee",
+    "player_location": "ca/qc",
+    "time": 3730,
+    "category": "Any% 2-Player",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yvo1106z",
+    "game": "Dragon: Marked for Death",
+    "player": "lioppe",
+    "player_location": "jp",
+    "time": 4294,
+    "category": "Any% Solo",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zq9j4p9y",
+    "game": "Dragon: Marked for Death",
+    "player": "AZUMaSEIMEI",
+    "player_location": "jp",
+    "time": 3689,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m3xqq5qm",
+    "game": "Dragon: Marked for Death",
+    "player": "Shredmachine",
+    "player_location": "se",
+    "time": 14790,
+    "category": "Any% Solo",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  }
+]

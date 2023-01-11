@@ -1,0 +1,90 @@
+[
+  {
+    "id": "yjk4jv3m",
+    "game": "WWE SmackDown! vs. RAW 2006",
+    "player": "Melon",
+    "player_location": "gb/eng",
+    "time": 3727,
+    "category": "",
+    "region": null,
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "mrqndldy",
+    "game": "WWE SmackDown! vs. RAW 2006",
+    "player": "gchierico91",
+    "player_location": "us",
+    "time": 358,
+    "category": "Royal Rumble (10 Man)",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y2q5de7y",
+    "game": "WWE SmackDown! vs. RAW 2006",
+    "player": "CriscoWild",
+    "player_location": "us",
+    "time": 1374,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y8rrq6wm",
+    "game": "WWE SmackDown! vs. RAW 2006",
+    "player": "scottelot22",
+    "player_location": "gb/sct",
+    "time": 3314,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "mke74w3m",
+    "game": "WWE SmackDown! vs. RAW 2006",
+    "player": "Drake_Shadow",
+    "player_location": "us",
+    "time": 2550,
+    "category": "SmackDown! Season (No LT)",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "y8rpqx5m",
+    "game": "WWE SmackDown! vs. RAW 2006",
+    "player": "Gamerguy19",
+    "player_location": "us",
+    "time": 1259,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y277966z",
+    "game": "WWE SmackDown! vs. RAW 2006",
+    "player": "The_Flame_N",
+    "player_location": "gb/nir",
+    "time": 176,
+    "category": "Royal Rumble (10 Man)",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "zxlq74qz",
+    "game": "WWE SmackDown! vs. RAW 2006",
+    "player": "Billy_bongsalot",
+    "player_location": "ca",
+    "time": 4918,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  }
+]

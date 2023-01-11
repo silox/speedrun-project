@@ -1,0 +1,101 @@
+[
+  {
+    "id": "zxv3xg5y",
+    "game": "Doom (SNES)",
+    "player": "MOOMAN",
+    "player_location": "us",
+    "time": 406,
+    "category": "Knee-Deep in the Dead",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "y6554e1z",
+    "game": "Doom (SNES)",
+    "player": "Jrmhd91",
+    "player_location": "us",
+    "time": 314,
+    "category": "The Shores of Hell",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "yd0e01xz",
+    "game": "Doom (SNES)",
+    "player": "Alexo",
+    "player_location": "us",
+    "time": 425,
+    "category": "Inferno",
+    "region": "JPN / NTSC",
+    "platform": "SNES Classic Mini",
+    "emulated": false
+  },
+  {
+    "id": "zq6dd29y",
+    "game": "Doom (SNES)",
+    "player": "RockslamX",
+    "player_location": "br",
+    "time": 425,
+    "category": "The Shores of Hell",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y89wk91m",
+    "game": "Doom (SNES)",
+    "player": "depr4vity",
+    "player_location": "gb/eng",
+    "time": 341,
+    "category": "The Shores of Hell",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "mk20g9xm",
+    "game": "Doom (SNES)",
+    "player": "Sidarino",
+    "player_location": "us",
+    "time": 303,
+    "category": "The Shores of Hell",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y4rr11dz",
+    "game": "Doom (SNES)",
+    "player": "ShesChardcore",
+    "player_location": "us",
+    "time": 887,
+    "category": "Knee-Deep in the Dead",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "yde9pl0m",
+    "game": "Doom (SNES)",
+    "player": "GumbaNooma",
+    "player_location": "cl",
+    "time": 1921,
+    "category": "Episodes 1-3",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "yj8147om",
+    "game": "Doom (SNES)",
+    "player": "HebegoiN",
+    "player_location": "us",
+    "time": 1261,
+    "category": "Episodes 1-3",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  }
+]

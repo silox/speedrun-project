@@ -1,0 +1,123 @@
+[
+  {
+    "id": "dy419xqy",
+    "game": "Dragon Warrior III",
+    "player": "Everhate",
+    "player_location": null,
+    "time": 13934,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "1zqrk99y",
+    "game": "Dragon Warrior III",
+    "player": "Darkwing",
+    "player_location": "us",
+    "time": 14570,
+    "category": "Dragon Warrior III (NES)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "8y80rjwm",
+    "game": "Dragon Warrior III",
+    "player": "kmac",
+    "player_location": "us",
+    "time": 10046,
+    "category": "Dragon Warrior III (NES)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "z5r68ogy",
+    "game": "Dragon Warrior III",
+    "player": "NESCardinality",
+    "player_location": "ca",
+    "time": 2633,
+    "category": "Dragon Warrior III (NES)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zxv4x9ky",
+    "game": "Dragon Warrior III",
+    "player": "pjplustwo",
+    "player_location": "us",
+    "time": 6242,
+    "category": "Dragon Warrior III (NES)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "z115r1gz",
+    "game": "Dragon Warrior III",
+    "player": "vaxherd",
+    "player_location": null,
+    "time": 2667,
+    "category": "Dragon Warrior III (NES)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "m3d1vn6z",
+    "game": "Dragon Warrior III",
+    "player": "Highspirits",
+    "player_location": "us",
+    "time": 14500,
+    "category": "Dragon Warrior III (NES)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zgn0g1jy",
+    "game": "Dragon Warrior III",
+    "player": "RandomEffekt",
+    "player_location": "us",
+    "time": 2919,
+    "category": "Dragon Warrior III (NES)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "m7pprw9m",
+    "game": "Dragon Warrior III",
+    "player": "philosoraptor42",
+    "player_location": "us",
+    "time": 2838,
+    "category": "Dragon Warrior III (NES)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y2d7p09z",
+    "game": "Dragon Warrior III",
+    "player": "MattHomes",
+    "player_location": "ca",
+    "time": 18621,
+    "category": "Dragon Warrior III (NES)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "zp2n9rvy",
+    "game": "Dragon Warrior III",
+    "player": "TheCowness",
+    "player_location": "us",
+    "time": 15428,
+    "category": "Dragon Warrior III (NES)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  }
+]

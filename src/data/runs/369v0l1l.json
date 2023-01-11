@@ -1,0 +1,123 @@
+[
+  {
+    "id": "pm32llqy",
+    "game": "Atelier Ayesha: The Alchemist of Dusk",
+    "player": "Hawk_Snow",
+    "player_location": null,
+    "time": 9759,
+    "category": "",
+    "region": null,
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "zn1319vm",
+    "game": "Atelier Ayesha: The Alchemist of Dusk",
+    "player": "cl_op_s",
+    "player_location": "jp",
+    "time": 7870,
+    "category": "DX",
+    "region": "JPN / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "jy9g25vm",
+    "game": "Atelier Ayesha: The Alchemist of Dusk",
+    "player": "TheHDElder",
+    "player_location": "eg",
+    "time": 17083,
+    "category": "",
+    "region": null,
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "yw8e5n9y",
+    "game": "Atelier Ayesha: The Alchemist of Dusk",
+    "player": "chelsea",
+    "player_location": "jp",
+    "time": 10705,
+    "category": "DX",
+    "region": "JPN / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "y8j193nz",
+    "game": "Atelier Ayesha: The Alchemist of Dusk",
+    "player": "orgel0",
+    "player_location": "jp",
+    "time": 5598,
+    "category": "DX",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z15x2dry",
+    "game": "Atelier Ayesha: The Alchemist of Dusk",
+    "player": "auroraflow12",
+    "player_location": "us",
+    "time": 9937,
+    "category": "DX",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z099v69z",
+    "game": "Atelier Ayesha: The Alchemist of Dusk",
+    "player": "angela",
+    "player_location": "us",
+    "time": 7048,
+    "category": "DX",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zp1p6r8z",
+    "game": "Atelier Ayesha: The Alchemist of Dusk",
+    "player": "Yamayama",
+    "player_location": "jp",
+    "time": 6507,
+    "category": "DX",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "ywkjrn0y",
+    "game": "Atelier Ayesha: The Alchemist of Dusk",
+    "player": "tetu_ao",
+    "player_location": "jp",
+    "time": 5501,
+    "category": "DX",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y9xr39ry",
+    "game": "Atelier Ayesha: The Alchemist of Dusk",
+    "player": "ruvis",
+    "player_location": "jp",
+    "time": 9785,
+    "category": "DX",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z0l7654z",
+    "game": "Atelier Ayesha: The Alchemist of Dusk",
+    "player": "Griotte_At",
+    "player_location": "jp",
+    "time": 7740,
+    "category": "DX",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 5",
+    "emulated": false
+  }
+]

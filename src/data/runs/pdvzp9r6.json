@@ -1,0 +1,112 @@
+[
+  {
+    "id": "yok692dz",
+    "game": "Ridge Racer 3D",
+    "player": "GZ",
+    "player_location": null,
+    "time": 176.484,
+    "category": "Category 4",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "yojojo7m",
+    "game": "Ridge Racer 3D",
+    "player": "Zaxxa",
+    "player_location": "us",
+    "time": 157.886,
+    "category": "Category 4",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "y6526kpz",
+    "game": "Ridge Racer 3D",
+    "player": "DNXDandi",
+    "player_location": "nl",
+    "time": 169.272,
+    "category": "Category 4",
+    "region": "EUR / PAL",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "m35kk9wy",
+    "game": "Ridge Racer 3D",
+    "player": "RemoteFortress",
+    "player_location": "gb",
+    "time": 166.81,
+    "category": "Category 4",
+    "region": "EUR / PAL",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "yd0wdk0z",
+    "game": "Ridge Racer 3D",
+    "player": "Casci",
+    "player_location": null,
+    "time": 273.932,
+    "category": "Category 4",
+    "region": null,
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "z50erldy",
+    "game": "Ridge Racer 3D",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 172.838,
+    "category": "Category 4",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": true
+  },
+  {
+    "id": "me9elj3z",
+    "game": "Ridge Racer 3D",
+    "player": "Movellandrone",
+    "player_location": "gb/eng",
+    "time": 182.69,
+    "category": "Category 4",
+    "region": "EUR / PAL",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "m776215m",
+    "game": "Ridge Racer 3D",
+    "player": "mogchamp",
+    "player_location": "gb/eng",
+    "time": 160.25,
+    "category": "Category 4",
+    "region": "EUR / PAL",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "zxo105gz",
+    "game": "Ridge Racer 3D",
+    "player": "FrostySR",
+    "player_location": null,
+    "time": 167.83,
+    "category": "Category 4",
+    "region": "EUR / PAL",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "y4qvqjkm",
+    "game": "Ridge Racer 3D",
+    "player": "emrald",
+    "player_location": "gb/eng",
+    "time": 168.706,
+    "category": "Category 4",
+    "region": "EUR / PAL",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "yj42q33y",
+    "game": "Dead or Alive 4",
+    "player": "TheMidBoss",
+    "player_location": "ca",
+    "time": 275,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "yv6x45oz",
+    "game": "Dead or Alive 4",
+    "player": "orkybork",
+    "player_location": "ca",
+    "time": 379,
+    "category": "Story Mode",
+    "region": "USA / NTSC",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "z068rvez",
+    "game": "Dead or Alive 4",
+    "player": "Setyan_Chokdee",
+    "player_location": "jp",
+    "time": 201,
+    "category": "Story Mode",
+    "region": "JPN / NTSC",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "ydwlnvxm",
+    "game": "Dead or Alive 4",
+    "player": "oMASTERo",
+    "player_location": "us",
+    "time": 190,
+    "category": "Story Mode",
+    "region": "USA / NTSC",
+    "platform": "Xbox 360",
+    "emulated": false
+  }
+]

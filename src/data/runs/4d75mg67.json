@@ -1,0 +1,101 @@
+[
+  {
+    "id": "mekjlnqm",
+    "game": "Kirby's Block Ball",
+    "player": "swordsmankirby",
+    "player_location": "us",
+    "time": 2995,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS Virtual Console",
+    "emulated": false
+  },
+  {
+    "id": "ydqdr1qm",
+    "game": "Kirby's Block Ball",
+    "player": "UniversalGiant",
+    "player_location": "us",
+    "time": 2755,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "6yj0dp3z",
+    "game": "Kirby's Block Ball",
+    "player": "hawkjames",
+    "player_location": "us",
+    "time": 4329,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "z06o3ooz",
+    "game": "Kirby's Block Ball",
+    "player": "LudwigVonKoopa",
+    "player_location": "de",
+    "time": 2398,
+    "category": "Any%",
+    "region": null,
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "z18lo0gy",
+    "game": "Kirby's Block Ball",
+    "player": "OhHeyItJaye",
+    "player_location": "us",
+    "time": 3025,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Player",
+    "emulated": false
+  },
+  {
+    "id": "mk93vd1z",
+    "game": "Kirby's Block Ball",
+    "player": "pianistman",
+    "player_location": "us",
+    "time": 4358,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "y65n8pqz",
+    "game": "Kirby's Block Ball",
+    "player": "heltinsurance",
+    "player_location": "us",
+    "time": 4282,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "zp3x2orm",
+    "game": "Kirby's Block Ball",
+    "player": "TG",
+    "player_location": "ca",
+    "time": 3748,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Player",
+    "emulated": false
+  },
+  {
+    "id": "yop6o45m",
+    "game": "Kirby's Block Ball",
+    "player": "Daniel_JAPAN",
+    "player_location": "jp",
+    "time": 3753,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "emk2evxm",
+    "game": "Tiny Toon Adventures 2: Montana's Movie Madness",
+    "player": "CaneofPacci",
+    "player_location": "us",
+    "time": 1227,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Player",
+    "emulated": false
+  },
+  {
+    "id": "zq9rlw5y",
+    "game": "Tiny Toon Adventures 2: Montana's Movie Madness",
+    "player": "janglestorm",
+    "player_location": "nl",
+    "time": 1115,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Super Game Boy 2",
+    "emulated": false
+  },
+  {
+    "id": "zp15p0gz",
+    "game": "Tiny Toon Adventures 2: Montana's Movie Madness",
+    "player": "Bronkel",
+    "player_location": "de",
+    "time": 1145,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  }
+]

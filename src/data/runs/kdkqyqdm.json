@@ -1,0 +1,123 @@
+[
+  {
+    "id": "zx423gqy",
+    "game": "Ecco: The Tides of Time",
+    "player": "FordPines",
+    "player_location": "us",
+    "time": 2219,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "8m79np5y",
+    "game": "Ecco: The Tides of Time",
+    "player": "vorpal",
+    "player_location": "us",
+    "time": 2623,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "1zq6op5y",
+    "game": "Ecco: The Tides of Time",
+    "player": "Newpants87",
+    "player_location": null,
+    "time": 2969,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "8y8q4g5y",
+    "game": "Ecco: The Tides of Time",
+    "player": "Spire",
+    "player_location": "us",
+    "time": 3165,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "8yv85n8m",
+    "game": "Ecco: The Tides of Time",
+    "player": "BlueGlass",
+    "player_location": null,
+    "time": 5189,
+    "category": "",
+    "region": null,
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "yl0226xy",
+    "game": "Ecco: The Tides of Time",
+    "player": "chronoon",
+    "player_location": "us",
+    "time": 2041,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "mrqp2gdy",
+    "game": "Ecco: The Tides of Time",
+    "player": "Rezard",
+    "player_location": "ch",
+    "time": 2508,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "z1377egm",
+    "game": "Ecco: The Tides of Time",
+    "player": "Aludra",
+    "player_location": "us",
+    "time": 2552,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "mk5dlk3m",
+    "game": "Ecco: The Tides of Time",
+    "player": "GrimShins",
+    "player_location": "us",
+    "time": 1944,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "znr6gr3y",
+    "game": "Ecco: The Tides of Time",
+    "player": "dagronSR",
+    "player_location": "ca",
+    "time": 4286,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "mkdp0v1y",
+    "game": "Ecco: The Tides of Time",
+    "player": "Chubbus",
+    "player_location": "us",
+    "time": 1972,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  }
+]

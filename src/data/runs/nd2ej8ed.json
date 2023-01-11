@@ -1,0 +1,57 @@
+[
+  {
+    "id": "mrkn05gy",
+    "game": "F1 Grand Prix (SNES)",
+    "player": "emagen303",
+    "player_location": "us",
+    "time": 27.003,
+    "category": "Free Run %",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "zgwp6vny",
+    "game": "F1 Grand Prix (SNES)",
+    "player": "Peanutfan22",
+    "player_location": "us",
+    "time": 26.303,
+    "category": "Free Run %",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z53lxgey",
+    "game": "F1 Grand Prix (SNES)",
+    "player": "Sonic_BR",
+    "player_location": "br",
+    "time": 24.861,
+    "category": "Free Run %",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zn1owr3m",
+    "game": "F1 Grand Prix (SNES)",
+    "player": "Alicetwopointoh",
+    "player_location": "us",
+    "time": 26.97,
+    "category": "Free Run %",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "mk5gwpvm",
+    "game": "F1 Grand Prix (SNES)",
+    "player": "JoePulito",
+    "player_location": "us",
+    "time": 27.095,
+    "category": "Free Run %",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  }
+]

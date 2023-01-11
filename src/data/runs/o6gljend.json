@@ -1,0 +1,68 @@
+[
+  {
+    "id": "z5r533ey",
+    "game": "",
+    "player": "MasterCactaur",
+    "player_location": "us",
+    "time": 1286,
+    "category": "US - 1P",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "m78n4gwz",
+    "game": "",
+    "player": "RitaH",
+    "player_location": "br",
+    "time": 1577,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y66elnjy",
+    "game": "Double Dragon 3: The Rosetta Stone",
+    "player": "KingRob",
+    "player_location": "us",
+    "time": 1657,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z0px3g4y",
+    "game": "Double Dragon 3: The Rosetta Stone",
+    "player": "pengge1981",
+    "player_location": "cn",
+    "time": 988,
+    "category": "US - 1P",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y4qxk2km",
+    "game": "Double Dragon 3: The Rosetta Stone",
+    "player": "Trix_Sama",
+    "player_location": "cl",
+    "time": 1032,
+    "category": "US - 1P",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zq9l3pxy",
+    "game": "Double Dragon 3: The Rosetta Stone",
+    "player": "Ellimist",
+    "player_location": "us",
+    "time": 1378,
+    "category": "JP - 2P",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

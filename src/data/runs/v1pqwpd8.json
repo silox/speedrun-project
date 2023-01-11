@@ -1,0 +1,90 @@
+[
+  {
+    "id": "8m7l20wy",
+    "game": "Tom Clancy's Rainbow Six: Rogue Spear",
+    "player": "DG84",
+    "player_location": "pl",
+    "time": 31.999,
+    "category": "Recruit",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "ywpr9x3z",
+    "game": "Tom Clancy's Rainbow Six: Rogue Spear",
+    "player": "Chrno",
+    "player_location": "gb/eng",
+    "time": 22.667,
+    "category": "Recruit",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "ylkolo3z",
+    "game": "Tom Clancy's Rainbow Six: Rogue Spear",
+    "player": "pleasant",
+    "player_location": "ca",
+    "time": 21.233,
+    "category": "Recruit",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yjlnk2dz",
+    "game": "Tom Clancy's Rainbow Six: Rogue Spear",
+    "player": "aaronthehare",
+    "player_location": "us",
+    "time": 26.667,
+    "category": "Recruit",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z1o27kgm",
+    "game": "Tom Clancy's Rainbow Six: Rogue Spear",
+    "player": "Milkyrice",
+    "player_location": "ca",
+    "time": 54.074,
+    "category": "Recruit",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "ywj8pdpz",
+    "game": "Tom Clancy's Rainbow Six: Rogue Spear",
+    "player": "Akuretaki",
+    "player_location": "ru",
+    "time": 19.767,
+    "category": "Recruit",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m3xeld4m",
+    "game": "Tom Clancy's Rainbow Six: Rogue Spear",
+    "player": "Nicolas_Golbert",
+    "player_location": null,
+    "time": 716.7,
+    "category": "Elite",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zpg4r0nz",
+    "game": "Tom Clancy's Rainbow Six: Rogue Spear",
+    "player": "Tango Down",
+    "player_location": null,
+    "time": 46.867,
+    "category": "Elite",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  }
+]

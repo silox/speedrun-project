@@ -1,0 +1,178 @@
+[
+  {
+    "id": "7yl9d3xy",
+    "game": "Phoenix Wright: Ace Attorney - Justice For All",
+    "player": "Tiki09",
+    "player_location": "mx",
+    "time": 15870,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "0y6xg4qy",
+    "game": "Phoenix Wright: Ace Attorney - Justice For All",
+    "player": "indykenobi",
+    "player_location": "us",
+    "time": 1100,
+    "category": "NG+",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "2ywq379y",
+    "game": "Phoenix Wright: Ace Attorney - Justice For All",
+    "player": "Gold",
+    "player_location": "gb/wls",
+    "time": 7385,
+    "category": "NG+",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "7yl6e9ny",
+    "game": "Phoenix Wright: Ace Attorney - Justice For All",
+    "player": "Ashja",
+    "player_location": "gb/eng",
+    "time": 1132,
+    "category": "NG+",
+    "region": "EUR / PAL",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "pzgl3wnm",
+    "game": "Phoenix Wright: Ace Attorney - Justice For All",
+    "player": "KayeXP",
+    "player_location": "us",
+    "time": 1111,
+    "category": "NG+",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "2ywx7ppm",
+    "game": "Phoenix Wright: Ace Attorney - Justice For All",
+    "player": "InfOutlaw",
+    "player_location": "us",
+    "time": 15065,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "mk989q3z",
+    "game": "Phoenix Wright: Ace Attorney - Justice For All",
+    "player": "Wipeoutjack7",
+    "player_location": "us",
+    "time": 1135,
+    "category": "NG+",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": true
+  },
+  {
+    "id": "z11wnw9z",
+    "game": "Phoenix Wright: Ace Attorney - Justice For All",
+    "player": "Crrool",
+    "player_location": "nl",
+    "time": 1018,
+    "category": "NG+",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "znr6xw3y",
+    "game": "Phoenix Wright: Ace Attorney - Justice For All",
+    "player": "TheBarinade",
+    "player_location": "au",
+    "time": 873,
+    "category": "NG+",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m7gln9em",
+    "game": "Phoenix Wright: Ace Attorney - Justice For All",
+    "player": "Nacho",
+    "player_location": "au",
+    "time": 11760,
+    "category": "All Cases (NG+)",
+    "region": "EUR / PAL",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "y4ep95km",
+    "game": "Phoenix Wright: Ace Attorney - Justice For All",
+    "player": "Tsukumo",
+    "player_location": "hk",
+    "time": 950,
+    "category": "NG+",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zgxrr7vm",
+    "game": "Phoenix Wright: Ace Attorney - Justice For All",
+    "player": "SamuelSD7",
+    "player_location": "us",
+    "time": 1017,
+    "category": "NG+",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "zgxo5ldm",
+    "game": "Phoenix Wright: Ace Attorney - Justice For All",
+    "player": "WaitlistedJay",
+    "player_location": "us",
+    "time": 1104,
+    "category": "NG+",
+    "region": null,
+    "platform": "Wii",
+    "emulated": true
+  },
+  {
+    "id": "z0pe5wjy",
+    "game": "Phoenix Wright: Ace Attorney - Justice For All",
+    "player": "aisks",
+    "player_location": "us",
+    "time": 888,
+    "category": "NG+",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z0p76pey",
+    "game": "Phoenix Wright: Ace Attorney - Justice For All",
+    "player": "KymyRuakyshai",
+    "player_location": "ru",
+    "time": 902,
+    "category": "NG+",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y2j199wz",
+    "game": "Phoenix Wright: Ace Attorney - Justice For All",
+    "player": "DarkerLord16",
+    "player_location": "us",
+    "time": 12783,
+    "category": "All Cases (NG+)",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  }
+]

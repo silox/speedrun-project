@@ -1,0 +1,57 @@
+[
+  {
+    "id": "zn38kj7y",
+    "game": "Klonoa 2: Dream Champ Tournament",
+    "player": "FlannelKat",
+    "player_location": "us",
+    "time": 6914,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "yo9q07dy",
+    "game": "Klonoa 2: Dream Champ Tournament",
+    "player": "BC98",
+    "player_location": "jp",
+    "time": 3943,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Wii U Virtual Console",
+    "emulated": false
+  },
+  {
+    "id": "mk7gojxy",
+    "game": "Klonoa 2: Dream Champ Tournament",
+    "player": "Doomtune",
+    "player_location": "us",
+    "time": 4442,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "z12w46wy",
+    "game": "Klonoa 2: Dream Champ Tournament",
+    "player": "Dog_In_Da_Grass",
+    "player_location": "us",
+    "time": 3761,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "m37x45gz",
+    "game": "Klonoa 2: Dream Champ Tournament",
+    "player": "Eroooooos",
+    "player_location": null,
+    "time": 4438,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  }
+]

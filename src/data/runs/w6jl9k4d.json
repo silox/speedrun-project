@@ -1,0 +1,68 @@
+[
+  {
+    "id": "y48jlenm",
+    "game": "Marvelous: Another Treasure Island",
+    "player": "CappanLF",
+    "player_location": "us",
+    "time": 10239,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "zgn54dey",
+    "game": "Marvelous: Another Treasure Island",
+    "player": "\u30de\u30b5\u30eb",
+    "player_location": null,
+    "time": 10140,
+    "category": "Skipless",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "z57o0g5m",
+    "game": "Marvelous: Another Treasure Island",
+    "player": "Timmiluvs",
+    "player_location": "aq",
+    "time": 9411,
+    "category": "Skipless",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "yv30v34z",
+    "game": "Marvelous: Another Treasure Island",
+    "player": "rice89",
+    "player_location": "jp",
+    "time": 12187,
+    "category": "Skipless",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "zp8vxony",
+    "game": "Marvelous: Another Treasure Island",
+    "player": "MasterCactaur",
+    "player_location": "us",
+    "time": 12953,
+    "category": "Skipless",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "y809vx5m",
+    "game": "Marvelous: Another Treasure Island",
+    "player": "Teleo1",
+    "player_location": "us",
+    "time": 6282,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  }
+]

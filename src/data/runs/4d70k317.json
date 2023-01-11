@@ -1,0 +1,79 @@
+[
+  {
+    "id": "1zx4dgey",
+    "game": "Bleach: Soul Resurrecci\u00f3n",
+    "player": "Oblimix",
+    "player_location": "fo",
+    "time": 3539,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "9yojppdm",
+    "game": "Bleach: Soul Resurrecci\u00f3n",
+    "player": "DarkLynx2130",
+    "player_location": null,
+    "time": 3536,
+    "category": "Story Mode Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "znq50pvz",
+    "game": "Bleach: Soul Resurrecci\u00f3n",
+    "player": "micsoul",
+    "player_location": "us",
+    "time": 2953.42,
+    "category": "Story Mode Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": true
+  },
+  {
+    "id": "0zn204vz",
+    "game": "Bleach: Soul Resurrecci\u00f3n",
+    "player": "Bobbykaze",
+    "player_location": "ca",
+    "time": 4106,
+    "category": "Story Mode Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "m3xnx7qm",
+    "game": "Bleach: Soul Resurrecci\u00f3n",
+    "player": "Art_Izon",
+    "player_location": "us",
+    "time": 11.76,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": true
+  },
+  {
+    "id": "me1k1q3y",
+    "game": "Bleach: Soul Resurrecci\u00f3n",
+    "player": "zerodux",
+    "player_location": "br",
+    "time": 3599,
+    "category": "Story Mode Any%",
+    "region": null,
+    "platform": "PlayStation 3",
+    "emulated": true
+  },
+  {
+    "id": "yjdqpj3y",
+    "game": "Bleach: Soul Resurrecci\u00f3n",
+    "player": "Ris_Grestar",
+    "player_location": "us",
+    "time": 3118.5,
+    "category": "Story Mode Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": true
+  }
+]

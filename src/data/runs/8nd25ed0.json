@@ -1,0 +1,112 @@
+[
+  {
+    "id": "8y81q5z1",
+    "game": "Sonic Megamix",
+    "player": "Yuuki_S",
+    "player_location": "ar",
+    "time": 1779,
+    "category": "Sonic",
+    "region": null,
+    "platform": "Sega CD",
+    "emulated": true
+  },
+  {
+    "id": "0znr48yn",
+    "game": "Sonic Megamix",
+    "player": "Gpro",
+    "player_location": "us",
+    "time": 3681,
+    "category": "Sonic",
+    "region": null,
+    "platform": "Sega CD",
+    "emulated": true
+  },
+  {
+    "id": "7yl04kyp",
+    "game": "Sonic Megamix",
+    "player": "Mastakirby",
+    "player_location": "us",
+    "time": 1814,
+    "category": "Sonic",
+    "region": null,
+    "platform": "Sega CD",
+    "emulated": true
+  },
+  {
+    "id": "8y87l8wz",
+    "game": "Sonic Megamix",
+    "player": "Shadowsoftime99",
+    "player_location": "us",
+    "time": 1597,
+    "category": "Shadow",
+    "region": null,
+    "platform": "Sega CD",
+    "emulated": true
+  },
+  {
+    "id": "yvjw546y",
+    "game": "Sonic Megamix",
+    "player": "werster",
+    "player_location": "au",
+    "time": 1203,
+    "category": "Sonic",
+    "region": null,
+    "platform": "Sega CD",
+    "emulated": true
+  },
+  {
+    "id": "zg7511nz",
+    "game": "Sonic Megamix",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 1257,
+    "category": "Sonic",
+    "region": "USA / NTSC",
+    "platform": "Sega CD",
+    "emulated": true
+  },
+  {
+    "id": "y6p1w96m",
+    "game": "Sonic Megamix",
+    "player": "Okamikaze",
+    "player_location": "gb",
+    "time": 3558,
+    "category": "Sonic",
+    "region": "USA / NTSC",
+    "platform": "Sega CD",
+    "emulated": true
+  },
+  {
+    "id": "y8rnkl5m",
+    "game": "Sonic Megamix",
+    "player": "Megspeedy",
+    "player_location": null,
+    "time": 17.76,
+    "category": "Sonic",
+    "region": "USA / NTSC",
+    "platform": "Sega CD",
+    "emulated": true
+  },
+  {
+    "id": "y2d4lv6z",
+    "game": "Sonic Megamix",
+    "player": "Shizone",
+    "player_location": "us",
+    "time": 59.99,
+    "category": "Sonic",
+    "region": "USA / NTSC",
+    "platform": "Sega CD",
+    "emulated": true
+  },
+  {
+    "id": "mr4vn57z",
+    "game": "Sonic Megamix",
+    "player": "Toms_-",
+    "player_location": "fr",
+    "time": 28.65,
+    "category": "Sonic",
+    "region": "EUR / PAL",
+    "platform": "Sega CD",
+    "emulated": false
+  }
+]

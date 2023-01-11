@@ -1,0 +1,90 @@
+[
+  {
+    "id": "6yjno5nm",
+    "game": "",
+    "player": "Jorf",
+    "player_location": "ca",
+    "time": 396,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "mrqv698y",
+    "game": "",
+    "player": "WhiteHat94",
+    "player_location": "us",
+    "time": 290,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "yjkj1nnm",
+    "game": "",
+    "player": "Toad22484",
+    "player_location": "us",
+    "time": 354,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "ydql93xm",
+    "game": "The Blues Brothers (NES)",
+    "player": "Roamus",
+    "player_location": "ca/qc",
+    "time": 824,
+    "category": "Any%",
+    "region": null,
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "zp0l33gm",
+    "game": "The Blues Brothers (NES)",
+    "player": "Rayquaza911",
+    "player_location": "ca",
+    "time": 345,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y93kxley",
+    "game": "The Blues Brothers (NES)",
+    "player": "Acmlm",
+    "player_location": "ca/qc",
+    "time": 348,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "z5v071gm",
+    "game": "The Blues Brothers (NES)",
+    "player": "Mad_Max",
+    "player_location": "fr",
+    "time": 270,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "zx8wgqkm",
+    "game": "The Blues Brothers (NES)",
+    "player": "RyanVideoGamer",
+    "player_location": "us",
+    "time": 338,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  }
+]

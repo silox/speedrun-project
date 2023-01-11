@@ -1,0 +1,145 @@
+[
+  {
+    "id": "nz1159jz",
+    "game": "Gyromite",
+    "player": "WERY",
+    "player_location": "se",
+    "time": 1893,
+    "category": "Game A - Phases 1-40",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "emknrl1m",
+    "game": "Gyromite",
+    "player": "starcrytas",
+    "player_location": "us",
+    "time": 1526,
+    "category": "Game A - Phases 1-40",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "7ylg0enm",
+    "game": "Gyromite",
+    "player": "TascoDLX",
+    "player_location": "us",
+    "time": 1496,
+    "category": "Game A - Phases 1-40",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "z13l307m",
+    "game": "Gyromite",
+    "player": "link_7777",
+    "player_location": "us",
+    "time": 8131,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "yd3ej80z",
+    "game": "Gyromite",
+    "player": "sYn",
+    "player_location": "us",
+    "time": 1773,
+    "category": "Game A - Phases 1-40",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "m7wg4lwz",
+    "game": "Gyromite",
+    "player": "octopuscal",
+    "player_location": "jp",
+    "time": 1479,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y95nxprz",
+    "game": "Gyromite",
+    "player": "Toad22484",
+    "player_location": "us",
+    "time": 1634,
+    "category": "Game A - Phases 1-40",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "mrkj12dy",
+    "game": "Gyromite",
+    "player": "LovenityJade",
+    "player_location": "ca/qc",
+    "time": 2724,
+    "category": "Game A - Co-op",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "y82dnrwy",
+    "game": "Gyromite",
+    "player": "najibbara",
+    "player_location": "us",
+    "time": 1757,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "mr9l092m",
+    "game": "Gyromite",
+    "player": "JoePulito",
+    "player_location": "us",
+    "time": 2325,
+    "category": "Game A - Phases 1-40",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "zp29wpgy",
+    "game": "Gyromite",
+    "player": "lackattack",
+    "player_location": "us",
+    "time": 1719,
+    "category": "Game A - Phases 1-40",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y20ldo5m",
+    "game": "Gyromite",
+    "player": "Lostluna",
+    "player_location": "us",
+    "time": 1968,
+    "category": "Game A - Co-op",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "yvrk7n8z",
+    "game": "Gyromite",
+    "player": "JSR_",
+    "player_location": "us",
+    "time": 1683,
+    "category": "Game A - Phases 1-40",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  }
+]

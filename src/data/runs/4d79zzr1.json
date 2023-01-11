@@ -1,0 +1,46 @@
+[
+  {
+    "id": "y43w3lqz",
+    "game": "",
+    "player": "CarlDelinden",
+    "player_location": null,
+    "time": 1705,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega CD",
+    "emulated": true
+  },
+  {
+    "id": "yj3gx8dz",
+    "game": "",
+    "player": "Worsel5",
+    "player_location": "us",
+    "time": 1643,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yj35oroz",
+    "game": "Double Switch",
+    "player": "MagmaW0LF",
+    "player_location": "us",
+    "time": 1621,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mk8g035m",
+    "game": "Double Switch",
+    "player": "cj_iwakura",
+    "player_location": "us",
+    "time": 1685,
+    "category": "Any%",
+    "region": null,
+    "platform": "PlayStation 4",
+    "emulated": false
+  }
+]

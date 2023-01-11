@@ -1,0 +1,79 @@
+[
+  {
+    "id": "yw1kv63z",
+    "game": "Spawn: Armageddon",
+    "player": "Silenig",
+    "player_location": null,
+    "time": 12419,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "z5owowjy",
+    "game": "Spawn: Armageddon",
+    "player": "AnonymousAffection",
+    "player_location": null,
+    "time": 618,
+    "category": "Spawn Levels",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "m3odgr4m",
+    "game": "Spawn: Armageddon",
+    "player": "GustavoPredador",
+    "player_location": "br",
+    "time": 405,
+    "category": "Spawn Levels",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zg7k1g0z",
+    "game": "Spawn: Armageddon",
+    "player": "DeluxeMudkip",
+    "player_location": "us",
+    "time": 7932,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "me812k8m",
+    "game": "Spawn: Armageddon",
+    "player": "naket",
+    "player_location": "jp",
+    "time": 6141,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "z1jokggz",
+    "game": "Spawn: Armageddon",
+    "player": "Anutim",
+    "player_location": "br",
+    "time": 18.23,
+    "category": "Spawn Levels",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zg23900y",
+    "game": "Spawn: Armageddon",
+    "player": "superiorspawn",
+    "player_location": "pl",
+    "time": 198,
+    "category": "Spawn Levels",
+    "region": "EUR / PAL",
+    "platform": "GameCube",
+    "emulated": true
+  }
+]

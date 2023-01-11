@@ -1,0 +1,68 @@
+[
+  {
+    "id": "zgxe0jdm",
+    "game": "",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 1219,
+    "category": "No Restrictions",
+    "region": "USA / NTSC",
+    "platform": "NEC PC-98 series",
+    "emulated": true
+  },
+  {
+    "id": "me7vk33y",
+    "game": "",
+    "player": "TheVoid_0",
+    "player_location": "us",
+    "time": 1306,
+    "category": "Normal",
+    "region": "USA / NTSC",
+    "platform": "NEC PC-98 series",
+    "emulated": true
+  },
+  {
+    "id": "ywqj660y",
+    "game": "",
+    "player": "SenoraPapaya",
+    "player_location": "us",
+    "time": 1021,
+    "category": "Normal",
+    "region": "JPN / NTSC",
+    "platform": "NEC PC-98 series",
+    "emulated": false
+  },
+  {
+    "id": "y477epky",
+    "game": "Touhou Fuumaroku ~ The Story of Eastern Wonderland",
+    "player": "Rinnosuke_Morichika",
+    "player_location": "fr",
+    "time": 1046,
+    "category": "Normal",
+    "region": "JPN / NTSC",
+    "platform": "NEC PC-98 series",
+    "emulated": true
+  },
+  {
+    "id": "mke38v1m",
+    "game": "Touhou Fuumaroku ~ The Story of Eastern Wonderland",
+    "player": "TheTr1Noob",
+    "player_location": "us",
+    "time": 988,
+    "category": "",
+    "region": null,
+    "platform": "NEC PC-98 series",
+    "emulated": true
+  },
+  {
+    "id": "y606r51y",
+    "game": "Touhou Fuumaroku ~ The Story of Eastern Wonderland",
+    "player": "Pcola_Zhzhzh",
+    "player_location": "ru",
+    "time": 293,
+    "category": "Extra",
+    "region": null,
+    "platform": "NEC PC-98 series",
+    "emulated": true
+  }
+]

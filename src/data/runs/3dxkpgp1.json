@@ -1,0 +1,57 @@
+[
+  {
+    "id": "zx88gv8m",
+    "game": "Batsugun",
+    "player": "Ellimist",
+    "player_location": "us",
+    "time": 918,
+    "category": "2P",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yv00o06z",
+    "game": "Batsugun",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 1024,
+    "category": "2P",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yw6n372m",
+    "game": "Batsugun",
+    "player": "giuliok",
+    "player_location": "br",
+    "time": 903,
+    "category": "1P",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zxn27jqm",
+    "game": "Batsugun",
+    "player": "HosteL",
+    "player_location": "ru",
+    "time": 875,
+    "category": "1P",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zqeggnrz",
+    "game": "Batsugun",
+    "player": "apinardo_",
+    "player_location": "ar",
+    "time": 877,
+    "category": "2P",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

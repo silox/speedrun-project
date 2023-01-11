@@ -1,0 +1,35 @@
+[
+  {
+    "id": "y8x6n9xm",
+    "game": "Blue Hawk",
+    "player": "Ellimist",
+    "player_location": "us",
+    "time": 1121,
+    "category": "2P",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zpdw50vz",
+    "game": "Blue Hawk",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 1162,
+    "category": "2P",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "m3x44pgm",
+    "game": "Blue Hawk",
+    "player": "HosteL",
+    "player_location": "ru",
+    "time": 1186,
+    "category": "1P",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

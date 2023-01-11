@@ -1,0 +1,24 @@
+[
+  {
+    "id": "yd03d7xz",
+    "game": "Ys vs. Trails in the Sky: Alternative Saga",
+    "player": "Schtolteheim",
+    "player_location": "us",
+    "time": 3147,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Playstation TV",
+    "emulated": false
+  },
+  {
+    "id": "y8r22xdm",
+    "game": "Ys vs. Trails in the Sky: Alternative Saga",
+    "player": "Choojermelon",
+    "player_location": "gb/eng",
+    "time": 292,
+    "category": "Arcade Mode",
+    "region": "EUR / PAL",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  }
+]

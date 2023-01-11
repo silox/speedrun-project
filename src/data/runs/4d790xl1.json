@@ -1,0 +1,79 @@
+[
+  {
+    "id": "zx4gj8qy",
+    "game": "Pac & Pal",
+    "player": "TheAsparagoMan",
+    "player_location": "it",
+    "time": 44.73,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Plug and Play",
+    "emulated": true
+  },
+  {
+    "id": "m3orw4gm",
+    "game": "Pac & Pal",
+    "player": "_Miller_",
+    "player_location": "it",
+    "time": 44.66,
+    "category": "Level 2",
+    "region": "USA / NTSC",
+    "platform": "Plug and Play",
+    "emulated": true
+  },
+  {
+    "id": "y6p15q6m",
+    "game": "Pac & Pal",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 44.907,
+    "category": "Level 2",
+    "region": "USA / NTSC",
+    "platform": "Plug and Play",
+    "emulated": true
+  },
+  {
+    "id": "y2551l6y",
+    "game": "Pac & Pal",
+    "player": "ViviBloom",
+    "player_location": "us",
+    "time": 18.22,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zxoqwpgz",
+    "game": "Pac & Pal",
+    "player": "ivanpaduano",
+    "player_location": "it",
+    "time": 89.45,
+    "category": "",
+    "region": null,
+    "platform": "PC",
+    "emulated": true
+  },
+  {
+    "id": "m76ndx9y",
+    "game": "Pac & Pal",
+    "player": "cgtoad625yt",
+    "player_location": "us",
+    "time": 16.63,
+    "category": "High Score",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": true
+  },
+  {
+    "id": "zpgr2nvz",
+    "game": "Pac & Pal",
+    "player": "Lando_Blando",
+    "player_location": "mx",
+    "time": 93,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": false
+  }
+]

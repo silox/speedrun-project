@@ -1,0 +1,57 @@
+[
+  {
+    "id": "pzgql2jy",
+    "game": "",
+    "player": "RantronBomb",
+    "player_location": null,
+    "time": 2958,
+    "category": "Beat the Game",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "jy9kn92z",
+    "game": "",
+    "player": "Prince_Leaf",
+    "player_location": "us",
+    "time": 2619,
+    "category": "Beat the Game",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "mrqkwx2y",
+    "game": "",
+    "player": "news",
+    "player_location": "jp",
+    "time": 2389,
+    "category": "Beat the Game",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "m7qvqe4z",
+    "game": "Princess Tomato in the Salad Kingdom",
+    "player": "alsortiso",
+    "player_location": "us",
+    "time": 2845,
+    "category": "Beat the Game",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "z12j3x9y",
+    "game": "Princess Tomato in the Salad Kingdom",
+    "player": "QwertyQyx",
+    "player_location": "us",
+    "time": 2904,
+    "category": "Beat the Game",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  }
+]

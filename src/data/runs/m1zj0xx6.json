@@ -1,0 +1,24 @@
+[
+  {
+    "id": "mk3kko3z",
+    "game": "Metal Head",
+    "player": "Jrmhd91",
+    "player_location": "us",
+    "time": 1659,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "Sega 32X",
+    "emulated": false
+  },
+  {
+    "id": "m7g6ew0m",
+    "game": "Metal Head",
+    "player": "Subsonix",
+    "player_location": "gb/eng",
+    "time": 1914,
+    "category": "Easy",
+    "region": "JPN / NTSC",
+    "platform": "Sega 32X",
+    "emulated": true
+  }
+]

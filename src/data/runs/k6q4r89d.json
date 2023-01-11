@@ -1,0 +1,90 @@
+[
+  {
+    "id": "yo2r2ojz",
+    "game": "Bases Loaded II: Second Season",
+    "player": "Peanutfan22",
+    "player_location": "us",
+    "time": 653,
+    "category": "Lose a Game",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "y41131dy",
+    "game": "Bases Loaded II: Second Season",
+    "player": "MixMastaPJ",
+    "player_location": "us",
+    "time": 617,
+    "category": "Lose a Game",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y81jl4dz",
+    "game": "Bases Loaded II: Second Season",
+    "player": "Reidood",
+    "player_location": "us",
+    "time": 545,
+    "category": "Win a Game",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zgv2lrdz",
+    "game": "Bases Loaded II: Second Season",
+    "player": "lackattack",
+    "player_location": "us",
+    "time": 488,
+    "category": "Lose a Game",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "mexllv9z",
+    "game": "Bases Loaded II: Second Season",
+    "player": "rooslugs",
+    "player_location": "us",
+    "time": 879,
+    "category": "Win a Game",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zpr08xxm",
+    "game": "Bases Loaded II: Second Season",
+    "player": "ShesChardcore",
+    "player_location": "us",
+    "time": 536,
+    "category": "Lose a Game",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "yw827n3y",
+    "game": "Bases Loaded II: Second Season",
+    "player": "Klutzleo",
+    "player_location": "us",
+    "time": 1012,
+    "category": "Win a Game",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "yor4gv7y",
+    "game": "Bases Loaded II: Second Season",
+    "player": "DMMx",
+    "player_location": "us",
+    "time": 655,
+    "category": "Win a Game",
+    "region": null,
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  }
+]

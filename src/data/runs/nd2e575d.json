@@ -1,0 +1,233 @@
+[
+  {
+    "id": "ylr954ry",
+    "game": "Tamagotchi (GB)",
+    "player": "AmenAnthem",
+    "player_location": "at",
+    "time": 109.324,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "yo25wo5z",
+    "game": "Tamagotchi (GB)",
+    "player": "WhoaConstrictor",
+    "player_location": "us",
+    "time": 111.2,
+    "category": "Death%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "m7pvkkwm",
+    "game": "Tamagotchi (GB)",
+    "player": "JoshKeys",
+    "player_location": null,
+    "time": 124.53,
+    "category": "Death%",
+    "region": "JPN / NTSC",
+    "platform": "Super Game Boy 2",
+    "emulated": false
+  },
+  {
+    "id": "ywp5999z",
+    "game": "Tamagotchi (GB)",
+    "player": "Shellpal",
+    "player_location": null,
+    "time": 130.86,
+    "category": "Death%",
+    "region": "JPN / NTSC",
+    "platform": "Super Game Boy 2",
+    "emulated": false
+  },
+  {
+    "id": "zx4p9pgy",
+    "game": "Tamagotchi (GB)",
+    "player": "Godyr",
+    "player_location": "pt",
+    "time": 111.2,
+    "category": "Death%",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "yv3117xz",
+    "game": "Tamagotchi (GB)",
+    "player": "Fenwick",
+    "player_location": "us",
+    "time": 112.57,
+    "category": "Death%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "y41d7qny",
+    "game": "Tamagotchi (GB)",
+    "player": "paltha",
+    "player_location": "cl",
+    "time": 112.1,
+    "category": "Death%",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "z0n3p84m",
+    "game": "Tamagotchi (GB)",
+    "player": "ZONONsama",
+    "player_location": "jp",
+    "time": 107.775,
+    "category": "Death%",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Interface",
+    "emulated": false
+  },
+  {
+    "id": "zn3np4vy",
+    "game": "Tamagotchi (GB)",
+    "player": "ChucklesW73",
+    "player_location": "us",
+    "time": 113.975,
+    "category": "Death%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "ywqnpn9y",
+    "game": "Tamagotchi (GB)",
+    "player": "israrcool22",
+    "player_location": null,
+    "time": 119.71,
+    "category": "Death%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "zp8982gy",
+    "game": "Tamagotchi (GB)",
+    "player": "JoePulito",
+    "player_location": "us",
+    "time": 123.641,
+    "category": "Death%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "ydejxojm",
+    "game": "Tamagotchi (GB)",
+    "player": "Lv1",
+    "player_location": "jp",
+    "time": 111.108,
+    "category": "Death%",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Interface",
+    "emulated": false
+  },
+  {
+    "id": "ylrj00xy",
+    "game": "Tamagotchi (GB)",
+    "player": "HoratioFresh",
+    "player_location": "us",
+    "time": 119.525,
+    "category": "Death%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": false
+  },
+  {
+    "id": "zn78139m",
+    "game": "Tamagotchi (GB)",
+    "player": "Byrdman",
+    "player_location": "us",
+    "time": 111.142,
+    "category": "Death%",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Interface",
+    "emulated": false
+  },
+  {
+    "id": "z528o4nz",
+    "game": "Tamagotchi (GB)",
+    "player": "petaQ",
+    "player_location": "gb/eng",
+    "time": 107.124,
+    "category": "Death%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "z12vgx7y",
+    "game": "Tamagotchi (GB)",
+    "player": "Valzentia",
+    "player_location": "us",
+    "time": 112.124,
+    "category": "Death%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "y208wlwm",
+    "game": "Tamagotchi (GB)",
+    "player": "Bronkel",
+    "player_location": "de",
+    "time": 110.324,
+    "category": "Death%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "yvq5896m",
+    "game": "Tamagotchi (GB)",
+    "player": "Pikmin_3D",
+    "player_location": "fr",
+    "time": 167.892,
+    "category": "Death%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "y2p5xqjz",
+    "game": "Tamagotchi (GB)",
+    "player": "ravspect",
+    "player_location": "us",
+    "time": 110.375,
+    "category": "Death%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "mr7vj3dz",
+    "game": "Tamagotchi (GB)",
+    "player": "Jackso10",
+    "player_location": "us",
+    "time": 133.575,
+    "category": "Death%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": false
+  },
+  {
+    "id": "zq9qe1xy",
+    "game": "Tamagotchi (GB)",
+    "player": "yeroc5311",
+    "player_location": "us",
+    "time": 114.825,
+    "category": "Death%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "id": "y894vx5m",
+    "game": "Crazy Frog Racer (GBA)",
+    "player": "ScruffyButtons",
+    "player_location": "gb/eng",
+    "time": 385.83,
+    "category": "Bronze Cup",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "z0346nez",
+    "game": "Crazy Frog Racer (GBA)",
+    "player": "Jubtyjub",
+    "player_location": "au",
+    "time": 380.33,
+    "category": "Bronze Cup",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "z018nk4y",
+    "game": "Crazy Frog Racer (GBA)",
+    "player": "ChillCat",
+    "player_location": null,
+    "time": 354.24,
+    "category": "Bronze Cup",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "y90n4kny",
+    "game": "Crazy Frog Racer (GBA)",
+    "player": "Luke99",
+    "player_location": "us",
+    "time": 347.39,
+    "category": "Bronze Cup",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "yjl13kgz",
+    "game": "Crazy Frog Racer (GBA)",
+    "player": "Melwing17",
+    "player_location": "us",
+    "time": 322.45,
+    "category": "Bronze Cup",
+    "region": null,
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "zxdvwkky",
+    "game": "Crazy Frog Racer (GBA)",
+    "player": "Jokata",
+    "player_location": "fr",
+    "time": 318.99,
+    "category": "Bronze Cup",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "ylv636km",
+    "game": "Crazy Frog Racer (GBA)",
+    "player": "Ulvind",
+    "player_location": "fr",
+    "time": 285.56,
+    "category": "Bronze Cup",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Player",
+    "emulated": false
+  },
+  {
+    "id": "mk83w1vm",
+    "game": "Crazy Frog Racer (GBA)",
+    "player": "Storster",
+    "player_location": "us",
+    "time": 405.69,
+    "category": "Bronze Cup",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "zx74dg8y",
+    "game": "Crazy Frog Racer (GBA)",
+    "player": "BakerzBomb",
+    "player_location": "gb/wls",
+    "time": 283.36,
+    "category": "Bronze Cup",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "y883gv1y",
+    "game": "Crazy Frog Racer (GBA)",
+    "player": "bennnn12",
+    "player_location": "gb/wls",
+    "time": 381.2,
+    "category": "Bronze Cup",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "y6xwk70y",
+    "game": "Crazy Frog Racer (GBA)",
+    "player": "SpeenyBeeny",
+    "player_location": "us",
+    "time": 1478.267,
+    "category": "All Cups",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "y4xj80qz",
+    "game": "Crazy Frog Racer (GBA)",
+    "player": "Hellraiser",
+    "player_location": "gb",
+    "time": 369.67,
+    "category": "Bronze Cup",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "y6xj52qy",
+    "game": "Crazy Frog Racer (GBA)",
+    "player": "DuskTyphoon",
+    "player_location": "us",
+    "time": 293.61,
+    "category": "Bronze Cup",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  }
+]

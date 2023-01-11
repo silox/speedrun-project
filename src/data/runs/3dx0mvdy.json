@@ -1,0 +1,90 @@
+[
+  {
+    "id": "emkp05ly",
+    "game": "Armored Core: Last Raven",
+    "player": "Sparking_AC",
+    "player_location": "gb/eng",
+    "time": 1317,
+    "category": "Any% (Evangel Route)",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "emk5j23m",
+    "game": "Armored Core: Last Raven",
+    "player": "syro",
+    "player_location": "jp",
+    "time": 1517,
+    "category": "Any% (Evangel Route)",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "wzpledrm",
+    "game": "Armored Core: Last Raven",
+    "player": "hokson",
+    "player_location": null,
+    "time": 14199,
+    "category": "ALL Missions",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zq630qry",
+    "game": "Armored Core: Last Raven",
+    "player": "ProCow",
+    "player_location": "us",
+    "time": 1484,
+    "category": "Any% (Evangel Route)",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "m312wndz",
+    "game": "Armored Core: Last Raven",
+    "player": "niedle",
+    "player_location": "jp",
+    "time": 1376,
+    "category": "Any% (Evangel Route)",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zx27ql5m",
+    "game": "Armored Core: Last Raven",
+    "player": "misoka",
+    "player_location": "jp",
+    "time": 1263,
+    "category": "Any% (Evangel Route)",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y9n6dgrz",
+    "game": "Armored Core: Last Raven",
+    "player": "A0602",
+    "player_location": "ca",
+    "time": 1420,
+    "category": "Pulverizer Route #1",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "z5d1kddm",
+    "game": "Armored Core: Last Raven",
+    "player": "naddys_codebeta",
+    "player_location": "jp",
+    "time": 1204,
+    "category": "Any% (Evangel Route)",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  }
+]

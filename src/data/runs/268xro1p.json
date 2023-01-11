@@ -1,0 +1,134 @@
+[
+  {
+    "id": "ydqq8dxm",
+    "game": "Maximo: Ghosts to Glory",
+    "player": "VIP_Ryan",
+    "player_location": null,
+    "time": 6384,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y977ovrm",
+    "game": "Maximo: Ghosts to Glory",
+    "player": "DieYouEvilDruaga",
+    "player_location": null,
+    "time": 3281,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "m3610e4m",
+    "game": "Maximo: Ghosts to Glory",
+    "player": "Spiky",
+    "player_location": "se",
+    "time": 3223.54,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "zgkle1ny",
+    "game": "Maximo: Ghosts to Glory",
+    "player": "yamanaru",
+    "player_location": "jp",
+    "time": 3397,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "z1jvj2rz",
+    "game": "Maximo: Ghosts to Glory",
+    "player": "Raystar93",
+    "player_location": "de",
+    "time": 5957,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "yojwggjm",
+    "game": "Maximo: Ghosts to Glory",
+    "player": "Soka83",
+    "player_location": "fr",
+    "time": 4016,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "ydrrngwz",
+    "game": "Maximo: Ghosts to Glory",
+    "player": "Patthiccness",
+    "player_location": "ca/qc",
+    "time": 412.9,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "me7owe8y",
+    "game": "Maximo: Ghosts to Glory",
+    "player": "Ants_Beats99",
+    "player_location": "us",
+    "time": 416,
+    "category": "",
+    "region": null,
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "yv25x96m",
+    "game": "Maximo: Ghosts to Glory",
+    "player": "tanta_tattaka",
+    "player_location": "jp",
+    "time": 3735,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "z52r8vdz",
+    "game": "Maximo: Ghosts to Glory",
+    "player": "Dadun",
+    "player_location": "cz",
+    "time": 1008,
+    "category": "Boss Rush",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "z121lgjy",
+    "game": "Maximo: Ghosts to Glory",
+    "player": "Arossavi",
+    "player_location": "gb/eng",
+    "time": 6643.86,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "z1ge63rz",
+    "game": "Maximo: Ghosts to Glory",
+    "player": "SkullCrusher",
+    "player_location": "gb/eng",
+    "time": 412.034,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": true
+  }
+]

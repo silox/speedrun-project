@@ -1,0 +1,101 @@
+[
+  {
+    "id": "7z017v8y",
+    "game": "Ace Combat 5: The Unsung War",
+    "player": "Thehealbus",
+    "player_location": "us",
+    "time": 14066,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y4w0kpnm",
+    "game": "Ace Combat 5: The Unsung War",
+    "player": "Bahoma-246",
+    "player_location": "au",
+    "time": 12350,
+    "category": "Emu Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "me4jle3y",
+    "game": "Ace Combat 5: The Unsung War",
+    "player": "lilellia",
+    "player_location": "us",
+    "time": 13434,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "me8kjn0m",
+    "game": "Ace Combat 5: The Unsung War",
+    "player": "Neflarion",
+    "player_location": "us",
+    "time": 18729,
+    "category": "Emu Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "mk9n1rvz",
+    "game": "Ace Combat 5: The Unsung War",
+    "player": "SolidSpiderZnake",
+    "player_location": "sa",
+    "time": 14460,
+    "category": "PS4 Any%",
+    "region": null,
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "z5j0p9jm",
+    "game": "Ace Combat 5: The Unsung War",
+    "player": "weirdozzie",
+    "player_location": "us",
+    "time": 13246,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y8re0pdm",
+    "game": "Ace Combat 5: The Unsung War",
+    "player": "MadPunkerz",
+    "player_location": "it",
+    "time": 12848,
+    "category": "Any% NG+",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "yop65ojm",
+    "game": "Ace Combat 5: The Unsung War",
+    "player": "ItsJustPaulo",
+    "player_location": "us",
+    "time": 15498,
+    "category": "PS4 Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "y4q6p2qm",
+    "game": "Ace Combat 5: The Unsung War",
+    "player": "0Acerlot0",
+    "player_location": "au",
+    "time": 14053,
+    "category": "Emu Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  }
+]

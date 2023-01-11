@@ -1,0 +1,145 @@
+[
+  {
+    "id": "oy2g3n9z",
+    "game": "Ninja Gaiden Sigma 2",
+    "player": "Pitted",
+    "player_location": "us",
+    "time": 11367,
+    "category": "NG Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "yjllkgdz",
+    "game": "Ninja Gaiden Sigma 2",
+    "player": "Whiletrue1",
+    "player_location": "fi",
+    "time": 8872,
+    "category": "NG Any%",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "y9xd7jny",
+    "game": "Ninja Gaiden Sigma 2",
+    "player": "LonerHero",
+    "player_location": "qa",
+    "time": 237,
+    "category": "Momiji",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zq12r19m",
+    "game": "Ninja Gaiden Sigma 2",
+    "player": "BLUERIBBON93",
+    "player_location": "gb/eng",
+    "time": 234,
+    "category": "Ryu",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y47wljny",
+    "game": "Ninja Gaiden Sigma 2",
+    "player": "meyerpark",
+    "player_location": null,
+    "time": 234,
+    "category": "Ryu",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 5",
+    "emulated": false
+  },
+  {
+    "id": "mrnv0rdy",
+    "game": "Ninja Gaiden Sigma 2",
+    "player": "RyuHAYABUSA19",
+    "player_location": "ma",
+    "time": 9487,
+    "category": "NG Any%",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "y47leoqy",
+    "game": "Ninja Gaiden Sigma 2",
+    "player": "Galasrinie",
+    "player_location": "au",
+    "time": 10540,
+    "category": "NG Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y2jqw05z",
+    "game": "Ninja Gaiden Sigma 2",
+    "player": "GTNima",
+    "player_location": "ca",
+    "time": 6911,
+    "category": "CC Any%",
+    "region": null,
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "y6n5986z",
+    "game": "Ninja Gaiden Sigma 2",
+    "player": "Grayson1048",
+    "player_location": "mx",
+    "time": 10375,
+    "category": "NG Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Vita",
+    "emulated": false
+  },
+  {
+    "id": "mkd6861y",
+    "game": "Ninja Gaiden Sigma 2",
+    "player": "Licarus",
+    "player_location": "fr",
+    "time": 6603,
+    "category": "NG Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y20kl17m",
+    "game": "Ninja Gaiden Sigma 2",
+    "player": "RyuGoomba",
+    "player_location": "us",
+    "time": 128,
+    "category": "Ryu",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y6xx7eqy",
+    "game": "Ninja Gaiden Sigma 2",
+    "player": "Spawnman",
+    "player_location": null,
+    "time": 179,
+    "category": "Ryu",
+    "region": null,
+    "platform": "Xbox One S",
+    "emulated": false
+  },
+  {
+    "id": "me1d5j9y",
+    "game": "Ninja Gaiden Sigma 2",
+    "player": "zassou",
+    "player_location": "jp",
+    "time": 8219,
+    "category": "NG Any%",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

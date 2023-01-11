@@ -1,0 +1,24 @@
+[
+  {
+    "id": "y8rvv25m",
+    "game": "",
+    "player": "RI_PE",
+    "player_location": "jp",
+    "time": 1001,
+    "category": "any%",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y48q763m",
+    "game": "",
+    "player": "Saudi_speedrun",
+    "player_location": "sa",
+    "time": 1015,
+    "category": "any%",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1zxop28z",
+    "game": "",
+    "player": "Adrylek",
+    "player_location": "es",
+    "time": 6860,
+    "category": "Any% NG+",
+    "region": "EUR / PAL",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "pm3re56m",
+    "game": "",
+    "player": "indykenobi",
+    "player_location": "us",
+    "time": 6959,
+    "category": "Any% NG+",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "9yonol5z",
+    "game": "",
+    "player": "Smileyz",
+    "player_location": "us",
+    "time": 7052,
+    "category": "Any% NG+",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "9mr7r57z",
+    "game": "Virtue's Last Reward",
+    "player": "Ashja",
+    "player_location": "gb/eng",
+    "time": 7614,
+    "category": "Any% NG+",
+    "region": "EUR / PAL",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "ywdenxpz",
+    "game": "Virtue's Last Reward",
+    "player": "Toburr",
+    "player_location": "us",
+    "time": 6792,
+    "category": "Any% NG+",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "yl4w352m",
+    "game": "Neo Aquarium - The King of Crustaceans",
+    "player": "Maiguels",
+    "player_location": "es",
+    "time": 722.28,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m378l2qz",
+    "game": "Neo Aquarium - The King of Crustaceans",
+    "player": "Saint_Waluigi",
+    "player_location": "us",
+    "time": 429.059,
+    "category": "Story Mode - Easy",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y2p2vo6z",
+    "game": "Neo Aquarium - The King of Crustaceans",
+    "player": "BobNewsNetwork",
+    "player_location": "us",
+    "time": 356,
+    "category": "Story Mode - Easy",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

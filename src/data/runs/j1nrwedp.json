@@ -1,0 +1,57 @@
+[
+  {
+    "id": "yw4j399z",
+    "game": "Lupin the 3rd: Treasure of the Sorcerer King",
+    "player": "Oranges_Love",
+    "player_location": "us",
+    "time": 4713,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "mk9q89lz",
+    "game": "Lupin the 3rd: Treasure of the Sorcerer King",
+    "player": "watapachi67",
+    "player_location": "jp",
+    "time": 5253,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "mkk72qxm",
+    "game": "Lupin the 3rd: Treasure of the Sorcerer King",
+    "player": "r_iwn",
+    "player_location": "jp",
+    "time": 5544,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "m3362e4m",
+    "game": "Lupin the 3rd: Treasure of the Sorcerer King",
+    "player": "thisisnotjake",
+    "player_location": "us",
+    "time": 5256,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "m333jpdm",
+    "game": "Lupin the 3rd: Treasure of the Sorcerer King",
+    "player": "emkei",
+    "player_location": "jp",
+    "time": 5065,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  }
+]

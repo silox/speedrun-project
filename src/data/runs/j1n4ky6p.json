@@ -1,0 +1,68 @@
+[
+  {
+    "id": "8m7nxl0z",
+    "game": "Gears of War Judgment",
+    "player": "zzDAZZLEzz",
+    "player_location": null,
+    "time": 8758,
+    "category": "",
+    "region": null,
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "oy2o706m",
+    "game": "Gears of War Judgment",
+    "player": "StreakOfChaos",
+    "player_location": null,
+    "time": 9508,
+    "category": "Any%",
+    "region": null,
+    "platform": "Xbox One",
+    "emulated": false
+  },
+  {
+    "id": "zg7vo0jz",
+    "game": "Gears of War Judgment",
+    "player": "ThadJarvis64",
+    "player_location": "us",
+    "time": 2939,
+    "category": "",
+    "region": null,
+    "platform": "Xbox One",
+    "emulated": false
+  },
+  {
+    "id": "m3ok5jwm",
+    "game": "Gears of War Judgment",
+    "player": "Slevanas",
+    "player_location": "mx",
+    "time": 1525,
+    "category": "",
+    "region": null,
+    "platform": "Xbox One",
+    "emulated": false
+  },
+  {
+    "id": "yw84qv3y",
+    "game": "Gears of War Judgment",
+    "player": "Zoexy",
+    "player_location": "fr",
+    "time": 2727,
+    "category": "Aftermath",
+    "region": null,
+    "platform": "Xbox One",
+    "emulated": false
+  },
+  {
+    "id": "zn75gj7m",
+    "game": "Gears of War Judgment",
+    "player": "Cheevohnting",
+    "player_location": "au",
+    "time": 11308,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Xbox One",
+    "emulated": false
+  }
+]

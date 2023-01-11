@@ -1,0 +1,156 @@
+[
+  {
+    "id": "yojj14dm",
+    "game": "Tetris Attack (Game Boy)",
+    "player": "CardsOfTheHeart",
+    "player_location": "us",
+    "time": 189,
+    "category": "Vs. Com",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Player",
+    "emulated": false
+  },
+  {
+    "id": "emkeevlm",
+    "game": "Tetris Attack (Game Boy)",
+    "player": "DevolitionDerby",
+    "player_location": "us",
+    "time": 324,
+    "category": "Vs. Com",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "zp0vqdgm",
+    "game": "Tetris Attack (Game Boy)",
+    "player": "FFRPro21",
+    "player_location": "ca",
+    "time": 193,
+    "category": "Vs. Com",
+    "region": "USA / NTSC",
+    "platform": "Super Game Boy 2",
+    "emulated": false
+  },
+  {
+    "id": "8y8xlwdm",
+    "game": "Tetris Attack (Game Boy)",
+    "player": "yogithemaster",
+    "player_location": "us",
+    "time": 1290,
+    "category": "Vs. Com",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "0y6g8jjm",
+    "game": "Tetris Attack (Game Boy)",
+    "player": "SomeGirl",
+    "player_location": "us",
+    "time": 398,
+    "category": "Vs. Com",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "yd357vwz",
+    "game": "Tetris Attack (Game Boy)",
+    "player": "shadoweh",
+    "player_location": "us",
+    "time": 225,
+    "category": "Vs. Com",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "zq39px9y",
+    "game": "Tetris Attack (Game Boy)",
+    "player": "JoshKeys",
+    "player_location": null,
+    "time": 1409,
+    "category": "Vs. Com",
+    "region": "JPN / NTSC",
+    "platform": "Super Game Boy 2",
+    "emulated": false
+  },
+  {
+    "id": "zx4q04qy",
+    "game": "Tetris Attack (Game Boy)",
+    "player": "NihilistComedyHour",
+    "player_location": "eo",
+    "time": 1143,
+    "category": "Vs. Com",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "zg76w30z",
+    "game": "Tetris Attack (Game Boy)",
+    "player": "Razorflame",
+    "player_location": "us",
+    "time": 350,
+    "category": "Vs. Com",
+    "region": "USA / NTSC",
+    "platform": "Super Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "yj3xnpnz",
+    "game": "Tetris Attack (Game Boy)",
+    "player": "smartalec24",
+    "player_location": "us",
+    "time": 927,
+    "category": "Vs. Com",
+    "region": "USA / NTSC",
+    "platform": "Super Game Boy 2",
+    "emulated": false
+  },
+  {
+    "id": "z1551gwy",
+    "game": "Tetris Attack (Game Boy)",
+    "player": "daichies0927",
+    "player_location": "jp",
+    "time": 444,
+    "category": "Vs. Com",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Player",
+    "emulated": false
+  },
+  {
+    "id": "yw8o453y",
+    "game": "Tetris Attack (Game Boy)",
+    "player": "MortimerNova",
+    "player_location": "us",
+    "time": 1372,
+    "category": "Vs. Com",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "y8dvk8nz",
+    "game": "Tetris Attack (Game Boy)",
+    "player": "MDMArc420",
+    "player_location": "ca/qc",
+    "time": 302,
+    "category": "Vs. Com",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "z1rx779m",
+    "game": "Tetris Attack (Game Boy)",
+    "player": "ShesChardcore",
+    "player_location": "us",
+    "time": 318,
+    "category": "Vs. Com",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  }
+]

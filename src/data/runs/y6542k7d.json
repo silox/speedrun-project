@@ -1,0 +1,46 @@
+[
+  {
+    "id": "y25oq47y",
+    "game": "",
+    "player": "HopeTrash",
+    "player_location": "fr",
+    "time": 1.093,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "zq4ogj5m",
+    "game": "",
+    "player": "DBcade",
+    "player_location": "jp",
+    "time": 8.59,
+    "category": "Arcade",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zqwl3l9z",
+    "game": "",
+    "player": "Despera",
+    "player_location": "be",
+    "time": 0.31,
+    "category": "Arcade (Custom Character)",
+    "region": null,
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "yo3jopjy",
+    "game": "",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 1.093,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  }
+]

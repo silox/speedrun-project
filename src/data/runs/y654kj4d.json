@@ -1,0 +1,123 @@
+[
+  {
+    "id": "zgkr3d0y",
+    "game": "Sift Heads World: Acts",
+    "player": "GustavoPredador",
+    "player_location": "br",
+    "time": 1164,
+    "category": "Act 5: An Exotic Job",
+    "region": "BRA / PAL",
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "yj3prd3z",
+    "game": "Sift Heads World: Acts",
+    "player": "Tei",
+    "player_location": "vn",
+    "time": 374,
+    "category": "Act 5: An Exotic Job",
+    "region": null,
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "zp4de5xz",
+    "game": "Sift Heads World: Acts",
+    "player": "LordBatareya",
+    "player_location": "ua",
+    "time": 953,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Web",
+    "emulated": true
+  },
+  {
+    "id": "zgwx9v0y",
+    "game": "Sift Heads World: Acts",
+    "player": "TheBullyManiac",
+    "player_location": null,
+    "time": 386,
+    "category": "",
+    "region": null,
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "mk2o57lm",
+    "game": "Sift Heads World: Acts",
+    "player": "Kuutioo",
+    "player_location": "fi",
+    "time": 387,
+    "category": "Act 2: The Treacherous Return",
+    "region": "EUR / PAL",
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "y21l666z",
+    "game": "Sift Heads World: Acts",
+    "player": "Sedno3",
+    "player_location": "gb",
+    "time": 737,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "ylkpv13z",
+    "game": "Sift Heads World: Acts",
+    "player": "RunStrafe",
+    "player_location": "de",
+    "time": 398,
+    "category": "Act 2: The Treacherous Return",
+    "region": "EUR / PAL",
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "znoeg27y",
+    "game": "Sift Heads World: Acts",
+    "player": "chiwie",
+    "player_location": "rs",
+    "time": 343,
+    "category": "Act 5: An Exotic Job",
+    "region": "EUR / PAL",
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "ylopg2xy",
+    "game": "Sift Heads World: Acts",
+    "player": "bobthebusailer",
+    "player_location": "us",
+    "time": 464,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Web",
+    "emulated": true
+  },
+  {
+    "id": "m77pq70m",
+    "game": "Sift Heads World: Acts",
+    "player": "Quattrozander",
+    "player_location": "gb/eng",
+    "time": 614,
+    "category": "Act 7: Ultimatum",
+    "region": "EUR / PAL",
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "zxn2odgm",
+    "game": "Sift Heads World: Acts",
+    "player": "PrzemiB",
+    "player_location": "pl",
+    "time": 547,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Web",
+    "emulated": false
+  }
+]

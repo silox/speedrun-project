@@ -1,0 +1,167 @@
+[
+  {
+    "id": "7ylel1nz",
+    "game": "Ikari III: The Rescue",
+    "player": "DTysonator",
+    "player_location": null,
+    "time": 1086,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "9mej010y",
+    "game": "Ikari III: The Rescue",
+    "player": "Trysdyn",
+    "player_location": null,
+    "time": 1222,
+    "category": "Any% (NES)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "6yjp2doy",
+    "game": "Ikari III: The Rescue",
+    "player": "AAGGAGAT",
+    "player_location": "br",
+    "time": 1681,
+    "category": "Any% (NES)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "7z0joe9y",
+    "game": "Ikari III: The Rescue",
+    "player": "huoxingrenmartain",
+    "player_location": "cn",
+    "time": 1066.9,
+    "category": "Any% (NES)",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "dy4n28nm",
+    "game": "Ikari III: The Rescue",
+    "player": "Beerfullofbelly",
+    "player_location": null,
+    "time": 1262,
+    "category": "Any% (NES)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y8qre0dy",
+    "game": "Ikari III: The Rescue",
+    "player": "fuzzybunny10",
+    "player_location": null,
+    "time": 1494,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y454w63m",
+    "game": "Ikari III: The Rescue",
+    "player": "IkariAllen",
+    "player_location": "us",
+    "time": 1134,
+    "category": "Any% (NES)",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "mk2pwg1m",
+    "game": "Ikari III: The Rescue",
+    "player": "Carter44",
+    "player_location": "ca",
+    "time": 1509,
+    "category": "Any% (NES)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y8r9k2xm",
+    "game": "Ikari III: The Rescue",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 2297,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zgv9o2jz",
+    "game": "Ikari III: The Rescue",
+    "player": "Commodore64Brannigan",
+    "player_location": "gb/sct",
+    "time": 2085,
+    "category": "Any% Co-Op (Arcade)",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z072nooy",
+    "game": "Ikari III: The Rescue",
+    "player": "HunterGames80",
+    "player_location": "br",
+    "time": 1066.99,
+    "category": "Any% (NES)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "mkk3lolm",
+    "game": "Ikari III: The Rescue",
+    "player": "manticor5",
+    "player_location": "cl",
+    "time": 2327.306,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y8x38jwm",
+    "game": "Ikari III: The Rescue",
+    "player": "Edo_87",
+    "player_location": "cl",
+    "time": 1855,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yv06o9xz",
+    "game": "Ikari III: The Rescue",
+    "player": "hirexen",
+    "player_location": "pl",
+    "time": 835,
+    "category": "Any% Co-Op (NES)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "z0loeqjz",
+    "game": "Ikari III: The Rescue",
+    "player": "Lucha_Gym",
+    "player_location": "au",
+    "time": 901,
+    "category": "Any% (NES)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  }
+]

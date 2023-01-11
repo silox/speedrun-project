@@ -1,0 +1,68 @@
+[
+  {
+    "id": "oy2wvq7y",
+    "game": "Phoenix Wright: Ace Attorney - Spirit of Justice",
+    "player": "Smashman64",
+    "player_location": "us",
+    "time": 3304,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "8m7o2owy",
+    "game": "Phoenix Wright: Ace Attorney - Spirit of Justice",
+    "player": "indykenobi",
+    "player_location": "us",
+    "time": 3262,
+    "category": "Win the Case",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "emkjnely",
+    "game": "Phoenix Wright: Ace Attorney - Spirit of Justice",
+    "player": "Ryuken",
+    "player_location": "us",
+    "time": 3291,
+    "category": "Win the Case",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "mr9q837m",
+    "game": "Phoenix Wright: Ace Attorney - Spirit of Justice",
+    "player": "TheScallySwag",
+    "player_location": "us",
+    "time": 2986,
+    "category": "Win the Case",
+    "region": "USA / NTSC",
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "me68o73z",
+    "game": "Phoenix Wright: Ace Attorney - Spirit of Justice",
+    "player": "JakeFox",
+    "player_location": "us",
+    "time": 2985,
+    "category": "Win the Case",
+    "region": "USA / NTSC",
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "zplxoxvm",
+    "game": "Phoenix Wright: Ace Attorney - Spirit of Justice",
+    "player": "aimlessaxel",
+    "player_location": "us",
+    "time": 4067,
+    "category": "Win the Case",
+    "region": "USA / NTSC",
+    "platform": "Android",
+    "emulated": false
+  }
+]

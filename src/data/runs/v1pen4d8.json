@@ -1,0 +1,68 @@
+[
+  {
+    "id": "pydrpnjz",
+    "game": "",
+    "player": "MURPHAGATOR!",
+    "player_location": null,
+    "time": 1188,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "oy22oqwy",
+    "game": "",
+    "player": "jlt363093",
+    "player_location": "cn",
+    "time": 1460,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "wzp6jgxm",
+    "game": "",
+    "player": "Knjazvetal",
+    "player_location": "ua",
+    "time": 1353,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "y67o39jm",
+    "game": "P.O.W.: Prisoners of War (NES)",
+    "player": "kidWinD",
+    "player_location": "cn",
+    "time": 1325,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "z031pvjz",
+    "game": "P.O.W.: Prisoners of War (NES)",
+    "player": "eyuzheng",
+    "player_location": "cn",
+    "time": 1666,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "yorxnvjy",
+    "game": "P.O.W.: Prisoners of War (NES)",
+    "player": "Chimp",
+    "player_location": "us",
+    "time": 1170,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  }
+]

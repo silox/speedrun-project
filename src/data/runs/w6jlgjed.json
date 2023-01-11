@@ -1,0 +1,35 @@
+[
+  {
+    "id": "yjk7lk7m",
+    "game": "Metal Slug: 1st Mission",
+    "player": "Tempystral",
+    "player_location": "ca",
+    "time": 1023,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Neo Geo Pocket Color",
+    "emulated": true
+  },
+  {
+    "id": "y6pl0e6m",
+    "game": "Metal Slug: 1st Mission",
+    "player": "Lost_Pixels",
+    "player_location": "us",
+    "time": 975,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Neo Geo Pocket Color",
+    "emulated": true
+  },
+  {
+    "id": "y9v94rvm",
+    "game": "Metal Slug: 1st Mission",
+    "player": "teapartycthulu",
+    "player_location": "us",
+    "time": 1015,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Neo Geo Pocket Color",
+    "emulated": true
+  }
+]

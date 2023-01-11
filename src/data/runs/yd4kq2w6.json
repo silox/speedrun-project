@@ -1,0 +1,35 @@
+[
+  {
+    "id": "mrr7772m",
+    "game": "Armed Police Batrider",
+    "player": "Ellimist",
+    "player_location": "us",
+    "time": 401,
+    "category": "2P",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zx833d8m",
+    "game": "Armed Police Batrider",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 315,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y8xovedm",
+    "game": "Armed Police Batrider",
+    "player": "Art_Izon",
+    "player_location": "us",
+    "time": 265,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

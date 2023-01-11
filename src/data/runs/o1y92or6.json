@@ -1,0 +1,24 @@
+[
+  {
+    "id": "z13pjxjm",
+    "game": "Golf (Virtual Boy)",
+    "player": "Witchs_Hex",
+    "player_location": null,
+    "time": 1172,
+    "category": "Stroke Mode",
+    "region": "JPN / NTSC",
+    "platform": "Virtual Boy",
+    "emulated": true
+  },
+  {
+    "id": "y9vnwgvm",
+    "game": "Golf (Virtual Boy)",
+    "player": "JoePulito",
+    "player_location": "us",
+    "time": 1738,
+    "category": "Stroke Mode",
+    "region": "USA / NTSC",
+    "platform": "Virtual Boy",
+    "emulated": true
+  }
+]

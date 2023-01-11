@@ -1,0 +1,134 @@
+[
+  {
+    "id": "z1g0dojz",
+    "game": "TOCA World Touring Cars",
+    "player": "Dima5741",
+    "player_location": "ua",
+    "time": 10174,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "yw80r9ny",
+    "game": "TOCA World Touring Cars",
+    "player": "Moorea",
+    "player_location": "aq",
+    "time": 1685.798,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "y65626jz",
+    "game": "TOCA World Touring Cars",
+    "player": "Massafra",
+    "player_location": null,
+    "time": 1568.516,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "ylko6dnz",
+    "game": "TOCA World Touring Cars",
+    "player": "Binnospeed",
+    "player_location": null,
+    "time": 1598.582,
+    "category": "WSCR",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "z158ln7y",
+    "game": "TOCA World Touring Cars",
+    "player": "MadMatty",
+    "player_location": null,
+    "time": 1755.615,
+    "category": "WSCR",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "yv62p7oz",
+    "game": "TOCA World Touring Cars",
+    "player": "ToniBC78",
+    "player_location": null,
+    "time": 1706.76,
+    "category": "WSCR",
+    "region": "EUR / PAL",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "yd59j4vm",
+    "game": "TOCA World Touring Cars",
+    "player": "Eliasmartinez007",
+    "player_location": null,
+    "time": 2045.297,
+    "category": "WSCR",
+    "region": "EUR / PAL",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "y4w2o03m",
+    "game": "TOCA World Touring Cars",
+    "player": "RacingGameArchive",
+    "player_location": null,
+    "time": 1730.183,
+    "category": "WSCR",
+    "region": "EUR / PAL",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "yd59joxm",
+    "game": "TOCA World Touring Cars",
+    "player": "rynogt4",
+    "player_location": null,
+    "time": 1735.694,
+    "category": "WSCR",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "mrk4vo2y",
+    "game": "TOCA World Touring Cars",
+    "player": "Skyhurricane",
+    "player_location": "us",
+    "time": 1618.03,
+    "category": "WSCR",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "zx26x4gm",
+    "game": "TOCA World Touring Cars",
+    "player": "Yoshinori Ebina",
+    "player_location": null,
+    "time": 1672.19,
+    "category": "WSCR",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "y8d1v7xz",
+    "game": "TOCA World Touring Cars",
+    "player": "ervesti93",
+    "player_location": "it",
+    "time": 1728.571,
+    "category": "WSCR",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  }
+]

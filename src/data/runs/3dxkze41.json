@@ -1,0 +1,24 @@
+[
+  {
+    "id": "ylrr54xy",
+    "game": "Fight",
+    "player": "NintenLew",
+    "player_location": "gb/eng",
+    "time": 63,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "zxo7jpez",
+    "game": "Fight",
+    "player": "DWednesday",
+    "player_location": "gb",
+    "time": 55,
+    "category": "Arcade",
+    "region": "EUR / PAL",
+    "platform": "Switch",
+    "emulated": false
+  }
+]

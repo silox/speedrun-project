@@ -1,0 +1,46 @@
+[
+  {
+    "id": "yjk6n3om",
+    "game": "",
+    "player": "Mikebloke",
+    "player_location": "gb/eng",
+    "time": 78895,
+    "category": "Any%",
+    "region": null,
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "mexx198z",
+    "game": "",
+    "player": "ARRPEEGEE",
+    "player_location": "gb/eng",
+    "time": 60445,
+    "category": "Any%",
+    "region": null,
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "yv2pg56m",
+    "game": "",
+    "player": "BOWIEtheHERO",
+    "player_location": "gb",
+    "time": 34592,
+    "category": "Any% (Emulated)",
+    "region": "USA / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": true
+  },
+  {
+    "id": "y4wg193m",
+    "game": "",
+    "player": "Zanon",
+    "player_location": "de",
+    "time": 38407,
+    "category": "Any% (Emulated)",
+    "region": "USA / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": true
+  }
+]

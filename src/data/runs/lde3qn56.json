@@ -1,0 +1,35 @@
+[
+  {
+    "id": "mr9803dm",
+    "game": "",
+    "player": "Tegron",
+    "player_location": "pl",
+    "time": 1833,
+    "category": "Bad End 1",
+    "region": "CHN / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z5j89n5m",
+    "game": "",
+    "player": "Numulix",
+    "player_location": "rs",
+    "time": 1804,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y93r74ry",
+    "game": "The Boogie Man",
+    "player": "MurasakiBeanz",
+    "player_location": "us",
+    "time": 1737,
+    "category": "Bad End 1",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

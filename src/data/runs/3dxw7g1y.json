@@ -1,0 +1,79 @@
+[
+  {
+    "id": "yo4p4x7m",
+    "game": "Devil Dice",
+    "player": "Dresdal",
+    "player_location": "us",
+    "time": 885,
+    "category": "Puzzle Mode",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "mekwppqm",
+    "game": "Devil Dice",
+    "player": "CaneofPacci",
+    "player_location": "us",
+    "time": 794,
+    "category": "Puzzle Mode",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y2v6pgwz",
+    "game": "Devil Dice",
+    "player": "Cobra_X21",
+    "player_location": "aq",
+    "time": 478,
+    "category": "Puzzle Mode",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "zgvw5xjz",
+    "game": "Devil Dice",
+    "player": "AsneL",
+    "player_location": "jp",
+    "time": 195,
+    "category": "WARS Mode",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zn39988y",
+    "game": "Devil Dice",
+    "player": "maroon361",
+    "player_location": "jp",
+    "time": 132,
+    "category": "WARS Mode",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "m78p5o4z",
+    "game": "Devil Dice",
+    "player": "Micheal",
+    "player_location": "jp",
+    "time": 772,
+    "category": "Puzzle Mode",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zq1lrprm",
+    "game": "Devil Dice",
+    "player": "evonaabi",
+    "player_location": "fi",
+    "time": 446,
+    "category": "Puzzle Mode",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "zqg41g5m",
+    "game": "Blade Arcus from Shining",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 801,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zx6dg0kz",
+    "game": "Blade Arcus from Shining",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 422,
+    "category": "Story Mode",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "y99154ny",
+    "game": "Blade Arcus from Shining",
+    "player": "mrguyaverage",
+    "player_location": "us",
+    "time": 290,
+    "category": "Story Mode",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zx7je9ky",
+    "game": "Blade Arcus from Shining",
+    "player": "Art_Izon",
+    "player_location": "us",
+    "time": 269,
+    "category": "Story Mode",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

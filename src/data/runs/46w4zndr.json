@@ -1,0 +1,156 @@
+[
+  {
+    "id": "y2xg5q5m",
+    "game": "Haunted Castle",
+    "player": "Jaguar_King",
+    "player_location": "us",
+    "time": 665,
+    "category": "1CC",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "emk614xz",
+    "game": "Haunted Castle",
+    "player": "Lunatix",
+    "player_location": "fr",
+    "time": 708,
+    "category": "1CC",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "ydqn7q0m",
+    "game": "Haunted Castle",
+    "player": "CamperCarl",
+    "player_location": "au",
+    "time": 722,
+    "category": "1CC",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y2dnvq7z",
+    "game": "Haunted Castle",
+    "player": "Dumple",
+    "player_location": "us",
+    "time": 902,
+    "category": "1CC",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "mr1odg8z",
+    "game": "Haunted Castle",
+    "player": "KungFusedMike",
+    "player_location": "us",
+    "time": 663,
+    "category": "1CC",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z5rp3djy",
+    "game": "Haunted Castle",
+    "player": "[us]joshthefunkdoc",
+    "player_location": null,
+    "time": 742,
+    "category": "1CC",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yv1pwl4y",
+    "game": "Haunted Castle",
+    "player": "[jp]Oppa Suppa",
+    "player_location": null,
+    "time": 707,
+    "category": "1CC",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "zgrdqrvm",
+    "game": "Haunted Castle",
+    "player": "[fi]rotta",
+    "player_location": null,
+    "time": 656,
+    "category": "",
+    "region": null,
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "z07d61ey",
+    "game": "Haunted Castle",
+    "player": "Sir_VG",
+    "player_location": "us",
+    "time": 809,
+    "category": "1CC",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "yjx234gz",
+    "game": "Haunted Castle",
+    "player": "ghostlygrrrl",
+    "player_location": "us",
+    "time": 709,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zgqrr6ey",
+    "game": "Haunted Castle",
+    "player": "Yace",
+    "player_location": "fr",
+    "time": 809,
+    "category": "1CC",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yv0oq4xz",
+    "game": "Haunted Castle",
+    "player": "Coco Loco",
+    "player_location": null,
+    "time": 906,
+    "category": "1CC",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "mrr7q28m",
+    "game": "Haunted Castle",
+    "player": "AgentWyvern",
+    "player_location": "gb",
+    "time": 653,
+    "category": "Beat the Game",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y9xgjq2y",
+    "game": "Haunted Castle",
+    "player": "seitei3",
+    "player_location": "jp",
+    "time": 646,
+    "category": "1CC",
+    "region": "JPN / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  }
+]

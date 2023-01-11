@@ -1,0 +1,35 @@
+[
+  {
+    "id": "z05grr8m",
+    "game": "Hexoscope",
+    "player": "stuco",
+    "player_location": "us",
+    "time": 1836,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z09lv2ez",
+    "game": "Hexoscope",
+    "player": "AlfaStrategist",
+    "player_location": "za",
+    "time": 1242,
+    "category": "No Resets",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y8exrowy",
+    "game": "Hexoscope",
+    "player": "Mexicaan42069",
+    "player_location": "be",
+    "time": 565,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  }
+]

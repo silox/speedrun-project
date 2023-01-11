@@ -1,0 +1,68 @@
+[
+  {
+    "id": "z51nk2dm",
+    "game": "Snoopy Tennis",
+    "player": "Peanutfan22",
+    "player_location": "us",
+    "time": 68,
+    "category": "Sudden Win",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "zq1ej8rm",
+    "game": "Snoopy Tennis",
+    "player": "poetfox",
+    "player_location": "us",
+    "time": 73,
+    "category": "Sudden Win",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "ydrnkjwz",
+    "game": "Snoopy Tennis",
+    "player": "JohannesK",
+    "player_location": "se",
+    "time": 121,
+    "category": "Sudden Win",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Color",
+    "emulated": false
+  },
+  {
+    "id": "y69rx5qy",
+    "game": "Snoopy Tennis",
+    "player": "ShrimpiiBoii",
+    "player_location": "au",
+    "time": 212,
+    "category": "Squash",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "y8xv95wm",
+    "game": "Snoopy Tennis",
+    "player": "JoePulito",
+    "player_location": "us",
+    "time": 83,
+    "category": "Sudden Win",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "zq90k4xy",
+    "game": "Snoopy Tennis",
+    "player": "Fioresa",
+    "player_location": "us",
+    "time": 67,
+    "category": "Sudden Win",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "y4wqelkm",
+    "game": "Super Monkey Ball 2 Category Extensions",
+    "player": "gooofball5000",
+    "player_location": "us",
+    "time": 1900,
+    "category": "4 Player",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "y4w0denm",
+    "game": "Super Monkey Ball 2 Category Extensions",
+    "player": "Alist",
+    "player_location": "us",
+    "time": 4134,
+    "category": "4 Player",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "yv6d2gxz",
+    "game": "Super Monkey Ball 2 Category Extensions",
+    "player": "ToothpasteThy",
+    "player_location": "ca",
+    "time": 1626,
+    "category": "4 Player",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "m3noqpdy",
+    "game": "Super Monkey Ball 2 Category Extensions",
+    "player": "alexspeedruns",
+    "player_location": "us",
+    "time": 6355,
+    "category": "Debug%",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  }
+]

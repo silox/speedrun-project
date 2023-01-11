@@ -1,0 +1,90 @@
+[
+  {
+    "id": "z15dxl9y",
+    "game": "Dragon Valor",
+    "player": "superterro",
+    "player_location": "es",
+    "time": 1280,
+    "category": "Clovis%",
+    "region": null,
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "8y840dwz",
+    "game": "Dragon Valor",
+    "player": "PetitJon",
+    "player_location": "be",
+    "time": 13791,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "znpxglvm",
+    "game": "Dragon Valor",
+    "player": "uberfayt",
+    "player_location": "ma",
+    "time": 211,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "zp005vgm",
+    "game": "Dragon Valor",
+    "player": "Maniatikiller",
+    "player_location": "cl",
+    "time": 1406,
+    "category": "Clovis%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "zq33pxry",
+    "game": "Dragon Valor",
+    "player": "crisdoile2",
+    "player_location": "mx",
+    "time": 13647,
+    "category": "Soul Path - Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "zp4777rz",
+    "game": "Dragon Valor",
+    "player": "DesmondTMB",
+    "player_location": "de",
+    "time": 219,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "zgp24onz",
+    "game": "Dragon Valor",
+    "player": "Hebinx",
+    "player_location": "us",
+    "time": 8828,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y6r120qy",
+    "game": "Dragon Valor",
+    "player": "Mochuo",
+    "player_location": "se",
+    "time": 214,
+    "category": "Prologue",
+    "region": "EUR / PAL",
+    "platform": "PlayStation",
+    "emulated": true
+  }
+]

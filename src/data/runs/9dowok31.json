@@ -1,0 +1,90 @@
+[
+  {
+    "id": "mr84nw4y",
+    "game": "Animaniacs (Genesis)",
+    "player": "chaos42666",
+    "player_location": "us",
+    "time": 1667,
+    "category": "HARD",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "y4395jqz",
+    "game": "Animaniacs (Genesis)",
+    "player": "Zergsword",
+    "player_location": "fr",
+    "time": 2110,
+    "category": "NORMAL",
+    "region": null,
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "yo7e855m",
+    "game": "Animaniacs (Genesis)",
+    "player": "Rash",
+    "player_location": "ru",
+    "time": 1537,
+    "category": "EASY",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "yv9o1g4z",
+    "game": "Animaniacs (Genesis)",
+    "player": "SuperSonic",
+    "player_location": "us",
+    "time": 1574,
+    "category": "EASY",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "yvj7736y",
+    "game": "Animaniacs (Genesis)",
+    "player": "Discharge15",
+    "player_location": "us",
+    "time": 1600,
+    "category": "NORMAL",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "y2vlr36z",
+    "game": "Animaniacs (Genesis)",
+    "player": "LadyGalaga",
+    "player_location": "us",
+    "time": 1901,
+    "category": "EASY",
+    "region": null,
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "zgr8dejm",
+    "game": "Animaniacs (Genesis)",
+    "player": "ZeroCounts",
+    "player_location": "us",
+    "time": 1497,
+    "category": "EASY",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "y9v5qovm",
+    "game": "Animaniacs (Genesis)",
+    "player": "Paul-Knives",
+    "player_location": "ar",
+    "time": 1651,
+    "category": "HARD",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  }
+]

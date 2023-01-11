@@ -1,0 +1,57 @@
+[
+  {
+    "id": "m3dddk6z",
+    "game": "",
+    "player": "Dugongue",
+    "player_location": "us",
+    "time": 620,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "mk90693z",
+    "game": "",
+    "player": "MagmaW0LF",
+    "player_location": "us",
+    "time": 488,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y6p2jl1m",
+    "game": "Operation Wolf (NES)",
+    "player": "Oldschoolmcfly",
+    "player_location": "us",
+    "time": 571,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "yv3l7n8z",
+    "game": "Operation Wolf (NES)",
+    "player": "Carter44",
+    "player_location": "ca",
+    "time": 317,
+    "category": "Famicom Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "me75ql0y",
+    "game": "Operation Wolf (NES)",
+    "player": "smartalec24",
+    "player_location": "us",
+    "time": 561,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  }
+]

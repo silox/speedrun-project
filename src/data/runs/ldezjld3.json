@@ -1,0 +1,35 @@
+[
+  {
+    "id": "jy906wry",
+    "game": "Tearaway",
+    "player": "Kulus",
+    "player_location": "us",
+    "time": 6130,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Vita",
+    "emulated": false
+  },
+  {
+    "id": "zp95x38m",
+    "game": "Tearaway",
+    "player": "sockdrawerdoodles",
+    "player_location": "us",
+    "time": 5204,
+    "category": "NG+",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Vita",
+    "emulated": false
+  },
+  {
+    "id": "me3wjx9z",
+    "game": "Tearaway",
+    "player": "Slysonic",
+    "player_location": "gb",
+    "time": 8702,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "PlayStation Vita",
+    "emulated": false
+  }
+]

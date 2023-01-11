@@ -1,0 +1,57 @@
+[
+  {
+    "id": "ydqkl10m",
+    "game": "",
+    "player": "[ca]talbot1939",
+    "player_location": null,
+    "time": 717,
+    "category": "Any% Turbo",
+    "region": "USA / NTSC",
+    "platform": "Sega Master System",
+    "emulated": true
+  },
+  {
+    "id": "yjknelom",
+    "game": "",
+    "player": "[jp]ktwkubota",
+    "player_location": null,
+    "time": 1074,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y6l171qy",
+    "game": "Fantasy Zone II (SMS)",
+    "player": "rainwarrior",
+    "player_location": "ca",
+    "time": 2743,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Master System",
+    "emulated": true
+  },
+  {
+    "id": "z070qw8y",
+    "game": "Fantasy Zone II (SMS)",
+    "player": "virtual_bacon",
+    "player_location": "us",
+    "time": 1225,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Master System",
+    "emulated": true
+  },
+  {
+    "id": "zp2rn08y",
+    "game": "Fantasy Zone II (SMS)",
+    "player": "incognitio",
+    "player_location": "nz",
+    "time": 570,
+    "category": "Any% Turbo",
+    "region": "JPN / NTSC",
+    "platform": "Sega Master System",
+    "emulated": true
+  }
+]

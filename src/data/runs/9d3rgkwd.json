@@ -1,0 +1,112 @@
+[
+  {
+    "id": "zp3w3qgm",
+    "game": "GT Advance Championship Racing",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 66.98,
+    "category": "Best Time",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "yj12r47y",
+    "game": "GT Advance Championship Racing",
+    "player": "thegoodjakeward",
+    "player_location": "us",
+    "time": 58.38,
+    "category": "Best Time",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "y9nd2wkz",
+    "game": "GT Advance Championship Racing",
+    "player": "McKiddy",
+    "player_location": "us",
+    "time": 72.9,
+    "category": "Best Time",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "yv1g3poy",
+    "game": "GT Advance Championship Racing",
+    "player": "Sharpless_",
+    "player_location": "us",
+    "time": 45.58,
+    "category": "Best Time",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "y200pg9m",
+    "game": "GT Advance Championship Racing",
+    "player": "VyPr",
+    "player_location": "us",
+    "time": 43.35,
+    "category": "Best Time",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "mee8589m",
+    "game": "GT Advance Championship Racing",
+    "player": "Praxis920",
+    "player_location": "br",
+    "time": 11.15,
+    "category": "Best Lap",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "zx7w1lgy",
+    "game": "GT Advance Championship Racing",
+    "player": "ViperUK",
+    "player_location": "gb/eng",
+    "time": 3508,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "zx83j05m",
+    "game": "GT Advance Championship Racing",
+    "player": "goodguypol",
+    "player_location": "ro",
+    "time": 49.28,
+    "category": "Best Time",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "z5xgj1ny",
+    "game": "GT Advance Championship Racing",
+    "player": "Rinouc",
+    "player_location": "fr",
+    "time": 4034,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Advance",
+    "emulated": false
+  },
+  {
+    "id": "m729xkez",
+    "game": "GT Advance Championship Racing",
+    "player": "meauxdal",
+    "player_location": "us",
+    "time": 15.73,
+    "category": "Best Lap",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Interface",
+    "emulated": false
+  }
+]

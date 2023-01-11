@@ -1,0 +1,79 @@
+[
+  {
+    "id": "yvgq5k8y",
+    "game": "Rambo",
+    "player": "Vidtendo",
+    "player_location": "ca/qc",
+    "time": 1491,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "yjk9d1om",
+    "game": "Rambo",
+    "player": "MrPupG",
+    "player_location": "us",
+    "time": 1324,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zxvx198y",
+    "game": "Rambo",
+    "player": "garysuter",
+    "player_location": "ca/qc",
+    "time": 1282,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "z513vgjm",
+    "game": "Rambo",
+    "player": "WhiteHat94",
+    "player_location": "us",
+    "time": 1098,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zgkxo0jy",
+    "game": "Rambo",
+    "player": "brossentia",
+    "player_location": "us",
+    "time": 1195,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "z03dproz",
+    "game": "Rambo",
+    "player": "Rayquaza911",
+    "player_location": "ca",
+    "time": 1178,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y91gp1km",
+    "game": "Rambo",
+    "player": "JSR_",
+    "player_location": "us",
+    "time": 1266,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  }
+]

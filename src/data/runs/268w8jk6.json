@@ -1,0 +1,24 @@
+[
+  {
+    "id": "z5x3k55y",
+    "game": "The Crystal of Kings",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 97,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yw6jep0m",
+    "game": "The Crystal of Kings",
+    "player": "Fioresa",
+    "player_location": "us",
+    "time": 75,
+    "category": "1 Player",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

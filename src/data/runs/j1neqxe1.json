@@ -1,0 +1,145 @@
+[
+  {
+    "id": "zgkjjgey",
+    "game": "Samurai Shodown IV",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 426.074,
+    "category": "Arcade Mode - Beginner Class",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "m7q4595z",
+    "game": "Samurai Shodown IV",
+    "player": "isaac1979",
+    "player_location": "br",
+    "time": 282.091,
+    "category": "Arcade Mode - Beginner Class",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zxk1705m",
+    "game": "Samurai Shodown IV",
+    "player": "MonthmoreKaede",
+    "player_location": null,
+    "time": 647.053,
+    "category": "Arcade - Upper Class",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yv2oq64m",
+    "game": "Samurai Shodown IV",
+    "player": "ElSebas1231",
+    "player_location": "mx",
+    "time": 335.057,
+    "category": "Arcade - Upper Class",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yw08nk9m",
+    "game": "Samurai Shodown IV",
+    "player": "LastJenova",
+    "player_location": "co",
+    "time": 220.035,
+    "category": "Arcade - Medium Grade",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yle3ekxz",
+    "game": "Samurai Shodown IV",
+    "player": "ivanpaduano",
+    "player_location": "it",
+    "time": 275.16,
+    "category": "Arcade - Upper Class",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z1r028wm",
+    "game": "Samurai Shodown IV",
+    "player": "Kaz0uya",
+    "player_location": "fr",
+    "time": 381.059,
+    "category": "Arcade Mode - Beginner Class",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "me4r6xqy",
+    "game": "Samurai Shodown IV",
+    "player": "Kureina",
+    "player_location": "fr",
+    "time": 215.23,
+    "category": "Arcade Mode - Beginner Class",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zgr1dq0m",
+    "game": "Samurai Shodown IV",
+    "player": "NeetSuhiro",
+    "player_location": "jp",
+    "time": 252.63,
+    "category": "Arcade Mode - Beginner Class",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zgq87key",
+    "game": "Samurai Shodown IV",
+    "player": "Shredmachine",
+    "player_location": "se",
+    "time": 771.59,
+    "category": "Arcade Mode - Beginner Class",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "mrrpkl7m",
+    "game": "Samurai Shodown IV",
+    "player": "DoctaMario",
+    "player_location": "us",
+    "time": 276.032,
+    "category": "Arcade Mode - Beginner Class",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "zg23lpjy",
+    "game": "Samurai Shodown IV",
+    "player": "sobacha",
+    "player_location": "jp",
+    "time": 191.31,
+    "category": "Arcade Mode - Beginner Class",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zqe6q89z",
+    "game": "Samurai Shodown IV",
+    "player": "CesarD",
+    "player_location": "cl",
+    "time": 188.16,
+    "category": "Arcade Mode - Beginner Class",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

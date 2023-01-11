@@ -1,0 +1,46 @@
+[
+  {
+    "id": "y679l81m",
+    "game": "",
+    "player": "dagpetter1",
+    "player_location": "no",
+    "time": 7884,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "y45po43m",
+    "game": "",
+    "player": "LudwigVonKoopa",
+    "player_location": "de",
+    "time": 5122,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "yd6ro0qz",
+    "game": "",
+    "player": "CocoConfession",
+    "player_location": "us",
+    "time": 12936,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": false
+  },
+  {
+    "id": "zq9x318y",
+    "game": "The Bugs Bunny Crazy Castle 2",
+    "player": "Pisuke85",
+    "player_location": "fr",
+    "time": 4051,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  }
+]

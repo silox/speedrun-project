@@ -1,0 +1,46 @@
+[
+  {
+    "id": "zn8pkqlz",
+    "game": "Ghost Squad",
+    "player": "Dove_ac",
+    "player_location": "cn",
+    "time": 860,
+    "category": "Level 1",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": false
+  },
+  {
+    "id": "zgwnp2vy",
+    "game": "Ghost Squad",
+    "player": "InfernoReaper",
+    "player_location": "us",
+    "time": 1075,
+    "category": "Level 1",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": true
+  },
+  {
+    "id": "mr4rg5dz",
+    "game": "Ghost Squad",
+    "player": "cross_boxer",
+    "player_location": "jp",
+    "time": 910,
+    "category": "Level 1",
+    "region": "JPN / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "yo6ppq5y",
+    "game": "Ghost Squad",
+    "player": "Ceidian",
+    "player_location": "us",
+    "time": 1120,
+    "category": "Level 1",
+    "region": null,
+    "platform": "Wii",
+    "emulated": false
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "id": "9mr98l4m",
+    "game": "Dragon Spirit: The New Legend",
+    "player": "Bernacaz",
+    "player_location": "ca/qc",
+    "time": 882,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "1zxn4vkm",
+    "game": "Dragon Spirit: The New Legend",
+    "player": "Vidtendo",
+    "player_location": "ca/qc",
+    "time": 1867,
+    "category": "Blue Dragon",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "mreelwgy",
+    "game": "Dragon Spirit: The New Legend",
+    "player": "MrPupG",
+    "player_location": "us",
+    "time": 848.166,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zxv0d9ky",
+    "game": "Dragon Spirit: The New Legend",
+    "player": "Toad22484",
+    "player_location": "us",
+    "time": 848.784,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "yojo640m",
+    "game": "Dragon Spirit: The New Legend",
+    "player": "xenkaroshi",
+    "player_location": "se",
+    "time": 858,
+    "category": "Gold Dragon",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "z012k28y",
+    "game": "Dragon Spirit: The New Legend",
+    "player": "WoopVonWoop",
+    "player_location": "us",
+    "time": 1762,
+    "category": "Blue Dragon",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zqrlpkxy",
+    "game": "Dragon Spirit: The New Legend",
+    "player": "tortadiego",
+    "player_location": "us",
+    "time": 1128,
+    "category": "Gold Dragon",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "z1x8onwm",
+    "game": "Dragon Spirit: The New Legend",
+    "player": "Rayeo",
+    "player_location": "us",
+    "time": 882,
+    "category": "Gold Dragon",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "yjg1w67y",
+    "game": "Dragon Spirit: The New Legend",
+    "player": "ProFiction",
+    "player_location": "us",
+    "time": 825.333,
+    "category": "Gold Dragon",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "z1r5k2rm",
+    "game": "Dragon Spirit: The New Legend",
+    "player": "SpaceColonizer",
+    "player_location": "us",
+    "time": 844.3,
+    "category": "Gold Dragon",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "zgqre5ey",
+    "game": "Dragon Spirit: The New Legend",
+    "player": "KumaKhan22",
+    "player_location": "us",
+    "time": 879,
+    "category": "Gold Dragon",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "zpdx82xz",
+    "game": "Dragon Spirit: The New Legend",
+    "player": "polsvoice",
+    "player_location": "us",
+    "time": 908,
+    "category": "Gold Dragon",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  }
+]

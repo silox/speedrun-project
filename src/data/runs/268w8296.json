@@ -1,0 +1,24 @@
+[
+  {
+    "id": "mej1399y",
+    "game": "Feel the Magic: XY/XX",
+    "player": "NayKiler",
+    "player_location": "ch",
+    "time": 3821,
+    "category": "Any% Normal",
+    "region": "EUR / PAL",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "zpdergrz",
+    "game": "Feel the Magic: XY/XX",
+    "player": "Redd",
+    "player_location": "us",
+    "time": 3036,
+    "category": "Any% Normal",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  }
+]

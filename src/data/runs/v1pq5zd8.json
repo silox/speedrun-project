@@ -1,0 +1,68 @@
+[
+  {
+    "id": "zgkrl7ny",
+    "game": "",
+    "player": "MAME_Retro_Avengers",
+    "player_location": "it",
+    "time": 1050,
+    "category": "Any% (Arcade, US)",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z5j30jgm",
+    "game": "",
+    "player": "Trix_Sama",
+    "player_location": "cl",
+    "time": 1027,
+    "category": "Any% (Arcade, US)",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z09kr9jz",
+    "game": "",
+    "player": "Aquas",
+    "player_location": "us",
+    "time": 847,
+    "category": "Any% (Arcade, US)",
+    "region": "USA / NTSC",
+    "platform": "MiSTer",
+    "emulated": false
+  },
+  {
+    "id": "zq15k39m",
+    "game": "Tiger Road",
+    "player": "Vanin",
+    "player_location": "cl",
+    "time": 1062,
+    "category": "Any% (Arcade, US)",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "me4l4wqy",
+    "game": "Tiger Road",
+    "player": "Therunner1",
+    "player_location": "dz",
+    "time": 1184,
+    "category": "Any% (Arcade, US)",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zq0xn68y",
+    "game": "Tiger Road",
+    "player": "Amune138",
+    "player_location": "us",
+    "time": 1354,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": false
+  }
+]

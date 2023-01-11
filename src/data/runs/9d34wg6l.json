@@ -1,0 +1,233 @@
+[
+  {
+    "id": "zpqlkrny",
+    "game": "Baseball",
+    "player": "thomp",
+    "player_location": null,
+    "time": 1842,
+    "category": "Any% US",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "y23d4j6m",
+    "game": "Baseball",
+    "player": "JoshKeys",
+    "player_location": null,
+    "time": 1356,
+    "category": "Any% JP",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "z09qwg9z",
+    "game": "Baseball",
+    "player": "TwitchName",
+    "player_location": "us",
+    "time": 956,
+    "category": "Any% US",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y458roqm",
+    "game": "Baseball",
+    "player": "NESCardinality",
+    "player_location": "ca",
+    "time": 1112,
+    "category": "Any% US",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zgvjxx0z",
+    "game": "Baseball",
+    "player": "MattHomes",
+    "player_location": "ca",
+    "time": 901,
+    "category": "Any% US",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y97v05rm",
+    "game": "Baseball",
+    "player": "MarthSR",
+    "player_location": "ca/qc",
+    "time": 1746,
+    "category": "Any% US",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zn41p69m",
+    "game": "Baseball",
+    "player": "sYn",
+    "player_location": "us",
+    "time": 1221,
+    "category": "Any% US",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "yvjvj84y",
+    "game": "Baseball",
+    "player": "Tecate",
+    "player_location": "us",
+    "time": 1071,
+    "category": "Any% US",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zqr0518y",
+    "game": "Baseball",
+    "player": "NihilistComedyHour",
+    "player_location": "eo",
+    "time": 1658,
+    "category": "Any% JP",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "zgk8xovy",
+    "game": "Baseball",
+    "player": "Cykette",
+    "player_location": "us",
+    "time": 1412,
+    "category": "Any% US",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "z05epejm",
+    "game": "Baseball",
+    "player": "Carter44",
+    "player_location": "ca",
+    "time": 1996,
+    "category": "Any% US",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "z155679y",
+    "game": "Baseball",
+    "player": "Olavi",
+    "player_location": "kr",
+    "time": 1439,
+    "category": "Any% US",
+    "region": null,
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "m35kdv4y",
+    "game": "Baseball",
+    "player": "MagicK",
+    "player_location": "ca/qc",
+    "time": 1369,
+    "category": "Any% US",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "yw8npo0y",
+    "game": "Baseball",
+    "player": "ThePKing",
+    "player_location": "us",
+    "time": 1571,
+    "category": "Any% US",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y8vjej1z",
+    "game": "Baseball",
+    "player": "PorkinSten",
+    "player_location": "us",
+    "time": 2292,
+    "category": "Any% US",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "zp1x7rnz",
+    "game": "Baseball",
+    "player": "lackattack",
+    "player_location": "us",
+    "time": 1357,
+    "category": "Any% US",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "m779v74m",
+    "game": "Baseball",
+    "player": "HurricaneCat_0311",
+    "player_location": "tw",
+    "time": 1003,
+    "category": "Any% JP",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "m371ej6z",
+    "game": "Baseball",
+    "player": "ShesChardcore",
+    "player_location": "us",
+    "time": 1237,
+    "category": "Any% US",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "yjdk2ldy",
+    "game": "Baseball",
+    "player": "SwedishNinjaFish",
+    "player_location": "us",
+    "time": 1608,
+    "category": "Any% US",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "yodl510m",
+    "game": "Baseball",
+    "player": "HenriBrodie",
+    "player_location": "us",
+    "time": 1068,
+    "category": "Any% US",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "z5ejv1jz",
+    "game": "Baseball",
+    "player": "electricyellow",
+    "player_location": "us",
+    "time": 1622,
+    "category": "Any% US",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "id": "yl74o8xm",
+    "game": "Cookie Run: OvenBreak",
+    "player": "FunneyBugs",
+    "player_location": "ph",
+    "time": 58,
+    "category": "Normal",
+    "region": null,
+    "platform": "Android",
+    "emulated": true
+  },
+  {
+    "id": "z12lvpgy",
+    "game": "Cookie Run: OvenBreak",
+    "player": "CaptNinja6",
+    "player_location": "us",
+    "time": 73.157,
+    "category": "",
+    "region": null,
+    "platform": "Android",
+    "emulated": true
+  },
+  {
+    "id": "ydwjkpjm",
+    "game": "Cookie Run: OvenBreak",
+    "player": "Znix",
+    "player_location": "us",
+    "time": 74.967,
+    "category": "Normal",
+    "region": null,
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "znp1k13m",
+    "game": "Cookie Run: OvenBreak",
+    "player": "BloonKart",
+    "player_location": null,
+    "time": 21.617,
+    "category": "",
+    "region": null,
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "z0ox809z",
+    "game": "Cookie Run: OvenBreak",
+    "player": "Pitachip",
+    "player_location": null,
+    "time": 116.033,
+    "category": "Normal",
+    "region": null,
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "zxl0955z",
+    "game": "Cookie Run: OvenBreak",
+    "player": "TRLittleToaster",
+    "player_location": "us",
+    "time": 73.483,
+    "category": "Normal",
+    "region": "USA / NTSC",
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "yorwkxdy",
+    "game": "Cookie Run: OvenBreak",
+    "player": "Dog_water",
+    "player_location": null,
+    "time": 73.8,
+    "category": "Normal",
+    "region": null,
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "m7610k0y",
+    "game": "Cookie Run: OvenBreak",
+    "player": "zir0nic",
+    "player_location": "vh",
+    "time": 20.797,
+    "category": "Master",
+    "region": "USA / NTSC",
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "y88329wy",
+    "game": "Cookie Run: OvenBreak",
+    "player": "FreddyFazballing",
+    "player_location": "ro",
+    "time": 42.133,
+    "category": "Master",
+    "region": null,
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "zq7k8kxm",
+    "game": "Cookie Run: OvenBreak",
+    "player": "No one",
+    "player_location": null,
+    "time": 0.001,
+    "category": "",
+    "region": null,
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "yd1e3gvy",
+    "game": "Cookie Run: OvenBreak",
+    "player": "TheFantasticPhone",
+    "player_location": null,
+    "time": 125.35,
+    "category": "Normal",
+    "region": "USA / NTSC",
+    "platform": "iOS",
+    "emulated": false
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "id": "y4q1prdm",
+    "game": "Metroid: Zero Mission Category Extensions",
+    "player": "jakoliath",
+    "player_location": "us",
+    "time": 91.67,
+    "category": "Escapes",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": false
+  },
+  {
+    "id": "y4q1672m",
+    "game": "Metroid: Zero Mission Category Extensions",
+    "player": "StarFalco64",
+    "player_location": "us",
+    "time": 88.49,
+    "category": "Escapes",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "zxl7q3qz",
+    "game": "Metroid: Zero Mission Category Extensions",
+    "player": "XenDeQwak",
+    "player_location": "ph",
+    "time": 4967,
+    "category": "99%",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "yorp0ody",
+    "game": "Metroid: Zero Mission Category Extensions",
+    "player": "benchjuice",
+    "player_location": "fi",
+    "time": 1931,
+    "category": "All Map Stations RTA",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "z1pxpdjz",
+    "game": "Metroid: Zero Mission Category Extensions",
+    "player": "xValkyrie93",
+    "player_location": "au",
+    "time": 93.27,
+    "category": "Escapes",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": false
+  },
+  {
+    "id": "yl7k5p3m",
+    "game": "Metroid: Zero Mission Category Extensions",
+    "player": "CScottyW",
+    "player_location": "us",
+    "time": 94.64,
+    "category": "Escapes",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": false
+  },
+  {
+    "id": "y6noqe6z",
+    "game": "Metroid: Zero Mission Category Extensions",
+    "player": "Bubzia",
+    "player_location": "de",
+    "time": 4966,
+    "category": "Blindfolded",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "y2pdlowz",
+    "game": "Metroid: Zero Mission Category Extensions",
+    "player": "mikefood",
+    "player_location": "us",
+    "time": 93.06,
+    "category": "Escapes",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "yvr0r3ez",
+    "game": "Metroid: Zero Mission Category Extensions",
+    "player": "Rocky712",
+    "player_location": "de",
+    "time": 6.96,
+    "category": "Escapes",
+    "region": "EUR / PAL",
+    "platform": "Wii U Virtual Console",
+    "emulated": false
+  },
+  {
+    "id": "yl7vn6km",
+    "game": "Metroid: Zero Mission Category Extensions",
+    "player": "noxiousnick",
+    "player_location": "us",
+    "time": 92.97,
+    "category": "Escapes",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": false
+  },
+  {
+    "id": "zx76ojey",
+    "game": "Metroid: Zero Mission Category Extensions",
+    "player": "jethawk69",
+    "player_location": "us",
+    "time": 81.69,
+    "category": "Escapes",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "m76dr84y",
+    "game": "Metroid: Zero Mission Category Extensions",
+    "player": "CaioXG002",
+    "player_location": "br",
+    "time": 3215,
+    "category": "Nintendo Power%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": false
+  },
+  {
+    "id": "yjpr3rgy",
+    "game": "Metroid: Zero Mission Category Extensions",
+    "player": "Fpiz_",
+    "player_location": "it",
+    "time": 94.09,
+    "category": "Escapes",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "yod8dgjm",
+    "game": "Metroid: Zero Mission Category Extensions",
+    "player": "Bubblegum3390",
+    "player_location": "us",
+    "time": 3470.8,
+    "category": "Nintendo Power%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  }
+]

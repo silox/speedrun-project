@@ -1,0 +1,68 @@
+[
+  {
+    "id": "zx40re8y",
+    "game": "",
+    "player": "Sokks",
+    "player_location": null,
+    "time": 1045,
+    "category": "Any% (hard mode)",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yd3vweqz",
+    "game": "",
+    "player": "Kepler",
+    "player_location": null,
+    "time": 1260,
+    "category": "Any% (hard mode)",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y6nkq11z",
+    "game": "",
+    "player": "Retr0spect_122",
+    "player_location": "jp",
+    "time": 1134,
+    "category": "Any% (casual mode)",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "yj1x9lny",
+    "game": "",
+    "player": "Xianster",
+    "player_location": null,
+    "time": 870,
+    "category": "Any% (hard mode)",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "mr4x678z",
+    "game": "",
+    "player": "Stelfic1",
+    "player_location": "gb",
+    "time": 1243,
+    "category": "Any% (casual mode)",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "yv2dr1xm",
+    "game": "Duck Souls",
+    "player": "Qwizical",
+    "player_location": "gb/eng",
+    "time": 1688,
+    "category": "Any% (hard mode)",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  }
+]

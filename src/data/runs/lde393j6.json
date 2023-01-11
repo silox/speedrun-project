@@ -1,0 +1,24 @@
+[
+  {
+    "id": "y230pp5m",
+    "game": "Psycho-Nics Oscar",
+    "player": "Jorf",
+    "player_location": "ca",
+    "time": 644,
+    "category": "",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "mk315glz",
+    "game": "Psycho-Nics Oscar",
+    "player": "Dumple",
+    "player_location": "us",
+    "time": 1110,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

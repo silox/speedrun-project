@@ -1,0 +1,35 @@
+[
+  {
+    "id": "y8d92gxz",
+    "game": "Muscle March",
+    "player": "juh0",
+    "player_location": "sg",
+    "time": 862,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "y6dp580m",
+    "game": "Muscle March",
+    "player": "ufotekkie",
+    "player_location": "us",
+    "time": 272,
+    "category": "Level Complete",
+    "region": "JPN / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "yvrj8w6z",
+    "game": "Muscle March",
+    "player": "Harutomo",
+    "player_location": "jp",
+    "time": 267,
+    "category": "Level Complete",
+    "region": "JPN / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "id": "jy99xxey",
+    "game": "The King of Fighters '95",
+    "player": "Dugongue",
+    "player_location": "us",
+    "time": 866,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "ydqwgpqm",
+    "game": "The King of Fighters '95",
+    "player": "Wayne_Meares",
+    "player_location": "us",
+    "time": 1602,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PSN Download",
+    "emulated": false
+  },
+  {
+    "id": "ydqo7vqm",
+    "game": "The King of Fighters '95",
+    "player": "Retro_Omega",
+    "player_location": null,
+    "time": 689,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "mk9w3kvz",
+    "game": "The King of Fighters '95",
+    "player": "HurricaneMixer",
+    "player_location": "us",
+    "time": 685,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy",
+    "emulated": false
+  },
+  {
+    "id": "yj472x7y",
+    "game": "The King of Fighters '95",
+    "player": "LeandroAmadeu",
+    "player_location": "br",
+    "time": 641,
+    "category": "Neo Geo (MVS)",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y89l39nm",
+    "game": "The King of Fighters '95",
+    "player": "Fox-omegasurfer",
+    "player_location": "mx",
+    "time": 780,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PSN Download",
+    "emulated": true
+  },
+  {
+    "id": "znrr6qly",
+    "game": "The King of Fighters '95",
+    "player": "DBcade",
+    "player_location": "jp",
+    "time": 636,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "ylqq3wkz",
+    "game": "The King of Fighters '95",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 556,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "meo18r3z",
+    "game": "The King of Fighters '95",
+    "player": "Fabinho_RetroPlay",
+    "player_location": "br",
+    "time": 707,
+    "category": "Neo Geo (MVS)",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": false
+  },
+  {
+    "id": "y2d9kpjz",
+    "game": "The King of Fighters '95",
+    "player": "Jesus82050615",
+    "player_location": "ca/qc",
+    "time": 1099,
+    "category": "Console Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "me65g90z",
+    "game": "The King of Fighters '95",
+    "player": "aaru_hokutomaru",
+    "player_location": "jp",
+    "time": 660,
+    "category": "Console Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": true
+  },
+  {
+    "id": "zn7onk7m",
+    "game": "The King of Fighters '95",
+    "player": "ParallaxMKChile",
+    "player_location": "cl",
+    "time": 628,
+    "category": "Neo Geo (MVS)",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y9vx07vm",
+    "game": "The King of Fighters '95",
+    "player": "1stDanSNK9495",
+    "player_location": "cl",
+    "time": 606,
+    "category": "",
+    "region": null,
+    "platform": "Neo Geo AES",
+    "emulated": true
+  },
+  {
+    "id": "yop2jodm",
+    "game": "The King of Fighters '95",
+    "player": "Kyo_97",
+    "player_location": "mx",
+    "time": 1258,
+    "category": "Console Any%",
+    "region": "USA / NTSC",
+    "platform": "Neo Geo AES",
+    "emulated": false
+  }
+]

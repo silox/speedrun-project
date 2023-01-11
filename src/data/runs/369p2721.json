@@ -1,0 +1,123 @@
+[
+  {
+    "id": "zgwv17jy",
+    "game": "Evander Holyfield's Real Deal Boxing",
+    "player": "Alex_Toad",
+    "player_location": "ru",
+    "time": 26.67,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "m3194jqz",
+    "game": "Evander Holyfield's Real Deal Boxing",
+    "player": "sai_ryusei",
+    "player_location": "us",
+    "time": 50.89,
+    "category": "Any fight (Genesis)",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "y8135vdz",
+    "game": "Evander Holyfield's Real Deal Boxing",
+    "player": "Yamagata",
+    "player_location": "hr",
+    "time": 31.6,
+    "category": "Any fight (Genesis)",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "z0577g8m",
+    "game": "Evander Holyfield's Real Deal Boxing",
+    "player": "kenshireando",
+    "player_location": "ar",
+    "time": 26.17,
+    "category": "Any fight (Genesis)",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "zxkl915m",
+    "game": "Evander Holyfield's Real Deal Boxing",
+    "player": "dirty_red",
+    "player_location": null,
+    "time": 2040,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "m317lqdz",
+    "game": "Evander Holyfield's Real Deal Boxing",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 33.4,
+    "category": "Any fight (Genesis)",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "y6l236qy",
+    "game": "Evander Holyfield's Real Deal Boxing",
+    "player": "NickDoane",
+    "player_location": "us",
+    "time": 976,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "z057319m",
+    "game": "Evander Holyfield's Real Deal Boxing",
+    "player": "MicahLuv",
+    "player_location": "us",
+    "time": 26.26,
+    "category": "Any fight (Genesis)",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "y9093dry",
+    "game": "Evander Holyfield's Real Deal Boxing",
+    "player": "Shime",
+    "player_location": "br",
+    "time": 861,
+    "category": "Career mode No Glitch! (Genesis)",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "y2vp5wwz",
+    "game": "Evander Holyfield's Real Deal Boxing",
+    "player": "TheDanielRivas",
+    "player_location": "us",
+    "time": 34.77,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "z50x8ody",
+    "game": "Evander Holyfield's Real Deal Boxing",
+    "player": "TheeBetterMan",
+    "player_location": "us",
+    "time": 1548,
+    "category": "Career mode No Glitch! (Genesis)",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  }
+]

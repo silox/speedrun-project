@@ -1,0 +1,68 @@
+[
+  {
+    "id": "yv6v9e6z",
+    "game": "Power Golf",
+    "player": "LattMackey",
+    "player_location": "us",
+    "time": 699,
+    "category": "",
+    "region": null,
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": false
+  },
+  {
+    "id": "mrewn44y",
+    "game": "Power Golf",
+    "player": "NickBGoHard",
+    "player_location": null,
+    "time": 964,
+    "category": "Stroke Play",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": true
+  },
+  {
+    "id": "y657g1pz",
+    "game": "Power Golf",
+    "player": "baldnate",
+    "player_location": null,
+    "time": 712.066,
+    "category": "Stroke Play",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": false
+  },
+  {
+    "id": "y90v4n2y",
+    "game": "Power Golf",
+    "player": "FlannelKat",
+    "player_location": "us",
+    "time": 1001,
+    "category": "Stroke Play",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": false
+  },
+  {
+    "id": "yokn425z",
+    "game": "Power Golf",
+    "player": "smartalec24",
+    "player_location": "us",
+    "time": 922,
+    "category": "Stroke Play",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": false
+  },
+  {
+    "id": "ydrl9jqz",
+    "game": "Power Golf",
+    "player": "MaxisMozark",
+    "player_location": "us",
+    "time": 864,
+    "category": "Stroke Play",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": false
+  }
+]

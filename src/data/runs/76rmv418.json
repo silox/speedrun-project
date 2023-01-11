@@ -1,0 +1,178 @@
+[
+  {
+    "id": "8yvnk88m",
+    "game": "Super Street Fighter II Turbo",
+    "player": "NeuralFrights",
+    "player_location": "ni",
+    "time": 1079,
+    "category": "Arcade (Hardest)",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "7yl5043z",
+    "game": "Super Street Fighter II Turbo",
+    "player": "djfrijoles",
+    "player_location": "mx",
+    "time": 864,
+    "category": "Arcade (Hardest)",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "dy4np5nm",
+    "game": "Super Street Fighter II Turbo",
+    "player": "Silentscope",
+    "player_location": "us",
+    "time": 718,
+    "category": "Arcade (Hardest)",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "meowqvqz",
+    "game": "Super Street Fighter II Turbo",
+    "player": "Fromo",
+    "player_location": "us",
+    "time": 604,
+    "category": "Arcade (Hardest)",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": false
+  },
+  {
+    "id": "mk3pd03z",
+    "game": "Super Street Fighter II Turbo",
+    "player": "Takahiro64",
+    "player_location": "jp",
+    "time": 1458,
+    "category": "Arcade (Normal)",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "mrkx01dy",
+    "game": "Super Street Fighter II Turbo",
+    "player": "VodkaGobalsky",
+    "player_location": "us",
+    "time": 744,
+    "category": "Arcade (Hardest)",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": false
+  },
+  {
+    "id": "m77w30em",
+    "game": "Super Street Fighter II Turbo",
+    "player": "TheAndyGamingNetwork",
+    "player_location": "us",
+    "time": 560,
+    "category": "Arcade (Hardest)",
+    "region": "JPN / NTSC",
+    "platform": "MiSTer",
+    "emulated": false
+  },
+  {
+    "id": "meod2k9z",
+    "game": "Super Street Fighter II Turbo",
+    "player": "Habble",
+    "player_location": "au",
+    "time": 1343,
+    "category": "Arcade (Normal)",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z1x9xvjm",
+    "game": "Super Street Fighter II Turbo",
+    "player": "E.Signal",
+    "player_location": "us",
+    "time": 727,
+    "category": "Arcade (Normal)",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "ydrwxeqz",
+    "game": "Super Street Fighter II Turbo",
+    "player": "MadxZero",
+    "player_location": "ca/qc",
+    "time": 857,
+    "category": "Arcade (Hardest)",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "ylr9xgry",
+    "game": "Super Street Fighter II Turbo",
+    "player": "AdamCarnage",
+    "player_location": "gb/eng",
+    "time": 1072,
+    "category": "Arcade (Normal)",
+    "region": "JPN / NTSC",
+    "platform": "MiSTer",
+    "emulated": false
+  },
+  {
+    "id": "mr77l17z",
+    "game": "Super Street Fighter II Turbo",
+    "player": "konitama",
+    "player_location": "jp",
+    "time": 646,
+    "category": "Arcade (Normal)",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": false
+  },
+  {
+    "id": "y6nj8ljz",
+    "game": "Super Street Fighter II Turbo",
+    "player": "ToniR",
+    "player_location": "br",
+    "time": 806,
+    "category": "30th Anniversary (Hardest)",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": false
+  },
+  {
+    "id": "y60v336y",
+    "game": "Super Street Fighter II Turbo",
+    "player": "ParallaxMKChile",
+    "player_location": "cl",
+    "time": 804,
+    "category": "Arcade (Normal)",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yw6g1opm",
+    "game": "Super Street Fighter II Turbo",
+    "player": "KumaKhan22",
+    "player_location": "us",
+    "time": 3680,
+    "category": "Arcade (Normal)",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "znql2xvz",
+    "game": "Super Street Fighter II Turbo",
+    "player": "Edo_87",
+    "player_location": "cl",
+    "time": 753,
+    "category": "Arcade (Normal)",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

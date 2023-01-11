@@ -1,0 +1,156 @@
+[
+  {
+    "id": "nz1p8qjz",
+    "game": "Lee Trevino's Fighting Golf",
+    "player": "SYKEKO",
+    "player_location": "ca",
+    "time": 1164,
+    "category": "U.S.A. Course",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "9me39w8z",
+    "game": "Lee Trevino's Fighting Golf",
+    "player": "LateNightRetro",
+    "player_location": "us",
+    "time": 1105,
+    "category": "U.S.A. Course",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "mek6ww0m",
+    "game": "Lee Trevino's Fighting Golf",
+    "player": "PMAkfal",
+    "player_location": "us",
+    "time": 881,
+    "category": "U.S.A. Course",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "ylv6wpnm",
+    "game": "Lee Trevino's Fighting Golf",
+    "player": "baldnate",
+    "player_location": null,
+    "time": 724,
+    "category": "Japan Course",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "yo2xkl7z",
+    "game": "Lee Trevino's Fighting Golf",
+    "player": "Peanutfan22",
+    "player_location": "us",
+    "time": 1168,
+    "category": "U.S.A. Course",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "z51nxggm",
+    "game": "Lee Trevino's Fighting Golf",
+    "player": "Team-Suquma",
+    "player_location": "us",
+    "time": 990,
+    "category": "U.S.A. Course",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "z1jdevrz",
+    "game": "Lee Trevino's Fighting Golf",
+    "player": "Reidood",
+    "player_location": "us",
+    "time": 919,
+    "category": "U.S.A. Course",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "me4l790y",
+    "game": "Lee Trevino's Fighting Golf",
+    "player": "MattHomes",
+    "player_location": "ca",
+    "time": 696,
+    "category": "U.S.A. Course",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zxkdvj8m",
+    "game": "Lee Trevino's Fighting Golf",
+    "player": "NickBGoHard",
+    "player_location": null,
+    "time": 1089,
+    "category": "U.S.A. Course",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zp48vnvz",
+    "game": "Lee Trevino's Fighting Golf",
+    "player": "z_tox",
+    "player_location": "us",
+    "time": 1024,
+    "category": "U.S.A. Course",
+    "region": null,
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "z5326ojy",
+    "game": "Lee Trevino's Fighting Golf",
+    "player": "ShesChardcore",
+    "player_location": "us",
+    "time": 757,
+    "category": "U.S.A. Course",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "yloqpv2y",
+    "game": "Lee Trevino's Fighting Golf",
+    "player": "NESAtlas",
+    "player_location": "us",
+    "time": 709,
+    "category": "Japan Course",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "m3r152gm",
+    "game": "Lee Trevino's Fighting Golf",
+    "player": "noisepolice",
+    "player_location": "us",
+    "time": 1070,
+    "category": "U.S.A. Course",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "ylqr9vnz",
+    "game": "Lee Trevino's Fighting Golf",
+    "player": "tvschaser",
+    "player_location": "us",
+    "time": 733,
+    "category": "U.S.A. Course",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  }
+]

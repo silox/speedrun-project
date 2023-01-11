@@ -1,0 +1,24 @@
+[
+  {
+    "id": "0znvex9m",
+    "game": "",
+    "player": "AlfredoSalza",
+    "player_location": "cl",
+    "time": 1022,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "m75n2e5z",
+    "game": "",
+    "player": "Atroz",
+    "player_location": "us",
+    "time": 923,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "y4x6dokz",
+    "game": "My Hero Ultra Impact",
+    "player": "Ris_Grestar",
+    "player_location": "us",
+    "time": 524,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "zxn2xx8m",
+    "game": "My Hero Ultra Impact",
+    "player": "xddbzfan869",
+    "player_location": "aq",
+    "time": 408,
+    "category": "Chapter%",
+    "region": "USA / NTSC",
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "zgqo7lny",
+    "game": "My Hero Ultra Impact",
+    "player": "WebHead1998",
+    "player_location": "gb/wls",
+    "time": 510,
+    "category": "Chapter%",
+    "region": "EUR / PAL",
+    "platform": "iOS",
+    "emulated": false
+  }
+]

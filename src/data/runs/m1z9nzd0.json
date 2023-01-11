@@ -1,0 +1,24 @@
+[
+  {
+    "id": "zpq1d08y",
+    "game": "",
+    "player": "Ellimist",
+    "player_location": "us",
+    "time": 3642,
+    "category": "2P",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "yv12pl6y",
+    "game": "",
+    "player": "MasterCactaur",
+    "player_location": "us",
+    "time": 4293,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  }
+]

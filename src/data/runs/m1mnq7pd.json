@@ -1,0 +1,24 @@
+[
+  {
+    "id": "yw6v3dpm",
+    "game": "Desert Assault",
+    "player": "Ellimist",
+    "player_location": "us",
+    "time": 1266,
+    "category": "4P",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yl1n7erm",
+    "game": "Desert Assault",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 1542,
+    "category": "2P",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

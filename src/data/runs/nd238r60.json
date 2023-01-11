@@ -1,0 +1,57 @@
+[
+  {
+    "id": "wzp9vkxm",
+    "game": "Bomberman Jetters",
+    "player": "Ouro",
+    "player_location": "us",
+    "time": 6439,
+    "category": "Credits",
+    "region": "JPN / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "mr92op7m",
+    "game": "Bomberman Jetters",
+    "player": "Psyclone",
+    "player_location": "us",
+    "time": 11862,
+    "category": "Credits",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "zgrdd10m",
+    "game": "Bomberman Jetters",
+    "player": "tyamegane",
+    "player_location": "jp",
+    "time": 6107,
+    "category": "Credits",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "yj5843dm",
+    "game": "Bomberman Jetters",
+    "player": "hetima",
+    "player_location": "jp",
+    "time": 5866,
+    "category": "Credits",
+    "region": "JPN / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "z5vqv8em",
+    "game": "Bomberman Jetters",
+    "player": "Dymnix",
+    "player_location": "us",
+    "time": 5849,
+    "category": "Credits",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  }
+]

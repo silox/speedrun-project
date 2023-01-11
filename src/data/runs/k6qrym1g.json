@@ -1,0 +1,167 @@
+[
+  {
+    "id": "kz5j46nm",
+    "game": "Digimon Racing",
+    "player": "Azureflame4",
+    "player_location": "us",
+    "time": 905,
+    "category": "Western Cup",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "6yj6n7gz",
+    "game": "Digimon Racing",
+    "player": "Final2147483647",
+    "player_location": null,
+    "time": 678,
+    "category": "Western Cup",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "1zxgl58y",
+    "game": "Digimon Racing",
+    "player": "Dugongue",
+    "player_location": "us",
+    "time": 713,
+    "category": "Central Cup",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "y67pk81m",
+    "game": "Digimon Racing",
+    "player": "Hdot12",
+    "player_location": "de",
+    "time": 554,
+    "category": "Western Cup",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "7ylpl12m",
+    "game": "Digimon Racing",
+    "player": "Storster",
+    "player_location": "us",
+    "time": 672,
+    "category": "Western Cup",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "m3doeq6z",
+    "game": "Digimon Racing",
+    "player": "afrododo",
+    "player_location": "de",
+    "time": 581,
+    "category": "Western Cup",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "z11o4d7z",
+    "game": "Digimon Racing",
+    "player": "ChillCat",
+    "player_location": null,
+    "time": 251,
+    "category": "Burning Cup",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "z03q08jz",
+    "game": "Digimon Racing",
+    "player": "SchardWind",
+    "player_location": "es/ct",
+    "time": 617,
+    "category": "Western Cup",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "yj3k163z",
+    "game": "Digimon Racing",
+    "player": "MystixWizZarD",
+    "player_location": "de",
+    "time": 183,
+    "category": "Boss Cup",
+    "region": null,
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "ylk1gv2z",
+    "game": "Digimon Racing",
+    "player": "LD_SPEEDRUNS",
+    "player_location": "br",
+    "time": 127,
+    "category": "Boss Cup",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "zp1e4vxz",
+    "game": "Digimon Racing",
+    "player": "Aggam",
+    "player_location": "es/ct",
+    "time": 639,
+    "category": "Eastern Cup",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "zprd8gvm",
+    "game": "Digimon Racing",
+    "player": "GraymonDGT",
+    "player_location": "us",
+    "time": 389,
+    "category": "Burning Cup",
+    "region": null,
+    "platform": "Game Boy Advance",
+    "emulated": false
+  },
+  {
+    "id": "y254g35y",
+    "game": "Digimon Racing",
+    "player": "MortimerNova",
+    "player_location": "us",
+    "time": 630,
+    "category": "Western Cup",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "zq7jr71m",
+    "game": "Digimon Racing",
+    "player": "FlamesOlsen",
+    "player_location": "no",
+    "time": 711,
+    "category": "Western Cup",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": false
+  },
+  {
+    "id": "z1g6dxjz",
+    "game": "Digimon Racing",
+    "player": "FarmingSim",
+    "player_location": "us",
+    "time": 730,
+    "category": "Western Cup",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": false
+  }
+]

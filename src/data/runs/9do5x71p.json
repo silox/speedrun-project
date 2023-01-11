@@ -1,0 +1,200 @@
+[
+  {
+    "id": "emkrxp3z",
+    "game": "Elevator Action",
+    "player": "INNUENDU",
+    "player_location": null,
+    "time": 617,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "nz10o4wm",
+    "game": "Elevator Action",
+    "player": "Dugongue",
+    "player_location": "us",
+    "time": 3720,
+    "category": "Single Loop",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "m7wvnn9z",
+    "game": "Elevator Action",
+    "player": "NESCardinality",
+    "player_location": "ca",
+    "time": 543,
+    "category": "Single Loop",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "z0edwd9m",
+    "game": "Elevator Action",
+    "player": "ButtGallon",
+    "player_location": "us",
+    "time": 524,
+    "category": "Single Loop",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": false
+  },
+  {
+    "id": "y45p31nm",
+    "game": "Elevator Action",
+    "player": "david88demonlord",
+    "player_location": "cl",
+    "time": 714,
+    "category": "Single Loop",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zxve1lky",
+    "game": "Elevator Action",
+    "player": "baldnate",
+    "player_location": null,
+    "time": 581,
+    "category": "Single Loop",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zx446pgy",
+    "game": "Elevator Action",
+    "player": "Vidtendo",
+    "player_location": "ca/qc",
+    "time": 1662,
+    "category": "Single Loop",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zx4j1kqy",
+    "game": "Elevator Action",
+    "player": "Gallivanter",
+    "player_location": "it",
+    "time": 526,
+    "category": "Single Loop",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z11g7q9z",
+    "game": "Elevator Action",
+    "player": "Cornelu",
+    "player_location": "us",
+    "time": 1538,
+    "category": "Single Loop",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "yd3jv0wz",
+    "game": "Elevator Action",
+    "player": "Koush",
+    "player_location": "gb",
+    "time": 453,
+    "category": "Single Loop",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "zggpo8dz",
+    "game": "Elevator Action",
+    "player": "andresfgp13",
+    "player_location": "cl",
+    "time": 436,
+    "category": "Single Loop",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "y8d73wdz",
+    "game": "Elevator Action",
+    "player": "Olavi",
+    "player_location": "kr",
+    "time": 687,
+    "category": "Single Loop",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zn0r258y",
+    "game": "Elevator Action",
+    "player": "Rog_pf",
+    "player_location": "br",
+    "time": 524,
+    "category": "Single Loop",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y692rppy",
+    "game": "Elevator Action",
+    "player": "HeWhoHasNoLife",
+    "player_location": "us",
+    "time": 1421,
+    "category": "Single Loop",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zgd6lpez",
+    "game": "Elevator Action",
+    "player": "Smartball",
+    "player_location": "us",
+    "time": 1366,
+    "category": "Single Loop",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "m7w44v9z",
+    "game": "Elevator Action",
+    "player": "chessjerk",
+    "player_location": "us",
+    "time": 476,
+    "category": "Single Loop",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y6xo026y",
+    "game": "Elevator Action",
+    "player": "adrianus",
+    "player_location": "ch",
+    "time": 733,
+    "category": "Single Loop",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "yv0xd2xz",
+    "game": "Elevator Action",
+    "player": "sascha-gaming",
+    "player_location": "de",
+    "time": 435,
+    "category": "Single Loop",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "yvjojrxy",
+    "game": "",
+    "player": "Pokespartan",
+    "player_location": "gb",
+    "time": 4900,
+    "category": "Any% (1 Player)",
+    "region": "EUR / PAL",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "pm32946y",
+    "game": "",
+    "player": "Damarsh",
+    "player_location": "gb/eng",
+    "time": 5976,
+    "category": "Any% (1 Player)",
+    "region": "EUR / PAL",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "mr1qd8dz",
+    "game": "",
+    "player": "xNose",
+    "player_location": "ca",
+    "time": 3437,
+    "category": "Any% (1 Player)",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "zq086j8y",
+    "game": "The Urbz: Sims in the City (GC/PS2/Xbox)",
+    "player": "DatMelloTho",
+    "player_location": "us",
+    "time": 8072,
+    "category": "Any% (1 Player)",
+    "region": null,
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "y9xw04ky",
+    "game": "The Urbz: Sims in the City (GC/PS2/Xbox)",
+    "player": "Fakeplant",
+    "player_location": null,
+    "time": 7122,
+    "category": "Any% (1 Player)",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  }
+]

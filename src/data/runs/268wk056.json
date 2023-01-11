@@ -1,0 +1,46 @@
+[
+  {
+    "id": "zq7w3qrm",
+    "game": "",
+    "player": "Dugongue",
+    "player_location": "us",
+    "time": 866,
+    "category": "Team Play Easy",
+    "region": null,
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "y2p5qw7z",
+    "game": "",
+    "player": "HurricaneMixer",
+    "player_location": "us",
+    "time": 685,
+    "category": "Team Play Easy",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy",
+    "emulated": false
+  },
+  {
+    "id": "yw38pxnm",
+    "game": "Nettou The King of Fighters 95",
+    "player": "DBcade",
+    "player_location": "jp",
+    "time": 636,
+    "category": "Team Play Easy",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "yopk2x5m",
+    "game": "Nettou The King of Fighters 95",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 556,
+    "category": "Team Play Easy",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  }
+]

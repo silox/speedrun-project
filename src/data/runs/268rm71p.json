@@ -1,0 +1,35 @@
+[
+  {
+    "id": "zq6q1w1y",
+    "game": "Wild Arms 4",
+    "player": "Flegeljahre",
+    "player_location": "jp",
+    "time": 17608,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zxk5wrqm",
+    "game": "Wild Arms 4",
+    "player": "CollectiveSoulsRTA",
+    "player_location": "al",
+    "time": 18571,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y4836pdm",
+    "game": "Wild Arms 4",
+    "player": "shadoweh",
+    "player_location": "us",
+    "time": 19077,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  }
+]

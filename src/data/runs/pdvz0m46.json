@@ -1,0 +1,79 @@
+[
+  {
+    "id": "zx464q8y",
+    "game": "WINDJAMMERS",
+    "player": "Alefc",
+    "player_location": "us",
+    "time": 854.288,
+    "category": "Arcade (Easy)",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "mr8peq7y",
+    "game": "WINDJAMMERS",
+    "player": "Maester_Sketches",
+    "player_location": "us",
+    "time": 848,
+    "category": "Arcade (Easy)",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "yl0q6jxy",
+    "game": "WINDJAMMERS",
+    "player": "LahiRahi",
+    "player_location": "jp",
+    "time": 715.68,
+    "category": "Arcade (Easy)",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "ylvv0nxm",
+    "game": "WINDJAMMERS",
+    "player": "Mr_Feta",
+    "player_location": "gr",
+    "time": 555.05,
+    "category": "Arcade (Easy)",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "y2e4v95y",
+    "game": "WINDJAMMERS",
+    "player": "MetroidMaster",
+    "player_location": "us",
+    "time": 735.63,
+    "category": "Arcade (Medium)",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "z1p9dqrz",
+    "game": "WINDJAMMERS",
+    "player": "VA5H",
+    "player_location": "mx",
+    "time": 946.53,
+    "category": "Arcade (Medium)",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "yv0ojkez",
+    "game": "WINDJAMMERS",
+    "player": "MaxBoltzman",
+    "player_location": "us",
+    "time": 565.77,
+    "category": "Arcade (Easy)",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  }
+]

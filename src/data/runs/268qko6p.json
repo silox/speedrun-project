@@ -1,0 +1,57 @@
+[
+  {
+    "id": "m79pv59y",
+    "game": "",
+    "player": "Hako",
+    "player_location": "de",
+    "time": 566.31,
+    "category": "Story Mode",
+    "region": "EUR / PAL",
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "zq6vrg1y",
+    "game": "",
+    "player": "Syn13x",
+    "player_location": "us",
+    "time": 50.79,
+    "category": "",
+    "region": null,
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "yvgn72oy",
+    "game": "Armed with Wings 2",
+    "player": "oddtom",
+    "player_location": "us",
+    "time": 522.5,
+    "category": "Story Mode",
+    "region": "USA / NTSC",
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "zxgp33gy",
+    "game": "Armed with Wings 2",
+    "player": "Ajktulm",
+    "player_location": "nl",
+    "time": 404.21,
+    "category": "Story Mode",
+    "region": null,
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "y47rxp2y",
+    "game": "Armed with Wings 2",
+    "player": "Polaris",
+    "player_location": "us",
+    "time": 399.55,
+    "category": "Story Mode",
+    "region": "USA / NTSC",
+    "platform": "Web",
+    "emulated": false
+  }
+]

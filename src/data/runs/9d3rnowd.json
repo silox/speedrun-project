@@ -1,0 +1,79 @@
+[
+  {
+    "id": "z15v919y",
+    "game": "Super Luigi Land Wii",
+    "player": "Mullkaw",
+    "player_location": "us",
+    "time": 7.983,
+    "category": "",
+    "region": null,
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "zpl4ox8m",
+    "game": "Super Luigi Land Wii",
+    "player": "Randonlyh",
+    "player_location": null,
+    "time": 46.15,
+    "category": "Any%",
+    "region": null,
+    "platform": "Wii",
+    "emulated": true
+  },
+  {
+    "id": "zprolg8m",
+    "game": "Super Luigi Land Wii",
+    "player": "fastgamer22",
+    "player_location": "be",
+    "time": 49.817,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "zn7j9e3m",
+    "game": "Super Luigi Land Wii",
+    "player": "GlowyOrange",
+    "player_location": "us",
+    "time": 2867.19,
+    "category": "",
+    "region": null,
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "y9l8opvy",
+    "game": "Super Luigi Land Wii",
+    "player": "GamerBoy256",
+    "player_location": null,
+    "time": 6810.02,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "y20wnx6m",
+    "game": "Super Luigi Land Wii",
+    "player": "Skiller_Killer_2003",
+    "player_location": "de",
+    "time": 2509.16,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "y6njo06z",
+    "game": "Super Luigi Land Wii",
+    "player": "TheExtendedCentral",
+    "player_location": null,
+    "time": 83.55,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": true
+  }
+]

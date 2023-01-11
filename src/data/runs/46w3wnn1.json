@@ -1,0 +1,24 @@
+[
+  {
+    "id": "z034538z",
+    "game": "Alchemist's Castle",
+    "player": "Ico",
+    "player_location": "se",
+    "time": 508,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m353p9gy",
+    "game": "Alchemist's Castle",
+    "player": "Moonparty",
+    "player_location": "au",
+    "time": 427,
+    "category": "Any%",
+    "region": null,
+    "platform": "PlayStation 4",
+    "emulated": false
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "8yvwnn4m",
+    "game": "",
+    "player": "AKirinNamedZakky",
+    "player_location": "us",
+    "time": 774,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zpq040gy",
+    "game": "",
+    "player": "sdutry",
+    "player_location": "be",
+    "time": 1160,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "z0524oem",
+    "game": "",
+    "player": "BlazingRaven495",
+    "player_location": "us",
+    "time": 1021,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "yd90nojz",
+    "game": "Low G Man: The Low Gravity Man",
+    "player": "m4r51p4n",
+    "player_location": "us",
+    "time": 872,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "id": "6yj89nnm",
+    "game": "Money Idol Exchanger",
+    "player": "Punchy",
+    "player_location": "gb/eng",
+    "time": 321,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "oy2wkl9y",
+    "game": "Money Idol Exchanger",
+    "player": "Zil",
+    "player_location": null,
+    "time": 220,
+    "category": "Arcade: Level-4",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z1393v7m",
+    "game": "Money Idol Exchanger",
+    "player": "Soulchild",
+    "player_location": "br",
+    "time": 204,
+    "category": "Arcade: Level-4",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "mk2n755m",
+    "game": "Money Idol Exchanger",
+    "player": "TABYDACAT",
+    "player_location": null,
+    "time": 285,
+    "category": "Arcade: Level-4",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "ydrkx80z",
+    "game": "Money Idol Exchanger",
+    "player": "jugringnahoP",
+    "player_location": "jp",
+    "time": 220,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "z1x5j9wm",
+    "game": "Money Idol Exchanger",
+    "player": "Xaro_",
+    "player_location": null,
+    "time": 190,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z0ner5om",
+    "game": "Money Idol Exchanger",
+    "player": "shell_the_aniki",
+    "player_location": "jp",
+    "time": 216,
+    "category": "Arcade: Level-4",
+    "region": "JPN / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  }
+]

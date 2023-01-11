@@ -1,0 +1,90 @@
+[
+  {
+    "id": "ylvoe6nm",
+    "game": "Cooking Mama 5: Bon App\u00e9tit!",
+    "player": "Lavafox",
+    "player_location": "gb",
+    "time": 10451,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "z096vwez",
+    "game": "Cooking Mama 5: Bon App\u00e9tit!",
+    "player": "MyerithRae",
+    "player_location": "us",
+    "time": 20390,
+    "category": "All Recipes",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "y6r1w96y",
+    "game": "Cooking Mama 5: Bon App\u00e9tit!",
+    "player": "TheGuyWhoCantRead",
+    "player_location": "ca",
+    "time": 31574,
+    "category": "All Recipes",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": true
+  },
+  {
+    "id": "y9n2n5nz",
+    "game": "Cooking Mama 5: Bon App\u00e9tit!",
+    "player": "Gasu",
+    "player_location": "ch",
+    "time": 8.792,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "ylorndny",
+    "game": "Cooking Mama 5: Bon App\u00e9tit!",
+    "player": "pandaboy2079",
+    "player_location": null,
+    "time": 333.19,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "mk7enpvy",
+    "game": "Cooking Mama 5: Bon App\u00e9tit!",
+    "player": "Just_Ross",
+    "player_location": "us",
+    "time": 4036.3,
+    "category": "10 Recipes",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "z0rnlg8z",
+    "game": "Cooking Mama 5: Bon App\u00e9tit!",
+    "player": "Kawamatsu_69",
+    "player_location": "ua",
+    "time": 230.333,
+    "category": "",
+    "region": null,
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "yor222jy",
+    "game": "Cooking Mama 5: Bon App\u00e9tit!",
+    "player": "M1L3NA",
+    "player_location": "fr",
+    "time": 217.5,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  }
+]

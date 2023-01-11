@@ -1,0 +1,35 @@
+[
+  {
+    "id": "z159o2jy",
+    "game": "",
+    "player": "ebloodycandy",
+    "player_location": "us",
+    "time": 1564,
+    "category": "Beat the Game",
+    "region": "USA / NTSC",
+    "platform": "Super Game Boy 2",
+    "emulated": false
+  },
+  {
+    "id": "zpl07qgm",
+    "game": "",
+    "player": "SufferUM",
+    "player_location": "au",
+    "time": 1457,
+    "category": "Beat the Game",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "z0oxvj8z",
+    "game": "",
+    "player": "Atroz",
+    "player_location": "us",
+    "time": 917,
+    "category": "Beat the Game",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  }
+]

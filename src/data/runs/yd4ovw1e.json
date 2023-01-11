@@ -1,0 +1,35 @@
+[
+  {
+    "id": "yl0eqkry",
+    "game": "Growlanser II: The Sense of Justice",
+    "player": "kariohki",
+    "player_location": "us",
+    "time": 10492,
+    "category": "Any% Bad Ending",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "oy2q596y",
+    "game": "Growlanser II: The Sense of Justice",
+    "player": "Skiegh",
+    "player_location": null,
+    "time": 8440,
+    "category": "Any% Bad Ending",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y2q2625y",
+    "game": "Growlanser II: The Sense of Justice",
+    "player": "Griotte_At",
+    "player_location": "jp",
+    "time": 4344,
+    "category": "Any% NG+ Wolfgang Path",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  }
+]

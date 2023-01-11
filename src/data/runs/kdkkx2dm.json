@@ -1,0 +1,35 @@
+[
+  {
+    "id": "yoj8e4dm",
+    "game": "",
+    "player": "TommyBoi21",
+    "player_location": "se",
+    "time": 2518,
+    "category": "Meduim Difficulty, Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "y48qdvnm",
+    "game": "",
+    "player": "Seirea",
+    "player_location": "us",
+    "time": 1496,
+    "category": "Meduim Difficulty, Any%",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "y2p7rwwz",
+    "game": "",
+    "player": "guti_o_euclid",
+    "player_location": "jp",
+    "time": 1843,
+    "category": "Meduim Difficulty, Any%",
+    "region": "JPN / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "ylq6w2nz",
+    "game": "Asha in Monster World",
+    "player": "Cyclone",
+    "player_location": "us",
+    "time": 4466,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "yv1pdx6y",
+    "game": "Asha in Monster World",
+    "player": "infinitemystery",
+    "player_location": null,
+    "time": 12807,
+    "category": "No Magic Merchant",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "y4rk63kz",
+    "game": "Asha in Monster World",
+    "player": "TimeC0nsumer",
+    "player_location": "be",
+    "time": 4956,
+    "category": "",
+    "region": null,
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "ywq9gkny",
+    "game": "Asha in Monster World",
+    "player": "zaa",
+    "player_location": "jp",
+    "time": 3898,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z0lkrpoz",
+    "game": "Asha in Monster World",
+    "player": "Gameplay1103",
+    "player_location": null,
+    "time": 3898,
+    "category": "Beat the Game",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

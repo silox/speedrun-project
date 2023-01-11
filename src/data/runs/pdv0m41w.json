@@ -1,0 +1,123 @@
+[
+  {
+    "id": "9yo33l1y",
+    "game": "F-1 Race (GB)",
+    "player": "Oh_DeeR",
+    "player_location": "de",
+    "time": 37.91,
+    "category": "Single",
+    "region": null,
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "nz1oogwm",
+    "game": "F-1 Race (GB)",
+    "player": "minicharge",
+    "player_location": "us",
+    "time": 37.71,
+    "category": "Single",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "1zqg4grm",
+    "game": "F-1 Race (GB)",
+    "player": "JXD",
+    "player_location": "gb",
+    "time": 61.53,
+    "category": "Single",
+    "region": "EUR / PAL",
+    "platform": null,
+    "emulated": false
+  },
+  {
+    "id": "9megr69y",
+    "game": "F-1 Race (GB)",
+    "player": "McGarren",
+    "player_location": "fr",
+    "time": 38.21,
+    "category": "Single",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "yw1r949z",
+    "game": "F-1 Race (GB)",
+    "player": "GMCristiano",
+    "player_location": "pt",
+    "time": 37.33,
+    "category": "Single",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "z11g3jwz",
+    "game": "F-1 Race (GB)",
+    "player": "meauxdal",
+    "player_location": "us",
+    "time": 38.84,
+    "category": "Single",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Interface",
+    "emulated": false
+  },
+  {
+    "id": "y89okn5m",
+    "game": "F-1 Race (GB)",
+    "player": "save_ral",
+    "player_location": "br",
+    "time": 38.45,
+    "category": "Single",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "zqr5xq1y",
+    "game": "F-1 Race (GB)",
+    "player": "Dragspelarn",
+    "player_location": "se",
+    "time": 36.93,
+    "category": "Single",
+    "region": null,
+    "platform": "Game Boy",
+    "emulated": false
+  },
+  {
+    "id": "y6le7rjy",
+    "game": "F-1 Race (GB)",
+    "player": "NYLT-boi",
+    "player_location": "us",
+    "time": 39.13,
+    "category": "Obstacle",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": false
+  },
+  {
+    "id": "ydwg93wm",
+    "game": "F-1 Race (GB)",
+    "player": "PLAYMOUND7",
+    "player_location": "es",
+    "time": 41.52,
+    "category": "Obstacle",
+    "region": "EUR / PAL",
+    "platform": "Game Boy",
+    "emulated": false
+  },
+  {
+    "id": "y8xdwrxm",
+    "game": "F-1 Race (GB)",
+    "player": "PrinceOyin",
+    "player_location": "us",
+    "time": 39.42,
+    "category": "Single",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  }
+]

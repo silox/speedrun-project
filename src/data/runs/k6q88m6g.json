@@ -1,0 +1,46 @@
+[
+  {
+    "id": "zp4ow8vz",
+    "game": "",
+    "player": "EODTex",
+    "player_location": "us",
+    "time": 1326.72,
+    "category": "Single Player",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "zxkp9k8m",
+    "game": "",
+    "player": "CnEY",
+    "player_location": "us",
+    "time": 1321.13,
+    "category": "Single Player",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "zp4wpgvz",
+    "game": "",
+    "player": "RitaH",
+    "player_location": "br",
+    "time": 1315,
+    "category": "Co-op",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y9x31ery",
+    "game": "",
+    "player": "saulonpb",
+    "player_location": "br",
+    "time": 1309,
+    "category": "Co-op",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "id": "1zxdq6qy",
+    "game": "Corpse Party (PSP, iOS)",
+    "player": "Mavik",
+    "player_location": "us",
+    "time": 1044,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "8m78d9ez",
+    "game": "Corpse Party (PSP, iOS)",
+    "player": "TheReed",
+    "player_location": "fr",
+    "time": 1006,
+    "category": "Chapter 1",
+    "region": null,
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "9me75v2y",
+    "game": "Corpse Party (PSP, iOS)",
+    "player": "Shizoku",
+    "player_location": "us",
+    "time": 977,
+    "category": "Chapter 1",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": false
+  },
+  {
+    "id": "mrq7lngy",
+    "game": "Corpse Party (PSP, iOS)",
+    "player": "0Jay0",
+    "player_location": "de",
+    "time": 357,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "y97rdgkm",
+    "game": "Corpse Party (PSP, iOS)",
+    "player": "Miiso",
+    "player_location": "us",
+    "time": 961,
+    "category": "Chapter 1",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "zp00gpgm",
+    "game": "Corpse Party (PSP, iOS)",
+    "player": "Caree",
+    "player_location": null,
+    "time": 1126,
+    "category": "Chapter 1",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "me818d3m",
+    "game": "Corpse Party (PSP, iOS)",
+    "player": "lucluc16",
+    "player_location": "br",
+    "time": 623,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "y21d5owz",
+    "game": "Corpse Party (PSP, iOS)",
+    "player": "ZootySuzy",
+    "player_location": "us",
+    "time": 938,
+    "category": "Chapter 1",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "y2qpr47y",
+    "game": "Corpse Party (PSP, iOS)",
+    "player": "who42baker",
+    "player_location": "us",
+    "time": 949,
+    "category": "Chapter 1",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": false
+  },
+  {
+    "id": "zg7629vz",
+    "game": "Corpse Party (PSP, iOS)",
+    "player": "Adriel",
+    "player_location": "br",
+    "time": 645,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "yl0vkrny",
+    "game": "Corpse Party (PSP, iOS)",
+    "player": "KavMaster",
+    "player_location": "us",
+    "time": 1057,
+    "category": "Chapter 1",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": false
+  },
+  {
+    "id": "yw4xjn9z",
+    "game": "Corpse Party (PSP, iOS)",
+    "player": "stoic_rose",
+    "player_location": "us",
+    "time": 829,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": false
+  },
+  {
+    "id": "mk2r343m",
+    "game": "Corpse Party (PSP, iOS)",
+    "player": "kuylar",
+    "player_location": "tr",
+    "time": 977,
+    "category": "Chapter 1",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "mr916q7m",
+    "game": "Corpse Party (PSP, iOS)",
+    "player": "YaDunDidIt",
+    "player_location": null,
+    "time": 354,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "y82lkwny",
+    "game": "Corpse Party (PSP, iOS)",
+    "player": "41LANCER",
+    "player_location": "jp",
+    "time": 386,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "z53rdvny",
+    "game": "Corpse Party (PSP, iOS)",
+    "player": "Tegron",
+    "player_location": "pl",
+    "time": 304,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "z53d27gy",
+    "game": "Corpse Party (PSP, iOS)",
+    "player": "Elesia",
+    "player_location": "es",
+    "time": 1100,
+    "category": "Chapter 1",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "yj5rel3m",
+    "game": "Corpse Party (PSP, iOS)",
+    "player": "thanksdude",
+    "player_location": null,
+    "time": 386,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  }
+]

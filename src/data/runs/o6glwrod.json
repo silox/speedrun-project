@@ -1,0 +1,57 @@
+[
+  {
+    "id": "yl98r1ky",
+    "game": "",
+    "player": "Phanttom",
+    "player_location": "us",
+    "time": 1653,
+    "category": "Arcade Mode",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  },
+  {
+    "id": "znrxv83y",
+    "game": "",
+    "player": "Chival",
+    "player_location": "us",
+    "time": 772,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  },
+  {
+    "id": "mexp2l2z",
+    "game": "Zombie Revenge",
+    "player": "Punchy",
+    "player_location": "gb/eng",
+    "time": 919,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "yokd20jz",
+    "game": "Zombie Revenge",
+    "player": "Holysoul",
+    "player_location": null,
+    "time": 1661,
+    "category": "Arcade Mode",
+    "region": "JPN / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  },
+  {
+    "id": "me97rx0z",
+    "game": "Zombie Revenge",
+    "player": "Dimidus",
+    "player_location": "pt",
+    "time": 1609,
+    "category": "Arcade Mode",
+    "region": null,
+    "platform": "Dreamcast",
+    "emulated": true
+  }
+]

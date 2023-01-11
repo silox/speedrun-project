@@ -1,0 +1,24 @@
+[
+  {
+    "id": "zprnr0rm",
+    "game": "Monster 4x4: World Circuit",
+    "player": "OddPandemonium",
+    "player_location": "us",
+    "time": 3511,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "z5x25jny",
+    "game": "Monster 4x4: World Circuit",
+    "player": "JokerTropical",
+    "player_location": "ca",
+    "time": 143.08,
+    "category": "3 Lap",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  }
+]

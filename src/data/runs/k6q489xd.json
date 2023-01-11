@@ -1,0 +1,57 @@
+[
+  {
+    "id": "zgkxdeey",
+    "game": "Mars Matrix: Hyper Solid Shooting",
+    "player": "manticor5",
+    "player_location": "cl",
+    "time": 1168,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "znkw5v9z",
+    "game": "Mars Matrix: Hyper Solid Shooting",
+    "player": "saulonpb",
+    "player_location": "br",
+    "time": 1112,
+    "category": "Any% Co-Op 2 Players",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yw8r9lny",
+    "game": "Mars Matrix: Hyper Solid Shooting",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 1212,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y6r8e20y",
+    "game": "Mars Matrix: Hyper Solid Shooting",
+    "player": "Commodore64Brannigan",
+    "player_location": "gb/sct",
+    "time": 1110,
+    "category": "Any% Co-Op 2 Players",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y2vq2jwz",
+    "game": "Mars Matrix: Hyper Solid Shooting",
+    "player": "RitaH",
+    "player_location": "br",
+    "time": 1125,
+    "category": "Any% Co-Op 2 Players",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

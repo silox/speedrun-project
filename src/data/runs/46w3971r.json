@@ -1,0 +1,46 @@
+[
+  {
+    "id": "yd0k0njz",
+    "game": "Tenchu Z",
+    "player": "Ondrej",
+    "player_location": "us",
+    "time": 21.3,
+    "category": "Any% Restricted",
+    "region": "USA / NTSC",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "8y8e941y",
+    "game": "Tenchu Z",
+    "player": "EIiitti",
+    "player_location": "fi",
+    "time": 2011,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "2ywx8e2m",
+    "game": "Tenchu Z",
+    "player": "DohX_Jin",
+    "player_location": null,
+    "time": 1663,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Xbox 360",
+    "emulated": false
+  },
+  {
+    "id": "m3ndqedy",
+    "game": "Tenchu Z",
+    "player": "NjNJA_QK",
+    "player_location": "us",
+    "time": 1768,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Xbox 360",
+    "emulated": false
+  }
+]

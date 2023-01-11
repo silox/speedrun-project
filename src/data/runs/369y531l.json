@@ -1,0 +1,35 @@
+[
+  {
+    "id": "0y6log0y",
+    "game": "Shiren the Wanderer 3: The Sleeping Princess and the Karakuri Mansion",
+    "player": "Crazy Boy",
+    "player_location": null,
+    "time": 27128,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": false
+  },
+  {
+    "id": "y4ronodz",
+    "game": "Shiren the Wanderer 3: The Sleeping Princess and the Karakuri Mansion",
+    "player": "puyo",
+    "player_location": "jp",
+    "time": 19389,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": false
+  },
+  {
+    "id": "me12102y",
+    "game": "Shiren the Wanderer 3: The Sleeping Princess and the Karakuri Mansion",
+    "player": "onogoron",
+    "player_location": "jp",
+    "time": 26799,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  }
+]

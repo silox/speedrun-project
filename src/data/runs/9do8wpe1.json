@@ -1,0 +1,79 @@
+[
+  {
+    "id": "ywqqql9y",
+    "game": "Dr Robotnik's Mean Bean Machine (8-bit)",
+    "player": "Kemovaro",
+    "player_location": "pr",
+    "time": 650,
+    "category": "",
+    "region": null,
+    "platform": "New Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "m3rr3rwm",
+    "game": "Dr Robotnik's Mean Bean Machine (8-bit)",
+    "player": "CranO",
+    "player_location": "ca",
+    "time": 908,
+    "category": "Scenario Mode",
+    "region": null,
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "zxlog98z",
+    "game": "Dr Robotnik's Mean Bean Machine (8-bit)",
+    "player": "RomelloThePuyoGamer",
+    "player_location": null,
+    "time": 557,
+    "category": "Scenario Mode",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": true
+  },
+  {
+    "id": "z5velknm",
+    "game": "Dr Robotnik's Mean Bean Machine (8-bit)",
+    "player": "Mari0LuigiYoshi",
+    "player_location": null,
+    "time": 544,
+    "category": "Scenario Mode",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": true
+  },
+  {
+    "id": "z1pdlnrz",
+    "game": "Dr Robotnik's Mean Bean Machine (8-bit)",
+    "player": "Ce_Mec9",
+    "player_location": "ca/qc",
+    "time": 698,
+    "category": "Scenario Mode",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": true
+  },
+  {
+    "id": "mkkopvxm",
+    "game": "Dr Robotnik's Mean Bean Machine (8-bit)",
+    "player": "mintsdog",
+    "player_location": "us",
+    "time": 1074,
+    "category": "Scenario Mode",
+    "region": "USA / NTSC",
+    "platform": "Sega Master System",
+    "emulated": true
+  },
+  {
+    "id": "y60jpojy",
+    "game": "Dr Robotnik's Mean Bean Machine (8-bit)",
+    "player": "ricdesi",
+    "player_location": "us",
+    "time": 1751,
+    "category": "Scenario Mode",
+    "region": "USA / NTSC",
+    "platform": "Sega Game Gear",
+    "emulated": true
+  }
+]

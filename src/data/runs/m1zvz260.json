@@ -1,0 +1,79 @@
+[
+  {
+    "id": "2ywklp2y",
+    "game": "Gundam Battle Assault",
+    "player": "NFang",
+    "player_location": "us",
+    "time": 485,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "y67p136m",
+    "game": "Gundam Battle Assault",
+    "player": "Aerlien",
+    "player_location": "us",
+    "time": 464,
+    "category": "The- O",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "mrq1jjgy",
+    "game": "Gundam Battle Assault",
+    "player": "IcKY",
+    "player_location": "us",
+    "time": 538,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "mk24gd1m",
+    "game": "Gundam Battle Assault",
+    "player": "Yoho9000",
+    "player_location": "us",
+    "time": 502,
+    "category": "The- O",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zqekr31z",
+    "game": "Gundam Battle Assault",
+    "player": "trepurize",
+    "player_location": "it",
+    "time": 446,
+    "category": "",
+    "region": null,
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "znopvrly",
+    "game": "Gundam Battle Assault",
+    "player": "Agathokakological",
+    "player_location": "us",
+    "time": 437,
+    "category": "The- O",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "ydrq68qz",
+    "game": "Gundam Battle Assault",
+    "player": "gheb",
+    "player_location": null,
+    "time": 550,
+    "category": "GP-02A",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  }
+]

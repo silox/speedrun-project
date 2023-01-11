@@ -1,0 +1,90 @@
+[
+  {
+    "id": "yj16gl3y",
+    "game": "",
+    "player": "justineola",
+    "player_location": null,
+    "time": 320,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "mk78e7vy",
+    "game": "",
+    "player": "asianmikepwn",
+    "player_location": null,
+    "time": 286,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Android",
+    "emulated": true
+  },
+  {
+    "id": "ylop282y",
+    "game": "",
+    "player": "Hemodunem",
+    "player_location": "ru",
+    "time": 269,
+    "category": "Any%",
+    "region": null,
+    "platform": "Android",
+    "emulated": true
+  },
+  {
+    "id": "zp1360vz",
+    "game": "Princess Connect! Re: Dive",
+    "player": "sasakirise",
+    "player_location": "vn",
+    "time": 367,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "mr13jd8z",
+    "game": "Princess Connect! Re: Dive",
+    "player": "Glisin",
+    "player_location": "co",
+    "time": 404,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "me4ov73y",
+    "game": "Princess Connect! Re: Dive",
+    "player": "Satoimo",
+    "player_location": "jp",
+    "time": 205,
+    "category": "Any% Solo",
+    "region": "JPN / NTSC",
+    "platform": "Android",
+    "emulated": true
+  },
+  {
+    "id": "z0o0wrjz",
+    "game": "Princess Connect! Re: Dive",
+    "player": "Match1230",
+    "player_location": "jp",
+    "time": 623,
+    "category": "Any% Solo",
+    "region": "JPN / NTSC",
+    "platform": "iOS",
+    "emulated": false
+  },
+  {
+    "id": "m76ko4wy",
+    "game": "Princess Connect! Re: Dive",
+    "player": "loudtrexx",
+    "player_location": "fi",
+    "time": 112,
+    "category": "Any%",
+    "region": null,
+    "platform": "Android",
+    "emulated": false
+  }
+]

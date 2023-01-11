@@ -1,0 +1,35 @@
+[
+  {
+    "id": "1zx03q8z",
+    "game": "Revelations: Persona",
+    "player": "Supergamer57",
+    "player_location": null,
+    "time": 29555,
+    "category": "SEBEC",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "kz5wp8ez",
+    "game": "Revelations: Persona",
+    "player": "escargoon",
+    "player_location": null,
+    "time": 31703,
+    "category": "SEBEC",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "zqr6579y",
+    "game": "Revelations: Persona",
+    "player": "Tick_Show",
+    "player_location": "jp",
+    "time": 15329,
+    "category": "Snow Queen Quest",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  }
+]

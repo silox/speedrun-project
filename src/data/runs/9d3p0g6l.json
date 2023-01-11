@@ -1,0 +1,79 @@
+[
+  {
+    "id": "y9l1nqry",
+    "game": "Trauma Team",
+    "player": "szsk",
+    "player_location": null,
+    "time": 37.48,
+    "category": "Operation rank XS",
+    "region": "JPN / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "y9xk21ey",
+    "game": "Trauma Team",
+    "player": "Thurler",
+    "player_location": "br",
+    "time": 30.34,
+    "category": "Normal (Resident)",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "yv92xqez",
+    "game": "Trauma Team",
+    "player": "Irisjoker",
+    "player_location": "us",
+    "time": 15793,
+    "category": "New Game+ Normal (Resident)",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "y9xodp2y",
+    "game": "Trauma Team",
+    "player": "CosimoQuiche",
+    "player_location": "us",
+    "time": 33.21,
+    "category": "Normal (Resident)",
+    "region": "USA / NTSC",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "y2ek1gjy",
+    "game": "Trauma Team",
+    "player": "LeoKeidran",
+    "player_location": "gb/eng",
+    "time": 29.64,
+    "category": "Normal (Resident)",
+    "region": "JPN / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "yd1no6qy",
+    "game": "Trauma Team",
+    "player": "barxbeast",
+    "player_location": null,
+    "time": 52.43,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "mkd0k7vy",
+    "game": "Trauma Team",
+    "player": "Blue_Link13",
+    "player_location": "ar",
+    "time": 15286.96,
+    "category": "New Game+ Normal (Resident)",
+    "region": "USA / NTSC",
+    "platform": "Wii U",
+    "emulated": false
+  }
+]

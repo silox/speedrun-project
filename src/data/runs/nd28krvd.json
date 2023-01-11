@@ -1,0 +1,35 @@
+[
+  {
+    "id": "z07eje9y",
+    "game": "Adventures of Pinocchio",
+    "player": "jojoretrogamer",
+    "player_location": "ca",
+    "time": 34,
+    "category": "Any%",
+    "region": null,
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "m7wvvgwz",
+    "game": "Adventures of Pinocchio",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 25,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "yd19l1qy",
+    "game": "Adventures of Pinocchio",
+    "player": "perezc13",
+    "player_location": "us",
+    "time": 400,
+    "category": "Paint%",
+    "region": "EUR / PAL",
+    "platform": "Nintendo DS",
+    "emulated": true
+  }
+]

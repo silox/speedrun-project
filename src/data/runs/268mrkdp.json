@@ -1,0 +1,46 @@
+[
+  {
+    "id": "8y8x5x5m",
+    "game": "Rescue Shot",
+    "player": "loginner",
+    "player_location": "be",
+    "time": 2926,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "8y87j1wz",
+    "game": "Rescue Shot",
+    "player": "voetre",
+    "player_location": "nz",
+    "time": 2721,
+    "category": "Easy Mode",
+    "region": "EUR / PAL",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "mk4o21xy",
+    "game": "Rescue Shot",
+    "player": "CaneofPacci",
+    "player_location": "us",
+    "time": 2425,
+    "category": "Easy Mode",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "y8x869wm",
+    "game": "Rescue Shot",
+    "player": "q_wed3",
+    "player_location": "jp",
+    "time": 2202,
+    "category": "Easy Mode",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  }
+]

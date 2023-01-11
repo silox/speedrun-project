@@ -1,0 +1,90 @@
+[
+  {
+    "id": "6yjx173z",
+    "game": "Super R-Type",
+    "player": "StarvinStruthers",
+    "player_location": "us",
+    "time": 1307,
+    "category": "Novice",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "yoj1xq7m",
+    "game": "Super R-Type",
+    "player": "Iceplug",
+    "player_location": "us",
+    "time": 1031,
+    "category": "Novice",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "yvg9wrey",
+    "game": "Super R-Type",
+    "player": "Roamus",
+    "player_location": "ca/qc",
+    "time": 1197,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "y23jewwm",
+    "game": "Super R-Type",
+    "player": "dvermillion93",
+    "player_location": "us",
+    "time": 11068,
+    "category": "Pro",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "mekp593m",
+    "game": "Super R-Type",
+    "player": "Retro_Omega",
+    "player_location": null,
+    "time": 1658,
+    "category": "Novice",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "z032dljz",
+    "game": "Super R-Type",
+    "player": "DodonKrevedko",
+    "player_location": "ru",
+    "time": 1447,
+    "category": "Novice",
+    "region": "EUR / PAL",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y959ne2z",
+    "game": "Super R-Type",
+    "player": "Alex_X8",
+    "player_location": "cl",
+    "time": 1039,
+    "category": "Novice",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "y82e45dy",
+    "game": "Super R-Type",
+    "player": "NeetSuhiro",
+    "player_location": "jp",
+    "time": 1015,
+    "category": "Novice",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  }
+]

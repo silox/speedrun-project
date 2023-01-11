@@ -1,0 +1,79 @@
+[
+  {
+    "id": "zx21448m",
+    "game": "Death End Re;Quest 2",
+    "player": "zfresh",
+    "player_location": "us",
+    "time": 10125,
+    "category": "NG",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "zprj04rm",
+    "game": "Death End Re;Quest 2",
+    "player": "key_ret",
+    "player_location": "jp",
+    "time": 5308,
+    "category": "NG",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "y4wdvo2m",
+    "game": "Death End Re;Quest 2",
+    "player": "Veloalopus",
+    "player_location": "us",
+    "time": 11092,
+    "category": "NG",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yok17e0z",
+    "game": "Death End Re;Quest 2",
+    "player": "Dabomstew",
+    "player_location": "nz",
+    "time": 3425,
+    "category": "NG",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yv918noz",
+    "game": "Death End Re;Quest 2",
+    "player": "IIvgmII",
+    "player_location": "us",
+    "time": 4592,
+    "category": "NG",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y4e381qm",
+    "game": "Death End Re;Quest 2",
+    "player": "Archive_Net",
+    "player_location": "us",
+    "time": 9339,
+    "category": "NG",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zplgp6vm",
+    "game": "Death End Re;Quest 2",
+    "player": "AaronEsP11",
+    "player_location": "es",
+    "time": 4951,
+    "category": "NG",
+    "region": null,
+    "platform": "PlayStation 4",
+    "emulated": false
+  }
+]

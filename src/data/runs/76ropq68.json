@@ -1,0 +1,57 @@
+[
+  {
+    "id": "z5dr48em",
+    "game": "Street Fighter EX",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 667,
+    "category": "Arcade Mode",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y65x560z",
+    "game": "Street Fighter EX",
+    "player": "joeygripps",
+    "player_location": "us",
+    "time": 610,
+    "category": "Arcade Mode",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "m7gv665m",
+    "game": "Street Fighter EX",
+    "player": "KaktusPrime",
+    "player_location": "nz",
+    "time": 409,
+    "category": "Arcade Mode",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zn38x58y",
+    "game": "Street Fighter EX",
+    "player": "frbnash",
+    "player_location": "br",
+    "time": 436,
+    "category": "Arcade Mode",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "mrn2pr2y",
+    "game": "Street Fighter EX",
+    "player": "NerdyNester",
+    "player_location": "us",
+    "time": 581,
+    "category": "Arcade Mode",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

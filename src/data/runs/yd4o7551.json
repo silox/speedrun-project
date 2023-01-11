@@ -1,0 +1,233 @@
+[
+  {
+    "id": "zxv1gn5y",
+    "game": "SonSon",
+    "player": "Leijonhufvud",
+    "player_location": "se",
+    "time": 47.35,
+    "category": "10k",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "z13ellgm",
+    "game": "SonSon",
+    "player": "Zericc",
+    "player_location": "ca",
+    "time": 44.14,
+    "category": "10k",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "z51on2dm",
+    "game": "SonSon",
+    "player": "smallvans",
+    "player_location": "us",
+    "time": 39,
+    "category": "10k",
+    "region": "JPN / NTSC",
+    "platform": "Xbox",
+    "emulated": false
+  },
+  {
+    "id": "zx4v7qey",
+    "game": "SonSon",
+    "player": "Psychosomatic",
+    "player_location": "br",
+    "time": 42.44,
+    "category": "10k",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "y2q0515y",
+    "game": "SonSon",
+    "player": "HurricaneMixer",
+    "player_location": "us",
+    "time": 1088,
+    "category": "Any% Solo",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y4w5x3qm",
+    "game": "SonSon",
+    "player": "manticor5",
+    "player_location": "cl",
+    "time": 32.61,
+    "category": "10k",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z01l339y",
+    "game": "SonSon",
+    "player": "RyanWalker1",
+    "player_location": "us",
+    "time": 49.23,
+    "category": "10k",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "z01drn8y",
+    "game": "SonSon",
+    "player": "Overswarm",
+    "player_location": "us",
+    "time": 41.03,
+    "category": "10k",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "z5jjpdem",
+    "game": "SonSon",
+    "player": "ShesChardcore",
+    "player_location": "us",
+    "time": 38.65,
+    "category": "10k",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "y41dvnky",
+    "game": "SonSon",
+    "player": "Otterstone_Gamer",
+    "player_location": "us",
+    "time": 52.44,
+    "category": "10k",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "z01voeoy",
+    "game": "SonSon",
+    "player": "Janet",
+    "player_location": null,
+    "time": 690.23,
+    "category": "Any% Solo",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zxoevvgz",
+    "game": "SonSon",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 29.99,
+    "category": "10k",
+    "region": null,
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "m354pqdy",
+    "game": "SonSon",
+    "player": "Olavi",
+    "player_location": "kr",
+    "time": 32.4,
+    "category": "10k",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zgxxvljm",
+    "game": "SonSon",
+    "player": "MIMO",
+    "player_location": "jp",
+    "time": 37.16,
+    "category": "10k",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y91gd2km",
+    "game": "SonSon",
+    "player": "Oreb7",
+    "player_location": "se",
+    "time": 38.3,
+    "category": "10k",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "y8v30g1z",
+    "game": "SonSon",
+    "player": "DCG_Grinder",
+    "player_location": "us",
+    "time": 37.36,
+    "category": "10k",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "mr45nv7z",
+    "game": "SonSon",
+    "player": "JoePulito",
+    "player_location": "us",
+    "time": 39.97,
+    "category": "10k",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "y475n0ky",
+    "game": "SonSon",
+    "player": "ivanpaduano",
+    "player_location": "it",
+    "time": 32.1,
+    "category": "10k",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y8eovdxy",
+    "game": "SonSon",
+    "player": "NinpoManiac",
+    "player_location": "us",
+    "time": 48,
+    "category": "10k",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "yle1312z",
+    "game": "SonSon",
+    "player": "Vu16",
+    "player_location": "ca/qc",
+    "time": 78.55,
+    "category": "10k",
+    "region": null,
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "z0ledpoz",
+    "game": "SonSon",
+    "player": "Zarc0nis",
+    "player_location": "us",
+    "time": 36.45,
+    "category": "10k",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  }
+]

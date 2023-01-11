@@ -1,0 +1,101 @@
+[
+  {
+    "id": "8yvo5v6z",
+    "game": "",
+    "player": "Verz",
+    "player_location": "us",
+    "time": 985,
+    "category": "1CC%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "z0349wjz",
+    "game": "",
+    "player": "sunshine_shutup",
+    "player_location": null,
+    "time": 911,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": false
+  },
+  {
+    "id": "z5j8w6jm",
+    "game": "Elevator Action Returns",
+    "player": "Aeihu",
+    "player_location": "cn",
+    "time": 878,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y90x0gvy",
+    "game": "Elevator Action Returns",
+    "player": "TheOpponent",
+    "player_location": "us",
+    "time": 917,
+    "category": "1CC%",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "m75r549z",
+    "game": "Elevator Action Returns",
+    "player": "Dumple",
+    "player_location": "us",
+    "time": 1531,
+    "category": "1CC%",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y69k9e1y",
+    "game": "Elevator Action Returns",
+    "player": "Smyley7",
+    "player_location": "ca",
+    "time": 1487,
+    "category": "any%",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yvow156z",
+    "game": "Elevator Action Returns",
+    "player": "NotBen",
+    "player_location": "ca",
+    "time": 1951,
+    "category": "any%",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zq0q66ry",
+    "game": "Elevator Action Returns",
+    "player": "CaptainGordon",
+    "player_location": "us",
+    "time": 815,
+    "category": "any%",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y6n29p1z",
+    "game": "Elevator Action Returns",
+    "player": "KungFusedMike",
+    "player_location": "us",
+    "time": 825,
+    "category": "any%",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

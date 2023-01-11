@@ -1,0 +1,24 @@
+[
+  {
+    "id": "9mrn07dy",
+    "game": "Armored Core: Project Phantasma",
+    "player": "niedle",
+    "player_location": "jp",
+    "time": 2005,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "mro9d07m",
+    "game": "Armored Core: Project Phantasma",
+    "player": "pmcTRILOGY",
+    "player_location": "us",
+    "time": 1971,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Playstation TV",
+    "emulated": false
+  }
+]

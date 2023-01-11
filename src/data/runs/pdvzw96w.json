@@ -1,0 +1,101 @@
+[
+  {
+    "id": "6yj97gzd",
+    "game": "Super Bonk",
+    "player": "jeffsledge",
+    "player_location": "us",
+    "time": 1654,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "9mekj5qm",
+    "game": "Super Bonk",
+    "player": "DrJordo",
+    "player_location": "us",
+    "time": 1676,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "zn8nop3z",
+    "game": "Super Bonk",
+    "player": "Bluebomberimo",
+    "player_location": "ca",
+    "time": 1535,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "yw18od2z",
+    "game": "Super Bonk",
+    "player": "99er",
+    "player_location": "ca",
+    "time": 1629,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "z076r18y",
+    "game": "Super Bonk",
+    "player": "sYn",
+    "player_location": "us",
+    "time": 1525,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "z1x8r5rm",
+    "game": "Super Bonk",
+    "player": "WhiteHat94",
+    "player_location": "us",
+    "time": 1485,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "znq0919z",
+    "game": "Super Bonk",
+    "player": "LeadOstrich",
+    "player_location": "us",
+    "time": 1369,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "mkej695m",
+    "game": "Super Bonk",
+    "player": "yaminabesan",
+    "player_location": "jp",
+    "time": 1479,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y27l385z",
+    "game": "Super Bonk",
+    "player": "TigDwan",
+    "player_location": "us",
+    "time": 1493,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  }
+]

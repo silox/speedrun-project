@@ -1,0 +1,123 @@
+[
+  {
+    "id": "zx430ney",
+    "game": "Street Racer",
+    "player": "Fulgrima",
+    "player_location": "gb/eng",
+    "time": 491,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "mkk1pl3m",
+    "game": "Street Racer",
+    "player": "Neffets",
+    "player_location": "dk",
+    "time": 475.72,
+    "category": "Bronze Cup",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "z1j9w3jz",
+    "game": "Street Racer",
+    "player": "YoBGS",
+    "player_location": "us",
+    "time": 650,
+    "category": "Bronze Cup",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "zxnkqkem",
+    "game": "Street Racer",
+    "player": "HiiragiTia",
+    "player_location": "de",
+    "time": 468.27,
+    "category": "Bronze Cup",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "y652730z",
+    "game": "Street Racer",
+    "player": "Sonikkustar",
+    "player_location": "us",
+    "time": 769,
+    "category": "Bronze Cup",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "meoded9z",
+    "game": "Street Racer",
+    "player": "MortimerNova",
+    "player_location": "us",
+    "time": 799,
+    "category": "Bronze Cup",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "mr1ep24z",
+    "game": "Street Racer",
+    "player": "LeeTheScot",
+    "player_location": "gb/sct",
+    "time": 721,
+    "category": "Bronze Cup",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "yj5nrddm",
+    "game": "Street Racer",
+    "player": "Contos",
+    "player_location": "fr",
+    "time": 552,
+    "category": "Bronze Cup",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "mkkk371m",
+    "game": "Street Racer",
+    "player": "freeHippie",
+    "player_location": "de",
+    "time": 543,
+    "category": "Bronze Cup",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "zq774l8m",
+    "game": "Street Racer",
+    "player": "SteveZero",
+    "player_location": "us",
+    "time": 519,
+    "category": "Bronze Cup",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "y88kredy",
+    "game": "Street Racer",
+    "player": "Moliman",
+    "player_location": "ca/qc",
+    "time": 468.95,
+    "category": "Bronze Cup",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  }
+]

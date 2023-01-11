@@ -1,0 +1,123 @@
+[
+  {
+    "id": "wzp785vz",
+    "game": "Saru Getchu: Saru Saru Daisakusen",
+    "player": "Riekelt",
+    "player_location": "nl",
+    "time": 3417,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Playstation TV",
+    "emulated": false
+  },
+  {
+    "id": "ylkpgdnz",
+    "game": "Saru Getchu: Saru Saru Daisakusen",
+    "player": "BmanRulesYou21",
+    "player_location": "us",
+    "time": 10.2,
+    "category": "Time Trial",
+    "region": "JPN / NTSC",
+    "platform": "Playstation TV",
+    "emulated": false
+  },
+  {
+    "id": "y81dggdz",
+    "game": "Saru Getchu: Saru Saru Daisakusen",
+    "player": "Beuchiism",
+    "player_location": "es",
+    "time": 3072,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "m354dl4y",
+    "game": "Saru Getchu: Saru Saru Daisakusen",
+    "player": "SRGTsilent",
+    "player_location": "us",
+    "time": 9.1,
+    "category": "Time Trial",
+    "region": "JPN / NTSC",
+    "platform": "Playstation TV",
+    "emulated": false
+  },
+  {
+    "id": "yv6eprxz",
+    "game": "Saru Getchu: Saru Saru Daisakusen",
+    "player": "kuriatsu",
+    "player_location": null,
+    "time": 9.2,
+    "category": "Time Trial",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "y65j7lqz",
+    "game": "Saru Getchu: Saru Saru Daisakusen",
+    "player": "Panzerdeer",
+    "player_location": "gb",
+    "time": 80.9,
+    "category": "Time Trial",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation Vita",
+    "emulated": false
+  },
+  {
+    "id": "z09x788z",
+    "game": "Saru Getchu: Saru Saru Daisakusen",
+    "player": "YuriSR",
+    "player_location": "nz",
+    "time": 9.1,
+    "category": "Time Trial",
+    "region": "JPN / NTSC",
+    "platform": "Playstation TV",
+    "emulated": false
+  },
+  {
+    "id": "zgvqgo0z",
+    "game": "Saru Getchu: Saru Saru Daisakusen",
+    "player": "LAN_sandwich",
+    "player_location": "us",
+    "time": 3637,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "ylox3dry",
+    "game": "Saru Getchu: Saru Saru Daisakusen",
+    "player": "IggyPoppo",
+    "player_location": "gb/eng",
+    "time": 3534,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "y2722j9z",
+    "game": "Saru Getchu: Saru Saru Daisakusen",
+    "player": "Stormcat22",
+    "player_location": "us",
+    "time": 37.4,
+    "category": "Time Trial",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": false
+  },
+  {
+    "id": "z1pd49wz",
+    "game": "Saru Getchu: Saru Saru Daisakusen",
+    "player": "Quivs",
+    "player_location": "us",
+    "time": 3559,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": false
+  }
+]

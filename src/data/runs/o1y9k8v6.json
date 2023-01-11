@@ -1,0 +1,35 @@
+[
+  {
+    "id": "zqvp499m",
+    "game": "Pollux",
+    "player": "manticor5",
+    "player_location": "cl",
+    "time": 1498,
+    "category": "Co-Op 2 Players",
+    "region": "KOR / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yv2lnq6m",
+    "game": "Pollux",
+    "player": "RitaH",
+    "player_location": "br",
+    "time": 1548,
+    "category": "Co-Op 2 Players",
+    "region": "KOR / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zn09vq7y",
+    "game": "Pollux",
+    "player": "saulonpb",
+    "player_location": "br",
+    "time": 1621,
+    "category": "Any%",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

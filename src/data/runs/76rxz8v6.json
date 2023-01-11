@@ -1,0 +1,68 @@
+[
+  {
+    "id": "mk5w92lm",
+    "game": "GT Pro Series",
+    "player": "YoloMenace001",
+    "player_location": "gb/eng",
+    "time": 25.278,
+    "category": "Flap",
+    "region": "EUR / PAL",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "mkg813ly",
+    "game": "GT Pro Series",
+    "player": "ViperUK",
+    "player_location": "gb/eng",
+    "time": 1367.067,
+    "category": "Beginner Class",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": true
+  },
+  {
+    "id": "zn78l33m",
+    "game": "GT Pro Series",
+    "player": "The stick",
+    "player_location": null,
+    "time": 177.21,
+    "category": "3lap",
+    "region": null,
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "mejk563y",
+    "game": "GT Pro Series",
+    "player": "Boogerman211",
+    "player_location": null,
+    "time": 170,
+    "category": "3lap",
+    "region": null,
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "y6x268qy",
+    "game": "GT Pro Series",
+    "player": "VeilsideSkylineR34 'Hirokata'",
+    "player_location": null,
+    "time": 0.05,
+    "category": "Drift Combo",
+    "region": "JPN / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "y8x513xm",
+    "game": "GT Pro Series",
+    "player": "emily Sunday",
+    "player_location": null,
+    "time": 0.06,
+    "category": "Drift Combo",
+    "region": null,
+    "platform": "Wii",
+    "emulated": false
+  }
+]

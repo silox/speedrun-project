@@ -1,0 +1,79 @@
+[
+  {
+    "id": "z0344w4z",
+    "game": "Darius Gaiden",
+    "player": "Gluon",
+    "player_location": "jp",
+    "time": 963,
+    "category": "Route-V'",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": false
+  },
+  {
+    "id": "y95vv9ez",
+    "game": "Darius Gaiden",
+    "player": "KeynNaka",
+    "player_location": "jp",
+    "time": 955,
+    "category": "Route-V'",
+    "region": "JPN / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "meoe8o2z",
+    "game": "Darius Gaiden",
+    "player": "shell_the_aniki",
+    "player_location": "jp",
+    "time": 890,
+    "category": "Route-X",
+    "region": null,
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "zgkew8ny",
+    "game": "Darius Gaiden",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 1310,
+    "category": "Route-V'",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z158ew9y",
+    "game": "Darius Gaiden",
+    "player": "Bofner",
+    "player_location": "us",
+    "time": 926,
+    "category": "Route-V'",
+    "region": "JPN / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "zqg602xm",
+    "game": "Darius Gaiden",
+    "player": "NeetSuhiro",
+    "player_location": "jp",
+    "time": 1153,
+    "category": "Route-Z'",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "y8jedpxz",
+    "game": "Darius Gaiden",
+    "player": "Ikari_Kun94",
+    "player_location": "es/cn",
+    "time": 1029,
+    "category": "Route-V'",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  }
+]

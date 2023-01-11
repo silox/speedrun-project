@@ -1,0 +1,46 @@
+[
+  {
+    "id": "z1ow6r7m",
+    "game": "",
+    "player": "IIvgmII",
+    "player_location": "us",
+    "time": 19041,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "New Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "mex8e19z",
+    "game": "",
+    "player": "Snoion",
+    "player_location": "us",
+    "time": 20538,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "New Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "z01n82jy",
+    "game": "",
+    "player": "Popirea",
+    "player_location": "jp",
+    "time": 19293,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "New Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "y6olr21y",
+    "game": "Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey",
+    "player": "ref417",
+    "player_location": "jp",
+    "time": 19574,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "New Nintendo 3DS",
+    "emulated": false
+  }
+]

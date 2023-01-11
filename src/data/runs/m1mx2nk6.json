@@ -1,0 +1,57 @@
+[
+  {
+    "id": "y811q75z",
+    "game": "Mermaid Swamp Remake",
+    "player": "LordLegender",
+    "player_location": "us",
+    "time": 1991,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zqv2rw1m",
+    "game": "Mermaid Swamp Remake",
+    "player": "EddventureTime58",
+    "player_location": "gb/sct",
+    "time": 1316,
+    "category": "Forever Deep",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z5rwgx5y",
+    "game": "Mermaid Swamp Remake",
+    "player": "plank",
+    "player_location": "kr",
+    "time": 1311,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zgg2o5jz",
+    "game": "Mermaid Swamp Remake",
+    "player": "Tegron",
+    "player_location": "pl",
+    "time": 1374,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m3rkrrdm",
+    "game": "Mermaid Swamp Remake",
+    "player": "SMP",
+    "player_location": "us",
+    "time": 1336,
+    "category": "Yaobikuni",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

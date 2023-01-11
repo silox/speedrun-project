@@ -1,0 +1,57 @@
+[
+  {
+    "id": "yl408pkm",
+    "game": "Real Bout Fatal Fury Special",
+    "player": "GuiToTTi10",
+    "player_location": "br",
+    "time": 523,
+    "category": "Neo Geo (MVS)",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "znrgl13y",
+    "game": "Real Bout Fatal Fury Special",
+    "player": "theadictt",
+    "player_location": "cl",
+    "time": 465,
+    "category": "Neo Geo (MVS)",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "m7756e4m",
+    "game": "Real Bout Fatal Fury Special",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 629,
+    "category": "PS1 (Dominated Mind)",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "z155kjjy",
+    "game": "Real Bout Fatal Fury Special",
+    "player": "Fabinho_RetroPlay",
+    "player_location": "br",
+    "time": 473,
+    "category": "Neo Geo (MVS)",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zq1v66xm",
+    "game": "Real Bout Fatal Fury Special",
+    "player": "Dumple",
+    "player_location": "us",
+    "time": 924,
+    "category": "Neo Geo (MVS)",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

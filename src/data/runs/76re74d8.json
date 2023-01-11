@@ -1,0 +1,200 @@
+[
+  {
+    "id": "y45dx6dm",
+    "game": "Spinmaster",
+    "player": "Evan",
+    "player_location": "us",
+    "time": 723,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "Neo Geo CD",
+    "emulated": false
+  },
+  {
+    "id": "zxvevr8y",
+    "game": "Spinmaster",
+    "player": "toskito89",
+    "player_location": "es",
+    "time": 795,
+    "category": "Medium",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z1jx7ggz",
+    "game": "Spinmaster",
+    "player": "LegacyGR",
+    "player_location": "gr",
+    "time": 709,
+    "category": "Easy",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z1jvdrgz",
+    "game": "Spinmaster",
+    "player": "iKiiQ",
+    "player_location": "fr",
+    "time": 851,
+    "category": "Medium",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zqron29y",
+    "game": "Spinmaster",
+    "player": "SilverC12OW",
+    "player_location": "mx",
+    "time": 751,
+    "category": "Medium",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yj300xdz",
+    "game": "Spinmaster",
+    "player": "RitaH",
+    "player_location": "br",
+    "time": 747,
+    "category": "Coop",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y90pxnry",
+    "game": "Spinmaster",
+    "player": "BigKokonat",
+    "player_location": "pl",
+    "time": 747,
+    "category": "Medium",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yjdv9xgy",
+    "game": "Spinmaster",
+    "player": "GrampyBack",
+    "player_location": "us",
+    "time": 671,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yo9qepdy",
+    "game": "Spinmaster",
+    "player": "DeanLofi",
+    "player_location": "ca",
+    "time": 776,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "me7xkj0y",
+    "game": "Spinmaster",
+    "player": "Peanutfan22",
+    "player_location": "us",
+    "time": 1256,
+    "category": "Medium",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": false
+  },
+  {
+    "id": "zn10qrlm",
+    "game": "Spinmaster",
+    "player": "pile",
+    "player_location": "us",
+    "time": 802,
+    "category": "Medium",
+    "region": "USA / NTSC",
+    "platform": "MiSTer",
+    "emulated": false
+  },
+  {
+    "id": "mr17dn7z",
+    "game": "Spinmaster",
+    "player": "pingtoe",
+    "player_location": "us",
+    "time": 723,
+    "category": "Medium",
+    "region": "USA / NTSC",
+    "platform": "MiSTer",
+    "emulated": false
+  },
+  {
+    "id": "y6dxll6m",
+    "game": "Spinmaster",
+    "player": "JejuKyo",
+    "player_location": "jp",
+    "time": 675,
+    "category": "Easy",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "mkekqq1m",
+    "game": "Spinmaster",
+    "player": "NinpoManiac",
+    "player_location": "us",
+    "time": 778,
+    "category": "Medium",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yor1250y",
+    "game": "Spinmaster",
+    "player": "poblin",
+    "player_location": "kr",
+    "time": 1203,
+    "category": "Hard",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "znqgpnlz",
+    "game": "Spinmaster",
+    "player": "ThaddeusMcKnight",
+    "player_location": "us",
+    "time": 827,
+    "category": "Medium",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zgq0r7ey",
+    "game": "Spinmaster",
+    "player": "HosteL",
+    "player_location": "ru",
+    "time": 809,
+    "category": "Medium",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "mroe024m",
+    "game": "Spinmaster",
+    "player": "Arran",
+    "player_location": null,
+    "time": 748,
+    "category": "Medium",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

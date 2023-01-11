@@ -1,0 +1,112 @@
+[
+  {
+    "id": "0y6058py",
+    "game": "Rolling Thunder",
+    "player": "Automat1cJack",
+    "player_location": "us",
+    "time": 340.14,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "kz5ln1gy",
+    "game": "Rolling Thunder",
+    "player": "GameGlitchGuy",
+    "player_location": "us",
+    "time": 309.367,
+    "category": "NES - Single Story",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zpqw4ogy",
+    "game": "Rolling Thunder",
+    "player": "Vidtendo",
+    "player_location": "ca/qc",
+    "time": 2460,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zp06egxm",
+    "game": "Rolling Thunder",
+    "player": "bartaan",
+    "player_location": "us",
+    "time": 446,
+    "category": "NES - Single Story",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "z01g8roy",
+    "game": "Rolling Thunder",
+    "player": "FlannelKat",
+    "player_location": "us",
+    "time": 518,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": false
+  },
+  {
+    "id": "z07n9noy",
+    "game": "Rolling Thunder",
+    "player": "knuckle_buster",
+    "player_location": "us",
+    "time": 382,
+    "category": "NES - Single Story",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y88ok81y",
+    "game": "Rolling Thunder",
+    "player": "LuxStein",
+    "player_location": "us",
+    "time": 306.467,
+    "category": "NES - Single Story",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "z5ved25m",
+    "game": "Rolling Thunder",
+    "player": "Lounge_Knight",
+    "player_location": "gi",
+    "time": 417.06,
+    "category": "Arcade - 1 Loop",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y20rj75m",
+    "game": "Rolling Thunder",
+    "player": "Muggingfrenchturtle",
+    "player_location": null,
+    "time": 660,
+    "category": "Arcade - 1 Loop",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zp9odxnm",
+    "game": "Rolling Thunder",
+    "player": "Moo_Moony",
+    "player_location": "ca/qc",
+    "time": 365,
+    "category": "NES - Single Story",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  }
+]

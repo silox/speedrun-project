@@ -1,0 +1,57 @@
+[
+  {
+    "id": "zqrvjn1y",
+    "game": "Super Mario Bros. 3: The Forgotten Worlds",
+    "player": "Scrimsion",
+    "player_location": "us",
+    "time": 652,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "zxkod6em",
+    "game": "Super Mario Bros. 3: The Forgotten Worlds",
+    "player": "NickySteingraber",
+    "player_location": "us",
+    "time": 873,
+    "category": "Any%",
+    "region": null,
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "mexdj9qz",
+    "game": "Super Mario Bros. 3: The Forgotten Worlds",
+    "player": "TheRudyyy",
+    "player_location": "fr",
+    "time": 588,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "z57neeem",
+    "game": "Super Mario Bros. 3: The Forgotten Worlds",
+    "player": "RoyLT",
+    "player_location": "us",
+    "time": 565,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y216017z",
+    "game": "Super Mario Bros. 3: The Forgotten Worlds",
+    "player": "goofychocobo",
+    "player_location": "us",
+    "time": 586,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  }
+]

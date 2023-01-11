@@ -1,0 +1,57 @@
+[
+  {
+    "id": "znrleq9y",
+    "game": "The World Next Door",
+    "player": "DoubleDubbel",
+    "player_location": "nl",
+    "time": 3642,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zq3ogexy",
+    "game": "The World Next Door",
+    "player": "LaurieDBunnykins",
+    "player_location": "us",
+    "time": 3798,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "yj4vv5dy",
+    "game": "The World Next Door",
+    "player": "SushiKishiEN",
+    "player_location": null,
+    "time": 3448,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z157r2ry",
+    "game": "The World Next Door",
+    "player": "mrjc1238",
+    "player_location": "us",
+    "time": 3163,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yj6wrvoz",
+    "game": "The World Next Door",
+    "player": "AzumiAzura",
+    "player_location": "gb/eng",
+    "time": 3344,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  }
+]

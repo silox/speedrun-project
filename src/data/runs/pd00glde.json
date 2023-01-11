@@ -1,0 +1,123 @@
+[
+  {
+    "id": "mrqep5dy",
+    "game": "Castlevania: The Adventure",
+    "player": "Epryon",
+    "player_location": null,
+    "time": 1178,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Game Boy",
+    "emulated": false
+  },
+  {
+    "id": "yv15o18y",
+    "game": "Castlevania: The Adventure",
+    "player": "Rayquaza911",
+    "player_location": "ca",
+    "time": 1041,
+    "category": "Any% (GBC)",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "z138p3gm",
+    "game": "Castlevania: The Adventure",
+    "player": "Crankykong",
+    "player_location": "de",
+    "time": 1261,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "y8dnedxz",
+    "game": "Castlevania: The Adventure",
+    "player": "CountNeko",
+    "player_location": "us",
+    "time": 999,
+    "category": "Any% (GBC)",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "mr96jr4m",
+    "game": "Castlevania: The Adventure",
+    "player": "SoraTakarai",
+    "player_location": "mx",
+    "time": 1214,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "zxo14nqz",
+    "game": "Castlevania: The Adventure",
+    "player": "Mazzin",
+    "player_location": "de",
+    "time": 1072,
+    "category": "Any% (AC)",
+    "region": "JPN / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "y8vdqvdz",
+    "game": "Castlevania: The Adventure",
+    "player": "AgentWyvern",
+    "player_location": "gb",
+    "time": 1188,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Super Game Boy 2",
+    "emulated": false
+  },
+  {
+    "id": "mr151x2z",
+    "game": "Castlevania: The Adventure",
+    "player": "Laxxus",
+    "player_location": "de",
+    "time": 1139,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Super Game Boy 2",
+    "emulated": false
+  },
+  {
+    "id": "ylr6dxny",
+    "game": "Castlevania: The Adventure",
+    "player": "agentfrownie",
+    "player_location": "us",
+    "time": 1178,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Game Boy",
+    "emulated": false
+  },
+  {
+    "id": "yl19xqnm",
+    "game": "Castlevania: The Adventure",
+    "player": "BeetZero",
+    "player_location": "ru",
+    "time": 931,
+    "category": "Any% (GBC)",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "y88ol85y",
+    "game": "Castlevania: The Adventure",
+    "player": "Ucci",
+    "player_location": "au",
+    "time": 1088,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "id": "y6djwopm",
+    "game": "Chameleon Twist Category Extensions",
+    "player": "qwillinallthefish",
+    "player_location": "us",
+    "time": 319,
+    "category": "Boss Rush",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": false
+  },
+  {
+    "id": "mkd63k5y",
+    "game": "Chameleon Twist Category Extensions",
+    "player": "Kefka14",
+    "player_location": "us",
+    "time": 122,
+    "category": "Training Room RTA",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": false
+  },
+  {
+    "id": "mr7od67z",
+    "game": "Chameleon Twist Category Extensions",
+    "player": "MroBros",
+    "player_location": "us",
+    "time": 314,
+    "category": "Boss Rush",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": false
+  },
+  {
+    "id": "me41vn8y",
+    "game": "Chameleon Twist Category Extensions",
+    "player": "Run_In_A_Week",
+    "player_location": "us",
+    "time": 414,
+    "category": "Boss Rush",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": false
+  },
+  {
+    "id": "yd1722xy",
+    "game": "Chameleon Twist Category Extensions",
+    "player": "PD4FR",
+    "player_location": "us",
+    "time": 120,
+    "category": "Training Room RTA",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": false
+  },
+  {
+    "id": "mroqln8m",
+    "game": "Chameleon Twist Category Extensions",
+    "player": "Amahumahaba",
+    "player_location": "us",
+    "time": 3016,
+    "category": "Qwil's Stupid Rules",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": false
+  },
+  {
+    "id": "ywvpxq3z",
+    "game": "Chameleon Twist Category Extensions",
+    "player": "Cyanidegunner",
+    "player_location": "gb/eng",
+    "time": 1657,
+    "category": "120 Crown",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": true
+  }
+]

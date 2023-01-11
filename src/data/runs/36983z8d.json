@@ -1,0 +1,46 @@
+[
+  {
+    "id": "mkkw2j1m",
+    "game": "AI: THE SOMNIUM FILES - nirvanA Initiative",
+    "player": "Yuranah",
+    "player_location": "de",
+    "time": 5543,
+    "category": "Resolution",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y9vwrqrm",
+    "game": "AI: THE SOMNIUM FILES - nirvanA Initiative",
+    "player": "LunaAlphaKretin",
+    "player_location": "au",
+    "time": 66,
+    "category": "Real-Time",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y6084w6y",
+    "game": "AI: THE SOMNIUM FILES - nirvanA Initiative",
+    "player": "ToxicTT",
+    "player_location": "ru",
+    "time": 967,
+    "category": "Atami",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y9x426vy",
+    "game": "AI: THE SOMNIUM FILES - nirvanA Initiative",
+    "player": "Danka",
+    "player_location": "fr",
+    "time": 569.62,
+    "category": "Diverge",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  }
+]

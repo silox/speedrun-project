@@ -1,0 +1,68 @@
+[
+  {
+    "id": "z504pley",
+    "game": "Snow Bros. Nick & Tom",
+    "player": "berlindude1",
+    "player_location": "de",
+    "time": 1179,
+    "category": "",
+    "region": null,
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "yo4wj7dm",
+    "game": "Snow Bros. Nick & Tom",
+    "player": "Salero_Eon",
+    "player_location": "cl",
+    "time": 1171,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "0y61o30m",
+    "game": "Snow Bros. Nick & Tom",
+    "player": "Mave3rick",
+    "player_location": "de",
+    "time": 1429,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "m35n04dy",
+    "game": "Snow Bros. Nick & Tom",
+    "player": "SirRocafort",
+    "player_location": "es",
+    "time": 2025,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "zxle4lqz",
+    "game": "Snow Bros. Nick & Tom",
+    "player": "poblin",
+    "player_location": "kr",
+    "time": 2035,
+    "category": "Any%",
+    "region": null,
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "yw6174pm",
+    "game": "Snow Bros. Nick & Tom",
+    "player": "alex92Tcordobes",
+    "player_location": "ar",
+    "time": 1397,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "id": "m7p5nk9m",
+    "game": "WipEout Pulse",
+    "player": "T0MERNAT0R",
+    "player_location": "au",
+    "time": 24.15,
+    "category": "Speed Lap",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "mrkd9n7y",
+    "game": "WipEout Pulse",
+    "player": "TC_exe",
+    "player_location": "au",
+    "time": 23.8,
+    "category": "Speed Lap",
+    "region": "EUR / PAL",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "y81rldwz",
+    "game": "WipEout Pulse",
+    "player": "REVERSEDSKIES",
+    "player_location": "nl",
+    "time": 19.38,
+    "category": "Speed Lap",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "zq9oe4xy",
+    "game": "WipEout Pulse",
+    "player": "systeminspired",
+    "player_location": "us",
+    "time": 17.07,
+    "category": "Speed Lap",
+    "region": "EUR / PAL",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "yd5w7vjm",
+    "game": "WipEout Pulse",
+    "player": "ChaCheeChoo",
+    "player_location": null,
+    "time": 18.78,
+    "category": "Speed Lap",
+    "region": "EUR / PAL",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "zx2q9vkm",
+    "game": "WipEout Pulse",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 85.46,
+    "category": "Time Trial",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "znk5e9lz",
+    "game": "WipEout Pulse",
+    "player": "gairisiuil",
+    "player_location": "us",
+    "time": 123.86,
+    "category": "Time Trial",
+    "region": "EUR / PAL",
+    "platform": "PlayStation Portable",
+    "emulated": false
+  },
+  {
+    "id": "m3n407dy",
+    "game": "WipEout Pulse",
+    "player": "Sharkburnss",
+    "player_location": "es",
+    "time": 22.34,
+    "category": "Speed Lap",
+    "region": "EUR / PAL",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "yo7l097m",
+    "game": "WipEout Pulse",
+    "player": "Bebo",
+    "player_location": "us",
+    "time": 97.62,
+    "category": "Time Trial",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "y2pw885z",
+    "game": "WipEout Pulse",
+    "player": "Shadow_WZ",
+    "player_location": "gb/eng",
+    "time": 23.31,
+    "category": "Speed Lap",
+    "region": "EUR / PAL",
+    "platform": "PlayStation Portable",
+    "emulated": false
+  },
+  {
+    "id": "y2eg119y",
+    "game": "WipEout Pulse",
+    "player": "DrHouse",
+    "player_location": "ru",
+    "time": 418,
+    "category": "Grid 1-4",
+    "region": "EUR / PAL",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "z1g4g87z",
+    "game": "WipEout Pulse",
+    "player": "DonaldDuck",
+    "player_location": null,
+    "time": 17.93,
+    "category": "Speed Lap",
+    "region": null,
+    "platform": "PlayStation Portable",
+    "emulated": false
+  },
+  {
+    "id": "zxndoj5m",
+    "game": "WipEout Pulse",
+    "player": "CycloneJoker",
+    "player_location": "us",
+    "time": 22.8,
+    "category": "Speed Lap",
+    "region": "EUR / PAL",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  }
+]

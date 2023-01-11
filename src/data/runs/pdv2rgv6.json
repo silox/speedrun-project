@@ -1,0 +1,35 @@
+[
+  {
+    "id": "z12r5g7y",
+    "game": "The Legend of Heroes: Kuro no Kiseki",
+    "player": "suiso",
+    "player_location": "jp",
+    "time": 24002,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "mejn772y",
+    "game": "The Legend of Heroes: Kuro no Kiseki",
+    "player": "annzept",
+    "player_location": "jp",
+    "time": 19448,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "zpdvl6rz",
+    "game": "The Legend of Heroes: Kuro no Kiseki",
+    "player": "TokiisTime",
+    "player_location": "dz",
+    "time": 8629,
+    "category": "Any%",
+    "region": null,
+    "platform": "PlayStation 4",
+    "emulated": false
+  }
+]

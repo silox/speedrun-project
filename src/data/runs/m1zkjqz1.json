@@ -1,0 +1,24 @@
+[
+  {
+    "id": "zp13ekrz",
+    "game": "",
+    "player": "ShockwaveTLS",
+    "player_location": "gb",
+    "time": 18.183,
+    "category": "Missions",
+    "region": "EUR / PAL",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "ylqoj63z",
+    "game": "",
+    "player": "JP44",
+    "player_location": "us",
+    "time": 391.535,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  }
+]

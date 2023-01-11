@@ -1,0 +1,178 @@
+[
+  {
+    "id": "1zxpgn5y",
+    "game": "Marvel vs. Capcom 2: New Age of Heroes",
+    "player": "TheIntercom",
+    "player_location": "us",
+    "time": 385,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  },
+  {
+    "id": "jy9rkdvy",
+    "game": "Marvel vs. Capcom 2: New Age of Heroes",
+    "player": "ECZangief",
+    "player_location": null,
+    "time": 535,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "6yjw6kom",
+    "game": "Marvel vs. Capcom 2: New Age of Heroes",
+    "player": "peck324",
+    "player_location": "us",
+    "time": 859,
+    "category": "Tournament Settings",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "8m7ed99z",
+    "game": "Marvel vs. Capcom 2: New Age of Heroes",
+    "player": "MateuzinLc",
+    "player_location": "br",
+    "time": 1006,
+    "category": "Tournament Settings",
+    "region": null,
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "y2332o5m",
+    "game": "Marvel vs. Capcom 2: New Age of Heroes",
+    "player": "Scorpi",
+    "player_location": "cl",
+    "time": 820,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  },
+  {
+    "id": "y90vooey",
+    "game": "Marvel vs. Capcom 2: New Age of Heroes",
+    "player": "DrFatbody",
+    "player_location": "us",
+    "time": 451,
+    "category": "Tournament Settings",
+    "region": "JPN / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  },
+  {
+    "id": "zprqd1rm",
+    "game": "Marvel vs. Capcom 2: New Age of Heroes",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 729,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zgwrv7dy",
+    "game": "Marvel vs. Capcom 2: New Age of Heroes",
+    "player": "Ranma0005",
+    "player_location": "us",
+    "time": 594,
+    "category": "Tournament Settings",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yl16x6km",
+    "game": "Marvel vs. Capcom 2: New Age of Heroes",
+    "player": "JWonggg",
+    "player_location": null,
+    "time": 449,
+    "category": "Tournament Settings",
+    "region": "JPN / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  },
+  {
+    "id": "yw83ox0y",
+    "game": "Marvel vs. Capcom 2: New Age of Heroes",
+    "player": "The_Urkoh",
+    "player_location": "us",
+    "time": 570,
+    "category": "Tournament Settings",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "y8rq19nm",
+    "game": "Marvel vs. Capcom 2: New Age of Heroes",
+    "player": "tortadiego",
+    "player_location": "us",
+    "time": 576,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "z097l14z",
+    "game": "Marvel vs. Capcom 2: New Age of Heroes",
+    "player": "WickedxMage",
+    "player_location": "us",
+    "time": 313,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": false
+  },
+  {
+    "id": "zq4no1xm",
+    "game": "Marvel vs. Capcom 2: New Age of Heroes",
+    "player": "BIGW33D420",
+    "player_location": null,
+    "time": 534,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "yd0kk4qz",
+    "game": "Marvel vs. Capcom 2: New Age of Heroes",
+    "player": "Burningcake",
+    "player_location": "br",
+    "time": 656,
+    "category": "Any%",
+    "region": null,
+    "platform": "Dreamcast",
+    "emulated": true
+  },
+  {
+    "id": "ylejq5kz",
+    "game": "Marvel vs. Capcom 2: New Age of Heroes",
+    "player": "raffa_gs",
+    "player_location": "br",
+    "time": 478,
+    "category": "Any%",
+    "region": null,
+    "platform": "Dreamcast",
+    "emulated": true
+  },
+  {
+    "id": "z52r895z",
+    "game": "Marvel vs. Capcom 2: New Age of Heroes",
+    "player": "KumaKhan22",
+    "player_location": "us",
+    "time": 814,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  }
+]

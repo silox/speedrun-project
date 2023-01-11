@@ -1,0 +1,57 @@
+[
+  {
+    "id": "emk3j3lz",
+    "game": "Apollo Justice: Ace Attorney",
+    "player": "indykenobi",
+    "player_location": "us",
+    "time": 1909,
+    "category": "NG+",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "dy41x5ky",
+    "game": "Apollo Justice: Ace Attorney",
+    "player": "Tiki09",
+    "player_location": "mx",
+    "time": 16392,
+    "category": "All Cases (NG+)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "y4egvrkm",
+    "game": "Apollo Justice: Ace Attorney",
+    "player": "Ezradekezra",
+    "player_location": "us",
+    "time": 1843,
+    "category": "NG+",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "yjg1l43y",
+    "game": "Apollo Justice: Ace Attorney",
+    "player": "Jaedentothefuture",
+    "player_location": "us",
+    "time": 1959,
+    "category": "NG+",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "yw6qk89m",
+    "game": "Apollo Justice: Ace Attorney",
+    "player": "Kaak18",
+    "player_location": "fr",
+    "time": 1819,
+    "category": "NG+",
+    "region": "EUR / PAL",
+    "platform": "Nintendo DS",
+    "emulated": false
+  }
+]

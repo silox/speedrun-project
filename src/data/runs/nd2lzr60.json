@@ -1,0 +1,90 @@
+[
+  {
+    "id": "y970q4em",
+    "game": "Shopping Street",
+    "player": "GamerBoi",
+    "player_location": "us",
+    "time": 584,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "0y616opm",
+    "game": "Shopping Street",
+    "player": "nattyleof",
+    "player_location": "us",
+    "time": 492.16,
+    "category": "Houston%",
+    "region": null,
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "7z0g52jy",
+    "game": "Shopping Street",
+    "player": "Copitz",
+    "player_location": "us",
+    "time": 54.05,
+    "category": "",
+    "region": null,
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "nz1ejl7y",
+    "game": "Shopping Street",
+    "player": "Hendrix8",
+    "player_location": "us",
+    "time": 88.37,
+    "category": "",
+    "region": null,
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "2yw9q60m",
+    "game": "Shopping Street",
+    "player": "TheBronzeSword",
+    "player_location": "ca",
+    "time": 491.52,
+    "category": "Houston%",
+    "region": null,
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "y97740em",
+    "game": "Shopping Street",
+    "player": "miles1baseball",
+    "player_location": "us",
+    "time": 673,
+    "category": "Houston%",
+    "region": null,
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "m754we0z",
+    "game": "Shopping Street",
+    "player": "TRLittleToaster",
+    "player_location": "us",
+    "time": 61.067,
+    "category": "Houston-1",
+    "region": "USA / NTSC",
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "yj1gwqdy",
+    "game": "Shopping Street",
+    "player": "Tei",
+    "player_location": "vn",
+    "time": 11609,
+    "category": "",
+    "region": null,
+    "platform": "Web",
+    "emulated": false
+  }
+]

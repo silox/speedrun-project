@@ -1,0 +1,101 @@
+[
+  {
+    "id": "jy9x79ny",
+    "game": "Guilty Gear",
+    "player": "AAGGAGAT",
+    "player_location": "br",
+    "time": 1815,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "6yjr5lnz",
+    "game": "Guilty Gear",
+    "player": "Mayazumi",
+    "player_location": "cl",
+    "time": 588,
+    "category": "PSX",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "mrnvp0dy",
+    "game": "Guilty Gear",
+    "player": "LionRGC",
+    "player_location": "us",
+    "time": 287,
+    "category": "",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zq1ek3rm",
+    "game": "Guilty Gear",
+    "player": "CHALKESTA",
+    "player_location": "gb",
+    "time": 581,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "PSN Download",
+    "emulated": false
+  },
+  {
+    "id": "m37n8p4z",
+    "game": "Guilty Gear",
+    "player": "verypowerfulperson",
+    "player_location": null,
+    "time": 423,
+    "category": "PC/PSN",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yo66417y",
+    "game": "Guilty Gear",
+    "player": "DWednesday",
+    "player_location": "gb",
+    "time": 285,
+    "category": "PC/PSN",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y69v87qy",
+    "game": "Guilty Gear",
+    "player": "N/A",
+    "player_location": null,
+    "time": 0.001,
+    "category": "",
+    "region": null,
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "zxojqxkz",
+    "game": "Guilty Gear",
+    "player": "vaporeon0",
+    "player_location": "fi",
+    "time": 1182,
+    "category": "PSX",
+    "region": "EUR / PAL",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "yorx407y",
+    "game": "Guilty Gear",
+    "player": "ChartSol",
+    "player_location": "gb/eng",
+    "time": 556,
+    "category": "PC/PSN",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  }
+]

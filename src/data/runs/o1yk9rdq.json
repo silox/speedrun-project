@@ -1,0 +1,57 @@
+[
+  {
+    "id": "zxvo1g8y",
+    "game": "",
+    "player": "Dode",
+    "player_location": "us",
+    "time": 2845,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "yl4901nm",
+    "game": "",
+    "player": "Erikaizo",
+    "player_location": "se",
+    "time": 4535,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "zn43gl7m",
+    "game": "Kaizo Mario World 3",
+    "player": "Calco2",
+    "player_location": "cl",
+    "time": 2389,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "zn44gw7m",
+    "game": "Kaizo Mario World 3",
+    "player": "LaserBelch",
+    "player_location": "us",
+    "time": 3431,
+    "category": "100%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "z15elngy",
+    "game": "Kaizo Mario World 3",
+    "player": "lungfish3000",
+    "player_location": "us",
+    "time": 2357,
+    "category": "Any%",
+    "region": null,
+    "platform": "Super Nintendo",
+    "emulated": false
+  }
+]

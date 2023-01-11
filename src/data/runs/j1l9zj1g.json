@@ -1,0 +1,24 @@
+[
+  {
+    "id": "m3d4g4gz",
+    "game": "Time Crisis: Project Titan",
+    "player": "Reinefall",
+    "player_location": "au",
+    "time": 1050.26,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "znr6818y",
+    "game": "Time Crisis: Project Titan",
+    "player": "FriedZombie",
+    "player_location": null,
+    "time": 1457.046,
+    "category": "Story Mode - Normal",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  }
+]

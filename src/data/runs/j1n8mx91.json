@@ -1,0 +1,24 @@
+[
+  {
+    "id": "y6nrx8pz",
+    "game": "Picross S7",
+    "player": "MarioSwitch",
+    "player_location": "fr",
+    "time": 1,
+    "category": "1P (Touchscreen)",
+    "region": "EUR / PAL",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "z5vdrqdm",
+    "game": "Picross S7",
+    "player": "stathx",
+    "player_location": "ao",
+    "time": 1,
+    "category": "1P (Touchscreen)",
+    "region": null,
+    "platform": "Switch",
+    "emulated": false
+  }
+]

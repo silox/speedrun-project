@@ -1,0 +1,101 @@
+[
+  {
+    "id": "y6716xpm",
+    "game": "SNK Gal's Fighters",
+    "player": "JaneCrocker",
+    "player_location": "us",
+    "time": 520.16,
+    "category": "Queen of Fighter's Tourney (AKA QOF Mode) - Any Settings",
+    "region": "JPN / NTSC",
+    "platform": "Neo Geo Pocket Color",
+    "emulated": true
+  },
+  {
+    "id": "9mep3k2y",
+    "game": "SNK Gal's Fighters",
+    "player": "JakatoXtra",
+    "player_location": "us",
+    "time": 621,
+    "category": "Queen of Fighter's Tourney (AKA QOF Mode) - Any Settings",
+    "region": "USA / NTSC",
+    "platform": "Neo Geo Pocket Color",
+    "emulated": true
+  },
+  {
+    "id": "yjk0qonm",
+    "game": "SNK Gal's Fighters",
+    "player": "LiteralGrill",
+    "player_location": "us",
+    "time": 465.97,
+    "category": "Queen of Fighter's Tourney (AKA QOF Mode) - Any Settings",
+    "region": "JPN / NTSC",
+    "platform": "Neo Geo Pocket Color",
+    "emulated": true
+  },
+  {
+    "id": "znrknd3y",
+    "game": "SNK Gal's Fighters",
+    "player": "DBcade",
+    "player_location": "jp",
+    "time": 421,
+    "category": "Queen of Fighter's Tourney (AKA QOF Mode) - Any Settings",
+    "region": "JPN / NTSC",
+    "platform": "Neo Geo Pocket Color",
+    "emulated": true
+  },
+  {
+    "id": "meo2od0z",
+    "game": "SNK Gal's Fighters",
+    "player": "zipmon",
+    "player_location": "us",
+    "time": 416,
+    "category": "Queen of Fighter's Tourney (AKA QOF Mode) - Any Settings",
+    "region": "JPN / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "mk3wgx1z",
+    "game": "SNK Gal's Fighters",
+    "player": "eeffem",
+    "player_location": null,
+    "time": 330,
+    "category": "Queen of Fighter's Tourney (AKA QOF Mode) - Any Settings",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "y25rekwy",
+    "game": "SNK Gal's Fighters",
+    "player": "MortimerNova",
+    "player_location": "us",
+    "time": 488.048,
+    "category": "Queen of Fighter's Tourney (AKA QOF Mode) - Any Settings",
+    "region": "USA / NTSC",
+    "platform": "Neo Geo Pocket Color",
+    "emulated": true
+  },
+  {
+    "id": "yjdwgooy",
+    "game": "SNK Gal's Fighters",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 200.57,
+    "category": "Queen of Fighter's Tourney (AKA QOF Mode) - Any Settings",
+    "region": "USA / NTSC",
+    "platform": "Neo Geo Pocket Color",
+    "emulated": true
+  },
+  {
+    "id": "znqgq13z",
+    "game": "SNK Gal's Fighters",
+    "player": "FrozenFaygo",
+    "player_location": "us",
+    "time": 192.044,
+    "category": "Queen of Fighter's Tourney (AKA QOF Mode) - Any Settings",
+    "region": "USA / NTSC",
+    "platform": "Neo Geo Pocket Color",
+    "emulated": true
+  }
+]

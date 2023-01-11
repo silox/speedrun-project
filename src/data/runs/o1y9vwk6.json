@@ -1,0 +1,46 @@
+[
+  {
+    "id": "y691p5qy",
+    "game": "Donkey Kong Jr. (ColecoVision)",
+    "player": "DCG_Grinder",
+    "player_location": "us",
+    "time": 120.46,
+    "category": "Small Loop (5 Levels)",
+    "region": "USA / NTSC",
+    "platform": "ColecoVision",
+    "emulated": true
+  },
+  {
+    "id": "yj5727nm",
+    "game": "Donkey Kong Jr. (ColecoVision)",
+    "player": "lorotor80",
+    "player_location": "it",
+    "time": 123.06,
+    "category": "Small Loop (5 Levels)",
+    "region": "USA / NTSC",
+    "platform": "ColecoVision",
+    "emulated": true
+  },
+  {
+    "id": "mr6lnl8m",
+    "game": "Donkey Kong Jr. (ColecoVision)",
+    "player": "aaron2u2",
+    "player_location": "us",
+    "time": 142.64,
+    "category": "Small Loop (5 Levels)",
+    "region": "USA / NTSC",
+    "platform": "ColecoVision",
+    "emulated": true
+  },
+  {
+    "id": "y48jr4nm",
+    "game": "Donkey Kong Jr. (ColecoVision)",
+    "player": "JoePulito",
+    "player_location": "us",
+    "time": 173.87,
+    "category": "Small Loop (5 Levels)",
+    "region": "USA / NTSC",
+    "platform": "ColecoVision",
+    "emulated": true
+  }
+]

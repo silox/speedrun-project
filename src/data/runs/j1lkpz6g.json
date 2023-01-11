@@ -1,0 +1,46 @@
+[
+  {
+    "id": "z063154z",
+    "game": "Sora",
+    "player": "letcreate123",
+    "player_location": "cl",
+    "time": 1284,
+    "category": "Arcade Mode",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "8yvvoj8y",
+    "game": "Sora",
+    "player": "arti31415",
+    "player_location": null,
+    "time": 403,
+    "category": "Match Mode",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "znor5w3y",
+    "game": "Sora",
+    "player": "horydragon",
+    "player_location": "jp",
+    "time": 1271,
+    "category": "Arcade Mode",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "ydd8n3jy",
+    "game": "Sora",
+    "player": "lusvik",
+    "player_location": "br",
+    "time": 1232,
+    "category": "Arcade Mode",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "wzp0q0gm",
+    "game": "Touhou Shinkirou ~ Hopeless Masquerade",
+    "player": "AyafuyaRocket",
+    "player_location": "pt",
+    "time": 352,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "nz1no47y",
+    "game": "Touhou Shinkirou ~ Hopeless Masquerade",
+    "player": "CheeseManFuu",
+    "player_location": "us",
+    "time": 329,
+    "category": "Story Mode",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z11dporz",
+    "game": "Touhou Shinkirou ~ Hopeless Masquerade",
+    "player": "awa(\u6ce1)",
+    "player_location": null,
+    "time": 658,
+    "category": "Story Mode",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

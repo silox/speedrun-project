@@ -1,0 +1,35 @@
+[
+  {
+    "id": "znk4jp8z",
+    "game": "",
+    "player": "GHTrost",
+    "player_location": "us",
+    "time": 22096,
+    "category": "Any% (without Turbo/Auto Fire)",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "m72qr1wz",
+    "game": "",
+    "player": "koboldcl2",
+    "player_location": "jp",
+    "time": 18498,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "zx6e738z",
+    "game": "Far East of Eden Zero",
+    "player": "YomogiMidoriya",
+    "player_location": "jp",
+    "time": 18068,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  }
+]

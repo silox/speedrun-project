@@ -1,0 +1,24 @@
+[
+  {
+    "id": "yl4vjk2m",
+    "game": "Sorcerian",
+    "player": "Lizstar",
+    "player_location": "us",
+    "time": 216,
+    "category": "Coin of Joy",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y6pn6xqm",
+    "game": "Sorcerian",
+    "player": "wepen",
+    "player_location": "us",
+    "time": 230,
+    "category": "Coin of Joy",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "y6p630qm",
+    "game": "Call of Cthulhu: Shadow of The Comet",
+    "player": "VonDrake",
+    "player_location": "br",
+    "time": 3679,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": true
+  },
+  {
+    "id": "zxdl8v8y",
+    "game": "Call of Cthulhu: Shadow of The Comet",
+    "player": "RixHoffman",
+    "player_location": "fr",
+    "time": 3195,
+    "category": "Any% - Max Game Speed",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  }
+]

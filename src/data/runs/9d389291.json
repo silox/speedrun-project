@@ -1,0 +1,24 @@
+[
+  {
+    "id": "mrr4wg2m",
+    "game": "",
+    "player": "Ellimist",
+    "player_location": "us",
+    "time": 1854,
+    "category": "3P",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z5e1pngz",
+    "game": "",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 1861,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

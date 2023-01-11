@@ -1,0 +1,189 @@
+[
+  {
+    "id": "8y8121z1",
+    "game": "Crash Nitro Kart (Handheld)",
+    "player": "BetaM",
+    "player_location": "pl",
+    "time": 4474,
+    "category": "Any% (GBA)",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "dy4262ml",
+    "game": "Crash Nitro Kart (Handheld)",
+    "player": "alexmandi",
+    "player_location": "gr",
+    "time": 4473,
+    "category": "Any% (GBA)",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "yo2dkv0z",
+    "game": "Crash Nitro Kart (Handheld)",
+    "player": "LoMpE",
+    "player_location": "no",
+    "time": 2930,
+    "category": "Any% (GBA)",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "zn4plnvm",
+    "game": "Crash Nitro Kart (Handheld)",
+    "player": "CDRomatron",
+    "player_location": "gb/sct",
+    "time": 3382,
+    "category": "Any% (GBA)",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Interface",
+    "emulated": false
+  },
+  {
+    "id": "y67ddx0m",
+    "game": "Crash Nitro Kart (Handheld)",
+    "player": "LoveBot",
+    "player_location": "dk",
+    "time": 4563,
+    "category": "Any% (GBA)",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Player",
+    "emulated": false
+  },
+  {
+    "id": "m79004wy",
+    "game": "Crash Nitro Kart (Handheld)",
+    "player": "ChillCat",
+    "player_location": null,
+    "time": 3056,
+    "category": "Any% (GBA)",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "y95o8orz",
+    "game": "Crash Nitro Kart (Handheld)",
+    "player": "Trob",
+    "player_location": "au",
+    "time": 2994,
+    "category": "Any% (GBA)",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "y6923xqy",
+    "game": "Crash Nitro Kart (Handheld)",
+    "player": "Moriya_Suwako",
+    "player_location": "nl",
+    "time": 112.25,
+    "category": "Time Trial (GBA)",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "ylk9792z",
+    "game": "Crash Nitro Kart (Handheld)",
+    "player": "Luke99",
+    "player_location": "us",
+    "time": 3370,
+    "category": "Any% (GBA)",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "y66vp76y",
+    "game": "Crash Nitro Kart (Handheld)",
+    "player": "MrOddish",
+    "player_location": "us",
+    "time": 3394,
+    "category": "Any% (GBA)",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "m3rg72gm",
+    "game": "Crash Nitro Kart (Handheld)",
+    "player": "CTRRoss",
+    "player_location": "gb",
+    "time": 2872,
+    "category": "Any% (GBA)",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "ywkjn6py",
+    "game": "Crash Nitro Kart (Handheld)",
+    "player": "MikeTheMerc",
+    "player_location": "gb/nir",
+    "time": 135.2,
+    "category": "Time Trial (GBA)",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Player",
+    "emulated": false
+  },
+  {
+    "id": "ywqld73y",
+    "game": "Crash Nitro Kart (Handheld)",
+    "player": "knoms77",
+    "player_location": "us",
+    "time": 183,
+    "category": "Time Trial (GBA)",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "yj54v6gm",
+    "game": "Crash Nitro Kart (Handheld)",
+    "player": "Jasu14",
+    "player_location": "es",
+    "time": 117.98,
+    "category": "Time Trial (GBA)",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "m373plqz",
+    "game": "Crash Nitro Kart (Handheld)",
+    "player": "Latsu7",
+    "player_location": "fi",
+    "time": 5061,
+    "category": "Any% (N-Gage)",
+    "region": "USA / NTSC",
+    "platform": "N-Gage",
+    "emulated": true
+  },
+  {
+    "id": "zq76jn5m",
+    "game": "Crash Nitro Kart (Handheld)",
+    "player": "Parasxos",
+    "player_location": "gr",
+    "time": 105.95,
+    "category": "Time Trial (GBA)",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "z5vlqxgm",
+    "game": "Crash Nitro Kart (Handheld)",
+    "player": "Fazbearmaster_23",
+    "player_location": "br",
+    "time": 131.23,
+    "category": "Time Trial (GBA)",
+    "region": null,
+    "platform": "Game Boy Advance",
+    "emulated": true
+  }
+]

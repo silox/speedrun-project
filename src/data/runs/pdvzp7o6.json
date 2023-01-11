@@ -1,0 +1,112 @@
+[
+  {
+    "id": "y818eddz",
+    "game": "Burning Fight",
+    "player": "Sm_Izumi",
+    "player_location": "fr",
+    "time": 1413,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zqrjv28y",
+    "game": "Burning Fight",
+    "player": "RitaH",
+    "player_location": "br",
+    "time": 1595,
+    "category": "Any% Co-Op",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "me6xw7qz",
+    "game": "Burning Fight",
+    "player": "WINDL_GURE",
+    "player_location": "jp",
+    "time": 774,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": false
+  },
+  {
+    "id": "zx2ewr5m",
+    "game": "Burning Fight",
+    "player": "mu_chi_pu",
+    "player_location": "jp",
+    "time": 915,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": false
+  },
+  {
+    "id": "y8rqqoxm",
+    "game": "Burning Fight",
+    "player": "sky-18",
+    "player_location": "jp",
+    "time": 836,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": false
+  },
+  {
+    "id": "zgw77gdy",
+    "game": "Burning Fight",
+    "player": "Peanutfan22",
+    "player_location": "us",
+    "time": 1948,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": false
+  },
+  {
+    "id": "y4w6v2nm",
+    "game": "Burning Fight",
+    "player": "D10",
+    "player_location": "br",
+    "time": 937,
+    "category": "Any%",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zp30k3vm",
+    "game": "Burning Fight",
+    "player": "Yakata",
+    "player_location": "jp",
+    "time": 735,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": false
+  },
+  {
+    "id": "y66ve4qy",
+    "game": "Burning Fight",
+    "player": "Reikomori",
+    "player_location": "us",
+    "time": 1727,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "mkd1g81y",
+    "game": "Burning Fight",
+    "player": "SpeedyBARON",
+    "player_location": "jp",
+    "time": 853,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": false
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "yvqve9xm",
+    "game": "Nightmare in the Dark",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 1210,
+    "category": "2P Any%",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zn7gk98m",
+    "game": "Nightmare in the Dark",
+    "player": "Salero_Eon",
+    "player_location": "cl",
+    "time": 879,
+    "category": "1P Any%",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y9x6o1ey",
+    "game": "Nightmare in the Dark",
+    "player": "Ellimist",
+    "player_location": "us",
+    "time": 1132,
+    "category": "2P Any%",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

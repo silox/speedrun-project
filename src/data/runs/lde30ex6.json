@@ -1,0 +1,79 @@
+[
+  {
+    "id": "yj42g57y",
+    "game": "Just Cause 4",
+    "player": "BnH247",
+    "player_location": null,
+    "time": 19677,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y21gx86z",
+    "game": "Just Cause 4",
+    "player": "MisterMunkki",
+    "player_location": "fr",
+    "time": 13008,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yvoj1d8z",
+    "game": "Just Cause 4",
+    "player": "pmcTRILOGY",
+    "player_location": "us",
+    "time": 12399,
+    "category": "New Game +",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zgd39nvz",
+    "game": "Just Cause 4",
+    "player": "dab88",
+    "player_location": "gb/sct",
+    "time": 474,
+    "category": "Race to Mr. Snowman",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m778n00m",
+    "game": "Just Cause 4",
+    "player": "MrRaider",
+    "player_location": null,
+    "time": 618,
+    "category": "Race to Mr. Snowman",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mkelkd5m",
+    "game": "Just Cause 4",
+    "player": "LuizKBeat",
+    "player_location": "br",
+    "time": 477.63,
+    "category": "Race to Mr. Snowman",
+    "region": "BRA / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yvqj51om",
+    "game": "Just Cause 4",
+    "player": "KniGen",
+    "player_location": "ru",
+    "time": 11667.36,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  }
+]

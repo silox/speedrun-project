@@ -1,0 +1,46 @@
+[
+  {
+    "id": "y27gnp6z",
+    "game": "Multiple Legend of Heroes Games",
+    "player": "ChampionBeef",
+    "player_location": "us",
+    "time": 173055,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zgre9pvm",
+    "game": "Multiple Legend of Heroes Games",
+    "player": "sonicmega",
+    "player_location": null,
+    "time": 66185,
+    "category": "Erebonia%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "york77jy",
+    "game": "Multiple Legend of Heroes Games",
+    "player": "Fontaino",
+    "player_location": "us",
+    "time": 47776,
+    "category": "Erebonia%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 5",
+    "emulated": false
+  },
+  {
+    "id": "z5xennny",
+    "game": "Multiple Legend of Heroes Games",
+    "player": "huellenoperator",
+    "player_location": "de",
+    "time": 23317,
+    "category": "Erebonia%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "id": "y8250xny",
+    "game": "Tell Me Why",
+    "player": "PuertoLobos",
+    "player_location": null,
+    "time": 1723,
+    "category": "",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yw8lv69y",
+    "game": "Tell Me Why",
+    "player": "SniX",
+    "player_location": "ca",
+    "time": 1828,
+    "category": "Any%",
+    "region": null,
+    "platform": "Xbox One",
+    "emulated": false
+  },
+  {
+    "id": "ylv3gqnm",
+    "game": "Tell Me Why",
+    "player": "Draghann",
+    "player_location": "fr",
+    "time": 1317,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zgvn3gdz",
+    "game": "Tell Me Why",
+    "player": "Sammyyy",
+    "player_location": "de",
+    "time": 1305,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y6r75r1y",
+    "game": "Tell Me Why",
+    "player": "MisterMunkki",
+    "player_location": "fr",
+    "time": 5957,
+    "category": "",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zq462wrm",
+    "game": "Tell Me Why",
+    "player": "Wheaties",
+    "player_location": "il",
+    "time": 1432,
+    "category": "",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y91n21em",
+    "game": "Tell Me Why",
+    "player": "flaminhotchetos",
+    "player_location": "gb/eng",
+    "time": 1563,
+    "category": "Wheaties%",
+    "region": null,
+    "platform": "Xbox One",
+    "emulated": false
+  },
+  {
+    "id": "yod8617m",
+    "game": "Tell Me Why",
+    "player": "dosufura",
+    "player_location": "jp",
+    "time": 1365,
+    "category": "Wheaties%",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mkv9po5y",
+    "game": "Tell Me Why",
+    "player": "Eray",
+    "player_location": "tr",
+    "time": 1283,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  }
+]

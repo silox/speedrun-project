@@ -1,0 +1,145 @@
+[
+  {
+    "id": "zqwo9j8z",
+    "game": "Scribblenauts",
+    "player": "ileyrae",
+    "player_location": null,
+    "time": 1517,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "m3g7gewz",
+    "game": "Scribblenauts",
+    "player": "GirlyKittyBoy",
+    "player_location": "us",
+    "time": 1064,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "zq4q5w5m",
+    "game": "Scribblenauts",
+    "player": "Fadi",
+    "player_location": "us",
+    "time": 982,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "New Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "y8rg9x5m",
+    "game": "Scribblenauts",
+    "player": "ScholarLuke",
+    "player_location": "us",
+    "time": 889,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "zx64wqqz",
+    "game": "Scribblenauts",
+    "player": "Grilledcheeseguy",
+    "player_location": "us",
+    "time": 941,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "New Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "zqgx9nxm",
+    "game": "Scribblenauts",
+    "player": "OreoSR",
+    "player_location": "us",
+    "time": 938,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "z06vr5jz",
+    "game": "Scribblenauts",
+    "player": "Thefunguy1065",
+    "player_location": null,
+    "time": 882,
+    "category": "Any%",
+    "region": null,
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "y69g4vpy",
+    "game": "Scribblenauts",
+    "player": "SoapAgent",
+    "player_location": "us",
+    "time": 0.001,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "yj5qd7nm",
+    "game": "Scribblenauts",
+    "player": "Polonxy",
+    "player_location": "ca",
+    "time": 0.001,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "New Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "zqv2pw8m",
+    "game": "Scribblenauts",
+    "player": "Anonymous",
+    "player_location": null,
+    "time": 1598,
+    "category": "Any%",
+    "region": null,
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "zp8vglxy",
+    "game": "Scribblenauts",
+    "player": "KitLemonfoot",
+    "player_location": "us",
+    "time": 3,
+    "category": "A2",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "yorog80y",
+    "game": "Scribblenauts",
+    "player": "nagichi",
+    "player_location": "jp",
+    "time": 25,
+    "category": "A2",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "m3x2w64m",
+    "game": "Scribblenauts",
+    "player": "WinnerBit",
+    "player_location": "us",
+    "time": 756,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "New Nintendo 3DS",
+    "emulated": false
+  }
+]

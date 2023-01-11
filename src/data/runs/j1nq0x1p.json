@@ -1,0 +1,35 @@
+[
+  {
+    "id": "9mel1r3z",
+    "game": "The Mafat Conspiracy",
+    "player": "Emptyeye",
+    "player_location": "us",
+    "time": 1498,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "1zqler9y",
+    "game": "The Mafat Conspiracy",
+    "player": "Toad22484",
+    "player_location": "us",
+    "time": 1264,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y69o8njy",
+    "game": "The Mafat Conspiracy",
+    "player": "Neural89",
+    "player_location": "ua",
+    "time": 1366,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  }
+]

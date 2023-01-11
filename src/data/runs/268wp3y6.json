@@ -1,0 +1,46 @@
+[
+  {
+    "id": "zp84dexy",
+    "game": "My Spanish Coach",
+    "player": "TMLink",
+    "player_location": "us",
+    "time": 288,
+    "category": "All Default Games",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "yj55dk7m",
+    "game": "My Spanish Coach",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 32,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "zgpk2d0z",
+    "game": "My Spanish Coach",
+    "player": "c0ckatoo",
+    "player_location": "ph",
+    "time": 280,
+    "category": "All Default Games",
+    "region": null,
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "y2per95z",
+    "game": "My Spanish Coach",
+    "player": "Vu16",
+    "player_location": "ca/qc",
+    "time": 22,
+    "category": "Games",
+    "region": null,
+    "platform": "Nintendo DS",
+    "emulated": false
+  }
+]

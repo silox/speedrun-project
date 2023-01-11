@@ -1,0 +1,178 @@
+[
+  {
+    "id": "7yl11d2m",
+    "game": "Hot Shots Golf Fore",
+    "player": "Goglabesh",
+    "player_location": "ca",
+    "time": 693,
+    "category": "Front Tee",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "pm3xx4wm",
+    "game": "Hot Shots Golf Fore",
+    "player": "RebelWatt",
+    "player_location": "us",
+    "time": 674,
+    "category": "Front Tee",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "m31nv9gz",
+    "game": "Hot Shots Golf Fore",
+    "player": "CapnSR",
+    "player_location": "ca",
+    "time": 83,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y8qj2l5y",
+    "game": "Hot Shots Golf Fore",
+    "player": "RileyMoontail",
+    "player_location": "us",
+    "time": 540,
+    "category": "Front Tee",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zgn4o4ey",
+    "game": "Hot Shots Golf Fore",
+    "player": "CR2036",
+    "player_location": "us",
+    "time": 587,
+    "category": "Front Tee",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zp0020rm",
+    "game": "Hot Shots Golf Fore",
+    "player": "Peachfanclub",
+    "player_location": "us",
+    "time": 529,
+    "category": "Front Tee",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zp436rrz",
+    "game": "Hot Shots Golf Fore",
+    "player": "Kamikaze",
+    "player_location": "us",
+    "time": 154,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "zprl8gxm",
+    "game": "Hot Shots Golf Fore",
+    "player": "OGBeturtle",
+    "player_location": null,
+    "time": 9213,
+    "category": "All Courses",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "ylk7693z",
+    "game": "Hot Shots Golf Fore",
+    "player": "StealthNinja",
+    "player_location": "us",
+    "time": 523,
+    "category": "Front Tee",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "ywq440py",
+    "game": "Hot Shots Golf Fore",
+    "player": "GlassCoke",
+    "player_location": "us",
+    "time": 774,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zgg6jeez",
+    "game": "Hot Shots Golf Fore",
+    "player": "Aquas",
+    "player_location": "us",
+    "time": 14813,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "ydwl44vm",
+    "game": "Hot Shots Golf Fore",
+    "player": "CJG789",
+    "player_location": "us",
+    "time": 532,
+    "category": "Front Tee",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "mke0dvxm",
+    "game": "Hot Shots Golf Fore",
+    "player": "Dedede_DO",
+    "player_location": "jp",
+    "time": 609,
+    "category": "Front Tee",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "z523op5z",
+    "game": "Hot Shots Golf Fore",
+    "player": "HeatherMoontail",
+    "player_location": "us",
+    "time": 451,
+    "category": "Front Tee",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "mr7ogv7z",
+    "game": "Hot Shots Golf Fore",
+    "player": "jonanaman",
+    "player_location": null,
+    "time": 537,
+    "category": "Front Tee",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zp9593xm",
+    "game": "Hot Shots Golf Fore",
+    "player": "Potty",
+    "player_location": "us",
+    "time": 6769,
+    "category": "All Courses",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  }
+]

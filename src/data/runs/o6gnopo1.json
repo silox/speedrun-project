@@ -1,0 +1,46 @@
+[
+  {
+    "id": "yjdj2jgy",
+    "game": "Try Me",
+    "player": "ourplebarrolord",
+    "player_location": "kg",
+    "time": 10.19,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": null,
+    "emulated": false
+  },
+  {
+    "id": "y4x90wnz",
+    "game": "Try Me",
+    "player": "Britishhh",
+    "player_location": null,
+    "time": 3.34,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": null,
+    "emulated": false
+  },
+  {
+    "id": "m7x9njwy",
+    "game": "Try Me",
+    "player": "Heeshh",
+    "player_location": null,
+    "time": 10.4,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": null,
+    "emulated": false
+  },
+  {
+    "id": "mrrqpogm",
+    "game": "Try Me",
+    "player": "Andrew49er",
+    "player_location": "us",
+    "time": 7.58,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": null,
+    "emulated": false
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "m3neqqqy",
+    "game": "",
+    "player": "RayGirl0712",
+    "player_location": "my",
+    "time": 2744,
+    "category": "Special Puzzle 3 - Hatsune Miku",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "zxgvr8ky",
+    "game": "",
+    "player": "jcn44",
+    "player_location": "ca",
+    "time": 3,
+    "category": "",
+    "region": null,
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "y2x54p7m",
+    "game": "Hatsune Miku Logic Paint S",
+    "player": "Hati_Luxuria",
+    "player_location": "au",
+    "time": 2,
+    "category": "",
+    "region": null,
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "z0o6eqjz",
+    "game": "Hatsune Miku Logic Paint S",
+    "player": "Jester946",
+    "player_location": "ca",
+    "time": 4,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "y88o5ldy",
+    "game": "Hatsune Miku Logic Paint S",
+    "player": "MegaJ",
+    "player_location": "gb",
+    "time": 3,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Switch",
+    "emulated": false
+  }
+]

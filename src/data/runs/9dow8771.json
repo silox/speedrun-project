@@ -1,0 +1,57 @@
+[
+  {
+    "id": "yo27jejz",
+    "game": "WWE Day of Reckoning",
+    "player": "Mageius",
+    "player_location": "us",
+    "time": 3557,
+    "category": "Story Mode",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "y9563j2z",
+    "game": "WWE Day of Reckoning",
+    "player": "Hdot12",
+    "player_location": "de",
+    "time": 2801,
+    "category": "Story Mode",
+    "region": "EUR / PAL",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "yvjk508y",
+    "game": "WWE Day of Reckoning",
+    "player": "Galfazar37",
+    "player_location": "us",
+    "time": 3372,
+    "category": "Story Mode",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "yj33vonz",
+    "game": "WWE Day of Reckoning",
+    "player": "Alex",
+    "player_location": "us",
+    "time": 2388,
+    "category": "Story Mode",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "y826dgny",
+    "game": "WWE Day of Reckoning",
+    "player": "Drake_Shadow",
+    "player_location": "us",
+    "time": 2038,
+    "category": "Story Mode",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  }
+]

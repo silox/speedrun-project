@@ -1,0 +1,46 @@
+[
+  {
+    "id": "y88jn71y",
+    "game": "Art of Fighting 2",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 970,
+    "category": "SNES",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "m77jkv9m",
+    "game": "Art of Fighting 2",
+    "player": "LeandroAmadeu",
+    "player_location": "br",
+    "time": 1115,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y48dv9km",
+    "game": "Art of Fighting 2",
+    "player": "Kadroh",
+    "player_location": "it",
+    "time": 1079,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "mro46k4m",
+    "game": "Art of Fighting 2",
+    "player": "Aziul",
+    "player_location": "br",
+    "time": 836,
+    "category": "SNES",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  }
+]

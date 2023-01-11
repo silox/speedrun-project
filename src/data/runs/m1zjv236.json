@@ -1,0 +1,167 @@
+[
+  {
+    "id": "zq3lx65y",
+    "game": "Devil's Crush",
+    "player": "Peanutfan22",
+    "player_location": "us",
+    "time": 124,
+    "category": "Genesis",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "zxk9p4em",
+    "game": "Devil's Crush",
+    "player": "DodonKrevedko",
+    "player_location": "ru",
+    "time": 110,
+    "category": "Genesis",
+    "region": "EUR / PAL",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "z5718wnm",
+    "game": "Devil's Crush",
+    "player": "smartalec24",
+    "player_location": "us",
+    "time": 69,
+    "category": "Genesis",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "z577x65m",
+    "game": "Devil's Crush",
+    "player": "JkLoser",
+    "player_location": "se",
+    "time": 53.65,
+    "category": "Genesis",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "zx69eqkz",
+    "game": "Devil's Crush",
+    "player": "burst_error",
+    "player_location": "us",
+    "time": 33.967,
+    "category": "Genesis",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "y6l5rdpy",
+    "game": "Devil's Crush",
+    "player": "NESAtlas",
+    "player_location": "us",
+    "time": 417,
+    "category": "TG16",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": true
+  },
+  {
+    "id": "yo3wxo1y",
+    "game": "Devil's Crush",
+    "player": "CheeseVikingGames",
+    "player_location": "us",
+    "time": 49,
+    "category": "Genesis",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "y65pnqpz",
+    "game": "Devil's Crush",
+    "player": "Ay_Deee",
+    "player_location": "ca",
+    "time": 552,
+    "category": "TG16",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": false
+  },
+  {
+    "id": "yw0evj9m",
+    "game": "Devil's Crush",
+    "player": "baldnate",
+    "player_location": null,
+    "time": 37.2,
+    "category": "Genesis",
+    "region": "JPN / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "z5j9wngm",
+    "game": "Devil's Crush",
+    "player": "PeteDorr",
+    "player_location": "us",
+    "time": 80,
+    "category": "Genesis",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "zgx55pem",
+    "game": "Devil's Crush",
+    "player": "bibikusu",
+    "player_location": "fr",
+    "time": 361,
+    "category": "TG16",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": true
+  },
+  {
+    "id": "yd07onqz",
+    "game": "Devil's Crush",
+    "player": "ShesChardcore",
+    "player_location": "us",
+    "time": 77,
+    "category": "Genesis",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "ydr282wz",
+    "game": "Devil's Crush",
+    "player": "MaxisMozark",
+    "player_location": "us",
+    "time": 321,
+    "category": "TG16",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": false
+  },
+  {
+    "id": "z0p592oy",
+    "game": "Devil's Crush",
+    "player": "JoePulito",
+    "player_location": "us",
+    "time": 57.567,
+    "category": "Genesis",
+    "region": "JPN / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "y2pp8pwz",
+    "game": "Devil's Crush",
+    "player": "SquareUnity",
+    "player_location": "gb/eng",
+    "time": 86,
+    "category": "Genesis",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "0y64gg1m",
+    "game": "Solatorobo: Red the Hunter",
+    "player": "AkagitsuneYuki",
+    "player_location": "us",
+    "time": 19141,
+    "category": "Part One",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "yojlgndm",
+    "game": "Solatorobo: Red the Hunter",
+    "player": "Bouh_jpeg",
+    "player_location": "fr",
+    "time": 16874,
+    "category": "Part One",
+    "region": "EUR / PAL",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "zxkpd35m",
+    "game": "Solatorobo: Red the Hunter",
+    "player": "Rom-Ste\u00efn",
+    "player_location": "fr",
+    "time": 13811,
+    "category": "Part One",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "z5jvopem",
+    "game": "Solatorobo: Red the Hunter",
+    "player": "maxfrad",
+    "player_location": "fr",
+    "time": 10226,
+    "category": "Part One",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "zgqk4ddy",
+    "game": "Solatorobo: Red the Hunter",
+    "player": "sylvel",
+    "player_location": "us",
+    "time": 125.93,
+    "category": "Air Robo GP speedruns",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "ydwj63jm",
+    "game": "COGEN: Sword of Rewind / COGEN: \u5927\u9ce5\u3053\u306f\u304f\u3068\u523b\u306e\u5263",
+    "player": "Shinoyoujo",
+    "player_location": "de",
+    "time": 1106,
+    "category": "",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zxl5dxqz",
+    "game": "COGEN: Sword of Rewind / COGEN: \u5927\u9ce5\u3053\u306f\u304f\u3068\u523b\u306e\u5263",
+    "player": "Benja",
+    "player_location": "cl",
+    "time": 1118,
+    "category": "NG+ 1st Cycle",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y9xg72ry",
+    "game": "COGEN: Sword of Rewind / COGEN: \u5927\u9ce5\u3053\u306f\u304f\u3068\u523b\u306e\u5263",
+    "player": "timrinko",
+    "player_location": null,
+    "time": 918,
+    "category": "NG+ 1st Cycle",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yv0lwd6z",
+    "game": "COGEN: Sword of Rewind / COGEN: \u5927\u9ce5\u3053\u306f\u304f\u3068\u523b\u306e\u5263",
+    "player": "koko_destiny",
+    "player_location": null,
+    "time": 838,
+    "category": "NG+ 1st Cycle",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  }
+]

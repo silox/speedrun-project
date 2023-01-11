@@ -1,0 +1,123 @@
+[
+  {
+    "id": "6yje4edm",
+    "game": "Ninja Combat",
+    "player": "Maskaman",
+    "player_location": null,
+    "time": 1600,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "pzgj7jez",
+    "game": "Ninja Combat",
+    "player": "RookerVision",
+    "player_location": null,
+    "time": 1976,
+    "category": "Easy Clear",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "wzpk0vvy",
+    "game": "Ninja Combat",
+    "player": "Replay Burners",
+    "player_location": null,
+    "time": 1424,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "9yogl45m",
+    "game": "Ninja Combat",
+    "player": "SnakeSoldier",
+    "player_location": "ar",
+    "time": 1194,
+    "category": "Easy Clear",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yjke01gm",
+    "game": "Ninja Combat",
+    "player": "OldWorldGamer",
+    "player_location": "ca",
+    "time": 1840,
+    "category": "Easy Clear",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "mk3rro3z",
+    "game": "Ninja Combat",
+    "player": "NINJA-H",
+    "player_location": "jp",
+    "time": 944,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "y90ev4ky",
+    "game": "Ninja Combat",
+    "player": "Riekelt",
+    "player_location": "nl",
+    "time": 1094,
+    "category": "Easy Clear",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "z01jjqjy",
+    "game": "Ninja Combat",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 1427,
+    "category": "Easy Clear",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "m7gop30m",
+    "game": "Ninja Combat",
+    "player": "Dumple",
+    "player_location": "us",
+    "time": 1618,
+    "category": "Easy Clear 1CC",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "mk50wdvm",
+    "game": "Ninja Combat",
+    "player": "Therunner1",
+    "player_location": "dz",
+    "time": 1315,
+    "category": "Easy Clear 1CC",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "mkd1nxxy",
+    "game": "Ninja Combat",
+    "player": "Ellimist",
+    "player_location": "us",
+    "time": 1092,
+    "category": "Easy Clear",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

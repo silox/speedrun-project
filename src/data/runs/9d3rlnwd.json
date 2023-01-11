@@ -1,0 +1,68 @@
+[
+  {
+    "id": "zx4jq7ky",
+    "game": "RocketJump",
+    "player": "AceDX",
+    "player_location": "us",
+    "time": 131,
+    "category": "Beat the Game (Nothing Extra Required)",
+    "region": "USA / NTSC",
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "y6ll72qy",
+    "game": "RocketJump",
+    "player": "FlexCloud",
+    "player_location": "us",
+    "time": 79,
+    "category": "Beat the Game (Nothing Extra Required)",
+    "region": "USA / NTSC",
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "yv3gjj4z",
+    "game": "RocketJump",
+    "player": "Ronneberg",
+    "player_location": "de",
+    "time": 83,
+    "category": "Beat the Game (Nothing Extra Required)",
+    "region": "EUR / PAL",
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "y827kjwy",
+    "game": "RocketJump",
+    "player": "crazzzypotatoe",
+    "player_location": "lv",
+    "time": 836,
+    "category": "Beat the Game (Nothing Extra Required)",
+    "region": "EUR / PAL",
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "z09jj8jz",
+    "game": "RocketJump",
+    "player": "johnchrist",
+    "player_location": "ps",
+    "time": 193,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "mk52erxm",
+    "game": "RocketJump",
+    "player": "LaV",
+    "player_location": "de",
+    "time": 72,
+    "category": "Beat the Game (Nothing Extra Required)",
+    "region": null,
+    "platform": "Web",
+    "emulated": false
+  }
+]

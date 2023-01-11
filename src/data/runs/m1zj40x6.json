@@ -1,0 +1,24 @@
+[
+  {
+    "id": "zpln8qnm",
+    "game": "Touhou Sky Arena Matsuri Climax",
+    "player": "TFisher93",
+    "player_location": "id",
+    "time": 1299.95,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "zqv3031m",
+    "game": "Touhou Sky Arena Matsuri Climax",
+    "player": "DBcade",
+    "player_location": "jp",
+    "time": 604.32,
+    "category": "Arcade Mode Single Character",
+    "region": "JPN / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  }
+]

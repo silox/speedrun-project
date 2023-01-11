@@ -1,0 +1,24 @@
+[
+  {
+    "id": "zp0l0orm",
+    "game": "Superplexus",
+    "player": "Frikkinfriks14",
+    "player_location": "us",
+    "time": 6.7,
+    "category": "1-26",
+    "region": "JPN / NTSC",
+    "platform": "Tabletop",
+    "emulated": false
+  },
+  {
+    "id": "me4n2w0y",
+    "game": "Superplexus",
+    "player": "Leibi",
+    "player_location": "de",
+    "time": 0.267,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Tabletop",
+    "emulated": false
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "dy4g7nyl",
+    "game": "Lufia & The Fortress of Doom",
+    "player": "Halagasch",
+    "player_location": null,
+    "time": 16112,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "6yj8x3md",
+    "game": "Lufia & The Fortress of Doom",
+    "player": "Deln",
+    "player_location": "ca/qc",
+    "time": 10359,
+    "category": "any% Retry Mode(J)",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "2ywvjpz4",
+    "game": "Lufia & The Fortress of Doom",
+    "player": "Pandolum",
+    "player_location": "ca",
+    "time": 9325,
+    "category": "any% Retry Mode(J)",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "2ywkk10y",
+    "game": "Lufia & The Fortress of Doom",
+    "player": "eLmaGus",
+    "player_location": "de",
+    "time": 8317,
+    "category": "any% Retry Mode(J)",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "8y8x4v5m",
+    "game": "Lufia & The Fortress of Doom",
+    "player": "Ood_Sigma",
+    "player_location": null,
+    "time": 13389,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "8y8nerwy",
+    "game": "Lufia & The Fortress of Doom",
+    "player": "Crrool",
+    "player_location": "nl",
+    "time": 9836,
+    "category": "any% Retry Mode(J)",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "8m7d239m",
+    "game": "Lufia & The Fortress of Doom",
+    "player": "Danshow1",
+    "player_location": "ca",
+    "time": 8901,
+    "category": "any% Retry Mode(J)",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y8qjvl5y",
+    "game": "Lufia & The Fortress of Doom",
+    "player": "Niakky",
+    "player_location": "es",
+    "time": 12991,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  }
+]

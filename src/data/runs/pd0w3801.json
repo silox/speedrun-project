@@ -1,0 +1,134 @@
+[
+  {
+    "id": "yojon90m",
+    "game": "GT 64: Championship Edition",
+    "player": "Darkhorse",
+    "player_location": "us",
+    "time": 234.232,
+    "category": "JPN Short",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": false
+  },
+  {
+    "id": "yj3rrrnz",
+    "game": "GT 64: Championship Edition",
+    "player": "Mandy64",
+    "player_location": "us",
+    "time": 231.002,
+    "category": "JPN Short",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": true
+  },
+  {
+    "id": "zpr90egm",
+    "game": "GT 64: Championship Edition",
+    "player": "Kacey",
+    "player_location": "us",
+    "time": 233.033,
+    "category": "EUR Short",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": false
+  },
+  {
+    "id": "mrk7547y",
+    "game": "GT 64: Championship Edition",
+    "player": "IBunta",
+    "player_location": "gb/eng",
+    "time": 212.021,
+    "category": "EUR Short",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": true
+  },
+  {
+    "id": "m35j68wy",
+    "game": "GT 64: Championship Edition",
+    "player": "Persiana_S",
+    "player_location": null,
+    "time": 230.802,
+    "category": "EUR Short",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": true
+  },
+  {
+    "id": "yv65kdez",
+    "game": "GT 64: Championship Edition",
+    "player": "dou8le",
+    "player_location": "us",
+    "time": 1773.002,
+    "category": "Championship",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": true
+  },
+  {
+    "id": "y90gl0ry",
+    "game": "GT 64: Championship Edition",
+    "player": "7H3",
+    "player_location": "ca",
+    "time": 255.144,
+    "category": "EUR Short",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": false
+  },
+  {
+    "id": "mk8nrvlm",
+    "game": "GT 64: Championship Edition",
+    "player": "MagicMagician",
+    "player_location": "gb",
+    "time": 210.995,
+    "category": "EUR Short",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": true
+  },
+  {
+    "id": "z5r7pnny",
+    "game": "GT 64: Championship Edition",
+    "player": "Lika0n",
+    "player_location": "fr",
+    "time": 218.814,
+    "category": "EUR Short",
+    "region": "EUR / PAL",
+    "platform": "Nintendo 64",
+    "emulated": false
+  },
+  {
+    "id": "mr66g3dm",
+    "game": "GT 64: Championship Edition",
+    "player": "Hobbsidian",
+    "player_location": "ie",
+    "time": 185.148,
+    "category": "EUR Short",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": true
+  },
+  {
+    "id": "yvqo574m",
+    "game": "GT 64: Championship Edition",
+    "player": "Saturn185",
+    "player_location": "pt",
+    "time": 184.948,
+    "category": "EUR Short",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo 64",
+    "emulated": true
+  },
+  {
+    "id": "zq9p851y",
+    "game": "GT 64: Championship Edition",
+    "player": "Kabula04",
+    "player_location": "br",
+    "time": 222.943,
+    "category": "JPN Short",
+    "region": null,
+    "platform": "Nintendo 64",
+    "emulated": true
+  }
+]

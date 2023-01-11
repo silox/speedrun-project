@@ -1,0 +1,35 @@
+[
+  {
+    "id": "m3op37qm",
+    "game": "Mini Super Mario Bros 2. U",
+    "player": "R0main",
+    "player_location": "fr",
+    "time": 335,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "yj40vo7y",
+    "game": "Mini Super Mario Bros 2. U",
+    "player": "Dani\u00eblHarteveld",
+    "player_location": "nl",
+    "time": 330,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "z5j1qvjm",
+    "game": "Mini Super Mario Bros 2. U",
+    "player": "Holofa",
+    "player_location": "ca",
+    "time": 301,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Wii U",
+    "emulated": true
+  }
+]

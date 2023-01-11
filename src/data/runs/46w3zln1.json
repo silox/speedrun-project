@@ -1,0 +1,79 @@
+[
+  {
+    "id": "yl97dxxy",
+    "game": "Contra 4",
+    "player": "icy_",
+    "player_location": "de",
+    "time": 1078,
+    "category": "Any% Easy",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "z134rrrm",
+    "game": "Contra 4",
+    "player": "Mister___K",
+    "player_location": null,
+    "time": 1455,
+    "category": "Any% Hard",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "yl00no3y",
+    "game": "Contra 4",
+    "player": "NickBGoHard",
+    "player_location": null,
+    "time": 1301,
+    "category": "Any% Easy",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "zp4oogvz",
+    "game": "Contra 4",
+    "player": "CatLord",
+    "player_location": "us",
+    "time": 1239,
+    "category": "Any% Easy",
+    "region": null,
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "z5jrj1nm",
+    "game": "Contra 4",
+    "player": "zallard1",
+    "player_location": "us",
+    "time": 1479,
+    "category": "Any% Hard",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "y2d3047z",
+    "game": "Contra 4",
+    "player": "Rayquaza911",
+    "player_location": "ca",
+    "time": 1477,
+    "category": "Any% Normal",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "z5d1l05m",
+    "game": "Contra 4",
+    "player": "Vhaeraun",
+    "player_location": "fr",
+    "time": 1542,
+    "category": "Any% Normal",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  }
+]

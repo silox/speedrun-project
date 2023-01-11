@@ -1,0 +1,134 @@
+[
+  {
+    "id": "zqr15r9y",
+    "game": "Tetris Worlds",
+    "player": "FFRPro21",
+    "player_location": "ca",
+    "time": 1923,
+    "category": "Story Mode (GCN)",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "oy2w6njy",
+    "game": "Tetris Worlds",
+    "player": "cutenice",
+    "player_location": "no",
+    "time": 2065,
+    "category": "Story Mode (GCN)",
+    "region": null,
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "9mrvxo8z",
+    "game": "Tetris Worlds",
+    "player": "nick666101",
+    "player_location": "nl",
+    "time": 2328,
+    "category": "Story Mode (GCN)",
+    "region": null,
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "y239dojm",
+    "game": "Tetris Worlds",
+    "player": "TheRoundCube",
+    "player_location": "ca",
+    "time": 1739,
+    "category": "Marathon (GBA)",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": false
+  },
+  {
+    "id": "m3ddk56z",
+    "game": "Tetris Worlds",
+    "player": "n1nj4ofshr3d",
+    "player_location": "us",
+    "time": 675,
+    "category": "Marathon (GBA)",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": false
+  },
+  {
+    "id": "mrqrw2gy",
+    "game": "Tetris Worlds",
+    "player": "LamboManGuy",
+    "player_location": "us",
+    "time": 1157,
+    "category": "Marathon (GBA)",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "zpqwojny",
+    "game": "Tetris Worlds",
+    "player": "MystixWizZarD",
+    "player_location": "de",
+    "time": 1386,
+    "category": "Marathon (GBA)",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Advance",
+    "emulated": false
+  },
+  {
+    "id": "y2x3187m",
+    "game": "Tetris Worlds",
+    "player": "DAU",
+    "player_location": "us",
+    "time": 706,
+    "category": "Marathon (GBA)",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": false
+  },
+  {
+    "id": "m315jogz",
+    "game": "Tetris Worlds",
+    "player": "daichies0927",
+    "player_location": "jp",
+    "time": 362,
+    "category": "Marathon (GBA)",
+    "region": null,
+    "platform": "Game Boy Advance",
+    "emulated": false
+  },
+  {
+    "id": "m7q17e4z",
+    "game": "Tetris Worlds",
+    "player": "pokemonfan1937",
+    "player_location": "tw",
+    "time": 811,
+    "category": "Marathon (GBA)",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "yo9v9g5y",
+    "game": "Tetris Worlds",
+    "player": "Purrygamer",
+    "player_location": "us",
+    "time": 1573,
+    "category": "Marathon (GBA)",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "y2p17vjz",
+    "game": "Tetris Worlds",
+    "player": "Gurney_on_arrakis",
+    "player_location": "fr",
+    "time": 609,
+    "category": "Marathon (GBA)",
+    "region": null,
+    "platform": "Game Boy Advance",
+    "emulated": true
+  }
+]

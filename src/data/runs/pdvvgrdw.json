@@ -1,0 +1,101 @@
+[
+  {
+    "id": "y6lq0xqy",
+    "game": "King of the Monsters 2 (SNES/Arcade)",
+    "player": "DeMoNFLiP84",
+    "player_location": "us",
+    "time": 1030,
+    "category": "Normal Difficulty",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "9yo8p45z",
+    "game": "King of the Monsters 2 (SNES/Arcade)",
+    "player": "Stunt_MK",
+    "player_location": "us",
+    "time": 1140,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "zq61ge1y",
+    "game": "King of the Monsters 2 (SNES/Arcade)",
+    "player": "Ellimist",
+    "player_location": "us",
+    "time": 1448,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "yjkv7onm",
+    "game": "King of the Monsters 2 (SNES/Arcade)",
+    "player": "EiP25",
+    "player_location": "jp",
+    "time": 1138,
+    "category": "Normal Difficulty",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "zn8dxrvz",
+    "game": "King of the Monsters 2 (SNES/Arcade)",
+    "player": "Mmiayiuckoi",
+    "player_location": "us",
+    "time": 1376,
+    "category": "Normal: 2 Player Co-op",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "z11ke97z",
+    "game": "King of the Monsters 2 (SNES/Arcade)",
+    "player": "tsm07",
+    "player_location": "jp",
+    "time": 1063,
+    "category": "Normal Difficulty",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "zgkexony",
+    "game": "King of the Monsters 2 (SNES/Arcade)",
+    "player": "mrrknight",
+    "player_location": "us",
+    "time": 1077,
+    "category": "Normal Difficulty",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "me6x4rqz",
+    "game": "King of the Monsters 2 (SNES/Arcade)",
+    "player": "GameStoked",
+    "player_location": "ca",
+    "time": 1605,
+    "category": "",
+    "region": null,
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y8x3ew5m",
+    "game": "King of the Monsters 2 (SNES/Arcade)",
+    "player": "stewie_cartman",
+    "player_location": "us",
+    "time": 1019,
+    "category": "Normal Difficulty",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  }
+]

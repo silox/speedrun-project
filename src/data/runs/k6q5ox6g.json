@@ -1,0 +1,79 @@
+[
+  {
+    "id": "yo4qj50m",
+    "game": "Kersploosh!",
+    "player": "Laxxius",
+    "player_location": "ca",
+    "time": 24.83,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "New Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "9mr3n12m",
+    "game": "Kersploosh!",
+    "player": "Brionac",
+    "player_location": "it",
+    "time": 25.53,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "y8qo1p1y",
+    "game": "Kersploosh!",
+    "player": "ivysage08",
+    "player_location": "us",
+    "time": 25.49,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "m79e4g0y",
+    "game": "Kersploosh!",
+    "player": "Vallu",
+    "player_location": "fi",
+    "time": 25.23,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "z0e8454m",
+    "game": "Kersploosh!",
+    "player": "Greycatmon",
+    "player_location": "us",
+    "time": 28.53,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "mrq0pk2y",
+    "game": "Kersploosh!",
+    "player": "Julian \"STL\"  K.",
+    "player_location": null,
+    "time": 25.86,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "yjkqdrgm",
+    "game": "Kersploosh!",
+    "player": "\"Redshell\"",
+    "player_location": null,
+    "time": 42.13,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  }
+]

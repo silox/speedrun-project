@@ -1,0 +1,35 @@
+[
+  {
+    "id": "9me48x2y",
+    "game": "Dewy's Adventure",
+    "player": "plp",
+    "player_location": "us",
+    "time": 22,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "z03k0eez",
+    "game": "Dewy's Adventure",
+    "player": "Randomrize",
+    "player_location": "us",
+    "time": 21,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "mr9pd28m",
+    "game": "Dewy's Adventure",
+    "player": "barndeck",
+    "player_location": "us",
+    "time": 94,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "id": "mk7qqply",
+    "game": "Monster Box",
+    "player": "4d9r",
+    "player_location": "ca",
+    "time": 6,
+    "category": "New Game",
+    "region": null,
+    "platform": null,
+    "emulated": false
+  },
+  {
+    "id": "m783epwz",
+    "game": "Monster Box",
+    "player": "WhatsFrog",
+    "player_location": "se",
+    "time": 6,
+    "category": "New Game",
+    "region": null,
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "mr4vje8z",
+    "game": "Monster Box",
+    "player": "ShesChardcore",
+    "player_location": "us",
+    "time": 1,
+    "category": "Continued Save",
+    "region": null,
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "y66v2jqy",
+    "game": "Monster Box",
+    "player": "Xark96",
+    "player_location": "de",
+    "time": 2,
+    "category": "Continued Save",
+    "region": null,
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "z189r17y",
+    "game": "Monster Box",
+    "player": "FrostySR",
+    "player_location": null,
+    "time": 4,
+    "category": "New Game",
+    "region": null,
+    "platform": null,
+    "emulated": false
+  },
+  {
+    "id": "zp36x1gm",
+    "game": "Monster Box",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 10,
+    "category": "",
+    "region": null,
+    "platform": null,
+    "emulated": false
+  },
+  {
+    "id": "mk5edrlm",
+    "game": "Monster Box",
+    "player": "Otterstone_Gamer",
+    "player_location": "us",
+    "time": 1,
+    "category": "Continued Save",
+    "region": null,
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "y66j35qy",
+    "game": "Monster Box",
+    "player": "WildBeast",
+    "player_location": "pt",
+    "time": 10,
+    "category": "Medals",
+    "region": "EUR / PAL",
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "y664dxjy",
+    "game": "Monster Box",
+    "player": "victu",
+    "player_location": "br",
+    "time": 10,
+    "category": "Medals",
+    "region": null,
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "y9nql0rz",
+    "game": "Monster Box",
+    "player": "Jacob1",
+    "player_location": "ca",
+    "time": 10,
+    "category": "Medals",
+    "region": null,
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "z0re228z",
+    "game": "Monster Box",
+    "player": "braianbaez",
+    "player_location": "ar",
+    "time": 10,
+    "category": "Medals",
+    "region": null,
+    "platform": null,
+    "emulated": false
+  },
+  {
+    "id": "y8d96xnz",
+    "game": "Monster Box",
+    "player": "TRLittleToaster",
+    "player_location": "us",
+    "time": 10,
+    "category": "Medals",
+    "region": null,
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "z5r7l2dy",
+    "game": "Monster Box",
+    "player": "KawaiiShibe",
+    "player_location": null,
+    "time": 10,
+    "category": "Medals",
+    "region": null,
+    "platform": null,
+    "emulated": false
+  },
+  {
+    "id": "zq7j519m",
+    "game": "Monster Box",
+    "player": "Robert6",
+    "player_location": "ar",
+    "time": 342,
+    "category": "New Game",
+    "region": null,
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "zqv744xm",
+    "game": "Monster Box",
+    "player": "TuckerStudios",
+    "player_location": "us",
+    "time": 10,
+    "category": "Medals",
+    "region": null,
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "zxlk2n5z",
+    "game": "Monster Box",
+    "player": "Zambrini",
+    "player_location": "us",
+    "time": 10,
+    "category": "Medals",
+    "region": null,
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "mr6wo4gm",
+    "game": "Monster Box",
+    "player": "daff",
+    "player_location": "ru",
+    "time": 60,
+    "category": "Medals",
+    "region": null,
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "m769j74y",
+    "game": "Monster Box",
+    "player": "1337",
+    "player_location": "pl",
+    "time": 10,
+    "category": "Medals",
+    "region": "EUR / PAL",
+    "platform": "Web",
+    "emulated": false
+  }
+]

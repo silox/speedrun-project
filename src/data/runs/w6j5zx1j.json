@@ -1,0 +1,156 @@
+[
+  {
+    "id": "zq9vle1y",
+    "game": "1942",
+    "player": "NESCardinality",
+    "player_location": "ca",
+    "time": 4243,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "z5o135gy",
+    "game": "1942",
+    "player": "GreenBomber",
+    "player_location": "us",
+    "time": 4693,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "yvj3n3xy",
+    "game": "1942",
+    "player": "ForteFyre",
+    "player_location": "us",
+    "time": 4477,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y8962w5m",
+    "game": "1942",
+    "player": "Cornelu",
+    "player_location": "us",
+    "time": 4569,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "z034dgez",
+    "game": "1942",
+    "player": "PMniac",
+    "player_location": "pt",
+    "time": 4361,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "m7d678em",
+    "game": "1942",
+    "player": "manticor5",
+    "player_location": "cl",
+    "time": 3400,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "y218rlwz",
+    "game": "1942",
+    "player": "Pixel_Kronicle",
+    "player_location": "ca/qc",
+    "time": 4292,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zqrp131y",
+    "game": "1942",
+    "player": "RandomJerry",
+    "player_location": "us",
+    "time": 4431,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "zqw91grz",
+    "game": "1942",
+    "player": "Carter44",
+    "player_location": "ca",
+    "time": 6077,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "z0501wom",
+    "game": "1942",
+    "player": "thedyl",
+    "player_location": "us",
+    "time": 4660,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "yv91756z",
+    "game": "1942",
+    "player": "PMYA",
+    "player_location": "gb/eng",
+    "time": 4604,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "zn3p033y",
+    "game": "1942",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 3366,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "yv2pd5om",
+    "game": "1942",
+    "player": "stuffisstuff",
+    "player_location": "us",
+    "time": 4620,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "mkdxx93y",
+    "game": "1942",
+    "player": "CaptCaveman910",
+    "player_location": "us",
+    "time": 4669,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  }
+]

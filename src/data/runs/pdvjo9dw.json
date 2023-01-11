@@ -1,0 +1,24 @@
+[
+  {
+    "id": "m7p74oem",
+    "game": "",
+    "player": "LeHulk",
+    "player_location": "fr",
+    "time": 1765,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "z1qo4kwy",
+    "game": "",
+    "player": "wax_house",
+    "player_location": "us",
+    "time": 2011,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Sega Genesis",
+    "emulated": true
+  }
+]

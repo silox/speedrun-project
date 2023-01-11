@@ -1,0 +1,46 @@
+[
+  {
+    "id": "yv2o336m",
+    "game": "EARTH DEFENSE FORCE: IRON RAIN",
+    "player": "Gate_SD",
+    "player_location": "jp",
+    "time": 80,
+    "category": "DISASTER",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "zgrpl9em",
+    "game": "EARTH DEFENSE FORCE: IRON RAIN",
+    "player": "Saintlylion",
+    "player_location": null,
+    "time": 74,
+    "category": "EASY",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "zq9l5w5y",
+    "game": "EARTH DEFENSE FORCE: IRON RAIN",
+    "player": "mzousui",
+    "player_location": "jp",
+    "time": 2422,
+    "category": "Online(DLC)",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y887g95y",
+    "game": "EARTH DEFENSE FORCE: IRON RAIN",
+    "player": "Brootli",
+    "player_location": "ch",
+    "time": 62,
+    "category": "DISASTER",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 4",
+    "emulated": false
+  }
+]

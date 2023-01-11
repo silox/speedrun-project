@@ -1,0 +1,79 @@
+[
+  {
+    "id": "9mrqvj8y",
+    "game": "The Rescue of Princess Blobette",
+    "player": "Jorf",
+    "player_location": "ca",
+    "time": 122,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "pyd4j7jy",
+    "game": "The Rescue of Princess Blobette",
+    "player": "Oh_DeeR",
+    "player_location": "de",
+    "time": 120,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Super Game Boy 2",
+    "emulated": false
+  },
+  {
+    "id": "m3o2jgdm",
+    "game": "The Rescue of Princess Blobette",
+    "player": "typwo",
+    "player_location": "us",
+    "time": 147,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "zqw1o25z",
+    "game": "The Rescue of Princess Blobette",
+    "player": "smartalec24",
+    "player_location": "us",
+    "time": 150,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Game Boy 2",
+    "emulated": false
+  },
+  {
+    "id": "y65wk8qz",
+    "game": "The Rescue of Princess Blobette",
+    "player": "Chubaloe020",
+    "player_location": "nl",
+    "time": 123,
+    "category": "Any%",
+    "region": null,
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "me1po29y",
+    "game": "The Rescue of Princess Blobette",
+    "player": "t0zzle",
+    "player_location": "ca",
+    "time": 117.4,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": false
+  },
+  {
+    "id": "y2jdg35z",
+    "game": "The Rescue of Princess Blobette",
+    "player": "BeetZero",
+    "player_location": "ru",
+    "time": 117.433,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  }
+]

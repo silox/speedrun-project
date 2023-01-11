@@ -1,0 +1,112 @@
+[
+  {
+    "id": "y6pn5n0m",
+    "game": "R.B.I. Baseball 2 (NES)",
+    "player": "Peanutfan22",
+    "player_location": "us",
+    "time": 868,
+    "category": "Lose a Game",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "zq3036ry",
+    "game": "R.B.I. Baseball 2 (NES)",
+    "player": "NerdyNester",
+    "player_location": "us",
+    "time": 1093,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "z117rn9z",
+    "game": "R.B.I. Baseball 2 (NES)",
+    "player": "hyo24",
+    "player_location": "us",
+    "time": 729,
+    "category": "Win a Game",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "m7prlx5m",
+    "game": "R.B.I. Baseball 2 (NES)",
+    "player": "Kermiss",
+    "player_location": "us",
+    "time": 661,
+    "category": "Win a Game",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "meovd59z",
+    "game": "R.B.I. Baseball 2 (NES)",
+    "player": "ShesChardcore",
+    "player_location": "us",
+    "time": 1.216,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "zgkjg7jy",
+    "game": "R.B.I. Baseball 2 (NES)",
+    "player": "Taclite",
+    "player_location": "se",
+    "time": 1.38,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "y658pljz",
+    "game": "R.B.I. Baseball 2 (NES)",
+    "player": "MortimerNova",
+    "player_location": "us",
+    "time": 1.533,
+    "category": "Forfeit",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "z1ojg99m",
+    "game": "R.B.I. Baseball 2 (NES)",
+    "player": "DMoons413",
+    "player_location": "us",
+    "time": 155,
+    "category": "Win a Game",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y6dk3w0m",
+    "game": "R.B.I. Baseball 2 (NES)",
+    "player": "JoePulito",
+    "player_location": "us",
+    "time": 1.733,
+    "category": "Forfeit",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "yo6q975y",
+    "game": "R.B.I. Baseball 2 (NES)",
+    "player": "NinpoManiac",
+    "player_location": "us",
+    "time": 2.183,
+    "category": "Forfeit",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  }
+]

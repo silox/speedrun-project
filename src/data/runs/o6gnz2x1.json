@@ -1,0 +1,35 @@
+[
+  {
+    "id": "ydrqwnjz",
+    "game": "Cabela's Big Game Hunter (GBA)",
+    "player": "Jubilee",
+    "player_location": "us",
+    "time": 51.082,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "zq18kj5m",
+    "game": "Cabela's Big Game Hunter (GBA)",
+    "player": "Otterstone_Gamer",
+    "player_location": "us",
+    "time": 10.933,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "zp1jrpgz",
+    "game": "Cabela's Big Game Hunter (GBA)",
+    "player": "toponen",
+    "player_location": null,
+    "time": 6.081,
+    "category": "Any%",
+    "region": null,
+    "platform": "Game Boy Advance",
+    "emulated": true
+  }
+]

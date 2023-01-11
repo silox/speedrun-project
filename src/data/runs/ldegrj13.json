@@ -1,0 +1,178 @@
+[
+  {
+    "id": "8m7lo54y",
+    "game": "Clu Clu Land",
+    "player": "ninjahenrik",
+    "player_location": "se",
+    "time": 314,
+    "category": "Low%",
+    "region": "EUR / PAL",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "z5o2xldy",
+    "game": "Clu Clu Land",
+    "player": "Dormouse",
+    "player_location": "ru",
+    "time": 256,
+    "category": "Low%",
+    "region": null,
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "m7p7175m",
+    "game": "Clu Clu Land",
+    "player": "starlite",
+    "player_location": "ca",
+    "time": 238,
+    "category": "Low%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "kz5g4wdm",
+    "game": "Clu Clu Land",
+    "player": "faulteroyy",
+    "player_location": "ca",
+    "time": 266,
+    "category": "Low%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "zn8w7rlz",
+    "game": "Clu Clu Land",
+    "player": "Spiderweb__",
+    "player_location": "us",
+    "time": 381,
+    "category": "Low%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zg7x59dz",
+    "game": "Clu Clu Land",
+    "player": "Saber_frantic",
+    "player_location": "cn",
+    "time": 343,
+    "category": "Low%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y6pdj91m",
+    "game": "Clu Clu Land",
+    "player": "sYn",
+    "player_location": "us",
+    "time": 352,
+    "category": "Low%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "z0ojvn8z",
+    "game": "Clu Clu Land",
+    "player": "Charlie9631",
+    "player_location": "us",
+    "time": 252,
+    "category": "Low%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "y2x5k17m",
+    "game": "Clu Clu Land",
+    "player": "JoePulito",
+    "player_location": "us",
+    "time": 374,
+    "category": "Low%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "yvo4jxoz",
+    "game": "Clu Clu Land",
+    "player": "NickBGoHard",
+    "player_location": "us",
+    "time": 358,
+    "category": "Low%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "mk54963m",
+    "game": "Clu Clu Land",
+    "player": "CaptCaveman910",
+    "player_location": "us",
+    "time": 351,
+    "category": "Low%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "ydeo44xm",
+    "game": "Clu Clu Land",
+    "player": "JackPro",
+    "player_location": "ua",
+    "time": 277,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "y9lv8kky",
+    "game": "Clu Clu Land",
+    "player": "lackattack",
+    "player_location": "us",
+    "time": 336,
+    "category": "Low%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y9lx3q2y",
+    "game": "Clu Clu Land",
+    "player": "Ouijawii",
+    "player_location": "us",
+    "time": 236,
+    "category": "Low%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y9lg9x2y",
+    "game": "Clu Clu Land",
+    "player": "Joni_Bologna",
+    "player_location": "us",
+    "time": 354,
+    "category": "Low%",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "z5x15vny",
+    "game": "Clu Clu Land",
+    "player": "SwedishNinjaFish",
+    "player_location": "us",
+    "time": 399,
+    "category": "Low%",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "id": "y9202lrz",
+    "game": "Super Mario Run DS",
+    "player": "R0main",
+    "player_location": "fr",
+    "time": 34,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Wii U Virtual Console",
+    "emulated": false
+  },
+  {
+    "id": "z51j5wem",
+    "game": "Super Mario Run DS",
+    "player": "Miniland",
+    "player_location": "gb",
+    "time": 356,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "zp06x08m",
+    "game": "Super Mario Run DS",
+    "player": "Caidren",
+    "player_location": "us",
+    "time": 512,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "zqrr31ry",
+    "game": "Super Mario Run DS",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 34,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "yw45q73z",
+    "game": "Super Mario Run DS",
+    "player": "Nathn",
+    "player_location": "fr",
+    "time": 29,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "z1je1g9z",
+    "game": "Super Mario Run DS",
+    "player": "JadenSpeedrun",
+    "player_location": "kr",
+    "time": 397,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "y822w3xy",
+    "game": "Super Mario Run DS",
+    "player": "Firelemon",
+    "player_location": "kr",
+    "time": 28,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "z15293jy",
+    "game": "Super Mario Run DS",
+    "player": "electronicLogic",
+    "player_location": "us",
+    "time": 415,
+    "category": "Low%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "m7ge47em",
+    "game": "Super Mario Run DS",
+    "player": "fastgamer22",
+    "player_location": "be",
+    "time": 34,
+    "category": "100%",
+    "region": "EUR / PAL",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "mr90vq2m",
+    "game": "Super Mario Run DS",
+    "player": "YTKoopaPlayer",
+    "player_location": "de",
+    "time": 388,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "m77ko74m",
+    "game": "Super Mario Run DS",
+    "player": "Glitchman24",
+    "player_location": "us",
+    "time": 13,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "y8j88v5z",
+    "game": "Super Mario Run DS",
+    "player": "movistar",
+    "player_location": "pe",
+    "time": 33,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  }
+]

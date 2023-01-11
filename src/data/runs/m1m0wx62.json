@@ -1,0 +1,101 @@
+[
+  {
+    "id": "y2qkp99y",
+    "game": "10-Yard Fight",
+    "player": "CardsOfTheHeart",
+    "player_location": "us",
+    "time": 626,
+    "category": "Beat Super Level",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "0y6ep10z",
+    "game": "10-Yard Fight",
+    "player": "Darko",
+    "player_location": null,
+    "time": 842,
+    "category": "Beat Super Level",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "mk9v04vz",
+    "game": "10-Yard Fight",
+    "player": "sYn",
+    "player_location": "us",
+    "time": 626,
+    "category": "Beat Super Level",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "mr8pnr2y",
+    "game": "10-Yard Fight",
+    "player": "AndrewG",
+    "player_location": "us",
+    "time": 613,
+    "category": "Beat Super Level",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zq3ewe8y",
+    "game": "10-Yard Fight",
+    "player": "JoshKeys",
+    "player_location": null,
+    "time": 820,
+    "category": "Beat Super Level",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y2q24j9y",
+    "game": "10-Yard Fight",
+    "player": "NihilistComedyHour",
+    "player_location": "eo",
+    "time": 1108,
+    "category": "Beat Super Level",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "y89lxrxm",
+    "game": "10-Yard Fight",
+    "player": "PMniac",
+    "player_location": "pt",
+    "time": 617,
+    "category": "Beat Super Level",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zqre2jry",
+    "game": "10-Yard Fight",
+    "player": "ReMeDee",
+    "player_location": "us",
+    "time": 635,
+    "category": "Beat Super Level",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "yd09n6qz",
+    "game": "10-Yard Fight",
+    "player": "DCG_Grinder",
+    "player_location": "us",
+    "time": 985,
+    "category": "Beat Super Level",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  }
+]

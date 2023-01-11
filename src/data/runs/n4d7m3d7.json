@@ -1,0 +1,112 @@
+[
+  {
+    "id": "kz5owojy",
+    "game": "Legend of Illusion starring Mickey Mouse",
+    "player": "btrim",
+    "player_location": "us",
+    "time": 926,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Master System",
+    "emulated": false
+  },
+  {
+    "id": "9me7dqy7",
+    "game": "Legend of Illusion starring Mickey Mouse",
+    "player": "kraflab",
+    "player_location": "de",
+    "time": 927,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Sega Game Gear",
+    "emulated": true
+  },
+  {
+    "id": "pzg5l9dy",
+    "game": "Legend of Illusion starring Mickey Mouse",
+    "player": "Rasmus_1990",
+    "player_location": "no",
+    "time": 1102,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Master System",
+    "emulated": false
+  },
+  {
+    "id": "mk45o7vy",
+    "game": "Legend of Illusion starring Mickey Mouse",
+    "player": "Alowishus89",
+    "player_location": "gb/nir",
+    "time": 1051,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Master System",
+    "emulated": false
+  },
+  {
+    "id": "zq6dxn1y",
+    "game": "Legend of Illusion starring Mickey Mouse",
+    "player": "Shentok",
+    "player_location": "us",
+    "time": 1008,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Game Gear",
+    "emulated": false
+  },
+  {
+    "id": "yjkwodom",
+    "game": "Legend of Illusion starring Mickey Mouse",
+    "player": "Chubbus",
+    "player_location": "us",
+    "time": 940,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Game Gear",
+    "emulated": true
+  },
+  {
+    "id": "y45vjoqm",
+    "game": "Legend of Illusion starring Mickey Mouse",
+    "player": "infinitemystery",
+    "player_location": null,
+    "time": 1280,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Master System",
+    "emulated": false
+  },
+  {
+    "id": "m35xge4y",
+    "game": "Legend of Illusion starring Mickey Mouse",
+    "player": "Shogun_Gundam04",
+    "player_location": "us",
+    "time": 952,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Game Gear",
+    "emulated": true
+  },
+  {
+    "id": "mej291qy",
+    "game": "Legend of Illusion starring Mickey Mouse",
+    "player": "AntBlueR",
+    "player_location": "br",
+    "time": 971,
+    "category": "Any%",
+    "region": "BRA / PAL",
+    "platform": "Sega Master System",
+    "emulated": true
+  },
+  {
+    "id": "z15vdewy",
+    "game": "Legend of Illusion starring Mickey Mouse",
+    "player": "KateLibC",
+    "player_location": "ca",
+    "time": 988,
+    "category": "Any%",
+    "region": "BRA / PAL",
+    "platform": "Sega Master System",
+    "emulated": false
+  }
+]

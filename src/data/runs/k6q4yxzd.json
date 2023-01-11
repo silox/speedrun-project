@@ -1,0 +1,57 @@
+[
+  {
+    "id": "z116gowz",
+    "game": "",
+    "player": "Maiguels",
+    "player_location": "es",
+    "time": 1404,
+    "category": "Story Mode",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "znrow47y",
+    "game": "",
+    "player": "HopeTrash",
+    "player_location": "fr",
+    "time": 1295,
+    "category": "Story Mode",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "yw80qd0y",
+    "game": "",
+    "player": "FraserQuest",
+    "player_location": "us",
+    "time": 183,
+    "category": "Story Mode",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "yv6p9oxz",
+    "game": "Onimusha Blade Warriors",
+    "player": "Tatsukichi",
+    "player_location": "jp",
+    "time": 159,
+    "category": "Story Mode",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zp20d8ny",
+    "game": "Onimusha Blade Warriors",
+    "player": "Shredmachine",
+    "player_location": "se",
+    "time": 309,
+    "category": "Story Mode",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  }
+]

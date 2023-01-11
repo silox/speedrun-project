@@ -1,0 +1,46 @@
+[
+  {
+    "id": "y8qpr5xy",
+    "game": "Sonic Chronicles: The Dark Brotherhood",
+    "player": "Allegro",
+    "player_location": "us",
+    "time": 6179,
+    "category": "New Game+",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "zq69rd5y",
+    "game": "Sonic Chronicles: The Dark Brotherhood",
+    "player": "arcer7",
+    "player_location": "us",
+    "time": 10043,
+    "category": "Beat The Game",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "z0evp58m",
+    "game": "Sonic Chronicles: The Dark Brotherhood",
+    "player": "cybersonicstarzx655",
+    "player_location": "cd",
+    "time": 10920,
+    "category": "New Game+",
+    "region": null,
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "yo7x7n1m",
+    "game": "Sonic Chronicles: The Dark Brotherhood",
+    "player": "SmellyMctroll",
+    "player_location": "jp",
+    "time": 9350,
+    "category": "Beat The Game",
+    "region": null,
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  }
+]

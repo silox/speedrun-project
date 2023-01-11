@@ -1,0 +1,68 @@
+[
+  {
+    "id": "m7xej19y",
+    "game": "Five Nights at Treasure Island",
+    "player": "BandicootMan",
+    "player_location": "ro",
+    "time": 3.717,
+    "category": "ERROR%",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mrrkre8m",
+    "game": "Five Nights at Treasure Island",
+    "player": "l4myna",
+    "player_location": "br",
+    "time": 41,
+    "category": "Death%",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yod7nljm",
+    "game": "Five Nights at Treasure Island",
+    "player": "Toadder25",
+    "player_location": "us",
+    "time": 100.933,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yd1rn6xy",
+    "game": "Five Nights at Treasure Island",
+    "player": "say00r1",
+    "player_location": "aq",
+    "time": 41,
+    "category": "Death%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mrrr46dm",
+    "game": "Five Nights at Treasure Island",
+    "player": "Insym",
+    "player_location": "nl",
+    "time": 118.917,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m72pnpez",
+    "game": "Five Nights at Treasure Island",
+    "player": "er47ick",
+    "player_location": "cr",
+    "time": 76.817,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "yl1pplrm",
+    "game": "Captain Tomaday",
+    "player": "Ellimist",
+    "player_location": "us",
+    "time": 1193,
+    "category": "2P",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zqe4l59z",
+    "game": "Captain Tomaday",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 1163,
+    "category": "2P",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "id": "yd9kq2vz",
+    "game": "Stretchmo",
+    "player": "ThePandabear",
+    "player_location": "us",
+    "time": 144.069,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "zqglp1rm",
+    "game": "Stretchmo",
+    "player": "FrostySR",
+    "player_location": null,
+    "time": 12.3,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "ylqv3p2z",
+    "game": "Stretchmo",
+    "player": "Findinrask",
+    "player_location": "ie",
+    "time": 14.033,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "m77n4dwm",
+    "game": "Stretchmo",
+    "player": "Link251",
+    "player_location": "us",
+    "time": 80.933,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "zn73ex8m",
+    "game": "Stretchmo",
+    "player": "TRLittleToaster",
+    "player_location": "us",
+    "time": 5.867,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "z0olpkoz",
+    "game": "Stretchmo",
+    "player": "Vu16",
+    "player_location": "ca/qc",
+    "time": 6.067,
+    "category": "Any%",
+    "region": null,
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "y9vq8qnm",
+    "game": "Stretchmo",
+    "player": "JewShiesty",
+    "player_location": null,
+    "time": 8.933,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  }
+]

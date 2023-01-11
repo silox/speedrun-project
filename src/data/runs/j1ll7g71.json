@@ -1,0 +1,35 @@
+[
+  {
+    "id": "y89jerdm",
+    "game": "CTGP-Universe",
+    "player": "AndieTheBirb",
+    "player_location": "us",
+    "time": 3112,
+    "category": "12 Tracks (Beta)",
+    "region": "USA / NTSC",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "mkg82vxy",
+    "game": "CTGP-Universe",
+    "player": "R0main",
+    "player_location": "fr",
+    "time": 4050,
+    "category": "27 Tracks",
+    "region": "EUR / PAL",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "me7j7r8y",
+    "game": "CTGP-Universe",
+    "player": "Zarza",
+    "player_location": "ar",
+    "time": 173.726,
+    "category": "Clear",
+    "region": "EUR / PAL",
+    "platform": "Wii U",
+    "emulated": true
+  }
+]

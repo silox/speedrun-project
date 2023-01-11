@@ -1,0 +1,68 @@
+[
+  {
+    "id": "y232o4jm",
+    "game": "Pro Darts (GBC)",
+    "player": "NihilistComedyHour",
+    "player_location": "eo",
+    "time": 60,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "zgn6rv0y",
+    "game": "Pro Darts (GBC)",
+    "player": "NJThreat",
+    "player_location": "us",
+    "time": 51,
+    "category": "301",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "yjkvg8gm",
+    "game": "Pro Darts (GBC)",
+    "player": "Dimenzio",
+    "player_location": "at",
+    "time": 44,
+    "category": "301",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "znk2g38z",
+    "game": "Pro Darts (GBC)",
+    "player": "NickBGoHard",
+    "player_location": null,
+    "time": 43,
+    "category": "301",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "zgw9l7dy",
+    "game": "Pro Darts (GBC)",
+    "player": "MortimerNova",
+    "player_location": "us",
+    "time": 81,
+    "category": "301",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "zgqg2x0y",
+    "game": "Pro Darts (GBC)",
+    "player": "JoePulito",
+    "player_location": "us",
+    "time": 111,
+    "category": "301",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  }
+]

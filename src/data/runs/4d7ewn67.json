@@ -1,0 +1,145 @@
+[
+  {
+    "id": "8y8eqqxy",
+    "game": "Flicky",
+    "player": "Nathacsa",
+    "player_location": "br",
+    "time": 951,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "z1o3ewgm",
+    "game": "Flicky",
+    "player": "Winslinator",
+    "player_location": "us",
+    "time": 8,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y8qexlny",
+    "game": "Flicky",
+    "player": "Keverage",
+    "player_location": "us",
+    "time": 934,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m7gdjo0m",
+    "game": "Flicky",
+    "player": "WhiteWhaleoftheWest",
+    "player_location": "us",
+    "time": 9,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "z5o29rey",
+    "game": "Flicky",
+    "player": "[us]Gamechamp",
+    "player_location": null,
+    "time": 1260,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yvgrw1ey",
+    "game": "Flicky",
+    "player": "Seahawk",
+    "player_location": null,
+    "time": 1234,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "yo482k7m",
+    "game": "Flicky",
+    "player": "mohoc",
+    "player_location": "fr",
+    "time": 919,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "m7gdj00m",
+    "game": "Flicky",
+    "player": "RedPepper",
+    "player_location": "us",
+    "time": 9,
+    "category": "Normal",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "m35g2kwy",
+    "game": "Flicky",
+    "player": "KingRhodesTn",
+    "player_location": "us",
+    "time": 1167,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "z05oq3jm",
+    "game": "Flicky",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 11,
+    "category": "Normal",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "z06pln9z",
+    "game": "Flicky",
+    "player": "Tucabass",
+    "player_location": "br",
+    "time": 1017,
+    "category": "Any%",
+    "region": null,
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "ylv8r2nm",
+    "game": "Flicky",
+    "player": "DanielHall",
+    "player_location": "gb",
+    "time": 9,
+    "category": "Normal",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "y6nkxg1z",
+    "game": "Flicky",
+    "player": "tHiAgOcH",
+    "player_location": "br",
+    "time": 959,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  }
+]

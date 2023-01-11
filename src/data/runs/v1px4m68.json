@@ -1,0 +1,57 @@
+[
+  {
+    "id": "pzgnok0y",
+    "game": "",
+    "player": "Vallnoir",
+    "player_location": "aq",
+    "time": 4668,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "emk2o55m",
+    "game": "",
+    "player": "P4ntz",
+    "player_location": "ca",
+    "time": 10580,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "pydenq0m",
+    "game": "",
+    "player": "Keverage",
+    "player_location": "us",
+    "time": 5184,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "7ylk012z",
+    "game": "Armillo",
+    "player": "pinguino",
+    "player_location": "us",
+    "time": 5396,
+    "category": "Any%",
+    "region": null,
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "8y8rvnnm",
+    "game": "Armillo",
+    "player": "Obiyo",
+    "player_location": "ca/qc",
+    "time": 5260,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Wii U",
+    "emulated": false
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "yj17l7gy",
+    "game": "Ready 2 Rumble Boxing [GBC]",
+    "player": "NintenLew",
+    "player_location": "gb/eng",
+    "time": 33,
+    "category": "Arcade Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "z0623ejz",
+    "game": "Ready 2 Rumble Boxing [GBC]",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 20,
+    "category": "Arcade Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "me4rep9y",
+    "game": "Ready 2 Rumble Boxing [GBC]",
+    "player": "FrozenFaygo",
+    "player_location": "us",
+    "time": 19,
+    "category": "Arcade Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "zq0glvry",
+    "game": "Ready 2 Rumble Boxing [GBC]",
+    "player": "Vu16",
+    "player_location": "ca/qc",
+    "time": 26,
+    "category": "Arcade Any%",
+    "region": null,
+    "platform": "Game Boy Color",
+    "emulated": true
+  }
+]

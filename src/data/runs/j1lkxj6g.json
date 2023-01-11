@@ -1,0 +1,90 @@
+[
+  {
+    "id": "kz5pvedm",
+    "game": "D: The Game",
+    "player": "zackcat",
+    "player_location": "us",
+    "time": 1935,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "MS-DOS",
+    "emulated": false
+  },
+  {
+    "id": "ydqrx1wm",
+    "game": "D: The Game",
+    "player": "SnowyAria",
+    "player_location": "us",
+    "time": 1822,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "MS-DOS",
+    "emulated": false
+  },
+  {
+    "id": "z5opr9ny",
+    "game": "D: The Game",
+    "player": "Brendon_Meares",
+    "player_location": "us",
+    "time": 1963,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "yokodx1z",
+    "game": "D: The Game",
+    "player": "MadLadAdam",
+    "player_location": "gb/eng",
+    "time": 1805,
+    "category": "Any%",
+    "region": null,
+    "platform": "MS-DOS",
+    "emulated": false
+  },
+  {
+    "id": "mk930nlz",
+    "game": "D: The Game",
+    "player": "DesmoFlynn",
+    "player_location": "ca",
+    "time": 2253,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "zgkwk80y",
+    "game": "D: The Game",
+    "player": "Beckski93",
+    "player_location": "gb",
+    "time": 1839,
+    "category": "Any%",
+    "region": null,
+    "platform": "MS-DOS",
+    "emulated": false
+  },
+  {
+    "id": "y25qxn5y",
+    "game": "D: The Game",
+    "player": "hoppity64",
+    "player_location": "au",
+    "time": 2689,
+    "category": "Any%",
+    "region": null,
+    "platform": "MS-DOS",
+    "emulated": true
+  },
+  {
+    "id": "ydel7r0m",
+    "game": "D: The Game",
+    "player": "josnib",
+    "player_location": "ca/qc",
+    "time": 4560,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  }
+]

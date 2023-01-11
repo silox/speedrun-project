@@ -1,0 +1,57 @@
+[
+  {
+    "id": "yj3odenz",
+    "game": "Kirby's Extra Epic Yarn",
+    "player": "Demolition14",
+    "player_location": "gb/eng",
+    "time": 1711,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "New Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "z578eonm",
+    "game": "Kirby's Extra Epic Yarn",
+    "player": "shirokirby",
+    "player_location": "jp",
+    "time": 1805,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "New Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "ylrdx1ry",
+    "game": "Kirby's Extra Epic Yarn",
+    "player": "RexBmx",
+    "player_location": "us",
+    "time": 5919,
+    "category": "Any% No Level Skips",
+    "region": "USA / NTSC",
+    "platform": "New Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "zqv0wwxm",
+    "game": "Kirby's Extra Epic Yarn",
+    "player": "Sorendo",
+    "player_location": "fr",
+    "time": 1791,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "New Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "zp2qwk8y",
+    "game": "Kirby's Extra Epic Yarn",
+    "player": "Kayato",
+    "player_location": "um",
+    "time": 1921,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "New Nintendo 3DS",
+    "emulated": false
+  }
+]

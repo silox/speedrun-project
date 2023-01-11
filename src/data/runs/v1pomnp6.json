@@ -1,0 +1,35 @@
+[
+  {
+    "id": "m79xk3ey",
+    "game": "",
+    "player": "Witchs_Hex",
+    "player_location": null,
+    "time": 876,
+    "category": "100k",
+    "region": "JPN / NTSC",
+    "platform": "Virtual Boy",
+    "emulated": true
+  },
+  {
+    "id": "znkx7xlz",
+    "game": "",
+    "player": "rialsnogard",
+    "player_location": "jp",
+    "time": 413,
+    "category": "100k",
+    "region": "JPN / NTSC",
+    "platform": "Virtual Boy",
+    "emulated": false
+  },
+  {
+    "id": "m7680xwy",
+    "game": "",
+    "player": "JoePulito",
+    "player_location": "us",
+    "time": 129,
+    "category": "20k",
+    "region": "USA / NTSC",
+    "platform": "Virtual Boy",
+    "emulated": true
+  }
+]

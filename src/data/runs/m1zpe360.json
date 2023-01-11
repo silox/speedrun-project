@@ -1,0 +1,35 @@
+[
+  {
+    "id": "y410k0ny",
+    "game": "",
+    "player": "brossentia",
+    "player_location": "us",
+    "time": 3016,
+    "category": "any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "zgkegxjy",
+    "game": "",
+    "player": "mikwuyma",
+    "player_location": "us",
+    "time": 2201,
+    "category": "any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "ylqn25nz",
+    "game": "",
+    "player": "brott",
+    "player_location": "ca",
+    "time": 3765,
+    "category": "any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  }
+]

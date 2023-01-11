@@ -1,0 +1,46 @@
+[
+  {
+    "id": "mex4kx0z",
+    "game": "Al Unser Jr. Turbo Racing",
+    "player": "Toad22484",
+    "player_location": "us",
+    "time": 3480,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "mexnkw3z",
+    "game": "Al Unser Jr. Turbo Racing",
+    "player": "Vriaeliss",
+    "player_location": "us",
+    "time": 2465,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y81g985z",
+    "game": "Al Unser Jr. Turbo Racing",
+    "player": "Overswarm",
+    "player_location": "us",
+    "time": 2362,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y81g6l5z",
+    "game": "Al Unser Jr. Turbo Racing",
+    "player": "brianwilliams42",
+    "player_location": "us",
+    "time": 1951,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  }
+]

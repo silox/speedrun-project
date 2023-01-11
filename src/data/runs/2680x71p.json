@@ -1,0 +1,24 @@
+[
+  {
+    "id": "pm3lq06m",
+    "game": "Phantasy Star 0",
+    "player": "Ckarl_Bobadine",
+    "player_location": "us",
+    "time": 8799,
+    "category": "any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "dy4go6qy",
+    "game": "Phantasy Star 0",
+    "player": "Danschemen",
+    "player_location": "us",
+    "time": 9148,
+    "category": "any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  }
+]

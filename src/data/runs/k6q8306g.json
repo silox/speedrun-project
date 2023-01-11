@@ -1,0 +1,57 @@
+[
+  {
+    "id": "wzpwd7gy",
+    "game": "Golgo 13: Top Secret Episode",
+    "player": "Emptyeye",
+    "player_location": "us",
+    "time": 3135,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "0y61pg0m",
+    "game": "Golgo 13: Top Secret Episode",
+    "player": "Toad22484",
+    "player_location": "us",
+    "time": 3029,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "z5dkkg5m",
+    "game": "Golgo 13: Top Secret Episode",
+    "player": "mechalink",
+    "player_location": "us",
+    "time": 3400,
+    "category": "Any%",
+    "region": null,
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "m3653rqm",
+    "game": "Golgo 13: Top Secret Episode",
+    "player": "N_E_S_Cafe",
+    "player_location": "us",
+    "time": 3425,
+    "category": "Any%",
+    "region": null,
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "z5vg7lgm",
+    "game": "Golgo 13: Top Secret Episode",
+    "player": "Grayskull83",
+    "player_location": "us",
+    "time": 4211,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  }
+]

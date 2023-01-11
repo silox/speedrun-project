@@ -1,0 +1,46 @@
+[
+  {
+    "id": "m79n57wy",
+    "game": "",
+    "player": "NihilistComedyHour",
+    "player_location": "eo",
+    "time": 5798,
+    "category": "Conquest",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "mk408d5y",
+    "game": "",
+    "player": "buffalax",
+    "player_location": "us",
+    "time": 25080,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "yvgvegey",
+    "game": "Sid Meier's Civilization (SNES)",
+    "player": "RTavares",
+    "player_location": "br",
+    "time": 3153,
+    "category": "Conquest",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "m31dor4z",
+    "game": "Sid Meier's Civilization (SNES)",
+    "player": "Random__Encounter",
+    "player_location": "us",
+    "time": 3974,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  }
+]

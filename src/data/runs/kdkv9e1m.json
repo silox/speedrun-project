@@ -1,0 +1,24 @@
+[
+  {
+    "id": "yvo0vd8z",
+    "game": "Spider: The Video Game",
+    "player": "AlDeezy",
+    "player_location": "us",
+    "time": 1876,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y475743y",
+    "game": "Spider: The Video Game",
+    "player": "AmenAnthem",
+    "player_location": "at",
+    "time": 2296,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "yo4136dm",
+    "game": "Boom Blox Bash Party",
+    "player": "Cmdr",
+    "player_location": "us",
+    "time": 175,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "m7gd3qwm",
+    "game": "Boom Blox Bash Party",
+    "player": "Sphere_Cube",
+    "player_location": "us",
+    "time": 163.299,
+    "category": "Showtime",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "znk1erlz",
+    "game": "Boom Blox Bash Party",
+    "player": "Mara_the_Destroyer",
+    "player_location": "us",
+    "time": 172.811,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "y8rp00xm",
+    "game": "Boom Blox Bash Party",
+    "player": "LilBroski1",
+    "player_location": "us",
+    "time": 142,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "mr6po8dm",
+    "game": "Boom Blox Bash Party",
+    "player": "toothbrush435",
+    "player_location": "ca",
+    "time": 130,
+    "category": "Training",
+    "region": "USA / NTSC",
+    "platform": "Wii U",
+    "emulated": false
+  }
+]

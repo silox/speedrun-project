@@ -1,0 +1,68 @@
+[
+  {
+    "id": "yvq0418m",
+    "game": "The Caligula Effect 2",
+    "player": "newby24",
+    "player_location": null,
+    "time": 8675,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "zq0v8r1y",
+    "game": "The Caligula Effect 2",
+    "player": "MarisaRaindrops",
+    "player_location": "us",
+    "time": 36095,
+    "category": "All Endings",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "y88ol4xy",
+    "game": "The Caligula Effect 2",
+    "player": "MORI_peer",
+    "player_location": "jp",
+    "time": 7337,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "ydw7jlqm",
+    "game": "The Caligula Effect 2",
+    "player": "EvilPlanCaptain",
+    "player_location": "nz",
+    "time": 7943,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "y604l6qy",
+    "game": "The Caligula Effect 2",
+    "player": "edge_shaaan",
+    "player_location": "jp",
+    "time": 6849,
+    "category": "Alternate Ending",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zq94668y",
+    "game": "The Caligula Effect 2",
+    "player": "N\u00e4misushi",
+    "player_location": "ca/qc",
+    "time": 5554,
+    "category": "Alternate Ending",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "zxv5448y",
+    "game": "Dino Stalker",
+    "player": "DrMaxtermind",
+    "player_location": "us",
+    "time": 1297.25,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "z13p18jm",
+    "game": "Dino Stalker",
+    "player": "UndeadMarksmanX",
+    "player_location": "us",
+    "time": 1325.82,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "zq3rwo8y",
+    "game": "Dino Stalker",
+    "player": "WoweeTheDoggo",
+    "player_location": "us",
+    "time": 1366.095,
+    "category": "Handgun Only",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "y892qxxm",
+    "game": "Dino Stalker",
+    "player": "TheLevelBest",
+    "player_location": "us",
+    "time": 1341.34,
+    "category": "Handgun Only",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "yl099w3y",
+    "game": "Dino Stalker",
+    "player": "ToxicTT",
+    "player_location": "ru",
+    "time": 1522.94,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "yok9w8dz",
+    "game": "Dino Stalker",
+    "player": "Punchy",
+    "player_location": "gb/eng",
+    "time": 1230.098,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "yv9jo14z",
+    "game": "Dino Stalker",
+    "player": "Symm",
+    "player_location": "gb",
+    "time": 1271.26,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "z5dn0wgm",
+    "game": "Dino Stalker",
+    "player": "If_And_While",
+    "player_location": null,
+    "time": 1124.55,
+    "category": "Infinity",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "z0rq089z",
+    "game": "Dino Stalker",
+    "player": "AndreaRitsu",
+    "player_location": "se",
+    "time": 1529.76,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "zx74j95y",
+    "game": "Dino Stalker",
+    "player": "Kaladere",
+    "player_location": "ca",
+    "time": 1088.52,
+    "category": "Infinity",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  }
+]

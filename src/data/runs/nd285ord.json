@@ -1,0 +1,35 @@
+[
+  {
+    "id": "yjxqx1dz",
+    "game": "Datsugoku-Gokko",
+    "player": "Pi1MuTINJUU",
+    "player_location": "jp",
+    "time": 3.63,
+    "category": "instant death",
+    "region": "JPN / NTSC",
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "m36v66gm",
+    "game": "Datsugoku-Gokko",
+    "player": "Tademaru2001",
+    "player_location": "jp",
+    "time": 2.86,
+    "category": "instant death",
+    "region": "JPN / NTSC",
+    "platform": "Android",
+    "emulated": false
+  },
+  {
+    "id": "yw318o3m",
+    "game": "Datsugoku-Gokko",
+    "player": "LIBLofi",
+    "player_location": null,
+    "time": 8.61,
+    "category": "tower explosion",
+    "region": "JPN / NTSC",
+    "platform": "iOS",
+    "emulated": false
+  }
+]

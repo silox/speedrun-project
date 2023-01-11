@@ -1,0 +1,35 @@
+[
+  {
+    "id": "y6nk0e1z",
+    "game": "",
+    "player": "DBcade",
+    "player_location": "jp",
+    "time": 5029,
+    "category": "Game Clear Any%",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "yddwnjwy",
+    "game": "",
+    "player": "breadspreadr",
+    "player_location": "aq",
+    "time": 4000,
+    "category": "Game Clear Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "znpg6e3m",
+    "game": "Power Quest",
+    "player": "karstiris",
+    "player_location": "us",
+    "time": 3131,
+    "category": "Game Clear Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  }
+]

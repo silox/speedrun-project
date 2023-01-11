@@ -1,0 +1,24 @@
+[
+  {
+    "id": "yjd1owny",
+    "game": "Ys Book I & II",
+    "player": "rhythmsong",
+    "player_location": null,
+    "time": 3256,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": false
+  },
+  {
+    "id": "yvjg9v8y",
+    "game": "Ys Book I & II",
+    "player": "sYn",
+    "player_location": "us",
+    "time": 3989,
+    "category": "Any% Book I",
+    "region": "USA / NTSC",
+    "platform": "Wii Virtual Console",
+    "emulated": false
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "z0537r4m",
+    "game": "Ape Academy",
+    "player": "SRGTsilent",
+    "player_location": "us",
+    "time": 3707,
+    "category": "Freaky Monkey Five",
+    "region": "USA / NTSC",
+    "platform": "Playstation TV",
+    "emulated": false
+  },
+  {
+    "id": "z5jo2rem",
+    "game": "Ape Academy",
+    "player": "Riekelt",
+    "player_location": "nl",
+    "time": 7861,
+    "category": "Freaky Monkey Five",
+    "region": "USA / NTSC",
+    "platform": "Playstation TV",
+    "emulated": false
+  },
+  {
+    "id": "y918k3km",
+    "game": "Ape Academy",
+    "player": "BmanRulesYou21",
+    "player_location": "us",
+    "time": 4515,
+    "category": "Freaky Monkey Five",
+    "region": "USA / NTSC",
+    "platform": "Playstation TV",
+    "emulated": false
+  },
+  {
+    "id": "znk4gx8z",
+    "game": "Ape Academy",
+    "player": "renegadeanon",
+    "player_location": "us",
+    "time": 13450,
+    "category": "Freaky Monkey Five",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "z1olw99m",
+    "game": "Ape Academy",
+    "player": "YuriSR",
+    "player_location": "nz",
+    "time": 3280,
+    "category": "Freaky Monkey Five",
+    "region": "EUR / PAL",
+    "platform": "Playstation TV",
+    "emulated": false
+  },
+  {
+    "id": "mkgx211y",
+    "game": "Ape Academy",
+    "player": "SaraHyde",
+    "player_location": "je",
+    "time": 2568,
+    "category": "Freaky Monkey Five",
+    "region": "EUR / PAL",
+    "platform": "Playstation TV",
+    "emulated": false
+  }
+]

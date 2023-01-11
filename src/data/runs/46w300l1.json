@@ -1,0 +1,24 @@
+[
+  {
+    "id": "m3g0q3dz",
+    "game": "",
+    "player": "Sex",
+    "player_location": "gn",
+    "time": 395.27,
+    "category": "Lumina Tour",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": true
+  },
+  {
+    "id": "zgxnn2em",
+    "game": "",
+    "player": "Walgrey",
+    "player_location": "ca",
+    "time": 398.09,
+    "category": "Lumina Tour",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  }
+]

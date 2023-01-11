@@ -1,0 +1,46 @@
+[
+  {
+    "id": "yoj07r1m",
+    "game": "",
+    "player": "starsmiley",
+    "player_location": "us",
+    "time": 3362,
+    "category": "Normal Ending",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m3nv8dqy",
+    "game": "",
+    "player": "lavendertown1996",
+    "player_location": "us",
+    "time": 3214,
+    "category": "Normal Ending",
+    "region": "CHN / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z06655ez",
+    "game": "",
+    "player": "EddventureTime58",
+    "player_location": "gb/sct",
+    "time": 3099,
+    "category": "Normal Ending",
+    "region": "CHN / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zp3lgd8m",
+    "game": "Aria's Story",
+    "player": "Tegron",
+    "player_location": "pl",
+    "time": 3180,
+    "category": "Normal Ending",
+    "region": "CHN / PAL",
+    "platform": "PC",
+    "emulated": false
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "id": "zn80w63z",
+    "game": "Mario Cart",
+    "player": "RiceHaplin",
+    "player_location": "us",
+    "time": 765,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yvgo136y",
+    "game": "Mario Cart",
+    "player": "windashh",
+    "player_location": "us",
+    "time": 694,
+    "category": "Mushroom%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yl46243m",
+    "game": "Mario Cart",
+    "player": "BoJack",
+    "player_location": "ca",
+    "time": 103,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zx43je8y",
+    "game": "Mario Cart",
+    "player": "Sizzyl",
+    "player_location": "vh",
+    "time": 173,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yl4518rm",
+    "game": "Mario Cart",
+    "player": "wxpu",
+    "player_location": "us",
+    "time": 168,
+    "category": "Shroomless%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z1j8rr9z",
+    "game": "Mario Cart",
+    "player": "ghastertheboy",
+    "player_location": "ca/qc",
+    "time": 17403,
+    "category": "Mushroom%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yd518eqm",
+    "game": "Mario Cart",
+    "player": "davehunter",
+    "player_location": "es/pv",
+    "time": 775,
+    "category": "",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y8206pxy",
+    "game": "Mario Cart",
+    "player": "DuMmTm",
+    "player_location": "de",
+    "time": 734,
+    "category": "Mushroom%",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zqwq46rz",
+    "game": "Mario Cart",
+    "player": "OostJaveln",
+    "player_location": null,
+    "time": 253,
+    "category": "",
+    "region": null,
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "y6rr75py",
+    "game": "Mario Cart",
+    "player": "Nieznvny",
+    "player_location": "pl",
+    "time": 316,
+    "category": "Mushroom%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y4q6452m",
+    "game": "Mario Cart",
+    "player": "TRLittleToaster",
+    "player_location": "us",
+    "time": 215,
+    "category": "Mushroom%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

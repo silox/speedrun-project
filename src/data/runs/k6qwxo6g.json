@@ -1,0 +1,79 @@
+[
+  {
+    "id": "ywpd9v9z",
+    "game": "Breath of Fire IV",
+    "player": "chibizer0",
+    "player_location": "au",
+    "time": 25221,
+    "category": "True Ending",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "kz56v7dy",
+    "game": "Breath of Fire IV",
+    "player": "BOWIEtheHERO",
+    "player_location": "gb",
+    "time": 26413,
+    "category": "True Ending",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y45oxoqm",
+    "game": "Breath of Fire IV",
+    "player": "Deathtome",
+    "player_location": "aq",
+    "time": 28557,
+    "category": "True Ending",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "m3oj49qm",
+    "game": "Breath of Fire IV",
+    "player": "eLmaGus",
+    "player_location": "de",
+    "time": 24898,
+    "category": "True Ending",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "z03684oz",
+    "game": "Breath of Fire IV",
+    "player": "Alowne",
+    "player_location": "br",
+    "time": 29034,
+    "category": "True Ending",
+    "region": null,
+    "platform": "PC",
+    "emulated": true
+  },
+  {
+    "id": "zqr6g51y",
+    "game": "Breath of Fire IV",
+    "player": "Zheal",
+    "player_location": "vh",
+    "time": 24950,
+    "category": "True Ending",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "ywk5we9y",
+    "game": "Breath of Fire IV",
+    "player": "Xan",
+    "player_location": "br",
+    "time": 24908,
+    "category": "True Ending",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

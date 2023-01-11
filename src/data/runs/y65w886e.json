@@ -1,0 +1,46 @@
+[
+  {
+    "id": "7z04wdoy",
+    "game": "Wild Arms 3",
+    "player": "Koolzo",
+    "player_location": "us",
+    "time": 32841,
+    "category": "Any %",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "8yvk4l8m",
+    "game": "Wild Arms 3",
+    "player": "nin nin",
+    "player_location": null,
+    "time": 30992,
+    "category": "Any %",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "z579r65m",
+    "game": "Wild Arms 3",
+    "player": "RiaCorvidiva",
+    "player_location": "us",
+    "time": 31727,
+    "category": "Any %",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "mex9nr2z",
+    "game": "Wild Arms 3",
+    "player": "Highspirits",
+    "player_location": "us",
+    "time": 37495,
+    "category": "Any %",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  }
+]

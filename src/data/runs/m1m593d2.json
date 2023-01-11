@@ -1,0 +1,200 @@
+[
+  {
+    "id": "pydx1gwz",
+    "game": "Wild Gunman",
+    "player": "RantronBomb",
+    "player_location": null,
+    "time": 521.44,
+    "category": "Game C",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "8yvd364y",
+    "game": "Wild Gunman",
+    "player": "NESCardinality",
+    "player_location": "ca",
+    "time": 520.53,
+    "category": "Game C",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y23qq4wm",
+    "game": "Wild Gunman",
+    "player": "Death_Devil",
+    "player_location": "ru",
+    "time": 514.87,
+    "category": "Game C",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "m3d94p4z",
+    "game": "Wild Gunman",
+    "player": "Nolcolem",
+    "player_location": "fr",
+    "time": 1535.31,
+    "category": "Game A",
+    "region": null,
+    "platform": "Wii U Virtual Console",
+    "emulated": false
+  },
+  {
+    "id": "mr87w72y",
+    "game": "Wild Gunman",
+    "player": "cantaloupeme",
+    "player_location": "us",
+    "time": 1422,
+    "category": "Game A",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "yo2n1v1z",
+    "game": "Wild Gunman",
+    "player": "Carter44",
+    "player_location": "ca",
+    "time": 511.6,
+    "category": "Game C",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y92jwonz",
+    "game": "Wild Gunman",
+    "player": "Raeanus",
+    "player_location": "us",
+    "time": 518.37,
+    "category": "Game C",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "z03rvojz",
+    "game": "Wild Gunman",
+    "player": "sYn",
+    "player_location": "us",
+    "time": 520.75,
+    "category": "Game C",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "me836q3m",
+    "game": "Wild Gunman",
+    "player": "octopuscal",
+    "player_location": "jp",
+    "time": 1406,
+    "category": "Game A",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "yvjx00xy",
+    "game": "Wild Gunman",
+    "player": "Oldschoolmcfly",
+    "player_location": "us",
+    "time": 794.861,
+    "category": "Game B",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "yw43kp0z",
+    "game": "Wild Gunman",
+    "player": "RyanWalker1",
+    "player_location": "us",
+    "time": 1535.029,
+    "category": "Game A",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "z572ndem",
+    "game": "Wild Gunman",
+    "player": "PGHGuitarGuy",
+    "player_location": "us",
+    "time": 1407,
+    "category": "Game A",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y8vkwlwz",
+    "game": "Wild Gunman",
+    "player": "bowtie1320",
+    "player_location": "us",
+    "time": 692,
+    "category": "Game B",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y99wk3ey",
+    "game": "Wild Gunman",
+    "player": "smartalec24",
+    "player_location": "us",
+    "time": 518.18,
+    "category": "Game C",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y273xk9z",
+    "game": "Wild Gunman",
+    "player": "JoePulito",
+    "player_location": "us",
+    "time": 524.6,
+    "category": "Game C",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y47d853y",
+    "game": "Wild Gunman",
+    "player": "tvschaser",
+    "player_location": "us",
+    "time": 1437,
+    "category": "Game A",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y2036p5m",
+    "game": "Wild Gunman",
+    "player": "Arran",
+    "player_location": null,
+    "time": 806.89,
+    "category": "Game B",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "y48848qm",
+    "game": "Wild Gunman",
+    "player": "lackattack",
+    "player_location": "us",
+    "time": 524,
+    "category": "Game C",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  }
+]

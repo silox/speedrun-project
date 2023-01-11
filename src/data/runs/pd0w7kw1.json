@@ -1,0 +1,46 @@
+[
+  {
+    "id": "y8vq69xz",
+    "game": "",
+    "player": "faulteroyy",
+    "player_location": "ca",
+    "time": 600,
+    "category": "All levels",
+    "region": null,
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "z037659z",
+    "game": "",
+    "player": "TheMotherBrain86",
+    "player_location": "nl",
+    "time": 705,
+    "category": "All levels",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "mk95g0lz",
+    "game": "Tom & Jerry (GB)",
+    "player": "vanswrld",
+    "player_location": "us",
+    "time": 42.5,
+    "category": "",
+    "region": null,
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "y21g5n6z",
+    "game": "Tom & Jerry (GB)",
+    "player": "smartalec24",
+    "player_location": "us",
+    "time": 675,
+    "category": "All levels",
+    "region": "USA / NTSC",
+    "platform": "Super Game Boy 2",
+    "emulated": false
+  }
+]

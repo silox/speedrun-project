@@ -1,0 +1,35 @@
+[
+  {
+    "id": "me3xl4qz",
+    "game": "Mystic Valley",
+    "player": "Ikan492",
+    "player_location": "us",
+    "time": 44,
+    "category": "Mystic Valley Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zp905vrm",
+    "game": "Mystic Valley",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 44,
+    "category": "Mystic Valley Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yvr2wp8z",
+    "game": "Mystic Valley",
+    "player": "repxer",
+    "player_location": null,
+    "time": 44,
+    "category": "Mystic Valley Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

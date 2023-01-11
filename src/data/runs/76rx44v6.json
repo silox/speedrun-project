@@ -1,0 +1,134 @@
+[
+  {
+    "id": "m7pnj7em",
+    "game": "Fe",
+    "player": "CorundumCore",
+    "player_location": "us",
+    "time": 1830,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mrq0gq7y",
+    "game": "Fe",
+    "player": "BnH247",
+    "player_location": null,
+    "time": 5150,
+    "category": "All Songs",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z1367j9m",
+    "game": "Fe",
+    "player": "zefferss",
+    "player_location": "us",
+    "time": 2984,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m3dvnqwz",
+    "game": "Fe",
+    "player": "Sin",
+    "player_location": "us",
+    "time": 3897,
+    "category": "All Songs",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "z51gow5m",
+    "game": "Fe",
+    "player": "Ikewolf",
+    "player_location": "ch",
+    "time": 1731,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y97r2g2m",
+    "game": "Fe",
+    "player": "KimiJ133",
+    "player_location": "ca",
+    "time": 3948,
+    "category": "All Songs",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zx4q31qy",
+    "game": "Fe",
+    "player": "Dedew",
+    "player_location": "fr",
+    "time": 2127,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y6pqjwqm",
+    "game": "Fe",
+    "player": "plof27",
+    "player_location": "us",
+    "time": 11600,
+    "category": "All Songs",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z03ddv4z",
+    "game": "Fe",
+    "player": "EarlyR1s3r",
+    "player_location": "us",
+    "time": 4635.912,
+    "category": "All Songs",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mre7o28y",
+    "game": "Fe",
+    "player": "Link2425",
+    "player_location": "us",
+    "time": 3573.75,
+    "category": "All Songs",
+    "region": "USA / NTSC",
+    "platform": "Xbox One",
+    "emulated": false
+  },
+  {
+    "id": "yvqg2v6m",
+    "game": "Fe",
+    "player": "240ccky",
+    "player_location": "jp",
+    "time": 5857.013,
+    "category": "All Songs",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yjdw7qgy",
+    "game": "Fe",
+    "player": "koohii",
+    "player_location": "jp",
+    "time": 3849,
+    "category": "All Songs",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

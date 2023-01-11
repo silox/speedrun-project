@@ -1,0 +1,134 @@
+[
+  {
+    "id": "0y6w046z",
+    "game": "Battletoads (Genesis/MegaDrive)",
+    "player": "s3sh",
+    "player_location": "ru",
+    "time": 1448,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "mrqq5o7y",
+    "game": "Battletoads (Genesis/MegaDrive)",
+    "player": "Tapping",
+    "player_location": "us",
+    "time": 1427,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "8yverkom",
+    "game": "Battletoads (Genesis/MegaDrive)",
+    "player": "djeiden",
+    "player_location": "ru",
+    "time": 1548,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "0zn6pl7y",
+    "game": "Battletoads (Genesis/MegaDrive)",
+    "player": "MilesTheWolfman",
+    "player_location": "us",
+    "time": 1559,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "y2qd8k6y",
+    "game": "Battletoads (Genesis/MegaDrive)",
+    "player": "TGR",
+    "player_location": "ru",
+    "time": 1432,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "zplqx8nm",
+    "game": "Battletoads (Genesis/MegaDrive)",
+    "player": "Rash",
+    "player_location": "ru",
+    "time": 1308,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "m7q9n30z",
+    "game": "Battletoads (Genesis/MegaDrive)",
+    "player": "Anko",
+    "player_location": "ru",
+    "time": 1308,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "yv2oq4em",
+    "game": "Battletoads (Genesis/MegaDrive)",
+    "player": "Gamer86",
+    "player_location": "by",
+    "time": 2752,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "y4141eky",
+    "game": "Battletoads (Genesis/MegaDrive)",
+    "player": "SerGameTV",
+    "player_location": "ru",
+    "time": 2796,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "yv63rloz",
+    "game": "Battletoads (Genesis/MegaDrive)",
+    "player": "BeaRType",
+    "player_location": "br",
+    "time": 1369,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "me7n4x0y",
+    "game": "Battletoads (Genesis/MegaDrive)",
+    "player": "ESplayGame",
+    "player_location": "ru",
+    "time": 1467,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "z5dg2ogm",
+    "game": "Battletoads (Genesis/MegaDrive)",
+    "player": "gamerr712",
+    "player_location": "ru",
+    "time": 4356,
+    "category": "Warpless",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  }
+]

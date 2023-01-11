@@ -1,0 +1,233 @@
+[
+  {
+    "id": "pydv6jjy",
+    "game": "Fatal Fury Special",
+    "player": "Jornada Gamer",
+    "player_location": null,
+    "time": 1495,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "9yoqjndz",
+    "game": "Fatal Fury Special",
+    "player": "Amy Rose",
+    "player_location": null,
+    "time": 1396,
+    "category": "SNES - Any% (Free Timer)",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "pyd4rr0y",
+    "game": "Fatal Fury Special",
+    "player": "sayan3",
+    "player_location": "br",
+    "time": 981,
+    "category": "SNES - Any% (Free Timer)",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "y23qdp5m",
+    "game": "Fatal Fury Special",
+    "player": "Sanjihimura",
+    "player_location": "us",
+    "time": 979,
+    "category": "SNES - Any% (Free Timer)",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "mr8p578y",
+    "game": "Fatal Fury Special",
+    "player": "DanEvilEye",
+    "player_location": "br",
+    "time": 1042,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yw48pw9z",
+    "game": "Fatal Fury Special",
+    "player": "YoBGS",
+    "player_location": "us",
+    "time": 1461,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "z01qxjoy",
+    "game": "Fatal Fury Special",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 1251,
+    "category": "SNES - Any% (Free Timer)",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "yv3ejdxz",
+    "game": "Fatal Fury Special",
+    "player": "Jesus82050615",
+    "player_location": "ca/qc",
+    "time": 1075,
+    "category": "SNES - Level 1",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "mk3890lz",
+    "game": "Fatal Fury Special",
+    "player": "Fabinho_RetroPlay",
+    "player_location": "br",
+    "time": 937,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "m35n4ngy",
+    "game": "Fatal Fury Special",
+    "player": "Tavetendo",
+    "player_location": "us",
+    "time": 1059,
+    "category": "SNES - Level 1",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y82gjxny",
+    "game": "Fatal Fury Special",
+    "player": "D10",
+    "player_location": "br",
+    "time": 934,
+    "category": "",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yj1kep7y",
+    "game": "Fatal Fury Special",
+    "player": "Whoisitgoodfor",
+    "player_location": "us",
+    "time": 881,
+    "category": "Game Gear - Easy (+ Ryo)",
+    "region": "USA / NTSC",
+    "platform": "Sega Game Gear",
+    "emulated": true
+  },
+  {
+    "id": "yd9o8gjz",
+    "game": "Fatal Fury Special",
+    "player": "NerdyNester",
+    "player_location": "us",
+    "time": 461,
+    "category": "Game Gear - Easy (+ Ryo)",
+    "region": "USA / NTSC",
+    "platform": "Sega Game Gear",
+    "emulated": false
+  },
+  {
+    "id": "y99665vy",
+    "game": "Fatal Fury Special",
+    "player": "freeHippie",
+    "player_location": "de",
+    "time": 958,
+    "category": "SNES - Any% (Free Timer)",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "yde1lqqm",
+    "game": "Fatal Fury Special",
+    "player": "Therunner1",
+    "player_location": "dz",
+    "time": 972,
+    "category": "SNES - Any% (Free Timer)",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "z07vdooy",
+    "game": "Fatal Fury Special",
+    "player": "ToniR",
+    "player_location": "br",
+    "time": 1516,
+    "category": "",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": false
+  },
+  {
+    "id": "y486k4qm",
+    "game": "Fatal Fury Special",
+    "player": "notdonknotts",
+    "player_location": "us",
+    "time": 791,
+    "category": "Game Gear - Easy (+ Ryo)",
+    "region": "USA / NTSC",
+    "platform": "Sega Game Gear",
+    "emulated": true
+  },
+  {
+    "id": "yjpkokgy",
+    "game": "Fatal Fury Special",
+    "player": "Johndretrogamer",
+    "player_location": "ph",
+    "time": 1009,
+    "category": "SNES - Level 1",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "ydd6830y",
+    "game": "Fatal Fury Special",
+    "player": "DBcade",
+    "player_location": "jp",
+    "time": 481,
+    "category": "Game Gear - Easy (+ Ryo)",
+    "region": "JPN / NTSC",
+    "platform": "Sega Game Gear",
+    "emulated": true
+  },
+  {
+    "id": "zp9274xm",
+    "game": "Fatal Fury Special",
+    "player": "ScoreJooJRun",
+    "player_location": "br",
+    "time": 914,
+    "category": "SNES - Any% (Free Timer)",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "y2peeg9z",
+    "game": "Fatal Fury Special",
+    "player": "ParallaxMKChile",
+    "player_location": "cl",
+    "time": 897,
+    "category": "SNES - Level 1",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  }
+]

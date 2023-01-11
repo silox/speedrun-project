@@ -1,0 +1,134 @@
+[
+  {
+    "id": "y2ql846y",
+    "game": "Cool Boarders 2",
+    "player": "Serge",
+    "player_location": "gb/eng",
+    "time": 1123,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "yvjn46ey",
+    "game": "Cool Boarders 2",
+    "player": "TheJayJay",
+    "player_location": "gb",
+    "time": 1197,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "yl4w96nm",
+    "game": "Cool Boarders 2",
+    "player": "StoneAgeMarcus",
+    "player_location": "us",
+    "time": 1135,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "y43d00kz",
+    "game": "Cool Boarders 2",
+    "player": "JumpAndShout",
+    "player_location": "gb/eng",
+    "time": 73.04,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "y2ql9d9y",
+    "game": "Cool Boarders 2",
+    "player": "mada_gaskar",
+    "player_location": "de",
+    "time": 75.6,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "yok4kx5z",
+    "game": "Cool Boarders 2",
+    "player": "thezbra",
+    "player_location": "us",
+    "time": 1149,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "ylqq3n2z",
+    "game": "Cool Boarders 2",
+    "player": "Planetaryashes",
+    "player_location": "au",
+    "time": 1577,
+    "category": "100%",
+    "region": "EUR / PAL",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "y6dde70m",
+    "game": "Cool Boarders 2",
+    "player": "Mr_Wingoto",
+    "player_location": "us",
+    "time": 1144,
+    "category": "Any%",
+    "region": null,
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "zq1369rm",
+    "game": "Cool Boarders 2",
+    "player": "breeettttt",
+    "player_location": "us",
+    "time": 1120,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "zq09x99y",
+    "game": "Cool Boarders 2",
+    "player": "BadNewsNate",
+    "player_location": "us",
+    "time": 1016,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "m3x144qm",
+    "game": "Cool Boarders 2",
+    "player": "Subsonix",
+    "player_location": "gb/eng",
+    "time": 1477,
+    "category": "100%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "y2ew546y",
+    "game": "Cool Boarders 2",
+    "player": "Andry66power",
+    "player_location": "it",
+    "time": 1217.38,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PlayStation",
+    "emulated": true
+  }
+]

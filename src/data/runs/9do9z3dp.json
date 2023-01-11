@@ -1,0 +1,35 @@
+[
+  {
+    "id": "8m7n3lwz",
+    "game": "Blaster Master 2",
+    "player": "UraniumAnchor",
+    "player_location": "us",
+    "time": 2420,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "m7pjnnwm",
+    "game": "Blaster Master 2",
+    "player": "BigJon",
+    "player_location": "us",
+    "time": 2258,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "ylolv3ry",
+    "game": "Blaster Master 2",
+    "player": "davidtki",
+    "player_location": "us",
+    "time": 2438,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  }
+]

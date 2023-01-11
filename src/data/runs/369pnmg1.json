@@ -1,0 +1,46 @@
+[
+  {
+    "id": "y4e4w92m",
+    "game": "Three Dirty Dwarves",
+    "player": "YongeStreet",
+    "player_location": "us",
+    "time": 1238,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "zno88p7y",
+    "game": "Three Dirty Dwarves",
+    "player": "Lizstar",
+    "player_location": "us",
+    "time": 1038,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "zp1pk88z",
+    "game": "Three Dirty Dwarves",
+    "player": "Gribbon1020",
+    "player_location": "us",
+    "time": 896,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  },
+  {
+    "id": "zgd2r8jz",
+    "game": "Three Dirty Dwarves",
+    "player": "Sonikkustar",
+    "player_location": "us",
+    "time": 2629,
+    "category": "Normal",
+    "region": "USA / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": false
+  }
+]

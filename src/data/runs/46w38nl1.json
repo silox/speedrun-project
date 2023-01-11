@@ -1,0 +1,79 @@
+[
+  {
+    "id": "y8r3101m",
+    "game": "Donkey Kong Jr. (Atari 2600)",
+    "player": "LarviStar",
+    "player_location": "us",
+    "time": 58.93,
+    "category": "1 Loop",
+    "region": null,
+    "platform": "Atari 2600",
+    "emulated": true
+  },
+  {
+    "id": "y8r310dm",
+    "game": "Donkey Kong Jr. (Atari 2600)",
+    "player": "PMniac",
+    "player_location": "pt",
+    "time": 58.567,
+    "category": "1 Loop",
+    "region": null,
+    "platform": "Atari 2600",
+    "emulated": true
+  },
+  {
+    "id": "zn3wrj7y",
+    "game": "Donkey Kong Jr. (Atari 2600)",
+    "player": "starcrytas",
+    "player_location": "us",
+    "time": 59.97,
+    "category": "1 Loop",
+    "region": null,
+    "platform": "Atari 2600",
+    "emulated": true
+  },
+  {
+    "id": "ywde4v3z",
+    "game": "Donkey Kong Jr. (Atari 2600)",
+    "player": "RanScot",
+    "player_location": "us",
+    "time": 66.51,
+    "category": "1 Loop",
+    "region": null,
+    "platform": "Atari 2600",
+    "emulated": true
+  },
+  {
+    "id": "ylv30nnm",
+    "game": "Donkey Kong Jr. (Atari 2600)",
+    "player": "ejayjoe",
+    "player_location": "ca/qc",
+    "time": 73,
+    "category": "1 Loop",
+    "region": null,
+    "platform": "Atari 2600",
+    "emulated": true
+  },
+  {
+    "id": "yo3vjl0y",
+    "game": "Donkey Kong Jr. (Atari 2600)",
+    "player": "DarQ",
+    "player_location": "ca",
+    "time": 103,
+    "category": "1 Loop",
+    "region": null,
+    "platform": "Atari 2600",
+    "emulated": true
+  },
+  {
+    "id": "yv014ooz",
+    "game": "Donkey Kong Jr. (Atari 2600)",
+    "player": "JoePulito",
+    "player_location": "us",
+    "time": 69,
+    "category": "1 Loop",
+    "region": "USA / NTSC",
+    "platform": "Atari 2600",
+    "emulated": true
+  }
+]

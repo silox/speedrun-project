@@ -1,0 +1,156 @@
+[
+  {
+    "id": "0zn3g57y",
+    "game": "Tatsunoko vs. Capcom : Ultimate All-Stars",
+    "player": "Marth",
+    "player_location": "us",
+    "time": 936,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "9me1wo3y",
+    "game": "Tatsunoko vs. Capcom : Ultimate All-Stars",
+    "player": "AlpineEscape",
+    "player_location": "gb",
+    "time": 650,
+    "category": "Arcade",
+    "region": "EUR / PAL",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "1zqx69ry",
+    "game": "Tatsunoko vs. Capcom : Ultimate All-Stars",
+    "player": "BlaGe",
+    "player_location": "de",
+    "time": 615,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": true
+  },
+  {
+    "id": "m3d1n54z",
+    "game": "Tatsunoko vs. Capcom : Ultimate All-Stars",
+    "player": "Auchgard",
+    "player_location": "us",
+    "time": 540,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "yv314w6z",
+    "game": "Tatsunoko vs. Capcom : Ultimate All-Stars",
+    "player": "Krayzar",
+    "player_location": "us",
+    "time": 595,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "z03p8gjz",
+    "game": "Tatsunoko vs. Capcom : Ultimate All-Stars",
+    "player": "CountGooby",
+    "player_location": "us",
+    "time": 756,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "y2v1r2wz",
+    "game": "Tatsunoko vs. Capcom : Ultimate All-Stars",
+    "player": "obiiwan",
+    "player_location": "hr",
+    "time": 447,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": true
+  },
+  {
+    "id": "zq3pd99y",
+    "game": "Tatsunoko vs. Capcom : Ultimate All-Stars",
+    "player": "tokko_tomcat",
+    "player_location": "us",
+    "time": 713,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "m7q6qe0z",
+    "game": "Tatsunoko vs. Capcom : Ultimate All-Stars",
+    "player": "99er",
+    "player_location": "ca",
+    "time": 720,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "y8r24exm",
+    "game": "Tatsunoko vs. Capcom : Ultimate All-Stars",
+    "player": "Psycho_Signal7",
+    "player_location": "jp",
+    "time": 465,
+    "category": "Arcade",
+    "region": "JPN / NTSC",
+    "platform": "Wii",
+    "emulated": true
+  },
+  {
+    "id": "yj66j7nz",
+    "game": "Tatsunoko vs. Capcom : Ultimate All-Stars",
+    "player": "OmegaZeroOZ",
+    "player_location": "mx",
+    "time": 451,
+    "category": "Arcade",
+    "region": null,
+    "platform": "Wii",
+    "emulated": true
+  },
+  {
+    "id": "y6rqll0y",
+    "game": "Tatsunoko vs. Capcom : Ultimate All-Stars",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 833,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": true
+  },
+  {
+    "id": "ylvwp9rm",
+    "game": "Tatsunoko vs. Capcom : Ultimate All-Stars",
+    "player": "Saullo64",
+    "player_location": "br",
+    "time": 625,
+    "category": "Arcade",
+    "region": "EUR / PAL",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "y9332rny",
+    "game": "Tatsunoko vs. Capcom : Ultimate All-Stars",
+    "player": "Qlex",
+    "player_location": "fr",
+    "time": 917,
+    "category": "Arcade",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": true
+  }
+]

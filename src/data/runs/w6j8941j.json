@@ -1,0 +1,68 @@
+[
+  {
+    "id": "nz1gdjjz",
+    "game": "",
+    "player": "Escort_Quest",
+    "player_location": "us",
+    "time": 1263,
+    "category": "Any% Single Match",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y675w6qm",
+    "game": "",
+    "player": "Charlieboy",
+    "player_location": "us",
+    "time": 1209,
+    "category": "Any% Single Match",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y43d6okz",
+    "game": "",
+    "player": "Darkhorse",
+    "player_location": "us",
+    "time": 3249,
+    "category": "Any% Team Battle Royal (Co-op)",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "yd5wpgwm",
+    "game": "",
+    "player": "Jesus82050615",
+    "player_location": "ca/qc",
+    "time": 883,
+    "category": "Any% Single Match",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "m756el4z",
+    "game": "",
+    "player": "RadManFromMars",
+    "player_location": "us",
+    "time": 1168,
+    "category": "Best% Single Match",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "mrrql3dm",
+    "game": "",
+    "player": "Kadroh",
+    "player_location": "it",
+    "time": 904,
+    "category": "Best% Single Match",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  }
+]

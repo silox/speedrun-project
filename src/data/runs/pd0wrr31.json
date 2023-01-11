@@ -1,0 +1,57 @@
+[
+  {
+    "id": "ywqnpxpy",
+    "game": "Ape Academy 2",
+    "player": "SRGTsilent",
+    "player_location": "us",
+    "time": 6084,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Playstation TV",
+    "emulated": false
+  },
+  {
+    "id": "yw8pkn3y",
+    "game": "Ape Academy 2",
+    "player": "BmanRulesYou21",
+    "player_location": "us",
+    "time": 9071,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Playstation TV",
+    "emulated": false
+  },
+  {
+    "id": "zp36gxnm",
+    "game": "Ape Academy 2",
+    "player": "RSpeedy",
+    "player_location": "gb",
+    "time": 15721,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "y66e30jy",
+    "game": "Ape Academy 2",
+    "player": "YuriSR",
+    "player_location": "nz",
+    "time": 7796,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Playstation TV",
+    "emulated": false
+  },
+  {
+    "id": "yd9l97jz",
+    "game": "Ape Academy 2",
+    "player": "kodeeak",
+    "player_location": "us",
+    "time": 14202,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  }
+]

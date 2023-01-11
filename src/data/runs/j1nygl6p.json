@@ -1,0 +1,134 @@
+[
+  {
+    "id": "kz50edny",
+    "game": "Jersey Devil",
+    "player": "alexmandi",
+    "player_location": "gr",
+    "time": 11753,
+    "category": "All Tokens",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "zq31q69y",
+    "game": "Jersey Devil",
+    "player": "Bregermann",
+    "player_location": "us",
+    "time": 217,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y2xddrjm",
+    "game": "Jersey Devil",
+    "player": "powerstone05",
+    "player_location": "us",
+    "time": 299,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "mrq6oq2y",
+    "game": "Jersey Devil",
+    "player": "MasterLeoBlue",
+    "player_location": "us",
+    "time": 9354,
+    "category": "All Tokens",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "ydqj58xm",
+    "game": "Jersey Devil",
+    "player": "Tigame",
+    "player_location": "de",
+    "time": 302,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zx4lne8y",
+    "game": "Jersey Devil",
+    "player": "lollipopomg",
+    "player_location": "ca/qc",
+    "time": 291,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "zqrlovry",
+    "game": "Jersey Devil",
+    "player": "XandoToaster",
+    "player_location": "us",
+    "time": 127,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "ydr78rwz",
+    "game": "Jersey Devil",
+    "player": "OneNamedLucas",
+    "player_location": "us",
+    "time": 312,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y92jxlrz",
+    "game": "Jersey Devil",
+    "player": "BattyPrincess",
+    "player_location": "br",
+    "time": 288,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "zn35pg8y",
+    "game": "Jersey Devil",
+    "player": "Muzgrob",
+    "player_location": "au",
+    "time": 413,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "mr1g278z",
+    "game": "Jersey Devil",
+    "player": "TheFireStorm2012",
+    "player_location": "us",
+    "time": 383,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "me41d18y",
+    "game": "Jersey Devil",
+    "player": "Alantair",
+    "player_location": "ar",
+    "time": 279,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  }
+]

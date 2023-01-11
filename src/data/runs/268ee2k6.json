@@ -1,0 +1,57 @@
+[
+  {
+    "id": "zp0r9jnm",
+    "game": "SoulCalibur: Broken Destiny",
+    "player": "Woldemar",
+    "player_location": "ua",
+    "time": 319,
+    "category": "Trial of Attack",
+    "region": "EUR / PAL",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "yj48pxoy",
+    "game": "SoulCalibur: Broken Destiny",
+    "player": "SefiroCrescent",
+    "player_location": "gb/eng",
+    "time": 239.96,
+    "category": "Trial of Attack",
+    "region": "EUR / PAL",
+    "platform": "PlayStation Portable",
+    "emulated": false
+  },
+  {
+    "id": "z01dpljy",
+    "game": "SoulCalibur: Broken Destiny",
+    "player": "CELSO190",
+    "player_location": "br",
+    "time": 408.37,
+    "category": "Trial of Attack",
+    "region": null,
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "m7539jez",
+    "game": "SoulCalibur: Broken Destiny",
+    "player": "Samurai_Soul",
+    "player_location": "br",
+    "time": 306.9,
+    "category": "Trial of Attack",
+    "region": null,
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "y2e4jj7y",
+    "game": "SoulCalibur: Broken Destiny",
+    "player": "beehzz",
+    "player_location": "br",
+    "time": 290.24,
+    "category": "Trial of Attack",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": false
+  }
+]

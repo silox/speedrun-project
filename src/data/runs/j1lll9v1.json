@@ -1,0 +1,46 @@
+[
+  {
+    "id": "mk9q0n5z",
+    "game": "Grandia: Parallel Trippers",
+    "player": "JoNaMi",
+    "player_location": null,
+    "time": 4325,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "y89q295m",
+    "game": "Grandia: Parallel Trippers",
+    "player": "NachoYacopu",
+    "player_location": null,
+    "time": 4370,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "y2qrq25y",
+    "game": "Grandia: Parallel Trippers",
+    "player": "Rioyner",
+    "player_location": "us",
+    "time": 3956,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "zprrg7vm",
+    "game": "Grandia: Parallel Trippers",
+    "player": "PurkisM",
+    "player_location": "gb/eng",
+    "time": 4355,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "z13w419m",
+    "game": "Game & Watch Gallery 2",
+    "player": "GhostSenpai",
+    "player_location": "mx",
+    "time": 504,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "m3de46gz",
+    "game": "Game & Watch Gallery 2",
+    "player": "GigaOtomia",
+    "player_location": "ca",
+    "time": 503,
+    "category": "100 Points / Easy / Modern",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "m7pdw74m",
+    "game": "Game & Watch Gallery 2",
+    "player": "epfcaptain",
+    "player_location": "hk",
+    "time": 511,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "y92x1v2z",
+    "game": "Game & Watch Gallery 2",
+    "player": "terkylol12",
+    "player_location": "cl",
+    "time": 476,
+    "category": "",
+    "region": null,
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "z1ojkkgm",
+    "game": "Game & Watch Gallery 2",
+    "player": "spins",
+    "player_location": null,
+    "time": 486,
+    "category": "100 Points / Easy / Modern",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "z0rn5eez",
+    "game": "Game & Watch Gallery 2",
+    "player": "MalditeLoki",
+    "player_location": "mx",
+    "time": 459,
+    "category": "100 Points / Hard / Modern",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "yjxlo0gz",
+    "game": "Game & Watch Gallery 2",
+    "player": "KKvibe",
+    "player_location": "us",
+    "time": 451,
+    "category": "100 Points / Hard / Modern",
+    "region": null,
+    "platform": "Game Boy Color",
+    "emulated": true
+  },
+  {
+    "id": "yorwgrdy",
+    "game": "Game & Watch Gallery 2",
+    "player": "Optic_Rainfall",
+    "player_location": "au",
+    "time": 417,
+    "category": "100 Points / Hard / Modern",
+    "region": null,
+    "platform": "Game Boy Color",
+    "emulated": true
+  }
+]

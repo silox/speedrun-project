@@ -1,0 +1,79 @@
+[
+  {
+    "id": "kz5kl25z",
+    "game": "Extermination",
+    "player": "joshtakovich",
+    "player_location": "us",
+    "time": 4580,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "0y6qgvqz",
+    "game": "Extermination",
+    "player": "RileySkye100",
+    "player_location": null,
+    "time": 5111,
+    "category": "New Game",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "dy46jpnz",
+    "game": "Extermination",
+    "player": "Laud",
+    "player_location": "us",
+    "time": 4543,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y822l9dy",
+    "game": "Extermination",
+    "player": "Ophi",
+    "player_location": "us",
+    "time": 3472,
+    "category": "New Game",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "yj64gqoz",
+    "game": "Extermination",
+    "player": "Retroid99",
+    "player_location": "nz",
+    "time": 3372,
+    "category": "New Game",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zpr0ljnm",
+    "game": "Extermination",
+    "player": "DemonicRobots",
+    "player_location": "us",
+    "time": 3584,
+    "category": "New Game",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y8j2p0nz",
+    "game": "Extermination",
+    "player": "Starwin",
+    "player_location": "us",
+    "time": 3914,
+    "category": "New Game",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  }
+]

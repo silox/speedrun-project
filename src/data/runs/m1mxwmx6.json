@@ -1,0 +1,68 @@
+[
+  {
+    "id": "zq3l778y",
+    "game": "Caladrius",
+    "player": "Gigoldz",
+    "player_location": "gb/eng",
+    "time": 1173,
+    "category": "",
+    "region": null,
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "zgkddqjy",
+    "game": "Caladrius",
+    "player": "gavme",
+    "player_location": "gb/eng",
+    "time": 1142,
+    "category": "Original Mode",
+    "region": "JPN / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "z5jo2knm",
+    "game": "Caladrius",
+    "player": "RitaH",
+    "player_location": "br",
+    "time": 1345,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "ylk0lgxz",
+    "game": "Caladrius",
+    "player": "NeetSuhiro",
+    "player_location": "jp",
+    "time": 990,
+    "category": "Original Mode",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "y8r3rgxm",
+    "game": "Caladrius",
+    "player": "touhu_dnb",
+    "player_location": "jp",
+    "time": 971,
+    "category": "Original Mode",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "zp8p2n8y",
+    "game": "Caladrius",
+    "player": "bustaboy",
+    "player_location": "us",
+    "time": 1238,
+    "category": "Original Mode",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  }
+]

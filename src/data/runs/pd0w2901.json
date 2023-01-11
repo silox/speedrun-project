@@ -1,0 +1,68 @@
+[
+  {
+    "id": "mk9429vz",
+    "game": "Saint Seiya: The Hades",
+    "player": "zaizoa",
+    "player_location": "au",
+    "time": 6538,
+    "category": "",
+    "region": null,
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "yvj9d74y",
+    "game": "Saint Seiya: The Hades",
+    "player": "sevalle",
+    "player_location": "br",
+    "time": 3248,
+    "category": "Any% (Japan)",
+    "region": null,
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "zp2911gy",
+    "game": "Saint Seiya: The Hades",
+    "player": "VonDrake",
+    "player_location": "br",
+    "time": 2501,
+    "category": "Any% (Japan)",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "ywjwgq0z",
+    "game": "Saint Seiya: The Hades",
+    "player": "DyanFrejat",
+    "player_location": "br",
+    "time": 2248,
+    "category": "Any% (Japan)",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "zgrj5vnm",
+    "game": "Saint Seiya: The Hades",
+    "player": "MrReaperBR",
+    "player_location": "br",
+    "time": 5165,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y88d26dy",
+    "game": "Saint Seiya: The Hades",
+    "player": "GhostSenpai",
+    "player_location": "mx",
+    "time": 2798,
+    "category": "Any% (Japan)",
+    "region": null,
+    "platform": "PlayStation 2",
+    "emulated": false
+  }
+]

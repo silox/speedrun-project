@@ -1,0 +1,24 @@
+[
+  {
+    "id": "mr4e527z",
+    "game": "",
+    "player": "mrguyaverage",
+    "player_location": "us",
+    "time": 512.61,
+    "category": "Championship Mode",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "y9l90dry",
+    "game": "",
+    "player": "LetsGetBready",
+    "player_location": "gb",
+    "time": 403.07,
+    "category": "Championship Mode",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  }
+]

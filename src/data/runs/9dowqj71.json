@@ -1,0 +1,46 @@
+[
+  {
+    "id": "yv23w7em",
+    "game": "Need for Speed: Hot Pursuit (Wii)",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 181.1,
+    "category": "Individual Event",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": true
+  },
+  {
+    "id": "mr65gr2m",
+    "game": "Need for Speed: Hot Pursuit (Wii)",
+    "player": "R3windGames",
+    "player_location": "us",
+    "time": 188.57,
+    "category": "Individual Event",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": true
+  },
+  {
+    "id": "z0pq0q9y",
+    "game": "Need for Speed: Hot Pursuit (Wii)",
+    "player": "TristonResistol",
+    "player_location": "mx",
+    "time": 58.15,
+    "category": "Individual Event",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": true
+  },
+  {
+    "id": "z52685ez",
+    "game": "Need for Speed: Hot Pursuit (Wii)",
+    "player": "blue_mayo",
+    "player_location": "cl",
+    "time": 114.14,
+    "category": "Individual Event",
+    "region": "USA / NTSC",
+    "platform": "Wii U",
+    "emulated": false
+  }
+]

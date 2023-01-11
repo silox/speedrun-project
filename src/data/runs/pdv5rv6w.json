@@ -1,0 +1,68 @@
+[
+  {
+    "id": "7yllvpry",
+    "game": "Pandora's Tower",
+    "player": "legrandgrand",
+    "player_location": "fr",
+    "time": 6507,
+    "category": "NG+ S ending",
+    "region": "EUR / PAL",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "z13wx97m",
+    "game": "Pandora's Tower",
+    "player": "chopperman9",
+    "player_location": "fr",
+    "time": 6043,
+    "category": "NG+ S ending",
+    "region": "EUR / PAL",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "9mel392z",
+    "game": "Pandora's Tower",
+    "player": "Balancemaker",
+    "player_location": "us",
+    "time": 8283,
+    "category": "NG+ S ending",
+    "region": "USA / NTSC",
+    "platform": "Wii U Virtual Console",
+    "emulated": false
+  },
+  {
+    "id": "y67d1njm",
+    "game": "Pandora's Tower",
+    "player": "Damarsh",
+    "player_location": "gb/eng",
+    "time": 6228,
+    "category": "NG+ S ending",
+    "region": "EUR / PAL",
+    "platform": "Wii U Virtual Console",
+    "emulated": false
+  },
+  {
+    "id": "yw11re2z",
+    "game": "Pandora's Tower",
+    "player": "Pokespartan",
+    "player_location": "gb",
+    "time": 7750,
+    "category": "NG+ S ending",
+    "region": "EUR / PAL",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "zgvn50nz",
+    "game": "Pandora's Tower",
+    "player": "Luluteller",
+    "player_location": "jp",
+    "time": 7517,
+    "category": "NG+ S ending",
+    "region": "JPN / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  }
+]

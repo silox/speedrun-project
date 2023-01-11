@@ -1,0 +1,46 @@
+[
+  {
+    "id": "9mewkg0m",
+    "game": "Destruction Derby Raw",
+    "player": "MarlonH8",
+    "player_location": "de",
+    "time": 81,
+    "category": "Battle",
+    "region": "EUR / PAL",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "z5o7re5y",
+    "game": "Destruction Derby Raw",
+    "player": "n1nj4ofshr3d",
+    "player_location": "us",
+    "time": 1887,
+    "category": "Wreckin' Racing",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y8994xwm",
+    "game": "Destruction Derby Raw",
+    "player": "RuffianAU",
+    "player_location": "au",
+    "time": 2161,
+    "category": "Wreckin' Racing",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "yo6xp60y",
+    "game": "Destruction Derby Raw",
+    "player": "Slentom",
+    "player_location": "fr",
+    "time": 1844,
+    "category": "Wreckin' Racing",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "kz5pjwnm",
+    "game": "Picross e",
+    "player": "Galactico",
+    "player_location": "de",
+    "time": 11,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "y8qppnny",
+    "game": "Picross e",
+    "player": "Marv231",
+    "player_location": "de",
+    "time": 4,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "z03dl39z",
+    "game": "Picross e",
+    "player": "qwertylool",
+    "player_location": "us",
+    "time": 0.001,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "zgk7nwdy",
+    "game": "Picross e",
+    "player": "HowDenKing",
+    "player_location": "eu",
+    "time": 1,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "y251269y",
+    "game": "Picross e",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 1,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": true
+  },
+  {
+    "id": "ylqklxkz",
+    "game": "Picross e",
+    "player": "Jasieqqu",
+    "player_location": "pl",
+    "time": 1,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "zxogwl8z",
+    "game": "Picross e",
+    "player": "Maste_Rem",
+    "player_location": "it",
+    "time": 1,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "mrnl924y",
+    "game": "Picross e",
+    "player": "Agilo",
+    "player_location": "nl",
+    "time": 1,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  }
+]

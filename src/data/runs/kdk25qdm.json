@@ -1,0 +1,57 @@
+[
+  {
+    "id": "z0eoep8m",
+    "game": "Midnight Club : Street Racing",
+    "player": "MattyGaming",
+    "player_location": "ca",
+    "time": 7156.69,
+    "category": "any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zgr4exjm",
+    "game": "Midnight Club : Street Racing",
+    "player": "itsDare",
+    "player_location": "us",
+    "time": 4614,
+    "category": "any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "zn35vr7y",
+    "game": "Midnight Club : Street Racing",
+    "player": "YellowHatHD",
+    "player_location": "us",
+    "time": 4634.39,
+    "category": "any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "yjgdewgy",
+    "game": "Midnight Club : Street Racing",
+    "player": "Planet_Xtreme",
+    "player_location": "us",
+    "time": 9930.32,
+    "category": "100%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "y4xqrxdz",
+    "game": "Midnight Club : Street Racing",
+    "player": "Si_Hi",
+    "player_location": null,
+    "time": 7997.3,
+    "category": "Career 100%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "9mej838y",
+    "game": "",
+    "player": "ParallaxDG",
+    "player_location": "ca",
+    "time": 524,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "jy96d2vy",
+    "game": "",
+    "player": "RazorMan97",
+    "player_location": "us",
+    "time": 4119,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "yw89g5py",
+    "game": "Calling",
+    "player": "hirugao_ark",
+    "player_location": "jp",
+    "time": 4057,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "yjgl6xgy",
+    "game": "Calling",
+    "player": "juh0",
+    "player_location": "sg",
+    "time": 4243,
+    "category": "New Game",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "yj832d7m",
+    "game": "Calling",
+    "player": "mikotyama",
+    "player_location": "jp",
+    "time": 3985,
+    "category": "New Game",
+    "region": "JPN / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "y4g117ny",
+    "game": "Calling",
+    "player": "Ari_1",
+    "player_location": "jp",
+    "time": 4115,
+    "category": "New Game",
+    "region": "JPN / NTSC",
+    "platform": "Wii U",
+    "emulated": false
+  }
+]

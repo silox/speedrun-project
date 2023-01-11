@@ -1,0 +1,134 @@
+[
+  {
+    "id": "y4532edm",
+    "game": "Capcom vs. SNK: Millennium Fight 2000",
+    "player": "IronMaidMaryan",
+    "player_location": "us",
+    "time": 678,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "mrqp0gdy",
+    "game": "Capcom vs. SNK: Millennium Fight 2000",
+    "player": "Wayne_Meares",
+    "player_location": "us",
+    "time": 916,
+    "category": "Playstation Pair Match Mode",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "z11oe79z",
+    "game": "Capcom vs. SNK: Millennium Fight 2000",
+    "player": "Scorpi",
+    "player_location": "cl",
+    "time": 527,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "z51e0lgm",
+    "game": "Capcom vs. SNK: Millennium Fight 2000",
+    "player": "DagMonsta",
+    "player_location": "nz",
+    "time": 502,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "ylrr4nxy",
+    "game": "Capcom vs. SNK: Millennium Fight 2000",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 391,
+    "category": "Dreamcast",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  },
+  {
+    "id": "z0538l8m",
+    "game": "Capcom vs. SNK: Millennium Fight 2000",
+    "player": "mrguyaverage",
+    "player_location": "us",
+    "time": 744,
+    "category": "Dreamcast",
+    "region": "USA / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "y65lx5jz",
+    "game": "Capcom vs. SNK: Millennium Fight 2000",
+    "player": "Mech-Akuma",
+    "player_location": "ar",
+    "time": 406,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "y82d471y",
+    "game": "Capcom vs. SNK: Millennium Fight 2000",
+    "player": "DBcade",
+    "player_location": "jp",
+    "time": 480,
+    "category": "Dreamcast",
+    "region": "JPN / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  },
+  {
+    "id": "yv6e028z",
+    "game": "Capcom vs. SNK: Millennium Fight 2000",
+    "player": "MortimerNova",
+    "player_location": "us",
+    "time": 492,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "yd035vxz",
+    "game": "Capcom vs. SNK: Millennium Fight 2000",
+    "player": "XtremeGamer17",
+    "player_location": "br",
+    "time": 396,
+    "category": "Playstation",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "yd93n10z",
+    "game": "Capcom vs. SNK: Millennium Fight 2000",
+    "player": "Saullo64",
+    "player_location": "br",
+    "time": 356,
+    "category": "Playstation Pair Match Mode",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "m367pq6m",
+    "game": "Capcom vs. SNK: Millennium Fight 2000",
+    "player": "NeetSuhiro",
+    "player_location": "jp",
+    "time": 387,
+    "category": "Dreamcast",
+    "region": "JPN / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "yw8qvp9y",
+    "game": "The Next Tetris",
+    "player": "Beeefter",
+    "player_location": null,
+    "time": 168,
+    "category": "Classic Tetris Score Marathon (100 points)",
+    "region": "EUR / PAL",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "zn3l039y",
+    "game": "The Next Tetris",
+    "player": "Tsukisuki",
+    "player_location": "jp",
+    "time": 92,
+    "category": "Classic Tetris Score Marathon (100 points)",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "yjlrdg7z",
+    "game": "The Next Tetris",
+    "player": "MortimerNova",
+    "player_location": "us",
+    "time": 255,
+    "category": "Classic Tetris Score Marathon (100 points)",
+    "region": null,
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "m3gl6o4z",
+    "game": "The Next Tetris",
+    "player": "SilverStar555",
+    "player_location": "us",
+    "time": 117,
+    "category": "Classic Tetris Score Marathon (100 points)",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "znodng9y",
+    "game": "The Next Tetris",
+    "player": "RipperRooTMUF",
+    "player_location": "fr",
+    "time": 1352,
+    "category": "Marathon (2~15)",
+    "region": "EUR / PAL",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "z52dedez",
+    "game": "The Next Tetris",
+    "player": "Zygl",
+    "player_location": null,
+    "time": 901,
+    "category": "Marathon (2~15)",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  }
+]

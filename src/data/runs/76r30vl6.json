@@ -1,0 +1,68 @@
+[
+  {
+    "id": "z5xqvkdy",
+    "game": "Super Mario Galaxy 2: Cosmos Collapse",
+    "player": "keegansimyh",
+    "player_location": "hk",
+    "time": 20.08,
+    "category": "Individual Stars",
+    "region": "JPN / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "y2e4dewy",
+    "game": "Super Mario Galaxy 2: Cosmos Collapse",
+    "player": "SNRobi",
+    "player_location": "hu",
+    "time": 97.8,
+    "category": "Individual Stars",
+    "region": null,
+    "platform": "Wii",
+    "emulated": true
+  },
+  {
+    "id": "yv0k9joz",
+    "game": "Super Mario Galaxy 2: Cosmos Collapse",
+    "player": "N/A",
+    "player_location": null,
+    "time": 0.001,
+    "category": "Individual Stars",
+    "region": null,
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "yjdvdpoy",
+    "game": "Super Mario Galaxy 2: Cosmos Collapse",
+    "player": "Shadow64",
+    "player_location": "gb",
+    "time": 107.23,
+    "category": "Individual Stars",
+    "region": "EUR / PAL",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "z0l4464z",
+    "game": "Super Mario Galaxy 2: Cosmos Collapse",
+    "player": "Sudowoodo",
+    "player_location": "kr",
+    "time": 44.46,
+    "category": "Individual Stars",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": true
+  },
+  {
+    "id": "z1qjx9gy",
+    "game": "Super Mario Galaxy 2: Cosmos Collapse",
+    "player": "Zirams",
+    "player_location": "us",
+    "time": 88.75,
+    "category": "Individual Stars",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  }
+]

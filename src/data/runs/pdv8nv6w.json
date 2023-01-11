@@ -1,0 +1,46 @@
+[
+  {
+    "id": "oy20k6jm",
+    "game": "Sin & Punishment: Star Successor",
+    "player": "Naegleria",
+    "player_location": "ca",
+    "time": 7169,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "z13jlk9m",
+    "game": "Sin & Punishment: Star Successor",
+    "player": "LinkaMeister",
+    "player_location": "nl",
+    "time": 7497,
+    "category": "Easy Mode",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": false
+  },
+  {
+    "id": "y41wdnny",
+    "game": "Sin & Punishment: Star Successor",
+    "player": "Mitchel",
+    "player_location": null,
+    "time": 6929,
+    "category": "Easy Mode",
+    "region": "USA / NTSC",
+    "platform": "Wii U",
+    "emulated": false
+  },
+  {
+    "id": "yd53o5xm",
+    "game": "Sin & Punishment: Star Successor",
+    "player": "zaarock",
+    "player_location": "fi",
+    "time": 7799,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Wii",
+    "emulated": true
+  }
+]

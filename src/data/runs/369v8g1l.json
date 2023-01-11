@@ -1,0 +1,167 @@
+[
+  {
+    "id": "1zqdve8m",
+    "game": "Lester the Unlikely",
+    "player": "koffingrockz",
+    "player_location": "us",
+    "time": 43,
+    "category": "Blindfolded",
+    "region": null,
+    "platform": null,
+    "emulated": false
+  },
+  {
+    "id": "oy2do95z",
+    "game": "Lester the Unlikely",
+    "player": "cornshaq",
+    "player_location": "us",
+    "time": 1205,
+    "category": "Any%",
+    "region": null,
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "pzgxgvem",
+    "game": "Lester the Unlikely",
+    "player": "Radioactive_Rat",
+    "player_location": "us",
+    "time": 979,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "pm3nrqgy",
+    "game": "Lester the Unlikely",
+    "player": "Fonzoide1",
+    "player_location": "cl",
+    "time": 1077,
+    "category": "Any%",
+    "region": null,
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "8yvrwgxz",
+    "game": "Lester the Unlikely",
+    "player": "philosoraptor42",
+    "player_location": "us",
+    "time": 1094,
+    "category": "Any%",
+    "region": null,
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "pm3kjpqy",
+    "game": "Lester the Unlikely",
+    "player": "Ehrihk",
+    "player_location": "us",
+    "time": 1109,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "yl9kexxy",
+    "game": "Lester the Unlikely",
+    "player": "LiamPiper",
+    "player_location": "gb/eng",
+    "time": 1046,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "7z0d6l4y",
+    "game": "Lester the Unlikely",
+    "player": "Cetra_Blues",
+    "player_location": "us",
+    "time": 1069,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "1zxq03km",
+    "game": "Lester the Unlikely",
+    "player": "MrZeratheMant",
+    "player_location": "us",
+    "time": 1070,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "pydln2qz",
+    "game": "Lester the Unlikely",
+    "player": "Lachurs",
+    "player_location": "au",
+    "time": 168.8,
+    "category": "",
+    "region": null,
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "yvgx736y",
+    "game": "Lester the Unlikely",
+    "player": "smartalec24",
+    "player_location": "us",
+    "time": 1072,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "z03kqdjz",
+    "game": "Lester the Unlikely",
+    "player": "pqplays",
+    "player_location": "us",
+    "time": 1382,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "zp41rqgz",
+    "game": "Lester the Unlikely",
+    "player": "JSR_",
+    "player_location": "us",
+    "time": 1120.5,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y8edgkny",
+    "game": "Lester the Unlikely",
+    "player": "JoePulito",
+    "player_location": "us",
+    "time": 160.938,
+    "category": "Level Select%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "y8elr7dy",
+    "game": "Lester the Unlikely",
+    "player": "Yuyukichi",
+    "player_location": "jp",
+    "time": 1046,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  }
+]

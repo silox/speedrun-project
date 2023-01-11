@@ -1,0 +1,68 @@
+[
+  {
+    "id": "mrexledy",
+    "game": "Bomber Man World (Arcade)",
+    "player": "Olavi",
+    "player_location": "kr",
+    "time": 2244,
+    "category": "Any%",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": false
+  },
+  {
+    "id": "m31wedqz",
+    "game": "Bomber Man World (Arcade)",
+    "player": "RitaH",
+    "player_location": "br",
+    "time": 2613,
+    "category": "Co-op",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "m7862e9z",
+    "game": "Bomber Man World (Arcade)",
+    "player": "KKDene",
+    "player_location": "br",
+    "time": 1934,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yv098doz",
+    "game": "Bomber Man World (Arcade)",
+    "player": "SJ_BomberPanoli_55",
+    "player_location": null,
+    "time": 1514,
+    "category": "Any%",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zpg09jgz",
+    "game": "Bomber Man World (Arcade)",
+    "player": "CMOJoker",
+    "player_location": "us",
+    "time": 782,
+    "category": "4p",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y6orl80y",
+    "game": "Bomber Man World (Arcade)",
+    "player": "SICM",
+    "player_location": "pe",
+    "time": 853,
+    "category": "Any%",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

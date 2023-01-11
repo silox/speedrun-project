@@ -1,0 +1,35 @@
+[
+  {
+    "id": "y8d2xg1z",
+    "game": "Sonic Wings Especial",
+    "player": "Saullo64",
+    "player_location": "br",
+    "time": 1874,
+    "category": "Arcada Taiwan",
+    "region": "CHN / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y8d7j0nz",
+    "game": "Sonic Wings Especial",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 927,
+    "category": "Arcada Taiwan",
+    "region": "CHN / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zgr921nm",
+    "game": "Sonic Wings Especial",
+    "player": "NeetSuhiro",
+    "player_location": "jp",
+    "time": 116,
+    "category": "PS1 Time Attack",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "id": "9yo7rkdm",
+    "game": "Bust-A-Move 3 DX",
+    "player": "NinjasInCarpets",
+    "player_location": "gb/wls",
+    "time": 112,
+    "category": "Puzzle Mode Practice",
+    "region": "EUR / PAL",
+    "platform": "Nintendo 64",
+    "emulated": false
+  },
+  {
+    "id": "jy9rqlry",
+    "game": "Bust-A-Move 3 DX",
+    "player": "fairy213",
+    "player_location": "jp",
+    "time": 69,
+    "category": "Puzzle Mode Practice",
+    "region": null,
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "z5jxg7em",
+    "game": "Bust-A-Move 3 DX",
+    "player": "poshi",
+    "player_location": "jp",
+    "time": 63,
+    "category": "Puzzle Mode Practice",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "ylkpr2rz",
+    "game": "Bust-A-Move 3 DX",
+    "player": "Tanuki78",
+    "player_location": "fr",
+    "time": 481,
+    "category": "Vs. CPU Hard",
+    "region": "EUR / PAL",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "yd5pl8jm",
+    "game": "Bust-A-Move 3 DX",
+    "player": "MortimerNova",
+    "player_location": "us",
+    "time": 173,
+    "category": "Puzzle Mode Practice",
+    "region": null,
+    "platform": "Nintendo 64",
+    "emulated": true
+  },
+  {
+    "id": "y8r5lkxm",
+    "game": "Bust-A-Move 3 DX",
+    "player": "radrgon",
+    "player_location": "jp",
+    "time": 72,
+    "category": "Puzzle Mode Practice",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "yj634ddz",
+    "game": "Bust-A-Move 3 DX",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 149,
+    "category": "Challenge Mode!",
+    "region": "EUR / PAL",
+    "platform": "Nintendo 64",
+    "emulated": true
+  },
+  {
+    "id": "yd9rlpvz",
+    "game": "Bust-A-Move 3 DX",
+    "player": "AsneL",
+    "player_location": "jp",
+    "time": 63,
+    "category": "Puzzle Mode Practice",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "znjoq4vm",
+    "game": "Bust-A-Move 3 DX",
+    "player": "jugringnahoP",
+    "player_location": "jp",
+    "time": 777,
+    "category": "Puzzle Mode VER2.5",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "ylnv003z",
+    "game": "Bust-A-Move 3 DX",
+    "player": "Zhato",
+    "player_location": "fr",
+    "time": 752,
+    "category": "Puzzle Mode Normal",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "yjd17goy",
+    "game": "Bust-A-Move 3 DX",
+    "player": "Nec-Os",
+    "player_location": "jp",
+    "time": 832,
+    "category": "Puzzle Mode VER2.5",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  }
+]

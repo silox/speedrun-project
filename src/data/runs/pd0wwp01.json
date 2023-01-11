@@ -1,0 +1,46 @@
+[
+  {
+    "id": "m7p8djwm",
+    "game": "Bio-Hazard Battle",
+    "player": "Anko",
+    "player_location": "ru",
+    "time": 875,
+    "category": "1 Player",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "yvq4jnom",
+    "game": "Bio-Hazard Battle",
+    "player": "SpaceCoastGaming",
+    "player_location": "us",
+    "time": 1419,
+    "category": "2 Players",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "z125pv9y",
+    "game": "Bio-Hazard Battle",
+    "player": "SirVivur",
+    "player_location": "us",
+    "time": 1005,
+    "category": "2 Players",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "zp2rgjxy",
+    "game": "Bio-Hazard Battle",
+    "player": "TXherald",
+    "player_location": "us",
+    "time": 940,
+    "category": "1 Player",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  }
+]

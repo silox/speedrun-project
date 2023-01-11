@@ -1,0 +1,123 @@
+[
+  {
+    "id": "emknw03m",
+    "game": "Crazy Frog Racer",
+    "player": "Realm",
+    "player_location": "gb/eng",
+    "time": 625,
+    "category": "Baby Cup",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "z1338vwm",
+    "game": "Crazy Frog Racer",
+    "player": "PlatinumProof",
+    "player_location": "se",
+    "time": 579,
+    "category": "Baby Cup",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mk465q1y",
+    "game": "Crazy Frog Racer",
+    "player": "kobwmoose",
+    "player_location": "gb",
+    "time": 141,
+    "category": "Time Trial",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "me60pd2z",
+    "game": "Crazy Frog Racer",
+    "player": "Leovillads",
+    "player_location": "dk",
+    "time": 110,
+    "category": "Time Trial",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y6l5o3qy",
+    "game": "Crazy Frog Racer",
+    "player": "Dadang143",
+    "player_location": "au",
+    "time": 117,
+    "category": "Time Trial",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m7g8r3wm",
+    "game": "Crazy Frog Racer",
+    "player": "Luke99",
+    "player_location": "us",
+    "time": 3381,
+    "category": "All Cups",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m7gvq5wm",
+    "game": "Crazy Frog Racer",
+    "player": "CrazyFrogArchive",
+    "player_location": "gb",
+    "time": 908,
+    "category": "Baby Cup",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zxdv8kgy",
+    "game": "Crazy Frog Racer",
+    "player": "bigmanjom",
+    "player_location": null,
+    "time": 367,
+    "category": "Time Trial",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z09o23oz",
+    "game": "Crazy Frog Racer",
+    "player": "RadeR",
+    "player_location": "ro",
+    "time": 3206,
+    "category": "All Cups",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z50497ey",
+    "game": "Crazy Frog Racer",
+    "player": "GingeSwagTia",
+    "player_location": "gb/eng",
+    "time": 1767,
+    "category": "Crazy Cup",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "mk5eqp1m",
+    "game": "Crazy Frog Racer",
+    "player": "yhs098",
+    "player_location": null,
+    "time": 1254,
+    "category": "Funny Cup",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": true
+  }
+]

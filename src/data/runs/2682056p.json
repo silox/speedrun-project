@@ -1,0 +1,101 @@
+[
+  {
+    "id": "oy2xe6wm",
+    "game": "Alisia Dragoon",
+    "player": "Baffan",
+    "player_location": "fr",
+    "time": 894,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "7z0rl28z",
+    "game": "Alisia Dragoon",
+    "player": "Toothache",
+    "player_location": "gb/eng",
+    "time": 1064,
+    "category": "Beat the game (PAL)",
+    "region": "EUR / PAL",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "8yv1kl6y",
+    "game": "Alisia Dragoon",
+    "player": "takojaki",
+    "player_location": "eu",
+    "time": 885,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "y92l44ez",
+    "game": "Alisia Dragoon",
+    "player": "nagasode",
+    "player_location": "jp",
+    "time": 882,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "m7pokv9m",
+    "game": "Alisia Dragoon",
+    "player": "mysterygamer",
+    "player_location": "gb",
+    "time": 958,
+    "category": "Beat the game",
+    "region": "JPN / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "yl0g952y",
+    "game": "Alisia Dragoon",
+    "player": "Kaz0uya",
+    "player_location": "fr",
+    "time": 1078,
+    "category": "Beat the game",
+    "region": "JPN / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "yv69dpez",
+    "game": "Alisia Dragoon",
+    "player": "Mannix86",
+    "player_location": "ca",
+    "time": 960,
+    "category": "Beat the game",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "z09een9z",
+    "game": "Alisia Dragoon",
+    "player": "leandrom90",
+    "player_location": "br",
+    "time": 964,
+    "category": "Beat the game",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "y6xe6qqy",
+    "game": "Alisia Dragoon",
+    "player": "Ashurii",
+    "player_location": "us",
+    "time": 876,
+    "category": "Beat the game",
+    "region": "JPN / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  }
+]

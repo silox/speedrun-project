@@ -1,0 +1,134 @@
+[
+  {
+    "id": "9mr9o6dm",
+    "game": "Professor Layton and the Last Specter",
+    "player": "solress",
+    "player_location": "nl",
+    "time": 9580,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "8y8oqe5m",
+    "game": "Professor Layton and the Last Specter",
+    "player": "MewMewBlah",
+    "player_location": null,
+    "time": 6239,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "8y8o25xm",
+    "game": "Professor Layton and the Last Specter",
+    "player": "NustaTree",
+    "player_location": "de",
+    "time": 7228,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "yw111o9z",
+    "game": "Professor Layton and the Last Specter",
+    "player": "Geshode",
+    "player_location": null,
+    "time": 5927,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "mk429vly",
+    "game": "Professor Layton and the Last Specter",
+    "player": "tylltoons",
+    "player_location": "de",
+    "time": 6615,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "yw1q679z",
+    "game": "Professor Layton and the Last Specter",
+    "player": "wiiarctus",
+    "player_location": "de",
+    "time": 6153,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "z1jp35wz",
+    "game": "Professor Layton and the Last Specter",
+    "player": "Kylovic",
+    "player_location": "de",
+    "time": 6531,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "mre5nn4y",
+    "game": "Professor Layton and the Last Specter",
+    "player": "tutelarfiber7",
+    "player_location": "us",
+    "time": 6113,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "New Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "ylkx0xrz",
+    "game": "Professor Layton and the Last Specter",
+    "player": "Hangetsu",
+    "player_location": "fr",
+    "time": 6909,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "z15e5pgy",
+    "game": "Professor Layton and the Last Specter",
+    "player": "LiterallyBard",
+    "player_location": "de",
+    "time": 12880,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "mk7lk33y",
+    "game": "Professor Layton and the Last Specter",
+    "player": "JuegAriel",
+    "player_location": "es",
+    "time": 6270,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "y8jnq65z",
+    "game": "Professor Layton and the Last Specter",
+    "player": "FluffyVulpix",
+    "player_location": "us",
+    "time": 6570,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  }
+]

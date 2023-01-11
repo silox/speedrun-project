@@ -1,0 +1,24 @@
+[
+  {
+    "id": "z159rlry",
+    "game": "",
+    "player": "Janet",
+    "player_location": null,
+    "time": 777,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y41dl33y",
+    "game": "",
+    "player": "Olavi",
+    "player_location": "kr",
+    "time": 848,
+    "category": "Any%",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

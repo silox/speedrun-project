@@ -1,0 +1,46 @@
+[
+  {
+    "id": "zprxklgm",
+    "game": "Cosmic Smash",
+    "player": "SushiKishi",
+    "player_location": null,
+    "time": 416,
+    "category": "Japanese Paper/Shodou",
+    "region": "JPN / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "z05vl6jm",
+    "game": "Cosmic Smash",
+    "player": "V1CCHAOS",
+    "player_location": "us",
+    "time": 228,
+    "category": "Japanese Paper/Shodou",
+    "region": "JPN / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "mejr99qy",
+    "game": "Cosmic Smash",
+    "player": "Brobey",
+    "player_location": "ca",
+    "time": 221,
+    "category": "Japanese Paper/Shodou",
+    "region": "JPN / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  },
+  {
+    "id": "yl183r3m",
+    "game": "Cosmic Smash",
+    "player": "Hibnotix",
+    "player_location": "gb",
+    "time": 329,
+    "category": "Japanese Paper/Shodou",
+    "region": "JPN / NTSC",
+    "platform": "Dreamcast",
+    "emulated": false
+  }
+]

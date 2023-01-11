@@ -1,0 +1,57 @@
+[
+  {
+    "id": "yd5d810m",
+    "game": "Guilty Gear X",
+    "player": "DBcade",
+    "player_location": "jp",
+    "time": 428,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Dreamcast",
+    "emulated": true
+  },
+  {
+    "id": "zqw5kjxz",
+    "game": "Guilty Gear X",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 484,
+    "category": "Arcade Mode Easy%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "m35265gy",
+    "game": "Guilty Gear X",
+    "player": "HopeTrash",
+    "player_location": "fr",
+    "time": 321,
+    "category": "Arcade Mode Easy%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "m3526ggy",
+    "game": "Guilty Gear X",
+    "player": "Despera",
+    "player_location": "be",
+    "time": 306,
+    "category": "Arcade Mode Easy%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "z5dd94gm",
+    "game": "Guilty Gear X",
+    "player": "DWednesday",
+    "player_location": "gb",
+    "time": 288,
+    "category": "Arcade Mode Easy%",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

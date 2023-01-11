@@ -1,0 +1,57 @@
+[
+  {
+    "id": "mrqoxg7y",
+    "game": "",
+    "player": "Megami_infini",
+    "player_location": "pl",
+    "time": 2879,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Game Gear",
+    "emulated": true
+  },
+  {
+    "id": "mr91ggdm",
+    "game": "",
+    "player": "jquestionmark",
+    "player_location": null,
+    "time": 1441,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Sega Game Gear",
+    "emulated": true
+  },
+  {
+    "id": "y27lq1wz",
+    "game": "",
+    "player": "sharif",
+    "player_location": "us",
+    "time": 1450,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Sega Game Gear",
+    "emulated": false
+  },
+  {
+    "id": "m3gd2k6z",
+    "game": "Ax Battler: A Legend of Golden Axe",
+    "player": "Wildfireskunk",
+    "player_location": "gb/eng",
+    "time": 1549,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Game Gear",
+    "emulated": true
+  },
+  {
+    "id": "yd1xp30y",
+    "game": "Ax Battler: A Legend of Golden Axe",
+    "player": "OdinNoah",
+    "player_location": "us",
+    "time": 1332,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Sega Game Gear",
+    "emulated": true
+  }
+]

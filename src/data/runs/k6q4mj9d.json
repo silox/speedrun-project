@@ -1,0 +1,35 @@
+[
+  {
+    "id": "y67nx5pm",
+    "game": "Crimson Tears",
+    "player": "Furry2",
+    "player_location": "us",
+    "time": 12346,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  },
+  {
+    "id": "y97goprm",
+    "game": "Crimson Tears",
+    "player": "Aerlien",
+    "player_location": "us",
+    "time": 8504,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "ywpl959z",
+    "game": "Crimson Tears",
+    "player": "onzario",
+    "player_location": "us",
+    "time": 5488,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  }
+]

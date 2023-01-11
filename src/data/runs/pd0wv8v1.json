@@ -1,0 +1,46 @@
+[
+  {
+    "id": "yd1jw4xy",
+    "game": "Mario Andretti Racing",
+    "player": "RaGeNyC",
+    "player_location": "us",
+    "time": 122.73,
+    "category": "Fallen Rock",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "y4ro0n3z",
+    "game": "Mario Andretti Racing",
+    "player": "Sakenicc",
+    "player_location": "de",
+    "time": 1732.99,
+    "category": "",
+    "region": null,
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "z1xvolrm",
+    "game": "Mario Andretti Racing",
+    "player": "Rogerpoco",
+    "player_location": "us",
+    "time": 127.64,
+    "category": "Fallen Rock",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "yw3nv60m",
+    "game": "Mario Andretti Racing",
+    "player": "Canadian_Gamer",
+    "player_location": "ca",
+    "time": 273.09,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  }
+]

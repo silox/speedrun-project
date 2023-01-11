@@ -1,0 +1,134 @@
+[
+  {
+    "id": "ydelx7xm",
+    "game": "SELF Category Extensions",
+    "player": "Morkalb",
+    "player_location": "us",
+    "time": 114.22,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zp8vw3xy",
+    "game": "SELF Category Extensions",
+    "player": "GeneralMayhem",
+    "player_location": "us",
+    "time": 14.06,
+    "category": "Crash%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "ywjv630z",
+    "game": "SELF Category Extensions",
+    "player": "underscoreLu",
+    "player_location": null,
+    "time": 0.001,
+    "category": "Crash%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y8jnnlxz",
+    "game": "SELF Category Extensions",
+    "player": "EthanDarkGod",
+    "player_location": "gb",
+    "time": 131.15,
+    "category": "",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yor5o05y",
+    "game": "SELF Category Extensions",
+    "player": "Wildboar06",
+    "player_location": "us",
+    "time": 1.38,
+    "category": "Crash%",
+    "region": "USA / NTSC",
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "y6n8101z",
+    "game": "SELF Category Extensions",
+    "player": "Ender_Runs",
+    "player_location": "mx",
+    "time": 0.11,
+    "category": "Crash%",
+    "region": "USA / NTSC",
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "yl7n0x2m",
+    "game": "SELF Category Extensions",
+    "player": "FireflyNinja",
+    "player_location": "us",
+    "time": 0.001,
+    "category": "Crash%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yle278kz",
+    "game": "SELF Category Extensions",
+    "player": "TriBailey",
+    "player_location": null,
+    "time": 102.15,
+    "category": "",
+    "region": null,
+    "platform": "PC",
+    "emulated": true
+  },
+  {
+    "id": "y9v5q6rm",
+    "game": "SELF Category Extensions",
+    "player": "TheFlyingAce",
+    "player_location": "us",
+    "time": 0.001,
+    "category": "Crash%",
+    "region": "USA / NTSC",
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "zx76oeky",
+    "game": "SELF Category Extensions",
+    "player": "AmazonAlexaOfficial",
+    "player_location": null,
+    "time": 121.17,
+    "category": "Flower%",
+    "region": null,
+    "platform": "Web",
+    "emulated": false
+  },
+  {
+    "id": "y88098xy",
+    "game": "SELF Category Extensions",
+    "player": "swldex",
+    "player_location": "it",
+    "time": 84.51,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y4qojldm",
+    "game": "SELF Category Extensions",
+    "player": "LowkeyyDumb",
+    "player_location": "us",
+    "time": 67.48,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

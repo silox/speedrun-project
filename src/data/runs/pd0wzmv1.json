@@ -1,0 +1,46 @@
+[
+  {
+    "id": "mk9q19vz",
+    "game": "Mickey Mouse: Magic Wands!",
+    "player": "Tomygood",
+    "player_location": "se",
+    "time": 512,
+    "category": "Castle World",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "yojxdn1m",
+    "game": "Mickey Mouse: Magic Wands!",
+    "player": "adrianus",
+    "player_location": "ch",
+    "time": 10868,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "ywdxdxpz",
+    "game": "Mickey Mouse: Magic Wands!",
+    "player": "MrDoublePlays",
+    "player_location": "au",
+    "time": 7136,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "zgqqvnvy",
+    "game": "Mickey Mouse: Magic Wands!",
+    "player": "JoePulito",
+    "player_location": "us",
+    "time": 575,
+    "category": "Castle World",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  }
+]

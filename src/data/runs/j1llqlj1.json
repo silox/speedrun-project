@@ -1,0 +1,35 @@
+[
+  {
+    "id": "y81qv9nz",
+    "game": "Kirby Battle Royale",
+    "player": "ykrin",
+    "player_location": "jp",
+    "time": 8371,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "z11qlqwz",
+    "game": "Kirby Battle Royale",
+    "player": "Demolition14",
+    "player_location": "gb/eng",
+    "time": 9200,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "New Nintendo 3DS",
+    "emulated": false
+  },
+  {
+    "id": "y81r1gnz",
+    "game": "Kirby Battle Royale",
+    "player": "sokuno",
+    "player_location": "jp",
+    "time": 8097,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "New Nintendo 3DS",
+    "emulated": false
+  }
+]

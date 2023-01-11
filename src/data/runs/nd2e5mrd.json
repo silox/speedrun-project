@@ -1,0 +1,57 @@
+[
+  {
+    "id": "z019wg4y",
+    "game": "The Way Remastered",
+    "player": "Flockdjur",
+    "player_location": "se",
+    "time": 3530,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "zp4xqd8z",
+    "game": "The Way Remastered",
+    "player": "GaryJ",
+    "player_location": "us",
+    "time": 2787,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "ydw9rvvm",
+    "game": "The Way Remastered",
+    "player": "Vlad2D",
+    "player_location": "ru",
+    "time": 2541,
+    "category": "Any%",
+    "region": null,
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "z0o95gjz",
+    "game": "The Way Remastered",
+    "player": "Saturnb",
+    "player_location": "va",
+    "time": 2755,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "yw808j3y",
+    "game": "The Way Remastered",
+    "player": "Unombre",
+    "player_location": "fr",
+    "time": 3198,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Switch",
+    "emulated": false
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "nz13qxgm",
+    "game": "",
+    "player": "UltraJMan",
+    "player_location": null,
+    "time": 526,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "zgnkg5ny",
+    "game": "",
+    "player": "Tiansuozhanyue",
+    "player_location": "cn",
+    "time": 496,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "zxv0x2ey",
+    "game": "",
+    "player": "Toad22484",
+    "player_location": "us",
+    "time": 477,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "yl0q9rxy",
+    "game": "Castle of Dragon",
+    "player": "Chimp",
+    "player_location": "us",
+    "time": 467,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "yv31g54z",
+    "game": "Castle of Dragon",
+    "player": "Apollo22237",
+    "player_location": "us",
+    "time": 461,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "8y8x99xm",
+    "game": "",
+    "player": "pa1ny",
+    "player_location": "de",
+    "time": 1349,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "MS-DOS",
+    "emulated": true
+  },
+  {
+    "id": "z1j52ejz",
+    "game": "",
+    "player": "Non-Slim_Jim",
+    "player_location": "us",
+    "time": 1296,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "MS-DOS",
+    "emulated": true
+  },
+  {
+    "id": "z014lo8y",
+    "game": "",
+    "player": "MilkToast",
+    "player_location": "de",
+    "time": 1483,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Amiga",
+    "emulated": true
+  },
+  {
+    "id": "mr7gvj2z",
+    "game": "Indiana Jones and the Last Crusade: The Graphic Adventure",
+    "player": "Baato",
+    "player_location": "de",
+    "time": 1441,
+    "category": "Any%",
+    "region": null,
+    "platform": "MS-DOS",
+    "emulated": false
+  }
+]

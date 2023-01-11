@@ -1,0 +1,35 @@
+[
+  {
+    "id": "mrrlrn2m",
+    "game": "Dynamite Dux (Arcade)",
+    "player": "Ellimist",
+    "player_location": "us",
+    "time": 1089,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zq9je38y",
+    "game": "Dynamite Dux (Arcade)",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 1377,
+    "category": "2P",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "m3x85x6m",
+    "game": "Dynamite Dux (Arcade)",
+    "player": "iKiiQ",
+    "player_location": "fr",
+    "time": 1281,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

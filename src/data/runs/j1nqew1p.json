@@ -1,0 +1,112 @@
+[
+  {
+    "id": "jy99ooey",
+    "game": "Bomberman II (NES)",
+    "player": "CrystalChaos",
+    "player_location": null,
+    "time": 2252,
+    "category": "Beat the Game",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "8yv7284y",
+    "game": "Bomberman II (NES)",
+    "player": "GreenBomber",
+    "player_location": "us",
+    "time": 2566,
+    "category": "Beat the Game",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "ydql9qxm",
+    "game": "Bomberman II (NES)",
+    "player": "Roamus",
+    "player_location": "ca/qc",
+    "time": 6311,
+    "category": "Beat the Game",
+    "region": null,
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "y67en9qm",
+    "game": "Bomberman II (NES)",
+    "player": "GhostSenpai",
+    "player_location": "mx",
+    "time": 4958,
+    "category": "Beat the Game",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "yl480g2m",
+    "game": "Bomberman II (NES)",
+    "player": "OldWorldGamer",
+    "player_location": "ca",
+    "time": 2245,
+    "category": "Beat the Game",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "z156prwy",
+    "game": "Bomberman II (NES)",
+    "player": "hecatarch",
+    "player_location": "ca",
+    "time": 2078,
+    "category": "Beat the Game",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "m7w5jn5z",
+    "game": "Bomberman II (NES)",
+    "player": "iceturbo",
+    "player_location": "us",
+    "time": 3803,
+    "category": "All Items",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "yj8l8vgm",
+    "game": "Bomberman II (NES)",
+    "player": "Oldschoolmcfly",
+    "player_location": "us",
+    "time": 2536,
+    "category": "Beat the Game",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "mr7gjxdz",
+    "game": "Bomberman II (NES)",
+    "player": "RyuHayabusa89",
+    "player_location": "pl",
+    "time": 2752,
+    "category": "Beat the Game",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  },
+  {
+    "id": "y60q09py",
+    "game": "Bomberman II (NES)",
+    "player": "Mad_Dog_Tim",
+    "player_location": "us",
+    "time": 3660,
+    "category": "Beat the Game",
+    "region": "USA / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  }
+]

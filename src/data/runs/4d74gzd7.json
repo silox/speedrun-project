@@ -1,0 +1,90 @@
+[
+  {
+    "id": "dy4wd53m",
+    "game": "Ys VI: The Ark of Napishtim",
+    "player": "sithyy",
+    "player_location": "de",
+    "time": 8381,
+    "category": "",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zgk8040y",
+    "game": "Ys VI: The Ark of Napishtim",
+    "player": "ALAKTORN",
+    "player_location": "it",
+    "time": 4759,
+    "category": "any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "pydv2v0y",
+    "game": "Ys VI: The Ark of Napishtim",
+    "player": "MO2MO2",
+    "player_location": "jp",
+    "time": 5809,
+    "category": "any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "pzgqx2ny",
+    "game": "Ys VI: The Ark of Napishtim",
+    "player": "Kiniamaro",
+    "player_location": "ca/qc",
+    "time": 6429,
+    "category": "any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z57k9dgm",
+    "game": "Ys VI: The Ark of Napishtim",
+    "player": "Night63",
+    "player_location": "fr",
+    "time": 5822,
+    "category": "any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yd051njz",
+    "game": "Ys VI: The Ark of Napishtim",
+    "player": "na2na",
+    "player_location": "jp",
+    "time": 6957,
+    "category": "any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "m7wp8r9z",
+    "game": "Ys VI: The Ark of Napishtim",
+    "player": "Harumaki",
+    "player_location": "jp",
+    "time": 6519,
+    "category": "any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yv0kv7xz",
+    "game": "Ys VI: The Ark of Napishtim",
+    "player": "Lekupaz",
+    "player_location": "es",
+    "time": 6,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": true
+  }
+]

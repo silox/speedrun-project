@@ -1,0 +1,145 @@
+[
+  {
+    "id": "1zqlg2ry",
+    "game": "Battleborn",
+    "player": "BnH247",
+    "player_location": null,
+    "time": 543,
+    "category": "Co-Op",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "jy96qlky",
+    "game": "Battleborn",
+    "player": "Ferretking70",
+    "player_location": "us",
+    "time": 917,
+    "category": "Solo",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "jy9r11vy",
+    "game": "Battleborn",
+    "player": "Sean",
+    "player_location": "us",
+    "time": 505,
+    "category": "Solo",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "1zqdxg5m",
+    "game": "Battleborn",
+    "player": "Wickednessforthriven",
+    "player_location": "us",
+    "time": 691,
+    "category": "Solo",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "9mrp0w2z",
+    "game": "Battleborn",
+    "player": "Vyqshun",
+    "player_location": "us",
+    "time": 696,
+    "category": "Solo",
+    "region": "USA / NTSC",
+    "platform": "Xbox One",
+    "emulated": false
+  },
+  {
+    "id": "1zx1dqey",
+    "game": "Battleborn",
+    "player": "Tob\u00fcr",
+    "player_location": "pt",
+    "time": 605,
+    "category": "Solo",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y67xojjm",
+    "game": "Battleborn",
+    "player": "prototyke",
+    "player_location": null,
+    "time": 664,
+    "category": "Solo",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y8q518dy",
+    "game": "Battleborn",
+    "player": "toskito89",
+    "player_location": "es",
+    "time": 478,
+    "category": "Solo",
+    "region": null,
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "me6jvjqz",
+    "game": "Battleborn",
+    "player": "cordiaxiz",
+    "player_location": "be",
+    "time": 532,
+    "category": "Solo",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yoj94xjm",
+    "game": "Battleborn",
+    "player": "velcrafting",
+    "player_location": "us",
+    "time": 831,
+    "category": "Co-Op",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y2v9255z",
+    "game": "Battleborn",
+    "player": "ugyuu",
+    "player_location": "nl",
+    "time": 515,
+    "category": "Solo",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z054gqom",
+    "game": "Battleborn",
+    "player": "NatsumeRyu",
+    "player_location": "us",
+    "time": 540,
+    "category": "Gear%",
+    "region": null,
+    "platform": "PlayStation 4",
+    "emulated": false
+  },
+  {
+    "id": "y656q2pz",
+    "game": "Battleborn",
+    "player": "ripplegrin",
+    "player_location": "us",
+    "time": 10245,
+    "category": "Main Story Gearless (Co-op)",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  }
+]

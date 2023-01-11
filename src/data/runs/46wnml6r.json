@@ -1,0 +1,35 @@
+[
+  {
+    "id": "8y8nj8ny",
+    "game": "",
+    "player": "NeuralFrights",
+    "player_location": "ni",
+    "time": 625.4,
+    "category": "Any% Genesis Normal Difficulty",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "mrqdvp2y",
+    "game": "",
+    "player": "Artist.the",
+    "player_location": "ru",
+    "time": 928,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "m3nrxvdy",
+    "game": "Shadow of the Beast II",
+    "player": "supersharpy64",
+    "player_location": "gb/eng",
+    "time": 499,
+    "category": "Any% Genesis Normal Difficulty",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  }
+]

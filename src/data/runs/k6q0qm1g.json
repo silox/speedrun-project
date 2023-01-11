@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1zq0xory",
+    "game": "Impossible Mission",
+    "player": "The8bitbeast",
+    "player_location": "au",
+    "time": 713,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Sega Master System",
+    "emulated": false
+  },
+  {
+    "id": "m799p84y",
+    "game": "Impossible Mission",
+    "player": "anothervisitor",
+    "player_location": "ca/qc",
+    "time": 653,
+    "category": "Any% (Master System)",
+    "region": null,
+    "platform": "Sega Master System",
+    "emulated": true
+  }
+]

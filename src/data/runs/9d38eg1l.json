@@ -1,0 +1,90 @@
+[
+  {
+    "id": "y67kw90m",
+    "game": "",
+    "player": "Standra_Storm",
+    "player_location": "us",
+    "time": 897,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y67kle0m",
+    "game": "",
+    "player": "JulianRikku",
+    "player_location": "de",
+    "time": 950,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yd37pxwz",
+    "game": "",
+    "player": "bobdedbuilder",
+    "player_location": "us",
+    "time": 519,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yv6wrj8z",
+    "game": "Space Quest: The Sarien Encounter",
+    "player": "ehushagen",
+    "player_location": "ca",
+    "time": 511,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": true
+  },
+  {
+    "id": "y8rggj1m",
+    "game": "Space Quest: The Sarien Encounter",
+    "player": "RetroTKS",
+    "player_location": "us",
+    "time": 496,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": true
+  },
+  {
+    "id": "z18j02wy",
+    "game": "Space Quest: The Sarien Encounter",
+    "player": "TacoAdventure",
+    "player_location": "us",
+    "time": 475,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": true
+  },
+  {
+    "id": "y2v25ewz",
+    "game": "Space Quest: The Sarien Encounter",
+    "player": "SantaClaus",
+    "player_location": "fi",
+    "time": 285,
+    "category": "Any%",
+    "region": null,
+    "platform": "MS-DOS",
+    "emulated": true
+  },
+  {
+    "id": "m3x2l4qm",
+    "game": "Space Quest: The Sarien Encounter",
+    "player": "Shawluck",
+    "player_location": null,
+    "time": 479,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": true
+  }
+]

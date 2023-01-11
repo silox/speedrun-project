@@ -1,0 +1,79 @@
+[
+  {
+    "id": "y670x71m",
+    "game": "",
+    "player": "Loki_Khan",
+    "player_location": "us",
+    "time": 1154,
+    "category": "Mongol Conquest",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "m3d3dpdz",
+    "game": "",
+    "player": "DanglerwoodGaming",
+    "player_location": null,
+    "time": 2575,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "zq676lry",
+    "game": "Genghis Khan II: Clan of the Gray Wolf",
+    "player": "Dark Dragon Games",
+    "player_location": null,
+    "time": 3117,
+    "category": "Mongol Conquest",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": false
+  },
+  {
+    "id": "yjkpk0dm",
+    "game": "Genghis Khan II: Clan of the Gray Wolf",
+    "player": "LowBiasGaming",
+    "player_location": null,
+    "time": 3871,
+    "category": "Mongol Conquest",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "zgnpn5ey",
+    "game": "Genghis Khan II: Clan of the Gray Wolf",
+    "player": "JohnX895",
+    "player_location": null,
+    "time": 1210,
+    "category": "Mongol Conquest",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "yd560xqm",
+    "game": "Genghis Khan II: Clan of the Gray Wolf",
+    "player": "davichid921",
+    "player_location": "us",
+    "time": 1325,
+    "category": "Mongol Conquest",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "znk7479z",
+    "game": "Genghis Khan II: Clan of the Gray Wolf",
+    "player": "Kepasagi",
+    "player_location": "ar",
+    "time": 916,
+    "category": "Mongol Conquest",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "zxvww6ey",
+    "game": "",
+    "player": "fluffytoycoy",
+    "player_location": "us",
+    "time": 2062,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "zp0003xm",
+    "game": "",
+    "player": "Lexifer",
+    "player_location": "ru",
+    "time": 2056,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "yj3wp27z",
+    "game": "",
+    "player": "Felipe_Ribeiru16",
+    "player_location": "br",
+    "time": 1980,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "m75q1kwz",
+    "game": "Captain America and The Avengers (SNES)",
+    "player": "DududeDude",
+    "player_location": "nl",
+    "time": 1553,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "y9n92gnz",
+    "game": "Captain America and The Avengers (SNES)",
+    "player": "The_Retro_Challenger",
+    "player_location": "ca/qc",
+    "time": 2483,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  }
+]

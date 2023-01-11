@@ -1,0 +1,79 @@
+[
+  {
+    "id": "oy23kvwm",
+    "game": "Puzzle Bobble 3 (Arcade)",
+    "player": "CrystalChaos",
+    "player_location": null,
+    "time": 2290,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y6pq13qm",
+    "game": "Puzzle Bobble 3 (Arcade)",
+    "player": "nick666101",
+    "player_location": "nl",
+    "time": 344,
+    "category": "Vs. Computer (Normal)",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "1zxjn2ky",
+    "game": "Puzzle Bobble 3 (Arcade)",
+    "player": "qweflol",
+    "player_location": "ec",
+    "time": 820,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y89plkxm",
+    "game": "Puzzle Bobble 3 (Arcade)",
+    "player": "Kat_kunoichi",
+    "player_location": "it",
+    "time": 351,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y6rwqw1y",
+    "game": "Puzzle Bobble 3 (Arcade)",
+    "player": "Darmok57",
+    "player_location": "it",
+    "time": 351,
+    "category": "Vs. Computer (Hard)",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zplk24xm",
+    "game": "Puzzle Bobble 3 (Arcade)",
+    "player": "TheVideogameCemetery",
+    "player_location": "gb/eng",
+    "time": 703,
+    "category": "Vs. Computer (Normal)",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "me99078z",
+    "game": "Puzzle Bobble 3 (Arcade)",
+    "player": "MAME_Retro_Avengers",
+    "player_location": "it",
+    "time": 60,
+    "category": "",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

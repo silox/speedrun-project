@@ -1,0 +1,123 @@
+[
+  {
+    "id": "pm31ol6z",
+    "game": "Eternal Darkness: Sanity's Requiem",
+    "player": "Zwajken",
+    "player_location": "se",
+    "time": 7972,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "pyd19pjy",
+    "game": "Eternal Darkness: Sanity's Requiem",
+    "player": "Llyno87",
+    "player_location": "us",
+    "time": 10035,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "pzg9qkjm",
+    "game": "Eternal Darkness: Sanity's Requiem",
+    "player": "ZeldaPirate",
+    "player_location": null,
+    "time": 9765,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "yl9017ry",
+    "game": "Eternal Darkness: Sanity's Requiem",
+    "player": "muppetsinspace",
+    "player_location": "us",
+    "time": 9619,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "z5170ljm",
+    "game": "Eternal Darkness: Sanity's Requiem",
+    "player": "Wyrmtalon",
+    "player_location": "us",
+    "time": 7996,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "mrqv63dy",
+    "game": "Eternal Darkness: Sanity's Requiem",
+    "player": "FranklinM",
+    "player_location": "us",
+    "time": 9334,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "z52663ez",
+    "game": "Eternal Darkness: Sanity's Requiem",
+    "player": "Pandora",
+    "player_location": "cl",
+    "time": 155.983,
+    "category": "Chattur'gha",
+    "region": "JPN / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "z1o508wm",
+    "game": "Eternal Darkness: Sanity's Requiem",
+    "player": "GibGirl",
+    "player_location": "us",
+    "time": 165,
+    "category": "Chattur'gha",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "y41dogky",
+    "game": "Eternal Darkness: Sanity's Requiem",
+    "player": "the_kov",
+    "player_location": "us",
+    "time": 7176,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": false
+  },
+  {
+    "id": "y6dwqk1m",
+    "game": "Eternal Darkness: Sanity's Requiem",
+    "player": "BigNoNo",
+    "player_location": null,
+    "time": 6022,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "GameCube",
+    "emulated": true
+  },
+  {
+    "id": "zx8g89km",
+    "game": "Eternal Darkness: Sanity's Requiem",
+    "player": "Narokath",
+    "player_location": "se",
+    "time": 5746,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "GameCube",
+    "emulated": false
+  }
+]

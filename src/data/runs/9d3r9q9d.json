@@ -1,0 +1,46 @@
+[
+  {
+    "id": "z5j544gm",
+    "game": "Eight Man",
+    "player": "Shikitin",
+    "player_location": "es",
+    "time": 1372,
+    "category": "Any% 1 Player",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "ywj31lpz",
+    "game": "Eight Man",
+    "player": "RitaH",
+    "player_location": "br",
+    "time": 24,
+    "category": "2P Any%",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "ywj313nz",
+    "game": "Eight Man",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 10,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y6n07vqz",
+    "game": "Eight Man",
+    "player": "Dumple",
+    "player_location": "us",
+    "time": 16,
+    "category": "",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

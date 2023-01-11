@@ -1,0 +1,24 @@
+[
+  {
+    "id": "mk203n1m",
+    "game": "Bujingai: The Forsaken City / Swordmaster",
+    "player": "hayafo",
+    "player_location": "jp",
+    "time": 3288,
+    "category": "NG+ Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y2plq1jz",
+    "game": "Bujingai: The Forsaken City / Swordmaster",
+    "player": "DECosmic",
+    "player_location": "us",
+    "time": 6020,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  }
+]

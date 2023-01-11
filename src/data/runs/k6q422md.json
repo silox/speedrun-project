@@ -1,0 +1,189 @@
+[
+  {
+    "id": "y9202wnz",
+    "game": "Ms. Pac-Man (Atari 2600)",
+    "player": "cmbrn",
+    "player_location": "tr",
+    "time": 104,
+    "category": "",
+    "region": null,
+    "platform": "Atari 2600",
+    "emulated": true
+  },
+  {
+    "id": "z035548z",
+    "game": "Ms. Pac-Man (Atari 2600)",
+    "player": "Wantsmoejoe",
+    "player_location": "us",
+    "time": 45.479,
+    "category": "10000 points",
+    "region": null,
+    "platform": "Atari 2600",
+    "emulated": true
+  },
+  {
+    "id": "zp0kdxrm",
+    "game": "Ms. Pac-Man (Atari 2600)",
+    "player": "VGRdaftpunk",
+    "player_location": "fr",
+    "time": 34.134,
+    "category": "10000 points",
+    "region": null,
+    "platform": "Atari 2600",
+    "emulated": true
+  },
+  {
+    "id": "mex8dn9z",
+    "game": "Ms. Pac-Man (Atari 2600)",
+    "player": "VintageClassicGamer",
+    "player_location": "us",
+    "time": 35.9,
+    "category": "10000 points",
+    "region": null,
+    "platform": "Atari 2600",
+    "emulated": false
+  },
+  {
+    "id": "z015x1jy",
+    "game": "Ms. Pac-Man (Atari 2600)",
+    "player": "Mikebloke",
+    "player_location": "gb/eng",
+    "time": 90.166,
+    "category": "10000 points",
+    "region": null,
+    "platform": "Atari 2600",
+    "emulated": true
+  },
+  {
+    "id": "mk23o6xm",
+    "game": "Ms. Pac-Man (Atari 2600)",
+    "player": "Caidren",
+    "player_location": "us",
+    "time": 110.75,
+    "category": "10000 points",
+    "region": null,
+    "platform": "Atari 2600",
+    "emulated": true
+  },
+  {
+    "id": "yj315ddz",
+    "game": "Ms. Pac-Man (Atari 2600)",
+    "player": "Fenwick",
+    "player_location": "us",
+    "time": 32.08,
+    "category": "10000 points",
+    "region": null,
+    "platform": "Atari 2600",
+    "emulated": true
+  },
+  {
+    "id": "zxk623km",
+    "game": "Ms. Pac-Man (Atari 2600)",
+    "player": "RanScot",
+    "player_location": "us",
+    "time": 36.37,
+    "category": "10000 points",
+    "region": null,
+    "platform": "Atari 2600",
+    "emulated": false
+  },
+  {
+    "id": "y4w2kodm",
+    "game": "Ms. Pac-Man (Atari 2600)",
+    "player": "TheSaltyRoad",
+    "player_location": "ca",
+    "time": 136.201,
+    "category": "10000 points",
+    "region": null,
+    "platform": "Atari 2600",
+    "emulated": true
+  },
+  {
+    "id": "yd5rvxvm",
+    "game": "Ms. Pac-Man (Atari 2600)",
+    "player": "starcrytas",
+    "player_location": "us",
+    "time": 29.767,
+    "category": "10000 points",
+    "region": null,
+    "platform": "Atari 2600",
+    "emulated": true
+  },
+  {
+    "id": "zx2prkqm",
+    "game": "Ms. Pac-Man (Atari 2600)",
+    "player": "MortimerNova",
+    "player_location": "us",
+    "time": 48.433,
+    "category": "10000 points",
+    "region": null,
+    "platform": "Atari 2600",
+    "emulated": true
+  },
+  {
+    "id": "zn3w03ly",
+    "game": "Ms. Pac-Man (Atari 2600)",
+    "player": "Jrmhd91",
+    "player_location": "us",
+    "time": 41.549,
+    "category": "10000 points",
+    "region": null,
+    "platform": "Atari 2600",
+    "emulated": false
+  },
+  {
+    "id": "yd06rjvz",
+    "game": "Ms. Pac-Man (Atari 2600)",
+    "player": "Jaypin88",
+    "player_location": "ca",
+    "time": 30.5,
+    "category": "10000 points",
+    "region": null,
+    "platform": "Atari 2600",
+    "emulated": true
+  },
+  {
+    "id": "zxgoweky",
+    "game": "Ms. Pac-Man (Atari 2600)",
+    "player": "benni_2600",
+    "player_location": "at",
+    "time": 29.036,
+    "category": "10000 points",
+    "region": "USA / NTSC",
+    "platform": "Atari 2600",
+    "emulated": true
+  },
+  {
+    "id": "y8jqo0xz",
+    "game": "Ms. Pac-Man (Atari 2600)",
+    "player": "ProfessorJamal",
+    "player_location": "us",
+    "time": 62.01,
+    "category": "10000 points",
+    "region": "USA / NTSC",
+    "platform": "Atari 2600",
+    "emulated": true
+  },
+  {
+    "id": "y8j0rgnz",
+    "game": "Ms. Pac-Man (Atari 2600)",
+    "player": "JoePulito",
+    "player_location": "us",
+    "time": 34.166,
+    "category": "10000 points",
+    "region": "USA / NTSC",
+    "platform": "Atari 2600",
+    "emulated": true
+  },
+  {
+    "id": "y20rex5m",
+    "game": "Ms. Pac-Man (Atari 2600)",
+    "player": "notitsam",
+    "player_location": "us",
+    "time": 58.22,
+    "category": "10000 points",
+    "region": null,
+    "platform": "Atari 2600",
+    "emulated": true
+  }
+]

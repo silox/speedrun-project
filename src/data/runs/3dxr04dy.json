@@ -1,0 +1,35 @@
+[
+  {
+    "id": "pydlg3vz",
+    "game": "Shadow Tower",
+    "player": "BeastlyWhale",
+    "player_location": "us",
+    "time": 3506,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Playstation TV",
+    "emulated": false
+  },
+  {
+    "id": "emk1v9xy",
+    "game": "Shadow Tower",
+    "player": "szsk",
+    "player_location": null,
+    "time": 3884,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "m3orewwm",
+    "game": "Shadow Tower",
+    "player": "meauxdal",
+    "player_location": "us",
+    "time": 3189,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  }
+]

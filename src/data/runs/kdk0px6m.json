@@ -1,0 +1,112 @@
+[
+  {
+    "id": "kz5ljl5y",
+    "game": "Xenosaga Episode I: Der Wille zur Macht",
+    "player": "BlueMetal",
+    "player_location": "us",
+    "time": 15899,
+    "category": "English",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "pm38l9dy",
+    "game": "Xenosaga Episode I: Der Wille zur Macht",
+    "player": "ConnorCordell",
+    "player_location": "us",
+    "time": 15289,
+    "category": "English",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "1zq2w2rz",
+    "game": "Xenosaga Episode I: Der Wille zur Macht",
+    "player": "\u604b\u6210",
+    "player_location": null,
+    "time": 13562,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "8y8o2odm",
+    "game": "Xenosaga Episode I: Der Wille zur Macht",
+    "player": "\u30b9\u30c6",
+    "player_location": null,
+    "time": 14907,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zgnxxqjy",
+    "game": "Xenosaga Episode I: Der Wille zur Macht",
+    "player": "stiylemagnus",
+    "player_location": "jp",
+    "time": 15091,
+    "category": "Japanese",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "mrq6w84y",
+    "game": "Xenosaga Episode I: Der Wille zur Macht",
+    "player": "kyoslilmonster",
+    "player_location": "us",
+    "time": 17644,
+    "category": "English",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "m7p07d9m",
+    "game": "Xenosaga Episode I: Der Wille zur Macht",
+    "player": "onzario",
+    "player_location": "us",
+    "time": 16719,
+    "category": "English",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "yj6vpe3z",
+    "game": "Xenosaga Episode I: Der Wille zur Macht",
+    "player": "Enel",
+    "player_location": "us",
+    "time": 14657,
+    "category": "English",
+    "region": "USA / NTSC",
+    "platform": "backwards-compatible PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "yvqed6em",
+    "game": "Xenosaga Episode I: Der Wille zur Macht",
+    "player": "inatami",
+    "player_location": "jp",
+    "time": 12351,
+    "category": "Japanese",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "y2ponnjz",
+    "game": "Xenosaga Episode I: Der Wille zur Macht",
+    "player": "MissScarletTanager",
+    "player_location": "us",
+    "time": 12631,
+    "category": "English",
+    "region": "USA / NTSC",
+    "platform": "backwards-compatible PlayStation 3",
+    "emulated": false
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "z5o07qgy",
+    "game": "Cool Spot (SNES)",
+    "player": "darbian",
+    "player_location": "us",
+    "time": 641,
+    "category": "Any%, Easy",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "wzp9ponm",
+    "game": "Cool Spot (SNES)",
+    "player": "Trysdyn",
+    "player_location": null,
+    "time": 669,
+    "category": "Any%, Easy",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "1zqj461m",
+    "game": "Cool Spot (SNES)",
+    "player": "BroBuzz",
+    "player_location": "us",
+    "time": 811,
+    "category": "Any%, Easy",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "z0erg3om",
+    "game": "Cool Spot (SNES)",
+    "player": "moistgoolash",
+    "player_location": "ca",
+    "time": 686,
+    "category": "Any%, Easy",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "me8krlqm",
+    "game": "Cool Spot (SNES)",
+    "player": "GlitchCat7",
+    "player_location": "us",
+    "time": 586,
+    "category": "Any%, Easy",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y95e13nz",
+    "game": "Cool Spot (SNES)",
+    "player": "simillarian",
+    "player_location": "us",
+    "time": 945,
+    "category": "Any%, Easy",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "yjgv4lny",
+    "game": "Cool Spot (SNES)",
+    "player": "GrandMasterMario5000",
+    "player_location": "ca",
+    "time": 1725,
+    "category": "Any%, Easy",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y9vrjkrm",
+    "game": "Cool Spot (SNES)",
+    "player": "_SNES_",
+    "player_location": "br",
+    "time": 1970,
+    "category": "Any%, Easy",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  }
+]

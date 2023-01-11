@@ -1,0 +1,35 @@
+[
+  {
+    "id": "yv1rv9ey",
+    "game": "Shin Megami Tensei: Persona 2: Innocent Sin",
+    "player": "Mulsqi",
+    "player_location": "fi",
+    "time": 20822,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Playstation TV",
+    "emulated": false
+  },
+  {
+    "id": "zgg0k5jz",
+    "game": "Shin Megami Tensei: Persona 2: Innocent Sin",
+    "player": "ToxicTT",
+    "player_location": "ru",
+    "time": 21341,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PlayStation Portable",
+    "emulated": false
+  },
+  {
+    "id": "zx77735y",
+    "game": "Shin Megami Tensei: Persona 2: Innocent Sin",
+    "player": "Sayuri",
+    "player_location": "us",
+    "time": 28655,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation Portable",
+    "emulated": false
+  }
+]

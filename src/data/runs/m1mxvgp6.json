@@ -1,0 +1,68 @@
+[
+  {
+    "id": "ydq2pxqm",
+    "game": "Burnout Category Extensions",
+    "player": "Microwav",
+    "player_location": "gb/eng",
+    "time": 37,
+    "category": "Burnout Paradise",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y97vxnem",
+    "game": "Burnout Category Extensions",
+    "player": "espumbrajolt",
+    "player_location": "us",
+    "time": 37,
+    "category": "Burnout Paradise",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 3",
+    "emulated": false
+  },
+  {
+    "id": "z13v3l9m",
+    "game": "Burnout Category Extensions",
+    "player": "CrashRatchet008",
+    "player_location": "it",
+    "time": 160,
+    "category": "Burnout Revenge",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "mrqvrkgy",
+    "game": "Burnout Category Extensions",
+    "player": "Realm",
+    "player_location": "gb/eng",
+    "time": 1671,
+    "category": "Burnout Dominator",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "yvj7ej4y",
+    "game": "Burnout Category Extensions",
+    "player": "Sukaichae",
+    "player_location": "fr",
+    "time": 50,
+    "category": "Burnout Legends",
+    "region": "EUR / PAL",
+    "platform": "PlayStation Portable",
+    "emulated": true
+  },
+  {
+    "id": "mk39dkvz",
+    "game": "Burnout Category Extensions",
+    "player": "Appledoud",
+    "player_location": "fr",
+    "time": 156,
+    "category": "Burnout Revenge",
+    "region": "EUR / PAL",
+    "platform": "PlayStation 2",
+    "emulated": false
+  }
+]

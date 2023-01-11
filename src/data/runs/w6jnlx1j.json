@@ -1,0 +1,46 @@
+[
+  {
+    "id": "7z01d58y",
+    "game": "Yu-Gi-Oh! Reshef of Destruction",
+    "player": "gcah2006",
+    "player_location": null,
+    "time": 442,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "7z05evem",
+    "game": "Yu-Gi-Oh! Reshef of Destruction",
+    "player": "Daniel_1RD",
+    "player_location": "dk",
+    "time": 6279,
+    "category": "Hall Of Eternity",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "y2d48wjz",
+    "game": "Yu-Gi-Oh! Reshef of Destruction",
+    "player": "therileyc",
+    "player_location": "ca",
+    "time": 3522,
+    "category": "Hall Of Eternity",
+    "region": "USA / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  },
+  {
+    "id": "yorkxv0y",
+    "game": "Yu-Gi-Oh! Reshef of Destruction",
+    "player": "Kaluahmilk",
+    "player_location": "jp",
+    "time": 29634,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Game Boy Advance",
+    "emulated": true
+  }
+]

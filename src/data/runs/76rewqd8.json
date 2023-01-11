@@ -1,0 +1,167 @@
+[
+  {
+    "id": "oy2kxl5y",
+    "game": "Robocop Versus The Terminator (SNES/Genesis)",
+    "player": "JudgeMaster Jib",
+    "player_location": null,
+    "time": 1510,
+    "category": "Any% SNES",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "pm3ernwy",
+    "game": "Robocop Versus The Terminator (SNES/Genesis)",
+    "player": "Maniatikiller",
+    "player_location": "cl",
+    "time": 1481,
+    "category": "Any% SNES",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "mk499n5y",
+    "game": "Robocop Versus The Terminator (SNES/Genesis)",
+    "player": "PacnyTHuk",
+    "player_location": "ru",
+    "time": 1085,
+    "category": "Any% GEN",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "zx4o9eey",
+    "game": "Robocop Versus The Terminator (SNES/Genesis)",
+    "player": "Benhur",
+    "player_location": "ca/qc",
+    "time": 1390,
+    "category": "Any% SNES",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "yvjr3pey",
+    "game": "Robocop Versus The Terminator (SNES/Genesis)",
+    "player": "Retro_Omega",
+    "player_location": null,
+    "time": 1706,
+    "category": "Any% GEN",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "zgkq45ey",
+    "game": "Robocop Versus The Terminator (SNES/Genesis)",
+    "player": "ToxicTT",
+    "player_location": "ru",
+    "time": 1446,
+    "category": "Any% SNES",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "yl06pqry",
+    "game": "Robocop Versus The Terminator (SNES/Genesis)",
+    "player": "Lexifer",
+    "player_location": "ru",
+    "time": 2059,
+    "category": "Any% GEN",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "zprk0nvm",
+    "game": "Robocop Versus The Terminator (SNES/Genesis)",
+    "player": "KA3AX",
+    "player_location": "kz",
+    "time": 3804,
+    "category": "Any% SNES",
+    "region": null,
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "y25l0r5y",
+    "game": "Robocop Versus The Terminator (SNES/Genesis)",
+    "player": "RecklessPyro",
+    "player_location": "us",
+    "time": 991,
+    "category": "Any% GEN",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "z0o67o4z",
+    "game": "Robocop Versus The Terminator (SNES/Genesis)",
+    "player": "JamesNightstalker",
+    "player_location": "ua",
+    "time": 915,
+    "category": "Any% GEN",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "y2xrgd9m",
+    "game": "Robocop Versus The Terminator (SNES/Genesis)",
+    "player": "MrGeeee",
+    "player_location": "at",
+    "time": 1061,
+    "category": "Any% GEN",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "y47pv2dy",
+    "game": "Robocop Versus The Terminator (SNES/Genesis)",
+    "player": "GreyGurd",
+    "player_location": "ru",
+    "time": 968,
+    "category": "Any% GEN",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "mejejo9y",
+    "game": "Robocop Versus The Terminator (SNES/Genesis)",
+    "player": "LaNuevaEradelVicio",
+    "player_location": "ar",
+    "time": 1855,
+    "category": "Any% GEN",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "znpk3g7m",
+    "game": "Robocop Versus The Terminator (SNES/Genesis)",
+    "player": "CartmanMajima",
+    "player_location": null,
+    "time": 947,
+    "category": "Any% GEN",
+    "region": "USA / NTSC",
+    "platform": "Sega Genesis",
+    "emulated": true
+  },
+  {
+    "id": "zp9wlxnm",
+    "game": "Robocop Versus The Terminator (SNES/Genesis)",
+    "player": "ScageRock",
+    "player_location": "us",
+    "time": 1731,
+    "category": "Any% SNES",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  }
+]

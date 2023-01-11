@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1zxo3pgz",
+    "game": "",
+    "player": "Toad22484",
+    "player_location": "us",
+    "time": 1720,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "m35grvgy",
+    "game": "",
+    "player": "NeGAtiv4k",
+    "player_location": "ru",
+    "time": 1637,
+    "category": "Any%",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y42p93km",
+    "game": "",
+    "player": "ArkanoidAddict",
+    "player_location": "fi",
+    "time": 2777,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Nintendo Entertainment System",
+    "emulated": false
+  },
+  {
+    "id": "y47op93y",
+    "game": "Over Horizon",
+    "player": "alex92Tcordobes",
+    "player_location": "ar",
+    "time": 1804,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Nintendo Entertainment System",
+    "emulated": true
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "ylkp9wxz",
+    "game": "Street Sk8er 2",
+    "player": "Sircoconut72",
+    "player_location": "es/pv",
+    "time": 400,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "z5r4vrjy",
+    "game": "Street Sk8er 2",
+    "player": "unidorsal",
+    "player_location": "se",
+    "time": 338,
+    "category": "Competition (easy)",
+    "region": "EUR / PAL",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "y8eqqj1y",
+    "game": "Street Sk8er 2",
+    "player": "PoilQC",
+    "player_location": "ca/qc",
+    "time": 321,
+    "category": "Competition (easy)",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "me40q6qy",
+    "game": "Street Sk8er 2",
+    "player": "FunkySteve",
+    "player_location": "pl",
+    "time": 944,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "y8xoxe1m",
+    "game": "Street Sk8er 2",
+    "player": "cane",
+    "player_location": "au",
+    "time": 313,
+    "category": "Competition (easy)",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  }
+]

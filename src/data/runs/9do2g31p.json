@@ -1,0 +1,112 @@
+[
+  {
+    "id": "dy489d3m",
+    "game": "4-in-1 Fun Pak",
+    "player": "StarvinStruthers",
+    "player_location": "us",
+    "time": 240,
+    "category": "Backgammon",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": false
+  },
+  {
+    "id": "pydwl80m",
+    "game": "4-in-1 Fun Pak",
+    "player": "Fawns",
+    "player_location": "ca",
+    "time": 92,
+    "category": "Chess",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": false
+  },
+  {
+    "id": "zpqk268y",
+    "game": "4-in-1 Fun Pak",
+    "player": "NihilistComedyHour",
+    "player_location": "eo",
+    "time": 222,
+    "category": "Checkers",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "yw15053z",
+    "game": "4-in-1 Fun Pak",
+    "player": "MelonSlice",
+    "player_location": "gb/sct",
+    "time": 114,
+    "category": "Reversi",
+    "region": null,
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "mekrnq3m",
+    "game": "4-in-1 Fun Pak",
+    "player": "DarQ",
+    "player_location": "ca",
+    "time": 78,
+    "category": "Reversi",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "yd5qjgwm",
+    "game": "4-in-1 Fun Pak",
+    "player": "KiwiCracker",
+    "player_location": "de",
+    "time": 91,
+    "category": "Checkers",
+    "region": null,
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "yok5ex1z",
+    "game": "4-in-1 Fun Pak",
+    "player": "MortimerNova",
+    "player_location": "us",
+    "time": 337,
+    "category": "Chess",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "yo6pqrjy",
+    "game": "4-in-1 Fun Pak",
+    "player": "JoePulito",
+    "player_location": "us",
+    "time": 326,
+    "category": "Checkers",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "z0l3118z",
+    "game": "4-in-1 Fun Pak",
+    "player": "DarthTyrael",
+    "player_location": "us",
+    "time": 8,
+    "category": "Chess",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  },
+  {
+    "id": "y9x2o42y",
+    "game": "4-in-1 Fun Pak",
+    "player": "Fioresa",
+    "player_location": "us",
+    "time": 9,
+    "category": "Chess",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  }
+]

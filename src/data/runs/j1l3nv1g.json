@@ -1,0 +1,24 @@
+[
+  {
+    "id": "yl9vekky",
+    "game": "",
+    "player": "authorblues",
+    "player_location": "us",
+    "time": 1801,
+    "category": "Beat the Game",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": false
+  },
+  {
+    "id": "yl047dny",
+    "game": "",
+    "player": "Zandra",
+    "player_location": "ca/qc",
+    "time": 1642,
+    "category": "Beat the Game",
+    "region": "USA / NTSC",
+    "platform": "Game Boy",
+    "emulated": true
+  }
+]

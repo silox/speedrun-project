@@ -1,0 +1,101 @@
+[
+  {
+    "id": "zxd6k25y",
+    "game": "",
+    "player": "Pok\u00e9si",
+    "player_location": "au",
+    "time": 1107,
+    "category": "Gravity%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y6r6l6py",
+    "game": "",
+    "player": "RandomStuff9001",
+    "player_location": "us",
+    "time": 796,
+    "category": "",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y8rjvlnm",
+    "game": "DreamDasher",
+    "player": "isopotermiastico",
+    "player_location": "es",
+    "time": 535,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y6rv51py",
+    "game": "DreamDasher",
+    "player": "DomadordeDinossauro",
+    "player_location": "br",
+    "time": 2199,
+    "category": "Any%",
+    "region": "BRA / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z0920doz",
+    "game": "DreamDasher",
+    "player": "Odin_Gr",
+    "player_location": "be",
+    "time": 387,
+    "category": "Gravity%",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "mr9wr3dm",
+    "game": "DreamDasher",
+    "player": "AnglarnasAndel",
+    "player_location": "be",
+    "time": 532,
+    "category": "Gravity%",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zn0k93vy",
+    "game": "DreamDasher",
+    "player": "Silver_Shelf",
+    "player_location": null,
+    "time": 425,
+    "category": "Gravity%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yd9732jz",
+    "game": "DreamDasher",
+    "player": "GlobalVisionz",
+    "player_location": "de",
+    "time": 491,
+    "category": "Gravity%",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zgdw6rjz",
+    "game": "DreamDasher",
+    "player": "EthanDarkGod",
+    "player_location": "gb",
+    "time": 353,
+    "category": "Gravity%",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  }
+]

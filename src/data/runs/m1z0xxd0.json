@@ -1,0 +1,57 @@
+[
+  {
+    "id": "8yvxexxz",
+    "game": "Bomberman (TurboGrafx-16)",
+    "player": "GreenBomber",
+    "player_location": "us",
+    "time": 4870,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": true
+  },
+  {
+    "id": "yl4qppnm",
+    "game": "Bomberman (TurboGrafx-16)",
+    "player": "9volt",
+    "player_location": "ca",
+    "time": 2673,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": true
+  },
+  {
+    "id": "yl4q0exm",
+    "game": "Bomberman (TurboGrafx-16)",
+    "player": "OldWorldGamer",
+    "player_location": "ca",
+    "time": 3784,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": true
+  },
+  {
+    "id": "m315oxgz",
+    "game": "Bomberman (TurboGrafx-16)",
+    "player": "Mikebloke",
+    "player_location": "gb/eng",
+    "time": 7292,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": false
+  },
+  {
+    "id": "yv835eem",
+    "game": "Bomberman (TurboGrafx-16)",
+    "player": "CMOJoker",
+    "player_location": "us",
+    "time": 4645,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": true
+  }
+]

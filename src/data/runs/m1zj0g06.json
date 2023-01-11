@@ -1,0 +1,123 @@
+[
+  {
+    "id": "y2v3pdjz",
+    "game": "Aliens (1990 Arcade)",
+    "player": "Maniatikiller",
+    "player_location": "cl",
+    "time": 824,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z05oonom",
+    "game": "Aliens (1990 Arcade)",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 1374,
+    "category": "2 Players Co-oP",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "mk82r8lm",
+    "game": "Aliens (1990 Arcade)",
+    "player": "Jesus82050615",
+    "player_location": "ca/qc",
+    "time": 969,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zqg6jq5m",
+    "game": "Aliens (1990 Arcade)",
+    "player": "Paintbrush_Samurai",
+    "player_location": "us",
+    "time": 814,
+    "category": "",
+    "region": null,
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y4r36gkz",
+    "game": "Aliens (1990 Arcade)",
+    "player": "Vynnada",
+    "player_location": "ie",
+    "time": 839,
+    "category": "1 Player",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "zp8dqe8y",
+    "game": "Aliens (1990 Arcade)",
+    "player": "War_d",
+    "player_location": "gb/eng",
+    "time": 937,
+    "category": "1 Player",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z1xlwprm",
+    "game": "Aliens (1990 Arcade)",
+    "player": "chucksnake",
+    "player_location": "fr",
+    "time": 1105,
+    "category": "1 Player",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "y481x6nm",
+    "game": "Aliens (1990 Arcade)",
+    "player": "Malso",
+    "player_location": "pe",
+    "time": 821,
+    "category": "1 Player",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "z0lxlj9z",
+    "game": "Aliens (1990 Arcade)",
+    "player": "Cactuar",
+    "player_location": "us",
+    "time": 892,
+    "category": "1 Player",
+    "region": "USA / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yvrxgjoz",
+    "game": "Aliens (1990 Arcade)",
+    "player": "zhutousan123",
+    "player_location": "cn",
+    "time": 1091,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "yjpe5j3y",
+    "game": "Aliens (1990 Arcade)",
+    "player": "pengge1981",
+    "player_location": "cn",
+    "time": 995,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": true
+  }
+]

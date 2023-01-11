@@ -1,0 +1,57 @@
+[
+  {
+    "id": "zq6l75ry",
+    "game": "Dragon Ball Z: Supersonic Warriors 2",
+    "player": "DBcade",
+    "player_location": "jp",
+    "time": 316,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "yjxo8r7z",
+    "game": "Dragon Ball Z: Supersonic Warriors 2",
+    "player": "Mick_arellano",
+    "player_location": null,
+    "time": 459,
+    "category": "Z mode",
+    "region": null,
+    "platform": "Nintendo DS",
+    "emulated": true
+  },
+  {
+    "id": "yv00216z",
+    "game": "Dragon Ball Z: Supersonic Warriors 2",
+    "player": "Alexooo_gaming",
+    "player_location": "fr",
+    "time": 241,
+    "category": "Z mode",
+    "region": "EUR / PAL",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "me17k2qy",
+    "game": "Dragon Ball Z: Supersonic Warriors 2",
+    "player": "nigoi",
+    "player_location": null,
+    "time": 264,
+    "category": "Z mode",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": false
+  },
+  {
+    "id": "yd1208wy",
+    "game": "Dragon Ball Z: Supersonic Warriors 2",
+    "player": "Yalbay",
+    "player_location": null,
+    "time": 233,
+    "category": "Z mode",
+    "region": "JPN / NTSC",
+    "platform": "Nintendo DS",
+    "emulated": true
+  }
+]

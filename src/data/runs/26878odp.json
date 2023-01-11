@@ -1,0 +1,145 @@
+[
+  {
+    "id": "zpq44xny",
+    "game": "J.J. & Jeff",
+    "player": "The_Retro_Challenger",
+    "player_location": "ca/qc",
+    "time": 729,
+    "category": "Any% (US)",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": false
+  },
+  {
+    "id": "y97rq5km",
+    "game": "J.J. & Jeff",
+    "player": "Zzz_pc",
+    "player_location": "jp",
+    "time": 474,
+    "category": "Any% (JP)",
+    "region": "JPN / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": false
+  },
+  {
+    "id": "ywd8pg2z",
+    "game": "J.J. & Jeff",
+    "player": "greatjhon",
+    "player_location": "us",
+    "time": 533,
+    "category": "Any% (US)",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": true
+  },
+  {
+    "id": "m7g6r85m",
+    "game": "J.J. & Jeff",
+    "player": "FlannelKat",
+    "player_location": "us",
+    "time": 1028,
+    "category": "Any% (US)",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": false
+  },
+  {
+    "id": "z5vxw3dm",
+    "game": "J.J. & Jeff",
+    "player": "Xexzy",
+    "player_location": null,
+    "time": 478.886,
+    "category": "Any% (US)",
+    "region": "USA / NTSC",
+    "platform": "MiSTer",
+    "emulated": false
+  },
+  {
+    "id": "mr9q5kgm",
+    "game": "J.J. & Jeff",
+    "player": "BaconOmelette",
+    "player_location": "ca",
+    "time": 590,
+    "category": "Any% (US)",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": true
+  },
+  {
+    "id": "yd06qqwz",
+    "game": "J.J. & Jeff",
+    "player": "stormcrow56k",
+    "player_location": "us",
+    "time": 493,
+    "category": "Any% (US)",
+    "region": "USA / NTSC",
+    "platform": "MiSTer",
+    "emulated": true
+  },
+  {
+    "id": "m75q085z",
+    "game": "J.J. & Jeff",
+    "player": "40wattrange",
+    "player_location": "us",
+    "time": 539,
+    "category": "Any% (US)",
+    "region": "USA / NTSC",
+    "platform": "MiSTer",
+    "emulated": true
+  },
+  {
+    "id": "m7wrl4wz",
+    "game": "J.J. & Jeff",
+    "player": "Norishige710",
+    "player_location": "jp",
+    "time": 499.92,
+    "category": "Any% (JP)",
+    "region": "JPN / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": false
+  },
+  {
+    "id": "ywqwxk0y",
+    "game": "J.J. & Jeff",
+    "player": "wax_house",
+    "player_location": "us",
+    "time": 515,
+    "category": "Any% (US)",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": true
+  },
+  {
+    "id": "z5vd0rnm",
+    "game": "J.J. & Jeff",
+    "player": "st4nzzz",
+    "player_location": "ru",
+    "time": 469,
+    "category": "Any% (US)",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": true
+  },
+  {
+    "id": "z5vd06jm",
+    "game": "J.J. & Jeff",
+    "player": "ANGEL_UNDEAD",
+    "player_location": "ru",
+    "time": 722,
+    "category": "Any% (US)",
+    "region": "USA / NTSC",
+    "platform": "TurboGrafx-16/PC Engine",
+    "emulated": true
+  },
+  {
+    "id": "m36qw9gm",
+    "game": "J.J. & Jeff",
+    "player": "CritRocket",
+    "player_location": "us",
+    "time": 506,
+    "category": "Any% (US)",
+    "region": null,
+    "platform": "MiSTer",
+    "emulated": false
+  }
+]

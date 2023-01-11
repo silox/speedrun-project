@@ -1,0 +1,178 @@
+[
+  {
+    "id": "mrr8lv7m",
+    "game": "Gears 5",
+    "player": "DarkJuiceBox",
+    "player_location": "ca",
+    "time": 4885,
+    "category": "Hivebusters",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y8jj2lnz",
+    "game": "Gears 5",
+    "player": "Slevanas",
+    "player_location": "mx",
+    "time": 84.017,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "Xbox One",
+    "emulated": false
+  },
+  {
+    "id": "y21pve7z",
+    "game": "Gears 5",
+    "player": "Krinik",
+    "player_location": "us",
+    "time": 12377,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "znr7xrly",
+    "game": "Gears 5",
+    "player": "Trinasin",
+    "player_location": "us",
+    "time": 13048,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z57x1lgm",
+    "game": "Gears 5",
+    "player": "TomEL092",
+    "player_location": "de",
+    "time": 249,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Xbox One",
+    "emulated": false
+  },
+  {
+    "id": "z1jg7orz",
+    "game": "Gears 5",
+    "player": "Randomize",
+    "player_location": "us",
+    "time": 2899.043,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y6r24qpy",
+    "game": "Gears 5",
+    "player": "Zoexy",
+    "player_location": "fr",
+    "time": 191,
+    "category": "",
+    "region": null,
+    "platform": "Xbox One",
+    "emulated": false
+  },
+  {
+    "id": "y6r4gjjy",
+    "game": "Gears 5",
+    "player": "Samsen",
+    "player_location": "ch",
+    "time": 5176,
+    "category": "Hivebusters",
+    "region": "EUR / PAL",
+    "platform": "Xbox One",
+    "emulated": false
+  },
+  {
+    "id": "y4epndnm",
+    "game": "Gears 5",
+    "player": "DeathKontrol",
+    "player_location": "us",
+    "time": 12122,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "ylo9e6ky",
+    "game": "Gears 5",
+    "player": "Kazadure",
+    "player_location": "gb/sct",
+    "time": 95,
+    "category": "",
+    "region": null,
+    "platform": "Xbox One",
+    "emulated": false
+  },
+  {
+    "id": "m7w7wpwz",
+    "game": "Gears 5",
+    "player": "RezurrectJohn",
+    "player_location": "us",
+    "time": 81.833,
+    "category": "Escape",
+    "region": "USA / NTSC",
+    "platform": "Xbox Series X",
+    "emulated": false
+  },
+  {
+    "id": "yl1qx3nm",
+    "game": "Gears 5",
+    "player": "NOSPACESFORME",
+    "player_location": null,
+    "time": 4662.62,
+    "category": "Hivebusters",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "z1x8pq9m",
+    "game": "Gears 5",
+    "player": "Boothu",
+    "player_location": "gb/sct",
+    "time": 5984,
+    "category": "Hivebusters",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y20xnl9m",
+    "game": "Gears 5",
+    "player": "WookiesLA420",
+    "player_location": "us",
+    "time": 81.733,
+    "category": "Escape",
+    "region": "USA / NTSC",
+    "platform": "Xbox One",
+    "emulated": false
+  },
+  {
+    "id": "me33w23z",
+    "game": "Gears 5",
+    "player": "Azeoak",
+    "player_location": "fr",
+    "time": 80.617,
+    "category": "Escape",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "y2pg8qjz",
+    "game": "Gears 5",
+    "player": "McThumbs",
+    "player_location": "us",
+    "time": 80.5,
+    "category": "Escape",
+    "region": "USA / NTSC",
+    "platform": "Xbox Series X",
+    "emulated": false
+  }
+]

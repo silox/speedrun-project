@@ -1,0 +1,112 @@
+[
+  {
+    "id": "2ywqwl2y",
+    "game": "Puzzle Star Sweep",
+    "player": "SG_Yusuke",
+    "player_location": "gb/eng",
+    "time": 635,
+    "category": "One Player Mode",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "7ylq592z",
+    "game": "Puzzle Star Sweep",
+    "player": "NoobKillerRoof",
+    "player_location": "gb",
+    "time": 458,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "8m72470z",
+    "game": "Puzzle Star Sweep",
+    "player": "NinjasInCarpets",
+    "player_location": "gb/wls",
+    "time": 442,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "zgnxeddy",
+    "game": "Puzzle Star Sweep",
+    "player": "rafa2PT",
+    "player_location": "pt",
+    "time": 325,
+    "category": "Story Mode (PAL)",
+    "region": "EUR / PAL",
+    "platform": "Arcade",
+    "emulated": true
+  },
+  {
+    "id": "ydqnlvqm",
+    "game": "Puzzle Star Sweep",
+    "player": "death_unites_us",
+    "player_location": "us",
+    "time": 298,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "mr850g2y",
+    "game": "Puzzle Star Sweep",
+    "player": "petfriendamy",
+    "player_location": "us",
+    "time": 4,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "yvj62l8y",
+    "game": "Puzzle Star Sweep",
+    "player": "Spiit",
+    "player_location": "fr",
+    "time": 6,
+    "category": "Attack Mode",
+    "region": "EUR / PAL",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "mr80qp8y",
+    "game": "Puzzle Star Sweep",
+    "player": "Endermity",
+    "player_location": "fr",
+    "time": 4,
+    "category": "Attack Mode",
+    "region": "EUR / PAL",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "zq3nkdry",
+    "game": "Puzzle Star Sweep",
+    "player": "Archina",
+    "player_location": "gb/eng",
+    "time": 470,
+    "category": "One Player Mode",
+    "region": "JPN / NTSC",
+    "platform": "Arcade",
+    "emulated": false
+  },
+  {
+    "id": "mej9643y",
+    "game": "Puzzle Star Sweep",
+    "player": "Zircean",
+    "player_location": "us",
+    "time": 280,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  }
+]

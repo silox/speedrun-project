@@ -1,0 +1,68 @@
+[
+  {
+    "id": "ydqg91qm",
+    "game": "",
+    "player": "Celestial_pizza",
+    "player_location": "at",
+    "time": 732,
+    "category": "Easy",
+    "region": "JPN / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "mk9p0klz",
+    "game": "",
+    "player": "Peanutfan22",
+    "player_location": "us",
+    "time": 705,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "zn347q8y",
+    "game": "",
+    "player": "MegaRetroMan",
+    "player_location": "us",
+    "time": 689,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "y8vjpvnz",
+    "game": "Power Instinct",
+    "player": "FelipeNascimento83",
+    "player_location": "br",
+    "time": 707,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "m3ro806m",
+    "game": "Power Instinct",
+    "player": "NintenLew",
+    "player_location": "gb/eng",
+    "time": 918,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "mkd80jxy",
+    "game": "Power Instinct",
+    "player": "NerdyNester",
+    "player_location": "us",
+    "time": 687,
+    "category": "Easy",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  }
+]

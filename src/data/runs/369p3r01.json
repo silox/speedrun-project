@@ -1,0 +1,46 @@
+[
+  {
+    "id": "y6lwlw0y",
+    "game": "Tokyo Mirage Sessions #FE Encore",
+    "player": "legrandgrand",
+    "player_location": "fr",
+    "time": 26241,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "y938v4ny",
+    "game": "Tokyo Mirage Sessions #FE Encore",
+    "player": "HeroMystic",
+    "player_location": "us",
+    "time": 43239,
+    "category": "Lunatic, New Game (Best Ending)",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "znkxqe9z",
+    "game": "Tokyo Mirage Sessions #FE Encore",
+    "player": "asapaska",
+    "player_location": "lt",
+    "time": 33255,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "yw61gknm",
+    "game": "Tokyo Mirage Sessions #FE Encore",
+    "player": "Syo_speedrunner",
+    "player_location": "jp",
+    "time": 30149,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  }
+]

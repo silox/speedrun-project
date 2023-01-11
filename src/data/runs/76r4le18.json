@@ -1,0 +1,123 @@
+[
+  {
+    "id": "pzgn81ey",
+    "game": "Joe and Mac 2: Lost in the Tropics",
+    "player": "phwoom",
+    "player_location": null,
+    "time": 1216,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "dy47j3ky",
+    "game": "Joe and Mac 2: Lost in the Tropics",
+    "player": "Deln",
+    "player_location": "ca/qc",
+    "time": 1412,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "7z02ekjm",
+    "game": "Joe and Mac 2: Lost in the Tropics",
+    "player": "Queleias",
+    "player_location": "cl",
+    "time": 1478,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "y2qpn47y",
+    "game": "Joe and Mac 2: Lost in the Tropics",
+    "player": "dram55",
+    "player_location": "us",
+    "time": 1296,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "zqg0vd1m",
+    "game": "Joe and Mac 2: Lost in the Tropics",
+    "player": "DougRedfield87",
+    "player_location": "us",
+    "time": 1744,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "z0rw34jz",
+    "game": "Joe and Mac 2: Lost in the Tropics",
+    "player": "inkV19",
+    "player_location": "us",
+    "time": 1558,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "y8dj1lnz",
+    "game": "Joe and Mac 2: Lost in the Tropics",
+    "player": "gheb",
+    "player_location": null,
+    "time": 2054,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "y69wp01y",
+    "game": "Joe and Mac 2: Lost in the Tropics",
+    "player": "Mannix86",
+    "player_location": "ca",
+    "time": 1347,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": false
+  },
+  {
+    "id": "mk5nn45m",
+    "game": "Joe and Mac 2: Lost in the Tropics",
+    "player": "LunaValkyr",
+    "player_location": "br",
+    "time": 1304,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "zp2qd0vy",
+    "game": "Joe and Mac 2: Lost in the Tropics",
+    "player": "kasayev",
+    "player_location": "br",
+    "time": 1594,
+    "category": "Any%",
+    "region": null,
+    "platform": "Super Nintendo",
+    "emulated": true
+  },
+  {
+    "id": "yvqg0qxm",
+    "game": "Joe and Mac 2: Lost in the Tropics",
+    "player": "HiroMunii",
+    "player_location": "br",
+    "time": 1286,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Super Nintendo",
+    "emulated": true
+  }
+]

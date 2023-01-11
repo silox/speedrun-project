@@ -1,0 +1,68 @@
+[
+  {
+    "id": "y2q97r7y",
+    "game": "Goat Life",
+    "player": "SirMetalizer",
+    "player_location": "de",
+    "time": 307,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yd38dpxz",
+    "game": "Goat Life",
+    "player": "FoxTheOne_",
+    "player_location": "de",
+    "time": 267,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "znrw4lly",
+    "game": "Goat Life",
+    "player": "SzeJuan",
+    "player_location": "de",
+    "time": 237,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "yjl4q73z",
+    "game": "Goat Life",
+    "player": "Pokemonster929",
+    "player_location": null,
+    "time": 266,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zqgodj9m",
+    "game": "Goat Life",
+    "player": "PixemBix",
+    "player_location": "fi",
+    "time": 205.76,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "znpopk9m",
+    "game": "Goat Life",
+    "player": "GoldEnGoat",
+    "player_location": "ro",
+    "time": 201.45,
+    "category": "Any%",
+    "region": null,
+    "platform": "PC",
+    "emulated": false
+  }
+]

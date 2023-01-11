@@ -1,0 +1,46 @@
+[
+  {
+    "id": "y95q0vvz",
+    "game": "Guardian Heroes",
+    "player": "chronoon",
+    "player_location": "us",
+    "time": 2012,
+    "category": "Golden Silver Path",
+    "region": "USA / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": true
+  },
+  {
+    "id": "y2do147z",
+    "game": "Guardian Heroes",
+    "player": "WillWagnerMusic",
+    "player_location": "us",
+    "time": 1463,
+    "category": "Golden Silver Path",
+    "region": "USA / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": true
+  },
+  {
+    "id": "zpr188gm",
+    "game": "Guardian Heroes",
+    "player": "DerHirte",
+    "player_location": "at",
+    "time": 1220,
+    "category": "Sky Spirit Path",
+    "region": "USA / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": true
+  },
+  {
+    "id": "z1rjvd7m",
+    "game": "Guardian Heroes",
+    "player": "Arcotoko",
+    "player_location": "ca/qc",
+    "time": 1907,
+    "category": "Sky Spirit Path",
+    "region": "USA / NTSC",
+    "platform": "Sega Saturn",
+    "emulated": true
+  }
+]

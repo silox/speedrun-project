@@ -1,0 +1,90 @@
+[
+  {
+    "id": "y23w8wjm",
+    "game": "RC Helicopter",
+    "player": "CaneofPacci",
+    "player_location": "us",
+    "time": 12,
+    "category": "Stage Clear",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zq6q35ry",
+    "game": "RC Helicopter",
+    "player": "Etchedchampion",
+    "player_location": "us",
+    "time": 11,
+    "category": "Stage Clear",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "yo4woljm",
+    "game": "RC Helicopter",
+    "player": "AlucardX60",
+    "player_location": "us",
+    "time": 998,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "ywpk1e3z",
+    "game": "RC Helicopter",
+    "player": "Dr4gonBlitz",
+    "player_location": "us",
+    "time": 1421,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zqwgdg8z",
+    "game": "RC Helicopter",
+    "player": "Tallon",
+    "player_location": "us",
+    "time": 1005,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "zxggw4gy",
+    "game": "RC Helicopter",
+    "player": "dunewacky",
+    "player_location": "us",
+    "time": 986,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "z0r2o84z",
+    "game": "RC Helicopter",
+    "player": "shipgazer",
+    "player_location": "us",
+    "time": 821,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "PlayStation 2",
+    "emulated": false
+  },
+  {
+    "id": "yl119qnm",
+    "game": "RC Helicopter",
+    "player": "RastrumQuill",
+    "player_location": "us",
+    "time": 6,
+    "category": "Stage Clear",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "id": "8yvp846y",
+    "game": "Gungage",
+    "player": "Jorf",
+    "player_location": "ca",
+    "time": 1003,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": false
+  },
+  {
+    "id": "oy2lj97m",
+    "game": "Gungage",
+    "player": "Dugongue",
+    "player_location": "us",
+    "time": 3086,
+    "category": "Kard Berdysh",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "y8q1go1y",
+    "game": "Gungage",
+    "player": "kirlimfaul",
+    "player_location": "ru",
+    "time": 1494,
+    "category": "",
+    "region": "USA / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "yj4kkxdy",
+    "game": "Gungage",
+    "player": "Wallyzorde",
+    "player_location": "br",
+    "time": 1279,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "z13e207m",
+    "game": "Gungage",
+    "player": "Lastpall",
+    "player_location": "se",
+    "time": 1070,
+    "category": "Kard Berdysh",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "zg73vwvz",
+    "game": "Gungage",
+    "player": "Onizudo",
+    "player_location": "br",
+    "time": 1277,
+    "category": "Wakle Skade",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "mk2619xm",
+    "game": "Gungage",
+    "player": "Vital-King",
+    "player_location": "ua",
+    "time": 936,
+    "category": "",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "mrrx2q7m",
+    "game": "Gungage",
+    "player": "LeChaino",
+    "player_location": "cl",
+    "time": 1079,
+    "category": "Wakle Skade",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  },
+  {
+    "id": "zx8lklem",
+    "game": "Gungage",
+    "player": "Symm",
+    "player_location": "gb",
+    "time": 1087,
+    "category": "Wakle Skade",
+    "region": "JPN / NTSC",
+    "platform": "PlayStation",
+    "emulated": true
+  }
+]

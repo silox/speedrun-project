@@ -1,0 +1,57 @@
+[
+  {
+    "id": "y69xxg0y",
+    "game": "Urban Street Fighting",
+    "player": "NintenLew",
+    "player_location": "gb/eng",
+    "time": 49,
+    "category": "Player Vs CPU",
+    "region": "EUR / PAL",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "zxl4xdez",
+    "game": "Urban Street Fighting",
+    "player": "DWednesday",
+    "player_location": "gb",
+    "time": 27,
+    "category": "Player Vs CPU",
+    "region": "EUR / PAL",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zp2l9jvy",
+    "game": "Urban Street Fighting",
+    "player": "Dcf_Z",
+    "player_location": "jp",
+    "time": 28,
+    "category": "Player Vs CPU",
+    "region": null,
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "zq03d55y",
+    "game": "Urban Street Fighting",
+    "player": "JKinMEAUX",
+    "player_location": "jp",
+    "time": 28,
+    "category": "Player Vs CPU",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  },
+  {
+    "id": "zpd106vz",
+    "game": "Urban Street Fighting",
+    "player": "AlexRobin",
+    "player_location": "jp",
+    "time": 28,
+    "category": "Player Vs CPU",
+    "region": "JPN / NTSC",
+    "platform": "PC",
+    "emulated": false
+  }
+]

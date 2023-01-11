@@ -1,0 +1,35 @@
+[
+  {
+    "id": "mk2o03xm",
+    "game": "",
+    "player": "Solid",
+    "player_location": "de",
+    "time": 12253,
+    "category": "Any%",
+    "region": "EUR / PAL",
+    "platform": "Nintendo 3DS",
+    "emulated": true
+  },
+  {
+    "id": "z5jo1x5m",
+    "game": "",
+    "player": "evreninhizi",
+    "player_location": "gb/eng",
+    "time": 7352,
+    "category": "",
+    "region": "EUR / PAL",
+    "platform": "Switch",
+    "emulated": false
+  },
+  {
+    "id": "y658g11z",
+    "game": "Layton's Mystery Journey: Katrielle and the Millionaires' Conspiracy",
+    "player": "tutelarfiber7",
+    "player_location": "us",
+    "time": 9817,
+    "category": "Any%",
+    "region": "USA / NTSC",
+    "platform": "Switch",
+    "emulated": false
+  }
+]
