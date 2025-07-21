@@ -17,8 +17,11 @@ Runs without system region specified and games without runs were also excluded.
 
 ### Generated results
 
-TODO results and graphs
+![most_runs](./figures/games_with_most_runs_by_region.png)
+![most_runs_other_region](./figures/games_with_most_runs_by_player_region.png)
+![runs_per_game](./figures/runs_per_game.png)
 
+- More correlation data can be found in `Statistics.pdf` file.
 
 ## Setup
 

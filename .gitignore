@@ -6,5 +6,4 @@
 __pycache__/
 
 data/
-figures/
 game_data.json
